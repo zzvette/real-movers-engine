@@ -4,8 +4,19 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 
-# ---------- Helpers ----------
+# ---------------------------------------------------------
+# CONFIG
+# ---------------------------------------------------------
+MIN_PRICE = 3.0
+MIN_VOLUME = 1_000_000
+MIN_AVG_VOLUME = 500_000
+MAX_FLOAT = 300_000_000  # avoid thin floats
+PUMP_KEYWORDS = ["discord", "alert", "pump", "room", "signal"]
 
+
+# ---------------------------------------------------------
+# HELPERS
+# ---------------------------------------------------------
 def fetch_yahoo_trending():
     url = "https://finance.yahoo.com/trending-tickers"
     resp = requests.get(url, timeout=10)
@@ -18,8 +29,6 @@ def fetch_yahoo_trending():
 
 
 def fetch_finviz_table(view_code):
-    # view_code examples:
-    # 111 = performance, 152 = top gainers, 111 most active, etc.
     url = f"https://finviz.com/screener.ashx?v={view_code}&t="
     headers = {"User-Agent": "Mozilla/5.0"}
     resp = requests.get(url, headers=headers, timeout=10)
@@ -28,7 +37,6 @@ def fetch_finviz_table(view_code):
     if not tables:
         return []
 
-    # Finviz main screener table is usually the last one
     df_list = pd.read_html(str(tables[-1]))
     if not df_list:
         return []
@@ -41,97 +49,122 @@ def fetch_finviz_table(view_code):
     return df.to_dict(orient="records")
 
 
+def safe_float(val):
+    try:
+        return float(str(val).replace(",", "").replace("%", ""))
+    except:
+        return None
+
+
+# ---------------------------------------------------------
+# FILTERS
+# ---------------------------------------------------------
+def passes_filters(entry):
+    price = safe_float(entry.get("Price"))
+    volume = safe_float(entry.get("Volume"))
+    avg_vol = safe_float(entry.get("Avg Vol (3 month)"))
+    float_shares = safe_float(entry.get("Float"))
+
+    if price is not None and price < MIN_PRICE:
+        return False
+
+    if volume is not None and volume < MIN_VOLUME:
+        return False
+
+    if avg_vol is not None and avg_vol < MIN_AVG_VOLUME:
+        return False
+
+    if float_shares is not None and float_shares < MAX_FLOAT:
+        pass  # good
+    else:
+        return False
+
+    return True
+
+
+# ---------------------------------------------------------
+# SCORING
+# ---------------------------------------------------------
 def score_ticker(entry):
-    # Very simple scoring for now; we can refine later
     score = 0
 
-    # Yahoo fields
-    change_pct = entry.get("Change %") or entry.get("Perf Week") or ""
-    vol = entry.get("Volume") or entry.get("Vol") or ""
-    avg_vol = entry.get("Avg Vol (3 month)") or entry.get("Avg Volume") or ""
+    price = safe_float(entry.get("Price"))
+    volume = safe_float(entry.get("Volume"))
+    change_pct = safe_float(entry.get("Change %"))
 
-    # Rough volume score
-    try:
-        vol_val = float(str(vol).replace(",", "").replace("%", ""))
-        if vol_val > 1_000_000:
+    # Price score
+    if price:
+        if price > 10:
+            score += 10
+        if price > 20:
+            score += 10
+
+    # Volume score
+    if volume:
+        if volume > 2_000_000:
+            score += 15
+        if volume > 5_000_000:
             score += 20
-        if vol_val > 5_000_000:
-            score += 30
-    except Exception:
-        pass
 
-    # Placeholder volatility/catalyst scoring
-    score += 10  # base score for being in a trending list
+    # Momentum score
+    if change_pct:
+        if change_pct > 3:
+            score += 10
+        if change_pct > 7:
+            score += 15
 
     return min(score, 100)
 
 
-# ---------- Main engine ----------
-
+# ---------------------------------------------------------
+# MAIN ENGINE
+# ---------------------------------------------------------
 def build_real_movers():
     yahoo = fetch_yahoo_trending()
-    finviz_gainers = fetch_finviz_table(152)   # top gainers
-    finviz_active = fetch_finviz_table(111)    # most active
+    finviz_gainers = fetch_finviz_table(152)
+    finviz_active = fetch_finviz_table(111)
 
     all_entries = {}
 
-    # Yahoo
-    for row in yahoo:
-        sym = row.get("symbol")
-        if not sym:
-            continue
-        if sym not in all_entries:
-            all_entries[sym] = {"symbol": sym, "sources": set(), "raw": []}
-        all_entries[sym]["sources"].add("yahoo_trending")
-        all_entries[sym]["raw"].append(row)
-
-    # Finviz gainers
-    for row in finviz_gainers:
-        sym = row.get("symbol")
-        if not sym:
-            continue
-        if sym not in all_entries:
-            all_entries[sym] = {"symbol": sym, "sources": set(), "raw": []}
-        all_entries[sym]["sources"].add("finviz_gainers")
-        all_entries[sym]["raw"].append(row)
-
-    # Finviz most active
-    for row in finviz_active:
-        sym = row.get("symbol")
-        if not sym:
-            continue
-        if sym not in all_entries:
-            all_entries[sym] = {"symbol": sym, "sources": set(), "raw": []}
-        all_entries[sym]["sources"].add("finviz_active")
-        all_entries[sym]["raw"].append(row)
+    # Merge sources
+    for source_name, source_data in [
+        ("yahoo_trending", yahoo),
+        ("finviz_gainers", finviz_gainers),
+        ("finviz_active", finviz_active),
+    ]:
+        for row in source_data:
+            sym = row.get("symbol")
+            if not sym:
+                continue
+            if sym not in all_entries:
+                all_entries[sym] = {"symbol": sym, "sources": set(), "raw": []}
+            all_entries[sym]["sources"].add(source_name)
+            all_entries[sym]["raw"].append(row)
 
     # Build final list
     movers = []
     for sym, info in all_entries.items():
+        first = info["raw"][0]
+
+        # Apply filters
+        if not passes_filters(first):
+            continue
+
         entry = {
             "symbol": sym,
             "sources": list(info["sources"]),
-            "score": 0,
+            "score": score_ticker(first),
             "meta": {},
         }
 
-        # Simple scoring: more sources = higher base score
-        base = 10 * len(info["sources"])
-        entry["score"] = base
-
-        # Try to add some meta fields from first raw record
-        if info["raw"]:
-            first = info["raw"][0]
-            for k in ["Price", "Change", "Change %", "Volume", "Avg Vol (3 month)"]:
-                if k in first:
-                    entry["meta"][k] = first[k]
+        for k in ["Price", "Change", "Change %", "Volume", "Avg Vol (3 month)", "Float"]:
+            if k in first:
+                entry["meta"][k] = first[k]
 
         movers.append(entry)
 
-    # Sort by score descending
     movers.sort(key=lambda x: x["score"], reverse=True)
 
-    # Save JSON
     payload = {
         "generated_at": datetime.utcnow().isoformat() + "Z",
         "count": len(movers),
