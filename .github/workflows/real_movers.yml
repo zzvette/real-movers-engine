@@ -30,9 +30,6 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: python real_movers_engine.py
 
-      - name: Pull latest changes
-        run: git pull origin main --rebase
-
       - name: Commit JSON
         run: |
              git config user.name "Real Movers Engine Bot"
