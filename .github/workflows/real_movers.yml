@@ -1,11 +1,9 @@
-name: Run Real Movers Engine
-working-directory: ${{ github.workspace }}
-run: python real_movers_engine.py
+name: Real Movers Engine
 
 on:
   schedule:
-    # Runs every day at ~6:00 AM MT (13:00 UTC)
-    - cron: "0 13 * * *"
+    # Runs every day at 6:00 AM MT (13:00 UTC)
+    - cron: '0 13 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,10 +25,11 @@ jobs:
           pip install requests pandas beautifulsoup4 lxml
 
       - name: Run Real Movers Engine
-        run: |
-          python real_movers_engine.py
+        working-directory: ${{ github.workspace }}
+        run: python real_movers_engine.py
 
       - name: Commit and push JSON
+        working-directory: ${{ github.workspace }}
         run: |
           git config user.name "Real Movers Engine Bot"
           git config user.email "bot@users.noreply.github.com"
