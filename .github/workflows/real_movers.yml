@@ -40,9 +40,6 @@ jobs:
              git add real_movers.json
              git commit -m "Update real movers list" || echo "No changes to commit"
 
-      - name: Pull latest changes
-        run: git pull origin main --rebase
-
       - name: Push JSON
-        run: git push
+        run: git push origin main --force
 
