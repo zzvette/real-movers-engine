@@ -1,4 +1,6 @@
-name: Real Movers Engine
+name: Run Real Movers Engine
+working-directory: ${{ github.workspace }}
+run: python real_movers_engine.py
 
 on:
   schedule:
