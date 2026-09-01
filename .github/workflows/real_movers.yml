@@ -1,8 +1,11 @@
 name: Real Movers Engine
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours (example)
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -28,10 +31,10 @@ jobs:
 
     - name: Commit JSON
       run: |
-        git config user.name "Real Movers Engine Bot"
-        git config user.email "actions@github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git add real_movers.json
         git commit -m "update real movers list" || echo "No changes to commit"
 
     - name: Push JSON
-      run: git push origin main --force
+      run: git push origin main
