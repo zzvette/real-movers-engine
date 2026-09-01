@@ -1,67 +1,70 @@
-import requests
 import json
 import time
 from datetime import datetime
+import requests
+import yfinance as yf
 
 # ---------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------
-SOURCES = [
-    {
-        "name": "Yahoo",
-        "url": "https://query1.finance.yahoo.com/v7/finance/quote?symbols={symbol}"
-    },
-    {
-        "name": "Finviz",
-        "url": "https://finviz.com/api/quote.ashx?t={symbol}"
-    }
-]
-
-SYMBOLS = [
-    "AAPL", "TSLA", "NVDA", "AMD", "META", "AMZN", "MSFT", "NFLX",
-    "PLTR", "SMCI", "COIN", "UBER", "SHOP", "SQ", "ROKU", "BABA",
-    "NIO", "RIVN", "CVNA", "AI"
-]
-
+NASDAQ_URL = "https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=5000"
 OUTPUT_FILE = "real_movers.json"
 
+# Minimum requirements for low-cap movers
+MIN_PRICE = 1.00
+MAX_PRICE = 15.00
+MIN_VOLUME = 300_000
+MAX_MARKET_CAP = 2_000_000_000  # 2B
+
 # ---------------------------------------------------------
-# HELPERS
+# FETCH NASDAQ UNIVERSE
 # ---------------------------------------------------------
-def fetch_yahoo(symbol):
+def fetch_nasdaq_universe():
+    headers = {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json"
+    }
+
     try:
-        url = SOURCES[0]["url"].format(symbol=symbol)
-        r = requests.get(url, timeout=10)
+        r = requests.get(NASDAQ_URL, headers=headers, timeout=15)
         data = r.json()
 
-        quote = data["quoteResponse"]["result"][0]
+        rows = data["data"]["table"]["rows"]
+        tickers = []
 
-        return {
-            "Price": quote.get("regularMarketPrice", 0),
-            "Change": quote.get("regularMarketChange", 0),
-            "Change %": quote.get("regularMarketChangePercent", 0),
-            "Volume": quote.get("regularMarketVolume", 0)
-        }
+        for row in rows:
+            symbol = row.get("symbol", "").strip()
+            name = row.get("name", "").strip()
+            market_cap = row.get("marketCap", "0").replace(",", "")
+
+            # Skip ETFs, warrants, preferred shares
+            if any(x in name.upper() for x in ["ETF", "ETN", "FUND", "PREFERRED", "WARRANT"]):
+                continue
+
+            # Skip OTC
+            if row.get("exchange", "").upper() == "OTC":
+                continue
+
+            # Market cap filter
+            try:
+                mc = float(market_cap)
+                if mc > MAX_MARKET_CAP:
+                    continue
+            except:
+                continue
+
+            tickers.append(symbol)
+
+        print(f"DEBUG: NASDAQ universe size after filtering: {len(tickers)}")
+        return tickers
+
     except Exception as e:
-        print(f"DEBUG: Yahoo fetch failed for {symbol}: {e}")
-        return None
+        print(f"DEBUG: Failed to fetch NASDAQ universe: {e}")
+        return []
 
-def fetch_finviz(symbol):
-    try:
-        url = SOURCES[1]["url"].format(symbol=symbol)
-        r = requests.get(url, timeout=10)
-        data = r.json()
-
-        return {
-            "Price": float(data.get("price", 0)),
-            "Change": float(data.get("change", 0)),
-            "Change %": float(data.get("change_pct", 0)),
-            "Volume": float(data.get("volume", 0))
-        }
-    except Exception as e:
-        print(f"DEBUG: Finviz fetch failed for {symbol}: {e}")
-        return None
-
+# ---------------------------------------------------------
+# SCORING LOGIC
+# ---------------------------------------------------------
 def score_mover(meta):
     score = 0
 
@@ -74,9 +77,9 @@ def score_mover(meta):
         return 0
 
     # Price scoring
-    if price > 20:
+    if price > 5:
         score += 10
-    if price > 50:
+    if price > 10:
         score += 10
 
     # Momentum scoring
@@ -88,11 +91,11 @@ def score_mover(meta):
         score += 30
 
     # Volume scoring
-    if volume > 1_000_000:
+    if volume > 500_000:
         score += 10
-    if volume > 5_000_000:
+    if volume > 1_000_000:
         score += 15
-    if volume > 10_000_000:
+    if volume > 5_000_000:
         score += 20
 
     return score
@@ -101,34 +104,43 @@ def score_mover(meta):
 # MAIN ENGINE
 # ---------------------------------------------------------
 def run_engine():
+    print("DEBUG: Fetching NASDAQ universe...")
+    universe = fetch_nasdaq_universe()
+
+    print("DEBUG: Total tickers to scan:", len(universe))
+
     movers = []
 
-    print("DEBUG: Starting engine")
-    print("DEBUG: Symbols to scan:", SYMBOLS)
-
-    for symbol in SYMBOLS:
+    for symbol in universe:
         print(f"\nDEBUG: Processing {symbol}")
 
-        meta = {}
-        sources_used = []
-
-        yahoo = fetch_yahoo(symbol)
-        print(f"DEBUG: Yahoo data for {symbol}: {yahoo}")
-        if yahoo:
-            meta.update(yahoo)
-            sources_used.append("Yahoo")
-
-        finviz = fetch_finviz(symbol)
-        print(f"DEBUG: Finviz data for {symbol}: {finviz}")
-        if finviz:
-            meta.update(finviz)
-            sources_used.append("Finviz")
-
-        print(f"DEBUG: Combined meta for {symbol}: {meta}")
-
-        if not meta:
-            print(f"DEBUG: No data for {symbol}, skipping.")
+        try:
+            ticker = yf.Ticker(symbol)
+            info = ticker.info
+        except Exception as e:
+            print(f"DEBUG: yfinance failed for {symbol}: {e}")
             continue
+
+        price = info.get("currentPrice", 0)
+        volume = info.get("volume", 0)
+
+        # Basic filters
+        if price is None or price < MIN_PRICE or price > MAX_PRICE:
+            print(f"DEBUG: Price filter fail for {symbol}: {price}")
+            continue
+
+        if volume is None or volume < MIN_VOLUME:
+            print(f"DEBUG: Volume filter fail for {symbol}: {volume}")
+            continue
+
+        meta = {
+            "Price": price,
+            "Change": info.get("regularMarketChange", 0),
+            "Change %": info.get("regularMarketChangePercent", 0),
+            "Volume": volume
+        }
+
+        print(f"DEBUG: Meta for {symbol}: {meta}")
 
         score = score_mover(meta)
         print(f"DEBUG: Score for {symbol}: {score}")
@@ -137,20 +149,24 @@ def run_engine():
             "symbol": symbol,
             "meta": meta,
             "score": score,
-            "sources": sources_used,
+            "sources": ["NASDAQ", "yfinance"],
             "timestamp": datetime.utcnow().isoformat()
         })
 
-        time.sleep(1)
+        time.sleep(0.5)
 
-    print("\nDEBUG: Raw movers list:", movers)
+    print("\nDEBUG: Raw movers count:", len(movers))
 
+    # Sort by score
     movers_sorted = sorted(movers, key=lambda x: x["score"], reverse=True)
-    print("DEBUG: Sorted movers:", movers_sorted)
+
+    # Top 10 only
+    top10 = movers_sorted[:10]
+    print("DEBUG: Top 10 movers:", top10)
 
     output = {
         "generated": datetime.utcnow().isoformat(),
-        "movers": movers_sorted
+        "movers": top10
     }
 
     with open(OUTPUT_FILE, "w") as f:
