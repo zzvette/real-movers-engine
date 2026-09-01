@@ -42,7 +42,8 @@ def fetch_yahoo(symbol):
             "Change %": quote.get("regularMarketChangePercent", 0),
             "Volume": quote.get("regularMarketVolume", 0)
         }
-    except:
+    except Exception as e:
+        print(f"DEBUG: Yahoo fetch failed for {symbol}: {e}")
         return None
 
 def fetch_finviz(symbol):
@@ -57,7 +58,8 @@ def fetch_finviz(symbol):
             "Change %": float(data.get("change_pct", 0)),
             "Volume": float(data.get("volume", 0))
         }
-    except:
+    except Exception as e:
+        print(f"DEBUG: Finviz fetch failed for {symbol}: {e}")
         return None
 
 def score_mover(meta):
@@ -67,7 +69,8 @@ def score_mover(meta):
         price = float(meta.get("Price", 0))
         change_pct = float(meta.get("Change %", 0))
         volume = float(meta.get("Volume", 0))
-    except:
+    except Exception as e:
+        print(f"DEBUG: Score calc failed: {e}")
         return 0
 
     # Price scoring
@@ -100,24 +103,35 @@ def score_mover(meta):
 def run_engine():
     movers = []
 
+    print("DEBUG: Starting engine")
+    print("DEBUG: Symbols to scan:", SYMBOLS)
+
     for symbol in SYMBOLS:
+        print(f"\nDEBUG: Processing {symbol}")
+
         meta = {}
         sources_used = []
 
         yahoo = fetch_yahoo(symbol)
+        print(f"DEBUG: Yahoo data for {symbol}: {yahoo}")
         if yahoo:
             meta.update(yahoo)
             sources_used.append("Yahoo")
 
         finviz = fetch_finviz(symbol)
+        print(f"DEBUG: Finviz data for {symbol}: {finviz}")
         if finviz:
             meta.update(finviz)
             sources_used.append("Finviz")
 
+        print(f"DEBUG: Combined meta for {symbol}: {meta}")
+
         if not meta:
+            print(f"DEBUG: No data for {symbol}, skipping.")
             continue
 
         score = score_mover(meta)
+        print(f"DEBUG: Score for {symbol}: {score}")
 
         movers.append({
             "symbol": symbol,
@@ -129,7 +143,10 @@ def run_engine():
 
         time.sleep(1)
 
+    print("\nDEBUG: Raw movers list:", movers)
+
     movers_sorted = sorted(movers, key=lambda x: x["score"], reverse=True)
+    print("DEBUG: Sorted movers:", movers_sorted)
 
     output = {
         "generated": datetime.utcnow().isoformat(),
@@ -140,6 +157,7 @@ def run_engine():
         json.dump(output, f, indent=4)
 
     print("Real Movers JSON generated successfully.")
+    print("DEBUG: Output written to real_movers.json")
 
 # ---------------------------------------------------------
 # ENTRY POINT
