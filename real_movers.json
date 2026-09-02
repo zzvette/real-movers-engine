@@ -1,155 +1,155 @@
 {
-    "generated": "2026-09-02T18:17:42.674695",
+    "generated": "2026-09-02T20:22:57.187438",
     "movers": [
         {
-            "symbol": "SGLD",
+            "symbol": "FMC",
             "meta": {
-                "Price": 11.66,
-                "Change": 6.5699997,
-                "Change %": 129.07661,
-                "Volume": 5626339
+                "Price": 13.34,
+                "Change": 1.46,
+                "Change %": 12.289563,
+                "Volume": 5639756
             },
             "score": 130,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T18:14:56.292615"
+            "timestamp": "2026-09-02T20:05:59.592383"
         },
         {
-            "symbol": "JLHL",
+            "symbol": "UAMY",
             "meta": {
-                "Price": 6.62,
-                "Change": 1.0,
-                "Change %": 17.793594,
-                "Volume": 11417210
+                "Price": 5.3,
+                "Change": 0.62000036,
+                "Change %": 13.27624,
+                "Volume": 9046488
             },
             "score": 120,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T18:15:40.319225"
+            "timestamp": "2026-09-02T20:10:06.624604"
         },
         {
-            "symbol": "FMC",
+            "symbol": "OABI",
             "meta": {
-                "Price": 13.11,
-                "Change": 1.2299995,
-                "Change %": 10.353532,
-                "Volume": 2998972
+                "Price": 5.04,
+                "Change": 0.5999999,
+                "Change %": 13.513512,
+                "Volume": 5041038
             },
-            "score": 110,
+            "score": 120,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T18:06:45.146389"
+            "timestamp": "2026-09-02T20:10:31.167945"
+        },
+        {
+            "symbol": "JLHL",
+            "meta": {
+                "Price": 6.33,
+                "Change": 0.71000004,
+                "Change %": 12.633453,
+                "Volume": 11661642
+            },
+            "score": 120,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-02T20:18:42.141030"
+        },
+        {
+            "symbol": "SGLD",
+            "meta": {
+                "Price": 7.23,
+                "Change": 2.1399999,
+                "Change %": 42.043217,
+                "Volume": 8952892
+            },
+            "score": 120,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-02T20:19:00.925821"
         },
         {
             "symbol": "EOSE",
             "meta": {
-                "Price": 3.595,
-                "Change": 0.55500007,
-                "Change %": 18.256582,
-                "Volume": 57376797
+                "Price": 3.61,
+                "Change": 0.56999993,
+                "Change %": 18.749998,
+                "Volume": 73053018
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T18:07:32.248754"
+            "timestamp": "2026-09-02T20:07:08.152215"
+        },
+        {
+            "symbol": "OPK",
+            "meta": {
+                "Price": 1.69,
+                "Change": 0.17000008,
+                "Change %": 11.184216,
+                "Volume": 7123212
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-02T20:07:19.500802"
+        },
+        {
+            "symbol": "CCOI",
+            "meta": {
+                "Price": 10.22,
+                "Change": 1.21,
+                "Change %": 13.4295225,
+                "Volume": 2511559
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-02T20:12:39.275721"
         },
         {
             "symbol": "GPRO",
             "meta": {
-                "Price": 1.585,
-                "Change": 0.35099995,
-                "Change %": 28.444078,
-                "Volume": 132287481
+                "Price": 1.69,
+                "Change": 0.46000004,
+                "Change %": 37.398376,
+                "Volume": 235015926
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T18:14:01.733580"
+            "timestamp": "2026-09-02T20:15:19.319015"
         },
         {
             "symbol": "DH",
             "meta": {
-                "Price": 1.05,
-                "Change": 0.14769995,
-                "Change %": 16.369272,
-                "Volume": 7855635
+                "Price": 1.04,
+                "Change": 0.13769996,
+                "Change %": 15.260996,
+                "Volume": 8700424
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T18:15:30.614039"
-        },
-        {
-            "symbol": "VIOT",
-            "meta": {
-                "Price": 1.57,
-                "Change": 0.6007001,
-                "Change %": 62.61859,
-                "Volume": 44194562
-            },
-            "score": 110,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-02T18:16:25.823914"
-        },
-        {
-            "symbol": "ALMS",
-            "meta": {
-                "Price": 10.39,
-                "Change": 0.9200001,
-                "Change %": 9.71489,
-                "Volume": 7169932
-            },
-            "score": 100,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-02T18:07:26.967871"
-        },
-        {
-            "symbol": "PSNYW",
-            "meta": {
-                "Price": 5.6607,
-                "Change": 0.53069973,
-                "Change %": 10.345024,
-                "Volume": 1187488
-            },
-            "score": 100,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-02T18:08:54.745235"
-        },
-        {
-            "symbol": "AHCO",
-            "meta": {
-                "Price": 6.08,
-                "Change": 0.5699997,
-                "Change %": 10.344822,
-                "Volume": 1846223
-            },
-            "score": 100,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-02T18:09:36.492809"
+            "timestamp": "2026-09-02T20:18:17.714852"
         }
     ]
 }
