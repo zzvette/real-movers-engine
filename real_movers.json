@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-02T02:20:47.335273",
+    "generated": "2026-09-02T04:17:42.194674",
     "movers": [
         {
             "symbol": "GPRO",
@@ -14,7 +14,22 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:18:41.434659"
+            "timestamp": "2026-09-02T04:14:17.094742"
+        },
+        {
+            "symbol": "LIDR",
+            "meta": {
+                "Price": 1.47,
+                "Change": 0.32,
+                "Change %": 27.8261,
+                "Volume": 128577425
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-02T04:17:06.580422"
         },
         {
             "symbol": "NVAX",
@@ -29,7 +44,22 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:11:22.881987"
+            "timestamp": "2026-09-02T04:05:51.884422"
+        },
+        {
+            "symbol": "PXS",
+            "meta": {
+                "Price": 6.23,
+                "Change": 0.87,
+                "Change %": 16.2313,
+                "Volume": 1078008
+            },
+            "score": 100,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-02T04:17:18.111758"
         },
         {
             "symbol": "MOVE",
@@ -44,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:17:12.078810"
+            "timestamp": "2026-09-02T04:12:33.735847"
         },
         {
             "symbol": "VIR",
@@ -59,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:10:50.712052"
+            "timestamp": "2026-09-02T04:05:13.523437"
         },
         {
             "symbol": "SGRY",
@@ -74,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:10:55.396687"
+            "timestamp": "2026-09-02T04:05:19.188806"
         },
         {
             "symbol": "AGRO",
@@ -89,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:11:14.387760"
+            "timestamp": "2026-09-02T04:05:41.996805"
         },
         {
             "symbol": "SID",
@@ -104,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:11:40.996556"
+            "timestamp": "2026-09-02T04:06:13.816777"
         },
         {
             "symbol": "CLYM",
@@ -119,37 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-02T02:13:47.235467"
-        },
-        {
-            "symbol": "CTMX",
-            "meta": {
-                "Price": 3.67,
-                "Change": 0.31,
-                "Change %": 9.2262,
-                "Volume": 8818655
-            },
-            "score": 80,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-02T02:14:04.865780"
-        },
-        {
-            "symbol": "SLN",
-            "meta": {
-                "Price": 14.74,
-                "Change": 1.21,
-                "Change %": 8.94309,
-                "Volume": 1134357
-            },
-            "score": 80,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-02T02:14:44.919724"
+            "timestamp": "2026-09-02T04:08:39.864885"
         }
     ]
 }
