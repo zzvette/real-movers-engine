@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-03T06:21:28.361340",
+    "generated": "2026-09-03T08:21:32.501845",
     "movers": [
         {
             "symbol": "FMC",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:08:39.306551"
+            "timestamp": "2026-09-03T08:06:08.161176"
         },
         {
             "symbol": "UAMY",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:11:57.551020"
+            "timestamp": "2026-09-03T08:09:59.661052"
         },
         {
             "symbol": "OABI",
@@ -44,7 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:12:22.236852"
+            "timestamp": "2026-09-03T08:10:28.017449"
         },
         {
             "symbol": "JLHL",
@@ -59,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:18:55.596448"
+            "timestamp": "2026-09-03T08:17:51.261337"
         },
         {
             "symbol": "SGLD",
@@ -74,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:19:07.876894"
+            "timestamp": "2026-09-03T08:18:05.872855"
         },
         {
             "symbol": "EOSE",
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:09:32.460443"
+            "timestamp": "2026-09-03T08:07:11.858771"
         },
         {
             "symbol": "OPK",
@@ -104,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:09:43.576193"
+            "timestamp": "2026-09-03T08:07:24.802880"
         },
         {
             "symbol": "WNC",
@@ -119,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:13:30.611111"
+            "timestamp": "2026-09-03T08:11:47.045806"
         },
         {
             "symbol": "CCOI",
@@ -134,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:13:59.798346"
+            "timestamp": "2026-09-03T08:12:20.370855"
         },
         {
             "symbol": "GPRO",
@@ -149,7 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-03T06:16:10.749661"
+            "timestamp": "2026-09-03T08:14:50.759876"
         }
     ]
 }
