@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-04T10:21:18.461936",
+    "generated": "2026-09-04T12:18:29.143057",
     "movers": [
         {
             "symbol": "SBET",
@@ -14,37 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:05:23.348530"
-        },
-        {
-            "symbol": "USDE",
-            "meta": {
-                "Price": 8.765,
-                "Change": 1.265,
-                "Change %": 16.8667,
-                "Volume": 6754913
-            },
-            "score": 120,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-04T10:15:51.270230"
-        },
-        {
-            "symbol": "DPRO",
-            "meta": {
-                "Price": 6.43,
-                "Change": 0.74,
-                "Change %": 13.0053,
-                "Volume": 6269841
-            },
-            "score": 120,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-04T10:15:52.902548"
+            "timestamp": "2026-09-04T12:06:15.716353"
         },
         {
             "symbol": "CHPT",
@@ -59,7 +29,37 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:15:55.163302"
+            "timestamp": "2026-09-04T12:14:59.936958"
+        },
+        {
+            "symbol": "USDE",
+            "meta": {
+                "Price": 8.765,
+                "Change": 1.265,
+                "Change %": 16.8667,
+                "Volume": 6754913
+            },
+            "score": 120,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-04T12:15:07.036208"
+        },
+        {
+            "symbol": "DPRO",
+            "meta": {
+                "Price": 6.43,
+                "Change": 0.74,
+                "Change %": 13.0053,
+                "Volume": 6269841
+            },
+            "score": 120,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-04T12:15:08.481077"
         },
         {
             "symbol": "APPS",
@@ -74,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:07:16.036251"
+            "timestamp": "2026-09-04T12:07:48.979386"
         },
         {
             "symbol": "HIVE",
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:09:39.041649"
+            "timestamp": "2026-09-04T12:09:50.344857"
         },
         {
             "symbol": "BTBT",
@@ -104,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:11:43.420329"
+            "timestamp": "2026-09-04T12:11:37.510970"
         },
         {
             "symbol": "EVGO",
@@ -119,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:12:52.345246"
+            "timestamp": "2026-09-04T12:12:35.225014"
         },
         {
             "symbol": "SLNH",
@@ -134,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:14:59.308292"
+            "timestamp": "2026-09-04T12:14:23.092277"
         },
         {
             "symbol": "CYPH",
@@ -149,7 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T10:15:45.290227"
+            "timestamp": "2026-09-04T12:15:01.885808"
         }
     ]
 }
