@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-04T04:17:51.223654",
+    "generated": "2026-09-04T06:18:59.214955",
     "movers": [
         {
             "symbol": "SBET",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:05:00.936516"
+            "timestamp": "2026-09-04T06:06:18.147508"
         },
         {
             "symbol": "USDE",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:14:15.723499"
+            "timestamp": "2026-09-04T06:15:23.665500"
         },
         {
             "symbol": "DPRO",
@@ -44,7 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:14:17.284311"
+            "timestamp": "2026-09-04T06:15:25.188536"
         },
         {
             "symbol": "CHPT",
@@ -59,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:14:19.255564"
+            "timestamp": "2026-09-04T06:15:27.300062"
         },
         {
             "symbol": "APPS",
@@ -74,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:06:38.141044"
+            "timestamp": "2026-09-04T06:07:54.700346"
         },
         {
             "symbol": "HIVE",
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:08:45.134113"
+            "timestamp": "2026-09-04T06:09:59.501418"
         },
         {
             "symbol": "BTBT",
@@ -104,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:10:34.563075"
+            "timestamp": "2026-09-04T06:11:49.083817"
         },
         {
             "symbol": "EVGO",
@@ -119,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:11:34.093349"
+            "timestamp": "2026-09-04T06:12:49.198977"
         },
         {
             "symbol": "SLNH",
@@ -134,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:13:29.945523"
+            "timestamp": "2026-09-04T06:14:39.258852"
         },
         {
             "symbol": "CYPH",
@@ -149,7 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T04:14:10.201318"
+            "timestamp": "2026-09-04T06:15:18.555129"
         }
     ]
 }
