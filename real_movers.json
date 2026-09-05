@@ -1,12 +1,12 @@
 {
-    "generated": "2026-09-04T22:17:34.623492",
+    "generated": "2026-09-05T00:20:02.815513",
     "movers": [
         {
             "symbol": "EOSE",
             "meta": {
                 "Price": 3.88,
-                "Change": 0.3800001,
-                "Change %": 10.857146,
+                "Change": 0.38,
+                "Change %": 10.8571,
                 "Volume": 23564352
             },
             "score": 110,
@@ -14,14 +14,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:05:58.640560"
+            "timestamp": "2026-09-05T00:08:51.983211"
         },
         {
             "symbol": "GPRO",
             "meta": {
                 "Price": 1.7,
-                "Change": 0.31000006,
-                "Change %": 22.302162,
+                "Change": 0.31,
+                "Change %": 22.3022,
                 "Volume": 280396022
             },
             "score": 110,
@@ -29,14 +29,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:12:45.624842"
+            "timestamp": "2026-09-05T00:15:32.302936"
         },
         {
             "symbol": "AOUT",
             "meta": {
                 "Price": 14.48,
-                "Change": 4.4699993,
-                "Change %": 44.65534,
+                "Change": 4.47,
+                "Change %": 44.6553,
                 "Volume": 4372433
             },
             "score": 110,
@@ -44,14 +44,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:14:37.294746"
+            "timestamp": "2026-09-05T00:17:23.986122"
         },
         {
             "symbol": "EPRX",
             "meta": {
                 "Price": 8.4,
-                "Change": 0.8999996,
-                "Change %": 11.999995,
+                "Change": 0.9,
+                "Change %": 12.0,
                 "Volume": 3519849
             },
             "score": 100,
@@ -59,14 +59,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:10:25.733344"
+            "timestamp": "2026-09-05T00:13:15.252258"
         },
         {
             "symbol": "BBCP",
             "meta": {
                 "Price": 10.5,
-                "Change": 1.4499998,
-                "Change %": 16.022097,
+                "Change": 1.45,
+                "Change %": 16.0221,
                 "Volume": 869231
             },
             "score": 95,
@@ -74,14 +74,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:10:37.039748"
+            "timestamp": "2026-09-05T00:13:26.371354"
         },
         {
             "symbol": "POET",
             "meta": {
                 "Price": 7.92,
-                "Change": 0.59000015,
-                "Change %": 8.049115,
+                "Change": 0.59,
+                "Change %": 8.04912,
                 "Volume": 10975684
             },
             "score": 90,
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:06:09.301826"
+            "timestamp": "2026-09-05T00:09:01.969405"
         },
         {
             "symbol": "CHPT",
@@ -104,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:13:22.882772"
+            "timestamp": "2026-09-05T00:16:09.572004"
         },
         {
             "symbol": "LVWR",
@@ -119,14 +119,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:13:26.058209"
+            "timestamp": "2026-09-05T00:16:12.716936"
         },
         {
             "symbol": "VRXA",
             "meta": {
                 "Price": 1.76,
-                "Change": 0.23000002,
-                "Change %": 15.032681,
+                "Change": 0.23,
+                "Change %": 15.0327,
                 "Volume": 3556024
             },
             "score": 90,
@@ -134,14 +134,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:13:35.931770"
+            "timestamp": "2026-09-05T00:16:21.953688"
         },
         {
             "symbol": "AIRS",
             "meta": {
                 "Price": 2.795,
-                "Change": 0.2550001,
-                "Change %": 10.039375,
+                "Change": 0.255,
+                "Change %": 10.0394,
                 "Volume": 1589883
             },
             "score": 90,
@@ -149,7 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-04T22:14:21.610879"
+            "timestamp": "2026-09-05T00:17:08.418910"
         }
     ]
 }
