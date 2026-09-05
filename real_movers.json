@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-05T00:20:02.815513",
+    "generated": "2026-09-05T02:21:04.194709",
     "movers": [
         {
             "symbol": "EOSE",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:08:51.983211"
+            "timestamp": "2026-09-05T02:06:33.612216"
         },
         {
             "symbol": "GPRO",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:15:32.302936"
+            "timestamp": "2026-09-05T02:14:22.565074"
         },
         {
             "symbol": "AOUT",
@@ -44,7 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:17:23.986122"
+            "timestamp": "2026-09-05T02:16:36.118296"
         },
         {
             "symbol": "EPRX",
@@ -59,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:13:15.252258"
+            "timestamp": "2026-09-05T02:11:42.828132"
         },
         {
             "symbol": "BBCP",
@@ -74,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:13:26.371354"
+            "timestamp": "2026-09-05T02:11:55.448416"
         },
         {
             "symbol": "POET",
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:09:01.969405"
+            "timestamp": "2026-09-05T02:06:45.649540"
         },
         {
             "symbol": "CHPT",
@@ -104,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:16:09.572004"
+            "timestamp": "2026-09-05T02:15:07.847607"
         },
         {
             "symbol": "LVWR",
@@ -119,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:16:12.716936"
+            "timestamp": "2026-09-05T02:15:11.739271"
         },
         {
             "symbol": "VRXA",
@@ -134,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:16:21.953688"
+            "timestamp": "2026-09-05T02:15:22.622721"
         },
         {
             "symbol": "AIRS",
@@ -149,7 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-05T00:17:08.418910"
+            "timestamp": "2026-09-05T02:16:15.839456"
         }
     ]
 }
