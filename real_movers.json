@@ -1,12 +1,12 @@
 {
-    "generated": "2026-09-07T22:21:21.924600",
+    "generated": "2026-09-08T00:20:39.091673",
     "movers": [
         {
             "symbol": "EOSE",
             "meta": {
                 "Price": 3.88,
-                "Change": 0.3800001,
-                "Change %": 10.857146,
+                "Change": 0.38,
+                "Change %": 10.8571,
                 "Volume": 23978855
             },
             "score": 110,
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:06:32.115336"
+            "timestamp": "2026-09-08T00:08:46.254394"
         },
         {
             "symbol": "GPRO",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:14:30.707208"
+            "timestamp": "2026-09-08T00:15:37.783665"
         },
         {
             "symbol": "AOUT",
@@ -44,22 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:16:47.487720"
-        },
-        {
-            "symbol": "NWGL",
-            "meta": {
-                "Price": 1.27,
-                "Change": 0.24000001,
-                "Change %": 23.300972,
-                "Volume": 5955977
-            },
-            "score": 110,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-07T22:20:41.144785"
+            "timestamp": "2026-09-08T00:17:37.831288"
         },
         {
             "symbol": "EPRX",
@@ -74,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:11:47.209765"
+            "timestamp": "2026-09-08T00:13:15.337314"
         },
         {
             "symbol": "BBCP",
@@ -89,14 +74,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:12:01.089748"
+            "timestamp": "2026-09-08T00:13:26.376421"
         },
         {
             "symbol": "POET",
             "meta": {
                 "Price": 7.92,
-                "Change": 0.59000015,
-                "Change %": 8.049115,
+                "Change": 0.59,
+                "Change %": 8.04912,
                 "Volume": 11087958
             },
             "score": 90,
@@ -104,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:06:44.468480"
+            "timestamp": "2026-09-08T00:08:56.580300"
         },
         {
             "symbol": "CHPT",
@@ -119,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:15:16.351801"
+            "timestamp": "2026-09-08T00:16:23.203721"
         },
         {
             "symbol": "LVWR",
@@ -134,14 +119,14 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:15:20.140147"
+            "timestamp": "2026-09-08T00:16:26.487155"
         },
         {
             "symbol": "VRXA",
             "meta": {
                 "Price": 1.76,
-                "Change": 0.23000002,
-                "Change %": 15.032681,
+                "Change": 0.23,
+                "Change %": 15.0327,
                 "Volume": 3582282
             },
             "score": 90,
@@ -149,7 +134,22 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-07T22:15:31.239431"
+            "timestamp": "2026-09-08T00:16:35.911921"
+        },
+        {
+            "symbol": "AIRS",
+            "meta": {
+                "Price": 2.795,
+                "Change": 0.2550001,
+                "Change %": 10.039375,
+                "Volume": 1593191
+            },
+            "score": 90,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T00:17:21.650837"
         }
     ]
 }
