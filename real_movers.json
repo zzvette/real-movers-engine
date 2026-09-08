@@ -1,155 +1,155 @@
 {
-    "generated": "2026-09-08T14:14:44.058203",
+    "generated": "2026-09-08T16:14:42.873508",
     "movers": [
         {
             "symbol": "TE",
             "meta": {
-                "Price": 5.075,
-                "Change": 0.4749999,
-                "Change %": 10.326085,
-                "Volume": 5770916
+                "Price": 5.278,
+                "Change": 0.678,
+                "Change %": 14.73913,
+                "Volume": 15565884
             },
             "score": 120,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-08T14:07:18.485554"
-        },
-        {
-            "symbol": "EOSE",
-            "meta": {
-                "Price": 4.518,
-                "Change": 0.638,
-                "Change %": 16.443298,
-                "Volume": 14952666
-            },
-            "score": 110,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-08T14:06:57.687470"
-        },
-        {
-            "symbol": "BNC",
-            "meta": {
-                "Price": 4.931,
-                "Change": 1.4410002,
-                "Change %": 41.289406,
-                "Volume": 44443905
-            },
-            "score": 110,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-08T14:13:49.022075"
+            "timestamp": "2026-09-08T16:06:27.020160"
         },
         {
             "symbol": "NUAI",
             "meta": {
-                "Price": 6.385,
-                "Change": 0.9750004,
-                "Change %": 18.022188,
-                "Volume": 4581008
+                "Price": 6.46,
+                "Change": 1.0500002,
+                "Change %": 19.408506,
+                "Volume": 8989824
+            },
+            "score": 120,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T16:08:58.244603"
+        },
+        {
+            "symbol": "BNC",
+            "meta": {
+                "Price": 5.2099,
+                "Change": 1.7198999,
+                "Change %": 49.420994,
+                "Volume": 57911776
+            },
+            "score": 120,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T16:12:07.992644"
+        },
+        {
+            "symbol": "WYHG",
+            "meta": {
+                "Price": 5.18,
+                "Change": 1.1199999,
+                "Change %": 27.586203,
+                "Volume": 17824825
+            },
+            "score": 120,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T16:13:48.290805"
+        },
+        {
+            "symbol": "IE",
+            "meta": {
+                "Price": 11.195,
+                "Change": 1.2049999,
+                "Change %": 12.062061,
+                "Volume": 1133427
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T16:05:57.777355"
+        },
+        {
+            "symbol": "EOSE",
+            "meta": {
+                "Price": 4.455,
+                "Change": 0.5749998,
+                "Change %": 14.819582,
+                "Volume": 29035663
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T16:06:17.426592"
+        },
+        {
+            "symbol": "ORBS",
+            "meta": {
+                "Price": 1.1105,
+                "Change": 0.2069,
+                "Change %": 22.8973,
+                "Volume": 14099655
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T16:10:00.381895"
+        },
+        {
+            "symbol": "NUR",
+            "meta": {
+                "Price": 4.19,
+                "Change": 2.4193997,
+                "Change %": 137.41904,
+                "Volume": 31504958
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-08T16:14:08.401279"
+        },
+        {
+            "symbol": "SATL",
+            "meta": {
+                "Price": 5.235,
+                "Change": 0.59500027,
+                "Change %": 12.823282,
+                "Volume": 2941199
             },
             "score": 100,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-08T14:10:22.884805"
+            "timestamp": "2026-09-08T16:08:24.064864"
         },
         {
-            "symbol": "NRGV",
+            "symbol": "QUBT",
             "meta": {
-                "Price": 4.255,
-                "Change": 0.4150002,
-                "Change %": 10.807297,
-                "Volume": 1237351
+                "Price": 8.595,
+                "Change": 0.58500004,
+                "Change %": 7.303371,
+                "Volume": 5252244
             },
             "score": 90,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-08T14:09:58.478828"
-        },
-        {
-            "symbol": "FLNC",
-            "meta": {
-                "Price": 10.91,
-                "Change": 0.55999947,
-                "Change %": 5.4106226,
-                "Volume": 1621551
-            },
-            "score": 80,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-08T14:06:07.070067"
-        },
-        {
-            "symbol": "CMPS",
-            "meta": {
-                "Price": 14.23,
-                "Change": 0.9599991,
-                "Change %": 7.234356,
-                "Volume": 1001616
-            },
-            "score": 80,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-08T14:06:12.022276"
-        },
-        {
-            "symbol": "INDP",
-            "meta": {
-                "Price": 1.5401,
-                "Change": 0.32009995,
-                "Change %": 26.2377,
-                "Volume": 990164
-            },
-            "score": 75,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-08T14:13:59.738786"
-        },
-        {
-            "symbol": "EAF",
-            "meta": {
-                "Price": 7.12,
-                "Change": 0.9200001,
-                "Change %": 14.838712,
-                "Volume": 365331
-            },
-            "score": 75,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-08T14:14:01.647311"
-        },
-        {
-            "symbol": "QUBT",
-            "meta": {
-                "Price": 8.515,
-                "Change": 0.5050001,
-                "Change %": 6.3046203,
-                "Volume": 3213950
-            },
-            "score": 70,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-08T14:06:14.905323"
+            "timestamp": "2026-09-08T16:05:43.806535"
         }
     ]
 }
