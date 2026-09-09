@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-09T00:25:38.529177",
+    "generated": "2026-09-09T02:15:02.371079",
     "movers": [
         {
             "symbol": "SATL",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:12:42.790595"
+            "timestamp": "2026-09-09T02:08:14.316060"
         },
         {
             "symbol": "NUAI",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:13:44.869296"
+            "timestamp": "2026-09-09T02:08:55.953603"
         },
         {
             "symbol": "BNC",
@@ -44,22 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:20:07.124771"
-        },
-        {
-            "symbol": "WYHG",
-            "meta": {
-                "Price": 5.88,
-                "Change": 1.82,
-                "Change %": 44.8276,
-                "Volume": 20474316
-            },
-            "score": 120,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-09T00:23:24.264743"
+            "timestamp": "2026-09-09T02:13:09.076296"
         },
         {
             "symbol": "IE",
@@ -74,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:08:31.545841"
+            "timestamp": "2026-09-09T02:05:34.010750"
         },
         {
             "symbol": "EOSE",
@@ -89,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:09:10.598781"
+            "timestamp": "2026-09-09T02:05:57.793908"
         },
         {
             "symbol": "NRGV",
@@ -104,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:13:00.486279"
+            "timestamp": "2026-09-09T02:08:26.048811"
         },
         {
             "symbol": "LPTH",
@@ -119,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:13:57.852358"
+            "timestamp": "2026-09-09T02:09:04.851642"
         },
         {
             "symbol": "ORBS",
@@ -134,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:15:48.555926"
+            "timestamp": "2026-09-09T02:10:18.041285"
         },
         {
             "symbol": "INDP",
@@ -149,7 +134,22 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-09T00:19:20.196344"
+            "timestamp": "2026-09-09T02:12:38.789419"
+        },
+        {
+            "symbol": "AMPX",
+            "meta": {
+                "Price": 10.39,
+                "Change": 0.5,
+                "Change %": 5.05561,
+                "Volume": 5651298
+            },
+            "score": 100,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-09T02:06:04.004157"
         }
     ]
 }
