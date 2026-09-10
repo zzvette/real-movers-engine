@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-10T00:25:20.880411",
+    "generated": "2026-09-10T02:22:46.227437",
     "movers": [
         {
             "symbol": "IRD",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:15:16.113422"
+            "timestamp": "2026-09-10T02:13:01.025179"
         },
         {
             "symbol": "HELP",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:11:47.026725"
+            "timestamp": "2026-09-10T02:09:34.324655"
         },
         {
             "symbol": "INDP",
@@ -44,7 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:18:18.324830"
+            "timestamp": "2026-09-10T02:15:57.229241"
         },
         {
             "symbol": "XHLD",
@@ -59,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:21:25.887159"
+            "timestamp": "2026-09-10T02:18:56.341240"
         },
         {
             "symbol": "SUNE",
@@ -74,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:25:03.277056"
+            "timestamp": "2026-09-10T02:22:26.576287"
         },
         {
             "symbol": "NAUT",
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:21:00.541634"
+            "timestamp": "2026-09-10T02:18:33.149320"
         },
         {
             "symbol": "ACCL",
@@ -104,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:24:17.161031"
+            "timestamp": "2026-09-10T02:21:42.798453"
         },
         {
             "symbol": "SID",
@@ -119,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:07:38.504330"
+            "timestamp": "2026-09-10T02:05:34.505918"
         },
         {
             "symbol": "LAC",
@@ -134,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:10:00.088112"
+            "timestamp": "2026-09-10T02:07:52.098894"
         },
         {
             "symbol": "TENX",
@@ -149,7 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T00:22:46.806031"
+            "timestamp": "2026-09-10T02:20:14.956462"
         }
     ]
 }
