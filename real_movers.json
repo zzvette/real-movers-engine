@@ -1,155 +1,155 @@
 {
-    "generated": "2026-09-10T18:22:38.624693",
+    "generated": "2026-09-10T20:20:00.613953",
     "movers": [
+        {
+            "symbol": "WLTH",
+            "meta": {
+                "Price": 10.88,
+                "Change": 1.4200001,
+                "Change %": 15.0105715,
+                "Volume": 7229972
+            },
+            "score": 130,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-10T20:05:45.707671"
+        },
         {
             "symbol": "PCLA",
             "meta": {
-                "Price": 9.645,
-                "Change": 2.2250004,
-                "Change %": 29.986526,
-                "Volume": 5920051
+                "Price": 9.72,
+                "Change": 2.3000002,
+                "Change %": 30.997307,
+                "Volume": 6132699
             },
             "score": 120,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:19:33.199524"
-        },
-        {
-            "symbol": "WLTH",
-            "meta": {
-                "Price": 10.93,
-                "Change": 1.46,
-                "Change %": 15.433404,
-                "Volume": 4584099
-            },
-            "score": 110,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-10T18:07:11.513734"
+            "timestamp": "2026-09-10T20:17:32.979221"
         },
         {
             "symbol": "VIOT",
             "meta": {
-                "Price": 1.365,
-                "Change": 0.28499997,
-                "Change %": 26.267277,
-                "Volume": 5389792
+                "Price": 1.36,
+                "Change": 0.27999997,
+                "Change %": 25.925922,
+                "Volume": 5709813
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:19:38.169359"
+            "timestamp": "2026-09-10T20:17:36.193089"
         },
         {
             "symbol": "AHMA",
             "meta": {
-                "Price": 1.7697,
-                "Change": 0.525,
-                "Change %": 42.338707,
-                "Volume": 24559525
+                "Price": 1.77,
+                "Change": 0.53,
+                "Change %": 42.741932,
+                "Volume": 26782269
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:21:13.303518"
+            "timestamp": "2026-09-10T20:18:57.425552"
         },
         {
             "symbol": "SKYQ",
             "meta": {
-                "Price": 3.325,
-                "Change": 0.655,
-                "Change %": 24.55851,
-                "Volume": 27073510
+                "Price": 3.19,
+                "Change": 0.52,
+                "Change %": 19.475655,
+                "Volume": 28343580
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:22:18.795622"
+            "timestamp": "2026-09-10T20:19:47.916507"
         },
         {
             "symbol": "DBI",
             "meta": {
-                "Price": 5.775,
-                "Change": 0.5550003,
-                "Change %": 10.63219,
-                "Volume": 1086402
+                "Price": 5.98,
+                "Change": 0.7600002,
+                "Change %": 14.559392,
+                "Volume": 1504318
             },
             "score": 100,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:15:53.681314"
+            "timestamp": "2026-09-10T20:14:00.621745"
+        },
+        {
+            "symbol": "IRD",
+            "meta": {
+                "Price": 6.07,
+                "Change": 0.34000015,
+                "Change %": 5.933685,
+                "Volume": 6442883
+            },
+            "score": 90,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-10T20:11:30.273218"
         },
         {
             "symbol": "INDP",
             "meta": {
-                "Price": 2.46,
-                "Change": 0.3900001,
-                "Change %": 18.750006,
-                "Volume": 2724533
+                "Price": 2.56,
+                "Change": 0.48000002,
+                "Change %": 23.076925,
+                "Volume": 3132866
             },
             "score": 90,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:15:30.369062"
+            "timestamp": "2026-09-10T20:13:25.393430"
         },
         {
             "symbol": "CMRC",
             "meta": {
-                "Price": 3.05,
-                "Change": 0.45000005,
-                "Change %": 17.307693,
-                "Volume": 3712871
+                "Price": 3.08,
+                "Change": 0.48000002,
+                "Change %": 18.46154,
+                "Volume": 4361400
             },
             "score": 90,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:16:35.582745"
+            "timestamp": "2026-09-10T20:14:35.790079"
         },
         {
-            "symbol": "NWGL",
+            "symbol": "BNC",
             "meta": {
-                "Price": 1.318,
-                "Change": 0.23799992,
-                "Change %": 22.608522,
-                "Volume": 1075114
+                "Price": 4.99,
+                "Change": 0.55999994,
+                "Change %": 12.641083,
+                "Volume": 3195265
             },
             "score": 90,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T18:21:52.858498"
-        },
-        {
-            "symbol": "PSIG",
-            "meta": {
-                "Price": 2.1401,
-                "Change": 0.35510004,
-                "Change %": 19.893559,
-                "Volume": 3411651
-            },
-            "score": 90,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-10T18:22:09.976032"
+            "timestamp": "2026-09-10T20:15:38.283900"
         }
     ]
 }
