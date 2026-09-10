@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-10T04:18:31.244636",
+    "generated": "2026-09-10T06:27:57.880316",
     "movers": [
         {
             "symbol": "IRD",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:11:28.796793"
+            "timestamp": "2026-09-10T06:16:12.898942"
         },
         {
             "symbol": "HELP",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:08:42.504694"
+            "timestamp": "2026-09-10T06:12:15.102935"
         },
         {
             "symbol": "INDP",
@@ -44,7 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:13:54.199305"
+            "timestamp": "2026-09-10T06:19:40.697563"
         },
         {
             "symbol": "XHLD",
@@ -59,7 +59,22 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:16:17.820697"
+            "timestamp": "2026-09-10T06:23:15.838867"
+        },
+        {
+            "symbol": "SUNE",
+            "meta": {
+                "Price": 4.51,
+                "Change": 2.14,
+                "Change %": 90.2954,
+                "Volume": 117747383
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-10T06:27:37.284955"
         },
         {
             "symbol": "NAUT",
@@ -74,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:15:59.657101"
+            "timestamp": "2026-09-10T06:22:47.139722"
         },
         {
             "symbol": "ACCL",
@@ -89,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:18:22.523429"
+            "timestamp": "2026-09-10T06:26:42.789336"
         },
         {
             "symbol": "SID",
@@ -104,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:05:27.688763"
+            "timestamp": "2026-09-10T06:07:31.783890"
         },
         {
             "symbol": "LAC",
@@ -119,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:07:17.303088"
+            "timestamp": "2026-09-10T06:10:14.833473"
         },
         {
             "symbol": "TENX",
@@ -134,22 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-10T04:17:17.791908"
-        },
-        {
-            "symbol": "SWVL",
-            "meta": {
-                "Price": 7.1,
-                "Change": 0.68,
-                "Change %": 10.5919,
-                "Volume": 329740
-            },
-            "score": 75,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-10T04:15:06.415121"
+            "timestamp": "2026-09-10T06:24:52.593501"
         }
     ]
 }
