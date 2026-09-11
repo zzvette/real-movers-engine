@@ -1,155 +1,155 @@
 {
-    "generated": "2026-09-11T18:17:33.209290",
+    "generated": "2026-09-11T20:19:38.623945",
     "movers": [
         {
             "symbol": "ACVA",
             "meta": {
-                "Price": 10.44,
-                "Change": 3.2199998,
-                "Change %": 44.598335,
-                "Volume": 93773040
+                "Price": 10.411,
+                "Change": 3.1910005,
+                "Change %": 44.196682,
+                "Volume": 113081981
             },
             "score": 130,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T18:05:40.485518"
+            "timestamp": "2026-09-11T20:05:28.388340"
         },
         {
-            "symbol": "AENT",
+            "symbol": "ATEC",
             "meta": {
-                "Price": 6.28,
-                "Change": 0.77,
-                "Change %": 13.974591,
-                "Volume": 7436633
+                "Price": 10.58,
+                "Change": 1.7399998,
+                "Change %": 19.683256,
+                "Volume": 6289681
+            },
+            "score": 130,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-11T20:05:59.612816"
+        },
+        {
+            "symbol": "BW",
+            "meta": {
+                "Price": 7.93,
+                "Change": 0.75999975,
+                "Change %": 10.599718,
+                "Volume": 5059084
             },
             "score": 120,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T18:13:04.790206"
+            "timestamp": "2026-09-11T20:07:23.617680"
         },
         {
-            "symbol": "ATEC",
+            "symbol": "AENT",
             "meta": {
-                "Price": 10.355,
-                "Change": 1.5149994,
-                "Change %": 17.138002,
-                "Volume": 3386985
+                "Price": 6.42,
+                "Change": 0.90999985,
+                "Change %": 16.515423,
+                "Volume": 7803254
             },
-            "score": 110,
+            "score": 120,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T18:06:16.814413"
+            "timestamp": "2026-09-11T20:13:24.863583"
         },
         {
             "symbol": "SWRD",
             "meta": {
-                "Price": 3.185,
-                "Change": 0.9549999,
-                "Change %": 42.825108,
-                "Volume": 25040870
+                "Price": 2.96,
+                "Change": 0.73,
+                "Change %": 32.735424,
+                "Volume": 26095072
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T18:10:13.904660"
+            "timestamp": "2026-09-11T20:10:34.873299"
         },
         {
-            "symbol": "SBET",
+            "symbol": "XHLD",
             "meta": {
-                "Price": 8.965,
-                "Change": 0.53499985,
-                "Change %": 6.3463798,
-                "Volume": 10020670
+                "Price": 12.53,
+                "Change": 1.6899996,
+                "Change %": 15.590403,
+                "Volume": 3761731
             },
-            "score": 90,
+            "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T18:05:12.202271"
-        },
-        {
-            "symbol": "POET",
-            "meta": {
-                "Price": 8.015,
-                "Change": 0.41500044,
-                "Change %": 5.460532,
-                "Volume": 5553493
-            },
-            "score": 90,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-11T18:06:47.767009"
-        },
-        {
-            "symbol": "RLMD",
-            "meta": {
-                "Price": 4.535,
-                "Change": 0.46499968,
-                "Change %": 11.425054,
-                "Volume": 1640233
-            },
-            "score": 90,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-11T18:11:31.425384"
-        },
-        {
-            "symbol": "CMRC",
-            "meta": {
-                "Price": 3.5414,
-                "Change": 0.46140003,
-                "Change %": 14.980521,
-                "Volume": 1655156
-            },
-            "score": 90,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-11T18:13:25.014519"
+            "timestamp": "2026-09-11T20:16:14.230250"
         },
         {
             "symbol": "VERI",
             "meta": {
-                "Price": 1.015,
-                "Change": 0.13479996,
-                "Change %": 15.314696,
-                "Volume": 3182639
+                "Price": 1.04,
+                "Change": 0.15979993,
+                "Change %": 18.154957,
+                "Volume": 5094172
             },
-            "score": 90,
+            "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T18:16:14.905355"
+            "timestamp": "2026-09-11T20:17:14.976553"
         },
         {
-            "symbol": "CAST",
+            "symbol": "CPRI",
             "meta": {
-                "Price": 1.47,
-                "Change": 0.17000008,
-                "Change %": 13.076929,
-                "Volume": 1936204
+                "Price": 13.89,
+                "Change": 1.0100002,
+                "Change %": 7.8416166,
+                "Volume": 5966997
+            },
+            "score": 100,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-11T20:06:03.683022"
+        },
+        {
+            "symbol": "MKDW",
+            "meta": {
+                "Price": 7.75,
+                "Change": 2.65,
+                "Change %": 51.960785,
+                "Volume": 1343467
+            },
+            "score": 100,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-11T20:14:35.853099"
+        },
+        {
+            "symbol": "SBET",
+            "meta": {
+                "Price": 8.88,
+                "Change": 0.4499998,
+                "Change %": 5.3380756,
+                "Volume": 13201112
             },
             "score": 90,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T18:17:04.954847"
+            "timestamp": "2026-09-11T20:05:02.430016"
         }
     ]
 }
