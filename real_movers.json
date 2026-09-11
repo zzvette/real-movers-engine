@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-11T06:18:36.017650",
+    "generated": "2026-09-11T08:20:41.720780",
     "movers": [
         {
             "symbol": "WLTH",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:06:57.144688"
+            "timestamp": "2026-09-11T08:06:12.592738"
         },
         {
             "symbol": "PCLA",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:17:27.980435"
+            "timestamp": "2026-09-11T08:18:10.165758"
         },
         {
             "symbol": "VIOT",
@@ -44,7 +44,37 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:17:30.028318"
+            "timestamp": "2026-09-11T08:18:12.659758"
+        },
+        {
+            "symbol": "AHMA",
+            "meta": {
+                "Price": 1.77,
+                "Change": 0.53,
+                "Change %": 42.7419,
+                "Volume": 26872354
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-11T08:19:29.973536"
+        },
+        {
+            "symbol": "SKYQ",
+            "meta": {
+                "Price": 3.19,
+                "Change": 0.52,
+                "Change %": 19.4757,
+                "Volume": 28478785
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-11T08:20:28.944996"
         },
         {
             "symbol": "DBI",
@@ -59,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:14:13.826260"
+            "timestamp": "2026-09-11T08:14:25.457810"
         },
         {
             "symbol": "IRD",
@@ -74,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:12:06.165885"
+            "timestamp": "2026-09-11T08:12:00.842444"
         },
         {
             "symbol": "INDP",
@@ -89,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:13:45.771616"
+            "timestamp": "2026-09-11T08:13:53.894437"
         },
         {
             "symbol": "CMRC",
@@ -104,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:14:51.666023"
+            "timestamp": "2026-09-11T08:15:08.278447"
         },
         {
             "symbol": "BNC",
@@ -119,37 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T06:15:43.553532"
-        },
-        {
-            "symbol": "AMTX",
-            "meta": {
-                "Price": 2.03,
-                "Change": 0.2,
-                "Change %": 10.929,
-                "Volume": 1380652
-            },
-            "score": 90,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-11T06:16:34.423776"
-        },
-        {
-            "symbol": "SUPX",
-            "meta": {
-                "Price": 8.17,
-                "Change": 1.06,
-                "Change %": 14.9086,
-                "Volume": 703773
-            },
-            "score": 85,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-11T06:13:33.763357"
+            "timestamp": "2026-09-11T08:16:06.534019"
         }
     ]
 }
