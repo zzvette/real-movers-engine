@@ -1,155 +1,155 @@
 {
-    "generated": "2026-09-11T12:22:59.372649",
+    "generated": "2026-09-11T14:16:54.368159",
     "movers": [
         {
-            "symbol": "WLTH",
+            "symbol": "ACVA",
             "meta": {
-                "Price": 10.88,
-                "Change": 1.42,
-                "Change %": 15.0106,
-                "Volume": 7252496
+                "Price": 10.43,
+                "Change": 3.2150006,
+                "Change %": 44.529095,
+                "Volume": 55548189
             },
             "score": 130,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:07:08.497355"
+            "timestamp": "2026-09-11T14:05:01.238903"
         },
         {
-            "symbol": "PCLA",
+            "symbol": "AENT",
             "meta": {
-                "Price": 9.72,
-                "Change": 2.3,
-                "Change %": 30.9973,
-                "Volume": 6158611
+                "Price": 7.0,
+                "Change": 1.4899998,
+                "Change %": 27.041735,
+                "Volume": 5908552
             },
             "score": 120,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:20:05.921475"
+            "timestamp": "2026-09-11T14:11:23.811452"
         },
         {
-            "symbol": "VIOT",
+            "symbol": "SWRD",
             "meta": {
-                "Price": 1.36,
-                "Change": 0.28,
-                "Change %": 25.9259,
-                "Volume": 5718402
+                "Price": 4.11,
+                "Change": 1.8800001,
+                "Change %": 84.6847,
+                "Volume": 12934656
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:20:08.510421"
+            "timestamp": "2026-09-11T14:08:33.108218"
         },
         {
-            "symbol": "AHMA",
+            "symbol": "CYPH",
             "meta": {
-                "Price": 1.77,
-                "Change": 0.53,
-                "Change %": 42.7419,
-                "Volume": 26872354
+                "Price": 2.46,
+                "Change": 0.26,
+                "Change %": 11.818182,
+                "Volume": 5102612
             },
             "score": 110,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:21:37.176407"
+            "timestamp": "2026-09-11T14:12:28.402973"
         },
         {
-            "symbol": "SKYQ",
+            "symbol": "SBET",
             "meta": {
-                "Price": 3.19,
-                "Change": 0.52,
-                "Change %": 19.4757,
-                "Volume": 28478785
-            },
-            "score": 110,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-11T12:22:43.678600"
-        },
-        {
-            "symbol": "DBI",
-            "meta": {
-                "Price": 5.99,
-                "Change": 0.77,
-                "Change %": 14.751,
-                "Volume": 1620321
+                "Price": 9.46,
+                "Change": 1.0299997,
+                "Change %": 12.218264,
+                "Volume": 2314984
             },
             "score": 100,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:16:00.921070"
+            "timestamp": "2026-09-11T14:04:48.288398"
         },
         {
-            "symbol": "IRD",
+            "symbol": "ORBS",
             "meta": {
-                "Price": 6.07,
-                "Change": 0.34,
-                "Change %": 5.93368,
-                "Volume": 6492283
+                "Price": 1.0807,
+                "Change": 0.14290005,
+                "Change %": 15.237796,
+                "Volume": 4888776
             },
             "score": 90,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:13:26.169251"
+            "timestamp": "2026-09-11T14:10:37.613752"
+        },
+        {
+            "symbol": "ATEC",
+            "meta": {
+                "Price": 9.99,
+                "Change": 1.1499996,
+                "Change %": 13.009046,
+                "Volume": 833855
+            },
+            "score": 85,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-11T14:05:44.733082"
+        },
+        {
+            "symbol": "BTBT",
+            "meta": {
+                "Price": 1.6662,
+                "Change": 0.1062001,
+                "Change %": 6.807699,
+                "Volume": 5089436
+            },
+            "score": 80,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-11T14:09:34.251482"
         },
         {
             "symbol": "INDP",
             "meta": {
-                "Price": 2.56,
-                "Change": 0.48,
-                "Change %": 23.0769,
-                "Volume": 3159590
+                "Price": 2.93,
+                "Change": 0.37000012,
+                "Change %": 14.45313,
+                "Volume": 703890
             },
-            "score": 90,
+            "score": 75,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:15:26.301579"
+            "timestamp": "2026-09-11T14:11:28.485624"
         },
         {
-            "symbol": "CMRC",
+            "symbol": "VIOT",
             "meta": {
-                "Price": 3.08,
-                "Change": 0.48,
-                "Change %": 18.4615,
-                "Volume": 4380891
+                "Price": 1.55,
+                "Change": 0.18999994,
+                "Change %": 13.970584,
+                "Volume": 992329
             },
-            "score": 90,
+            "score": 75,
             "sources": [
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-11T12:16:46.922458"
-        },
-        {
-            "symbol": "BNC",
-            "meta": {
-                "Price": 4.99,
-                "Change": 0.56,
-                "Change %": 12.6411,
-                "Volume": 3215123
-            },
-            "score": 90,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-11T12:17:49.932326"
+            "timestamp": "2026-09-11T14:14:44.556558"
         }
     ]
 }
