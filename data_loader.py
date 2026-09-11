@@ -3,7 +3,7 @@
 import requests
 from datetime import datetime
 
-GITHUB_URL = "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<REPO>/main/movers.json"
+GITHUB_URL = "https://raw.githubusercontent.com/zzvette/real-movers-engine/main/real_movers.json"
 
 def load_raw_data_for_month(year: int, month: int):
     """
