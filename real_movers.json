@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-12T08:16:59.489932",
+    "generated": "2026-09-12T10:20:53.683769",
     "movers": [
         {
             "symbol": "ACVA",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:05:18.839115"
+            "timestamp": "2026-09-12T10:05:20.425797"
         },
         {
             "symbol": "ATEC",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:05:45.205940"
+            "timestamp": "2026-09-12T10:05:51.722056"
         },
         {
             "symbol": "BW",
@@ -44,7 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:06:55.222101"
+            "timestamp": "2026-09-12T10:07:16.840817"
         },
         {
             "symbol": "AENT",
@@ -59,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:12:35.206399"
+            "timestamp": "2026-09-12T10:14:02.922781"
         },
         {
             "symbol": "SWRD",
@@ -74,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:09:53.888550"
+            "timestamp": "2026-09-12T10:10:50.220256"
         },
         {
             "symbol": "XHLD",
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:15:04.614982"
+            "timestamp": "2026-09-12T10:17:02.156744"
         },
         {
             "symbol": "VERI",
@@ -104,7 +104,22 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:15:52.530718"
+            "timestamp": "2026-09-12T10:18:00.780381"
+        },
+        {
+            "symbol": "FTFT",
+            "meta": {
+                "Price": 2.88,
+                "Change": 0.83,
+                "Change %": 40.4878,
+                "Volume": 52513853
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-12T10:20:43.307996"
         },
         {
             "symbol": "CPRI",
@@ -119,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:05:50.786244"
+            "timestamp": "2026-09-12T10:05:58.754836"
         },
         {
             "symbol": "MKDW",
@@ -134,22 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-12T08:13:23.233772"
-        },
-        {
-            "symbol": "SBET",
-            "meta": {
-                "Price": 8.88,
-                "Change": 0.45,
-                "Change %": 5.33808,
-                "Volume": 13336454
-            },
-            "score": 90,
-            "sources": [
-                "NASDAQ",
-                "yfinance"
-            ],
-            "timestamp": "2026-09-12T08:04:58.556752"
+            "timestamp": "2026-09-12T10:15:00.567252"
         }
     ]
 }
