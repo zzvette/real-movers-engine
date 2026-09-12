@@ -1,0 +1,43 @@
+name: Market Data Scraper
+
+on:
+  schedule:
+    # 7am EST → 12:00 UTC
+    - cron: "0 12 * * 1-5"
+    # 12pm EST → 17:00 UTC
+    - cron: "0 17 * * 1-5"
+    # 4pm EST → 21:00 UTC
+    - cron: "0 21 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: |
+          python github_scraper_runner.py
+
+      - name: Commit updated JSON files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add daily_screener.json
+          git add real_movers.json
+          git add catalyst_log.json
+          git commit -m "Automated scrape update"
+          git push
