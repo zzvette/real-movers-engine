@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-13T00:21:31.938237",
+    "generated": "2026-09-13T02:18:22.486065",
     "movers": [
         {
             "symbol": "ACVA",
@@ -14,7 +14,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:07:23.687165"
+            "timestamp": "2026-09-13T02:05:15.270478"
         },
         {
             "symbol": "ATEC",
@@ -29,7 +29,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:07:52.951589"
+            "timestamp": "2026-09-13T02:05:43.654270"
         },
         {
             "symbol": "BW",
@@ -44,7 +44,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:09:12.229883"
+            "timestamp": "2026-09-13T02:06:59.517382"
         },
         {
             "symbol": "AENT",
@@ -59,7 +59,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:15:37.755792"
+            "timestamp": "2026-09-13T02:13:03.719045"
         },
         {
             "symbol": "SWRD",
@@ -74,7 +74,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:12:40.189132"
+            "timestamp": "2026-09-13T02:10:12.161877"
         },
         {
             "symbol": "XHLD",
@@ -89,7 +89,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:18:22.983492"
+            "timestamp": "2026-09-13T02:15:43.062109"
         },
         {
             "symbol": "VERI",
@@ -104,7 +104,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:19:16.176156"
+            "timestamp": "2026-09-13T02:16:34.792014"
         },
         {
             "symbol": "CPRI",
@@ -119,7 +119,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:07:59.241024"
+            "timestamp": "2026-09-13T02:05:50.049962"
         },
         {
             "symbol": "MKDW",
@@ -134,7 +134,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:16:30.897575"
+            "timestamp": "2026-09-13T02:13:55.506074"
         },
         {
             "symbol": "SBET",
@@ -149,7 +149,7 @@
                 "NASDAQ",
                 "yfinance"
             ],
-            "timestamp": "2026-09-13T00:07:01.386123"
+            "timestamp": "2026-09-13T02:04:53.014167"
         }
     ]
 }
