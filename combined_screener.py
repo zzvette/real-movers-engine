@@ -1,54 +1,87 @@
 # combined_screener.py
 
-from top_gainers_scraper import fetch_top_gainers
-from top_52week_scraper import fetch_52week_gainers
-from news_scraper import scrape_all_news_sources
-from reversal_engine import score_signal
 import datetime
+from reversal_engine import score_signal
 
 
-def build_combined_screener():
+# ---------------------------------------------------------
+# SCORING WRAPPER FOR GAINERS
+# ---------------------------------------------------------
+def score_entry_for_symbol(entry, catalysts):
+    """
+    Apply your strict scoring engine to a gainers entry.
+    This keeps the scoring logic centralized and consistent.
+    """
+
+    return score_signal(
+        price=entry.get("price"),
+        change_pct=entry.get("change_pct"),
+        volume=entry.get("volume"),
+        catalysts=catalysts,
+        premarket=False
+    )
+
+
+# ---------------------------------------------------------
+# OPTIONAL: GROUP BY DAY FOR CALENDAR (placeholder)
+# ---------------------------------------------------------
+def group_by_day(signals):
+    """
+    Calendar expects:
+        { day_number: [raw_symbol_dict, ...] }
+
+    Your GitHub runner currently writes an empty calendar,
+    but this function is kept for future expansion.
+    """
+
     today = datetime.date.today()
     day_num = today.day
 
-    # Pull gainers
-    top_gainers = fetch_top_gainers(limit=5)
-    top_52week = fetch_52week_gainers(limit=5)
+    grouped = {day_num: []}
 
-    # Pull catalysts
-    news_items = scrape_all_news_sources()
+    for sig in signals:
+        grouped[day_num].append(sig)
 
-    catalyst_log = {"catalysts": {}}
+    return grouped
 
-    # Map catalysts to symbols
-    for item in news_items:
-        for sym in item["symbols"]:
-            catalyst_log["catalysts"].setdefault(sym, []).append({
-                "source": item["source"],
-                "headline": item["headline"]
-            })
+
+# ---------------------------------------------------------
+# BUILD COMBINED SCREENER (NOT USED DIRECTLY BY WORKFLOW)
+# ---------------------------------------------------------
+def build_combined_screener(
+    top_gainers,
+    top_52week,
+    catalyst_log
+):
+    """
+    This function is NOT used directly by your GitHub workflow anymore,
+    but it is kept for modularity and future expansion.
+
+    It merges:
+    - Top Gainers
+    - 52-Week Gainers
+    - Catalyst Log
+    - Scoring
+    """
 
     # Score gainers
-    def score_entry(entry):
-        sym = entry["symbol"]
-        catalysts = catalyst_log["catalysts"].get(sym, [])
-        return score_signal(
-            price=entry["price"],
-            change_pct=entry["change_pct"],
-            volume=entry["volume"],
-            catalysts=catalysts,
-            premarket=False
-        )
-
     for entry in top_gainers:
-        entry["score"] = score_entry(entry)
+        sym = entry["symbol"]
+        catalysts = catalyst_log.get(sym, [])
+        entry["score"] = score_entry_for_symbol(entry, catalysts)
 
+    # Score 52-week gainers
     for entry in top_52week:
-        entry["score"] = score_entry(entry)
+        sym = entry["symbol"]
+        catalysts = catalyst_log.get(sym, [])
+        entry["score"] = score_entry_for_symbol(entry, catalysts)
+
+    # Build calendar placeholder
+    raw_by_day = group_by_day(top_gainers + top_52week)
 
     return {
         "top_gainers": top_gainers,
         "top_52week": top_52week,
         "catalyst_log": catalyst_log,
-        "day": day_num
+        "raw_by_day": raw_by_day
     }
