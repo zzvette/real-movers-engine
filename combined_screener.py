@@ -1,91 +1,83 @@
 # combined_screener.py
 
 import datetime
-from typing import Tuple, Dict, Any, List
+from typing import Dict, Any, List
 
-from external_scraper import (
-    scrape_tradingview_premarket,
-    scrape_yahoo_premarket,
-)
+from news_scraper import scrape_all_news_sources
+from symbol_data_fetcher import fetch_symbol_data
 from reversal_engine import score_signal
 
 
-def build_combined_screener(
-    premarket: bool = True,
-) -> Tuple[
-    Dict[int, List[Dict[str, Any]]],  # raw_by_day
-    List[Dict[str, Any]],             # real_movers
-    Dict[str, Any]                    # catalyst_log
-]:
+def build_combined_screener() -> (
+    Dict[int, List[Dict[str, Any]]],   # raw_by_day
+    List[Dict[str, Any]],              # real_movers
+    Dict[str, Any]                     # catalyst_log
+):
     """
-    Build combined screener output.
-
-    premarket=True:
-        - Uses TradingView + Yahoo pre-market movers
-        - Relaxes volume/change filters
+    Catalyst-first screener:
+    1. Pull business news from all N4 sources
+    2. Extract tickers
+    3. Fetch live stock data
+    4. Score strictly
+    5. Output strong movers only
     """
 
     today = datetime.date.today()
     day_num = today.day
 
     # -----------------------------------------------------
-    # 1. Collect raw symbols from TradingView + Yahoo
+    # 1. Pull all catalyst news
     # -----------------------------------------------------
-    raw_symbols: List[Dict[str, Any]] = []
+    news_items = scrape_all_news_sources()
 
-    tv_pm = scrape_tradingview_premarket(limit=120)
-    raw_symbols.extend(tv_pm)
+    # Build catalyst log
+    catalyst_log = {"catalysts": {}}
 
-    yahoo_pm = scrape_yahoo_premarket(limit=60)
-    raw_symbols.extend(yahoo_pm)
+    # Extract unique symbols
+    symbols = set()
+    for item in news_items:
+        for sym in item["symbols"]:
+            symbols.add(sym)
 
-    # Deduplicate by symbol
-    seen = set()
-    unique_symbols: List[Dict[str, Any]] = []
-    for r in raw_symbols:
-        sym = r.get("symbol")
-        if not sym or sym in seen:
-            continue
-        seen.add(sym)
-        unique_symbols.append(r)
-
-    raw_symbols = unique_symbols
+            # Add to catalyst log
+            if sym not in catalyst_log["catalysts"]:
+                catalyst_log["catalysts"][sym] = []
+            catalyst_log["catalysts"][sym].append({
+                "source": item["source"],
+                "headline": item["headline"]
+            })
 
     # -----------------------------------------------------
-    # 2. Filter and score
+    # 2. Fetch stock data for each symbol
     # -----------------------------------------------------
+    raw_by_day = {day_num: []}
     real_movers: List[Dict[str, Any]] = []
-    raw_by_day: Dict[int, List[Dict[str, Any]]] = {day_num: []}
-    catalyst_log: Dict[str, Any] = {"catalysts": {}}
 
-    for r in raw_symbols:
-        symbol = r.get("symbol")
-        price = r.get("price")
-        change_pct = r.get("change_pct")
-        volume = r.get("volume", 0)
-        change = r.get("change", 0.0)
-
-        if not symbol or price is None or change_pct is None:
+    for sym in symbols:
+        data = fetch_symbol_data(sym)
+        if not data:
             continue
 
-        # Pre-market: allow small moves and low volume, but avoid total garbage
-        if premarket:
-            if abs(change_pct) < 0.3 and volume < 10_000:
-                continue
-        else:
-            if abs(change_pct) < 0.5:
-                continue
-            if volume < 50_000:
-                continue
+        price = data["price"]
+        change = data["change"]
+        change_pct = data["change_pct"]
+        volume = data["volume"]
 
-        catalysts: List[Dict[str, Any]] = []  # placeholder for future
+        # Strict mode: require meaningful movement
+        if abs(change_pct) < 0.5:
+            continue
+        if volume < 100_000:
+            continue
 
+        # -------------------------------------------------
+        # 3. Score strictly
+        # -------------------------------------------------
         score = score_signal(
             price=price,
             change_pct=change_pct,
             volume=volume,
-            catalysts=catalysts,
-            premarket=premarket,
+            catalysts=catalyst_log["catalysts"].get(sym, []),
+            premarket=False  # strict catalyst mode
         )
 
         if score <= 0:
@@ -98,19 +90,20 @@ def build_combined_screener(
         )
 
         entry = {
-            "symbol": symbol,
+            "symbol": sym,
             "price": price,
             "change": change,
             "change_pct": change_pct,
             "volume": volume,
             "score": score,
             "indicator_color": indicator_color,
-            "catalysts": catalysts,
+            "catalysts": catalyst_log["catalysts"].get(sym, [])
         }
 
         raw_by_day[day_num].append(entry)
         real_movers.append(entry)
 
+    # Sort by score
     real_movers.sort(key=lambda x: x["score"], reverse=True)
 
     return raw_by_day, real_movers, catalyst_log
