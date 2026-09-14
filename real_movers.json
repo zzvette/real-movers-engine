@@ -1,4 +1,155 @@
 {
-    "timestamp": "2026-09-14T15:28:04.633381",
-    "real_movers": []
+    "generated": "2026-09-14T16:14:15.665725",
+    "movers": [
+        {
+            "symbol": "RPD",
+            "meta": {
+                "Price": 12.3,
+                "Change": 1.9899998,
+                "Change %": 19.301645,
+                "Volume": 1235007
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:08:21.014231"
+        },
+        {
+            "symbol": "XHLD",
+            "meta": {
+                "Price": 14.54,
+                "Change": 2.0100002,
+                "Change %": 16.041504,
+                "Volume": 1943087
+            },
+            "score": 110,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:13:28.214850"
+        },
+        {
+            "symbol": "ARMP",
+            "meta": {
+                "Price": 5.9805,
+                "Change": 0.6005001,
+                "Change %": 11.161712,
+                "Volume": 3732559
+            },
+            "score": 100,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:12:31.050703"
+        },
+        {
+            "symbol": "CABA",
+            "meta": {
+                "Price": 3.0292,
+                "Change": 0.29920006,
+                "Change %": 10.992728,
+                "Volume": 3113531
+            },
+            "score": 90,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:10:12.614844"
+        },
+        {
+            "symbol": "QNC",
+            "meta": {
+                "Price": 2.025,
+                "Change": 0.32500005,
+                "Change %": 19.11765,
+                "Volume": 4001127
+            },
+            "score": 90,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:10:34.659283"
+        },
+        {
+            "symbol": "ALLT",
+            "meta": {
+                "Price": 8.49,
+                "Change": 0.9699998,
+                "Change %": 12.916109,
+                "Volume": 853602
+            },
+            "score": 85,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:10:47.039702"
+        },
+        {
+            "symbol": "DBI",
+            "meta": {
+                "Price": 6.57,
+                "Change": 0.69000006,
+                "Change %": 11.7346945,
+                "Volume": 574738
+            },
+            "score": 85,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:11:37.738944"
+        },
+        {
+            "symbol": "AI",
+            "meta": {
+                "Price": 11.16,
+                "Change": 0.6199999,
+                "Change %": 5.882352,
+                "Volume": 1985262
+            },
+            "score": 80,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:05:15.065300"
+        },
+        {
+            "symbol": "CXM",
+            "meta": {
+                "Price": 5.755,
+                "Change": 0.2750001,
+                "Change %": 5.01825,
+                "Volume": 1058058
+            },
+            "score": 70,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:06:23.460381"
+        },
+        {
+            "symbol": "BMM",
+            "meta": {
+                "Price": 5.92,
+                "Change": 0.4749999,
+                "Change %": 8.723598,
+                "Volume": 1778769
+            },
+            "score": 70,
+            "sources": [
+                "NASDAQ",
+                "yfinance"
+            ],
+            "timestamp": "2026-09-14T16:09:21.502028"
+        }
+    ]
 }
