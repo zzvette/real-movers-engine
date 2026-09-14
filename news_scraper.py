@@ -7,14 +7,47 @@ import re
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 # ---------------------------------------------------------
-# Utility: Extract tickers from headline text
+# Validate ticker using Yahoo Finance quote API
 # ---------------------------------------------------------
+def is_real_ticker(symbol: str) -> bool:
+    url = f"https://query1.finance.yahoo.com/v7/finance/quote?symbols={symbol}"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=5)
+        data = resp.json()
+        return len(data["quoteResponse"]["result"]) > 0
+    except Exception:
+        return False
+
+
+# ---------------------------------------------------------
+# Extract uppercase words and validate them as real tickers
+# ---------------------------------------------------------
+VALID_TICKER = re.compile(r"^[A-Z]{1,5}$")
+
+BLACKLIST = {
+    "CEO","EPS","FDA","SEC","Q1","Q2","Q3","Q4",
+    "THE","AND","FOR","NEW","BIG","TECH","USA","FED",
+    "OIL","WAR","NEWS","MARKET","STOCK","DATA","BANK",
+    "CHINA","TRUMP","BIDEN","NATO","RUSSIA","US","UK",
+    "EU","GDP","CPI","PPI","FOMC","JOBS","RATE","YEN",
+    "OPEC","ECB","BOJ","FED","SPY","QQQ","DOW"
+}
+
 def extract_symbols_from_text(text: str):
-    # crude but effective: tickers are 1–5 uppercase letters
     candidates = re.findall(r"\b[A-Z]{1,5}\b", text)
-    # filter out common non‑tickers
-    blacklist = {"CEO", "EPS", "FDA", "SEC", "Q1", "Q2", "Q3", "Q4"}
-    return [c for c in candidates if c not in blacklist]
+    results = []
+
+    for c in candidates:
+        if c in BLACKLIST:
+            continue
+        if len(c) < 3:
+            continue
+        if not VALID_TICKER.match(c):
+            continue
+        if is_real_ticker(c):
+            results.append(c)
+
+    return results
 
 
 # ---------------------------------------------------------
@@ -118,18 +151,19 @@ def scrape_nasdaq_earnings():
             continue
 
         symbol = cols[0].get_text(strip=True)
-        headline = f"Earnings event for {symbol}"
-        results.append({
-            "source": "NASDAQ Earnings",
-            "headline": headline,
-            "symbols": [symbol]
-        })
+        if is_real_ticker(symbol):
+            headline = f"Earnings event for {symbol}"
+            results.append({
+                "source": "NASDAQ Earnings",
+                "headline": headline,
+                "symbols": [symbol]
+            })
 
     return results
 
 
 # ---------------------------------------------------------
-# SEC 8‑K Filings (corporate events)
+# SEC 8‑K Filings
 # ---------------------------------------------------------
 def scrape_sec_8k():
     url = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
@@ -152,10 +186,13 @@ def scrape_sec_8k():
             continue
 
         company = cols[1].get_text(strip=True)
-        headline = f"SEC 8-K filing: {company}"
         symbols = extract_symbols_from_text(company)
 
+        # Only keep real tickers
+        symbols = [s for s in symbols if is_real_ticker(s)]
+
         if symbols:
+            headline = f"SEC 8-K filing: {company}"
             results.append({
                 "source": "SEC 8-K",
                 "headline": headline,
@@ -166,7 +203,7 @@ def scrape_sec_8k():
 
 
 # ---------------------------------------------------------
-# MASTER: Pull all catalyst sources (N4)
+# MASTER: Pull all catalyst sources
 # ---------------------------------------------------------
 def scrape_all_news_sources():
     results = []
