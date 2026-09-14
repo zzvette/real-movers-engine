@@ -16,9 +16,6 @@ class SymbolSignal:
     catalysts: List[Dict[str, Any]] = None
 
 
-# ---------------------------------------------------------
-# SCORING ENGINE
-# ---------------------------------------------------------
 def score_signal(
     price: float,
     change_pct: float,
@@ -39,10 +36,12 @@ def score_signal(
 
     # Volume weighting (premarket-friendly)
     if premarket:
-        if volume > 200_000:
-            score += 10
+        if volume > 500_000:
+            score += 12
+        elif volume > 200_000:
+            score += 8
         elif volume > 50_000:
-            score += 5
+            score += 4
         elif volume > 10_000:
             score += 2
         else:
@@ -59,7 +58,7 @@ def score_signal(
         else:
             score += 2
 
-    # Catalyst boost
+    # Catalyst boost (placeholder for future)
     if len(catalysts) > 0:
         score += 15
 
@@ -72,9 +71,6 @@ def score_signal(
     return score
 
 
-# ---------------------------------------------------------
-# RANKING ENGINE (used by calendar)
-# ---------------------------------------------------------
 def get_top_signals_for_day(raw_list: List[dict], top_n: int = 4) -> List[SymbolSignal]:
     """
     Convert raw JSON entries for a day into SymbolSignal objects,
