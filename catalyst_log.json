@@ -1,10 +1,10 @@
 {
-    "timestamp": "2026-09-14T18:36:05.840454",
+    "timestamp": "2026-09-14T19:00:07.641227",
     "catalysts": {
         "U": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 1h 25m"
+                "headline": "U.S. markets close in 1h"
             },
             {
                 "source": "Yahoo Finance",
@@ -14,7 +14,7 @@
         "S": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 1h 25m"
+                "headline": "U.S. markets close in 1h"
             },
             {
                 "source": "Yahoo Finance",
@@ -28,11 +28,19 @@
             },
             {
                 "source": "Yahoo Finance",
+                "headline": "AI stocks slide after top industry CEOs call for slowdown of technology\u2019s development"
+            },
+            {
+                "source": "Yahoo Finance",
                 "headline": "Z.AI raises $5 billion through shares and convertible bonds"
             },
             {
                 "source": "Yahoo Finance",
                 "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Wall Street hit by tech sell-off after AI bosses push for slowdown"
             },
             {
                 "source": "Yahoo Finance",
@@ -83,12 +91,6 @@
             {
                 "source": "Yahoo Finance",
                 "headline": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO"
-            }
-        ],
-        "LNG": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Chevron Targets Four Continents in New LNG Expansion Drive"
             }
         ]
     }
