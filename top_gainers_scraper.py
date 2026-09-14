@@ -1,18 +1,16 @@
-# top_gainers_scraper.py
-
 import requests
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 def fetch_top_gainers(limit=5):
     """
-    Pulls top gainers from Yahoo Finance's public screener API.
+    Pulls top gainers from Yahoo Finance's day_gainers screener.
     Returns a list of dicts with symbol, price, change_pct, volume.
     """
 
     url = (
         "https://query1.finance.yahoo.com/v1/finance/screener/predefined/"
-        "most_actives?count=50&offset=0"
+        "day_gainers?count=100&offset=0"
     )
 
     try:
@@ -25,11 +23,20 @@ def fetch_top_gainers(limit=5):
     gainers = []
     for q in quotes:
         try:
+            symbol = q.get("symbol")
+            price = q.get("regularMarketPrice")
+            change_pct = q.get("regularMarketChangePercent")
+            volume = q.get("regularMarketVolume")
+
+            # Reject invalid entries
+            if not symbol or price is None or change_pct is None or volume is None:
+                continue
+
             gainers.append({
-                "symbol": q["symbol"],
-                "price": q.get("regularMarketPrice", 0.0),
-                "change_pct": q.get("regularMarketChangePercent", 0.0),
-                "volume": q.get("regularMarketVolume", 0),
+                "symbol": symbol,
+                "price": price,
+                "change_pct": change_pct,
+                "volume": volume,
             })
         except Exception:
             continue
