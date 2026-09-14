@@ -1,20 +1,60 @@
 {
-    "timestamp": "2026-09-14T16:48:23.679508",
+    "timestamp": "2026-09-14T17:49:31.910570",
     "catalysts": {
         "U": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 3h 13m"
+                "headline": "U.S. markets close in 2h 11m"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Almost 1 million TEUs in new record for this U.S. container gateway"
             }
         ],
         "S": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 3h 13m"
+                "headline": "U.S. markets close in 2h 11m"
             },
             {
                 "source": "Yahoo Finance",
-                "headline": "Some Experts Say Stocks Still Look Cheap\u2014Even With the S&P 500 Near Its Record High"
+                "headline": "Almost 1 million TEUs in new record for this U.S. container gateway"
+            }
+        ],
+        "AI": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "European shares slip on AI slowdown calls and inflation concerns"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Why the midterms and China fears will complicate action in Washington to regulate AI"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Wall St falls as AI anxiety batters Nvidia, chipmakers"
+            }
+        ],
+        "X": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "X Corp and SpaceXAI drop antitrust lawsuit against Apple"
+            }
+        ],
+        "US": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Carney, locked in US trade war, pitches Canada to global investment titans"
+            }
+        ],
+        "TL": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Cass: TL rates jump 11% in August, freight shipments turn positive"
             }
         ],
         "A": [
@@ -35,84 +75,10 @@
                 "headline": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO"
             }
         ],
-        "AI": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Why the midterms and China fears will complicate action in Washington to regulate AI"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Wall St falls as AI anxiety batters Nvidia, chipmakers"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Tech stocks slump after AI execs call for industry slowdown"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Trump dismisses calls to slow AI development, blames 'conspiracy' against AI and data centers"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Trump dismisses calls to slow AI development, blames 'conspiracy' against AI and data centers"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Musk\u2019s xAI Resolves Claims Against Apple Over AI Competition"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Palantir, Nvidia curb AI model use over data fears, The Information reports"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Carney Calls for Global Tech Body to Boost AI Guardrails"
-            }
-        ],
-        "US": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "US 10-year yields reach 5%, highest since 2023"
-            }
-        ],
-        "ETH": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH"
-            }
-        ],
-        "YPF": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project"
-            }
-        ],
         "LNG": [
             {
                 "source": "Yahoo Finance",
-                "headline": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Wood Lands $200 Million Contract for ExxonMobil\u2019s PNG LNG Project"
-            }
-        ],
-        "PNG": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Wood Lands $200 Million Contract for ExxonMobil\u2019s PNG LNG Project"
-            }
-        ],
-        "STRC": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week"
-            }
-        ],
-        "P": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Some Experts Say Stocks Still Look Cheap\u2014Even With the S&P 500 Near Its Record High"
+                "headline": "Chevron Targets Four Continents in New LNG Expansion Drive"
             }
         ]
     }
