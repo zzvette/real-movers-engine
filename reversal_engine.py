@@ -19,26 +19,45 @@ class SymbolSignal:
 # ---------------------------------------------------------
 # SCORING ENGINE
 # ---------------------------------------------------------
-def score_signal(price, change_pct, volume, catalysts=None):
+def score_signal(
+    price: float,
+    change_pct: float,
+    volume: int,
+    catalysts: List[Dict[str, Any]] | None = None,
+    premarket: bool = False,
+) -> float:
     """
-    Simple scoring model for external scrapers.
-    You can tune this later.
+    Scoring model for both regular and pre-market.
+    Premarket mode relaxes volume requirements and adds a small boost.
     """
 
     catalysts = catalysts or []
-
-    score = 0
+    score = 0.0
 
     # Price movement
-    score += change_pct * 10     # +1% = +10 points
+    score += change_pct * 10.0  # +1% = +10 points
 
-    # Volume weighting
-    if volume > 5_000_000:
-        score += 20
-    elif volume > 1_000_000:
+    # Volume weighting (premarket-friendly)
+    if premarket:
+        if volume > 200_000:
+            score += 10
+        elif volume > 50_000:
+            score += 5
+        elif volume > 10_000:
+            score += 2
+        else:
+            score += 1
+        # Premarket boost
         score += 10
     else:
-        score += 2
+        if volume > 5_000_000:
+            score += 20
+        elif volume > 1_000_000:
+            score += 10
+        elif volume > 200_000:
+            score += 5
+        else:
+            score += 2
 
     # Catalyst boost
     if len(catalysts) > 0:
