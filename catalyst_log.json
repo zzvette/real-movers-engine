@@ -1,32 +1,42 @@
 {
-    "timestamp": "2026-09-14T18:25:26.157571",
+    "timestamp": "2026-09-14T18:36:05.840454",
     "catalysts": {
         "U": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 1h 35m"
+                "headline": "U.S. markets close in 1h 25m"
             },
             {
                 "source": "Yahoo Finance",
                 "headline": "The U.S. economy faces mounting headwinds. Here are the top risks."
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Almost 1 million TEUs in new record for this U.S. container gateway"
             }
         ],
         "S": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 1h 35m"
+                "headline": "U.S. markets close in 1h 25m"
             },
             {
                 "source": "Yahoo Finance",
                 "headline": "The U.S. economy faces mounting headwinds. Here are the top risks."
+            }
+        ],
+        "AI": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Wall Street drops as AI worries pummel chipmakers"
             },
             {
                 "source": "Yahoo Finance",
-                "headline": "Almost 1 million TEUs in new record for this U.S. container gateway"
+                "headline": "Z.AI raises $5 billion through shares and convertible bonds"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "European shares slip on AI slowdown calls and inflation concerns"
             }
         ],
         "US": [
@@ -43,20 +53,6 @@
             {
                 "source": "Yahoo Finance",
                 "headline": "Z.AI raises $5 billion through shares and convertible bonds"
-            }
-        ],
-        "AI": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Z.AI raises $5 billion through shares and convertible bonds"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "European shares slip on AI slowdown calls and inflation concerns"
             }
         ],
         "X": [
