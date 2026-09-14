@@ -1,109 +1,54 @@
 # combined_screener.py
 
-import datetime
-from typing import Dict, Any, List
-
+from top_gainers_scraper import fetch_top_gainers
+from top_52week_scraper import fetch_52week_gainers
 from news_scraper import scrape_all_news_sources
-from symbol_data_fetcher import fetch_symbol_data
 from reversal_engine import score_signal
+import datetime
 
 
-def build_combined_screener() -> (
-    Dict[int, List[Dict[str, Any]]],   # raw_by_day
-    List[Dict[str, Any]],              # real_movers
-    Dict[str, Any]                     # catalyst_log
-):
-    """
-    Catalyst-first screener:
-    1. Pull business news from all N4 sources
-    2. Extract tickers
-    3. Fetch live stock data
-    4. Score strictly
-    5. Output strong movers only
-    """
-
+def build_combined_screener():
     today = datetime.date.today()
     day_num = today.day
 
-    # -----------------------------------------------------
-    # 1. Pull all catalyst news
-    # -----------------------------------------------------
+    # Pull gainers
+    top_gainers = fetch_top_gainers(limit=5)
+    top_52week = fetch_52week_gainers(limit=5)
+
+    # Pull catalysts
     news_items = scrape_all_news_sources()
 
-    # Build catalyst log
     catalyst_log = {"catalysts": {}}
 
-    # Extract unique symbols
-    symbols = set()
+    # Map catalysts to symbols
     for item in news_items:
         for sym in item["symbols"]:
-            symbols.add(sym)
-
-            # Add to catalyst log
-            if sym not in catalyst_log["catalysts"]:
-                catalyst_log["catalysts"][sym] = []
-            catalyst_log["catalysts"][sym].append({
+            catalyst_log["catalysts"].setdefault(sym, []).append({
                 "source": item["source"],
                 "headline": item["headline"]
             })
 
-    # -----------------------------------------------------
-    # 2. Fetch stock data for each symbol
-    # -----------------------------------------------------
-    raw_by_day = {day_num: []}
-    real_movers: List[Dict[str, Any]] = []
-
-    for sym in symbols:
-        data = fetch_symbol_data(sym)
-        if not data:
-            continue
-
-        price = data["price"]
-        change = data["change"]
-        change_pct = data["change_pct"]
-        volume = data["volume"]
-
-        # Strict mode: require meaningful movement
-        if abs(change_pct) < 0.5:
-            continue
-        if volume < 100_000:
-            continue
-
-        # -------------------------------------------------
-        # 3. Score strictly
-        # -------------------------------------------------
-        score = score_signal(
-            price=price,
-            change_pct=change_pct,
-            volume=volume,
-            catalysts=catalyst_log["catalysts"].get(sym, []),
-            premarket=False  # strict catalyst mode
+    # Score gainers
+    def score_entry(entry):
+        sym = entry["symbol"]
+        catalysts = catalyst_log["catalysts"].get(sym, [])
+        return score_signal(
+            price=entry["price"],
+            change_pct=entry["change_pct"],
+            volume=entry["volume"],
+            catalysts=catalysts,
+            premarket=False
         )
 
-        if score <= 0:
-            continue
+    for entry in top_gainers:
+        entry["score"] = score_entry(entry)
 
-        indicator_color = (
-            "green" if score >= 70 else
-            "yellow" if score >= 40 else
-            "red"
-        )
+    for entry in top_52week:
+        entry["score"] = score_entry(entry)
 
-        entry = {
-            "symbol": sym,
-            "price": price,
-            "change": change,
-            "change_pct": change_pct,
-            "volume": volume,
-            "score": score,
-            "indicator_color": indicator_color,
-            "catalysts": catalyst_log["catalysts"].get(sym, [])
-        }
-
-        raw_by_day[day_num].append(entry)
-        real_movers.append(entry)
-
-    # Sort by score
-    real_movers.sort(key=lambda x: x["score"], reverse=True)
-
-    return raw_by_day, real_movers, catalyst_log
+    return {
+        "top_gainers": top_gainers,
+        "top_52week": top_52week,
+        "catalyst_log": catalyst_log,
+        "day": day_num
+    }
