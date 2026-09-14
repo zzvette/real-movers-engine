@@ -6,43 +6,29 @@ from combined_screener import build_combined_screener
 
 
 def main():
-    # Run catalyst-first screener
-    raw_by_day, real_movers, catalyst_log = build_combined_screener()
-
+    result = build_combined_screener()
     timestamp = datetime.datetime.utcnow().isoformat()
 
-    # daily_screener.json
-    with open("daily_screener.json", "w", encoding="utf-8") as f:
-        json.dump(
-            {
-                "timestamp": timestamp,
-                "raw_by_day": raw_by_day,
-            },
-            f,
-            indent=4,
-        )
+    # Write top gainers
+    with open("top_gainers.json", "w") as f:
+        json.dump({
+            "timestamp": timestamp,
+            "top_gainers": result["top_gainers"]
+        }, f, indent=4)
 
-    # real_movers.json
-    with open("real_movers.json", "w", encoding="utf-8") as f:
-        json.dump(
-            {
-                "timestamp": timestamp,
-                "real_movers": real_movers,
-            },
-            f,
-            indent=4,
-        )
+    # Write 52-week gainers
+    with open("top_52week.json", "w") as f:
+        json.dump({
+            "timestamp": timestamp,
+            "top_52week": result["top_52week"]
+        }, f, indent=4)
 
-    # catalyst_log.json
-    with open("catalyst_log.json", "w", encoding="utf-8") as f:
-        json.dump(
-            {
-                "timestamp": timestamp,
-                "catalysts": catalyst_log.get("catalysts", {}),
-            },
-            f,
-            indent=4,
-        )
+    # Write catalyst log
+    with open("catalyst_log.json", "w") as f:
+        json.dump({
+            "timestamp": timestamp,
+            "catalysts": result["catalyst_log"]["catalysts"]
+        }, f, indent=4)
 
 
 if __name__ == "__main__":
