@@ -1,12 +1,9 @@
-name: Market Data Scraper
+name: Market Data Scraper (Catalyst Engine)
 
 on:
   schedule:
-    # Morning pre-market scan: 9am EST / 7am MST
+    # 7:00 AM MST / 9:00 AM EST
     - cron: "0 14 * * 1-5"
-    # Optional: mid-day and close scans (keep or remove as you like)
-    - cron: "0 17 * * 1-5"   # 12pm EST
-    - cron: "0 21 * * 1-5"   # 4pm EST
   workflow_dispatch:
 
 jobs:
@@ -27,7 +24,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Run scraper
+      - name: Run catalyst screener
         run: |
           python github_scraper_runner.py
 
@@ -36,5 +33,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add daily_screener.json real_movers.json catalyst_log.json
-          git commit -m "Automated scrape update" || echo "No changes to commit"
+          git commit -m "Automated catalyst scrape update" || echo "No changes to commit"
           git push || echo "No changes to push"
