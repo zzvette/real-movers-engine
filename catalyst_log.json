@@ -1,4 +1,101 @@
 {
-    "timestamp": "2026-09-14T14:06:04.027549",
-    "catalysts": {}
+    "timestamp": "2026-09-14T15:16:40.984005",
+    "catalysts": {
+        "U": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "U.S. markets close in 4h 44m"
+            }
+        ],
+        "S": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "U.S. markets close in 4h 44m"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge"
+            }
+        ],
+        "US": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Explainer-US Treasury yields are rising - why does it matter?"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "10-year Treasury yield hits 5%, critical threshold for US economy and markets"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage"
+            }
+        ],
+        "YC": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work"
+            }
+        ],
+        "AI": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Tech stocks slide on AI slowdown talks"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Elon Musk: I've been 'sounding the alarm' on AI for a while"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Trump Rejects Calls for AI Guardrails, Blasts Anthropic\u2019s Amodei"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Tech stocks today: AI warnings send shock through chip stocks"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge"
+            }
+        ],
+        "IPO": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Anthropic IPO won't be slowed by safety uproar"
+            }
+        ],
+        "I": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Elon Musk: I've been 'sounding the alarm' on AI for a while"
+            }
+        ],
+        "TQL": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Pink Cheetah, TQL fight it out as transparency rule awaited"
+            }
+        ],
+        "J": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "J&J in talks to sell DePuy Synthes to Apollo for $20 billion"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "J&J in talks to sell DePuy Synthes to Apollo for $20 billion"
+            }
+        ],
+        "P": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge"
+            }
+        ]
+    }
 }
