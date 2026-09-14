@@ -1,10 +1,14 @@
 {
-    "timestamp": "2026-09-14T17:49:31.910570",
+    "timestamp": "2026-09-14T18:25:26.157571",
     "catalysts": {
         "U": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 2h 11m"
+                "headline": "U.S. markets close in 1h 35m"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "The U.S. economy faces mounting headwinds. Here are the top risks."
             },
             {
                 "source": "Yahoo Finance",
@@ -14,14 +18,38 @@
         "S": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 2h 11m"
+                "headline": "U.S. markets close in 1h 35m"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "The U.S. economy faces mounting headwinds. Here are the top risks."
             },
             {
                 "source": "Yahoo Finance",
                 "headline": "Almost 1 million TEUs in new record for this U.S. container gateway"
             }
         ],
+        "US": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Abbott agrees to settlement over closure of largest baby formula plant in the US"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Carney, locked in US trade war, pitches Canada to global investment titans"
+            }
+        ],
+        "Z": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Z.AI raises $5 billion through shares and convertible bonds"
+            }
+        ],
         "AI": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Z.AI raises $5 billion through shares and convertible bonds"
+            },
             {
                 "source": "Yahoo Finance",
                 "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks"
@@ -29,26 +57,12 @@
             {
                 "source": "Yahoo Finance",
                 "headline": "European shares slip on AI slowdown calls and inflation concerns"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Why the midterms and China fears will complicate action in Washington to regulate AI"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Wall St falls as AI anxiety batters Nvidia, chipmakers"
             }
         ],
         "X": [
             {
                 "source": "Yahoo Finance",
                 "headline": "X Corp and SpaceXAI drop antitrust lawsuit against Apple"
-            }
-        ],
-        "US": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Carney, locked in US trade war, pitches Canada to global investment titans"
             }
         ],
         "TL": [
