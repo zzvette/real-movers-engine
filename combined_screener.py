@@ -1,191 +1,108 @@
 # combined_screener.py
 
 import datetime
-from typing import List, Dict, Any, Tuple
+from typing import Tuple, Dict, Any, List
 
-from external_scraper import get_external_screener_data
-from reversal_engine import SymbolSignal, score_signal
+from external_scraper import (
+    scrape_finviz_gainers,
+    scrape_finviz_losers,
+    scrape_yahoo_premarket,
+)
+from reversal_engine import score_signal
 
 
 # ---------------------------------------------------------
-# NORMALIZATION
+# BUILD COMBINED SCREENER
 # ---------------------------------------------------------
-def normalize_row(row: Dict[str, Any]) -> Dict[str, Any]:
+def build_combined_screener(premarket: bool = True) -> Tuple[
+    Dict[int, List[Dict[str, Any]]],  # raw_by_day
+    List[Dict[str, Any]],             # real_movers
+    Dict[str, Any]                    # catalyst_log
+]:
     """
-    Normalize raw scraped fields into a consistent structure.
-    """
-    return {
-        "symbol": row.get("symbol"),
-        "price": row.get("price"),
-        "change_pct": row.get("change_pct"),
-        "volume": row.get("volume"),
-        "source": row.get("source"),
-    }
+    Build combined screener output.
 
-
-# ---------------------------------------------------------
-# SCORING + SIGNAL CREATION
-# ---------------------------------------------------------
-def build_symbol_signal(row: Dict[str, Any],
-                        catalysts: List[Dict[str, Any]]) -> SymbolSignal:
-    """
-    Convert normalized row + catalysts into a SymbolSignal object.
-    """
-    symbol = row["symbol"]
-
-    # Score using your reversal engine logic
-    score = score_signal(
-        price=row.get("price"),
-        change_pct=row.get("change_pct"),
-        volume=row.get("volume"),
-        catalysts=catalysts
-    )
-
-    # Determine indicator color
-    if score >= 80:
-        color = "green"
-    elif score >= 50:
-        color = "yellow"
-    else:
-        color = "red"
-
-    return SymbolSignal(
-        symbol=symbol,
-        indicator_color=color,
-        score=score,
-        price=row.get("price"),
-        change=row.get("change_pct"),  # optional
-        change_pct=row.get("change_pct"),
-        volume=row.get("volume"),
-        catalysts=catalysts
-    )
-
-
-# ---------------------------------------------------------
-# GROUP BY DAY FOR CALENDAR
-# ---------------------------------------------------------
-def group_by_day(signals: List[SymbolSignal]) -> Dict[int, List[Dict[str, Any]]]:
-    """
-    Calendar expects:
-        { day_number: [raw_symbol_dict, ...] }
+    premarket=True:
+        - Uses Yahoo premarket gainers
+        - Relaxes volume/change filters
     """
 
     today = datetime.date.today()
-    year = today.year
-    month = today.month
+    day_num = today.day
 
-    grouped: Dict[int, List[Dict[str, Any]]] = {}
+    # -----------------------------------------------------
+    # 1. Collect raw symbols
+    # -----------------------------------------------------
+    raw_symbols: List[Dict[str, Any]] = []
 
-    for sig in signals:
-        # For now, all signals belong to "today"
-        # Later we will expand this to historical or multi-day data
-        day_num = today.day
+    if premarket:
+        yahoo_pm = scrape_yahoo_premarket()
+        raw_symbols.extend(yahoo_pm)
+    else:
+        gainers = scrape_finviz_gainers()
+        losers = scrape_finviz_losers()
+        raw_symbols.extend(gainers)
+        raw_symbols.extend(losers)
 
-        if day_num not in grouped:
-            grouped[day_num] = []
+    # -----------------------------------------------------
+    # 2. Filter and score
+    # -----------------------------------------------------
+    real_movers: List[Dict[str, Any]] = []
+    raw_by_day: Dict[int, List[Dict[str, Any]]] = {day_num: []}
+    catalyst_log: Dict[str, Any] = {"catalysts": {}}
 
-        grouped[day_num].append(
-            {
-                "symbol": sig.symbol,
-                "price": sig.price,
-                "change_pct": sig.change_pct,
-                "volume": sig.volume,
-                "score": sig.score,
-                "indicator_color": sig.indicator_color,
-                "catalysts": sig.catalysts,
-            }
+    for r in raw_symbols:
+        symbol = r.get("symbol")
+        price = r.get("price")
+        change_pct = r.get("change_pct")
+        volume = r.get("volume", 0)
+
+        # Basic sanity checks
+        if not symbol or price is None or change_pct is None:
+            continue
+
+        # Relaxed premarket filters: allow small moves and low volume
+        if not premarket:
+            if abs(change_pct) < 0.5:
+                continue
+            if volume < 50_000:
+                continue
+
+        # No catalysts yet in this version
+        catalysts: List[Dict[str, Any]] = []
+
+        score = score_signal(
+            price=price,
+            change_pct=change_pct,
+            volume=volume,
+            catalysts=catalysts,
+            premarket=premarket,
         )
 
-    return grouped
+        if score <= 0:
+            continue
 
+        indicator_color = (
+            "green" if score >= 70 else
+            "yellow" if score >= 40 else
+            "red"
+        )
 
-# ---------------------------------------------------------
-# REAL MOVERS (TOP N)
-# ---------------------------------------------------------
-def get_real_movers(signals: List[SymbolSignal], top_n: int = 20) -> List[Dict[str, Any]]:
-    """
-    Real Movers = highest scoring signals across all sources.
-    """
-    sorted_signals = sorted(signals, key=lambda s: s.score, reverse=True)
-    movers = sorted_signals[:top_n]
-
-    return [
-        {
-            "symbol": s.symbol,
-            "score": s.score,
-            "price": s.price,
-            "change_pct": s.change_pct,
-            "volume": s.volume,
-            "indicator_color": s.indicator_color,
-            "catalysts": s.catalysts,
+        entry = {
+            "symbol": symbol,
+            "price": price,
+            "change": r.get("change", 0.0),
+            "change_pct": change_pct,
+            "volume": volume,
+            "score": score,
+            "indicator_color": indicator_color,
+            "catalysts": catalysts,
         }
-        for s in movers
-    ]
 
+        raw_by_day[day_num].append(entry)
+        real_movers.append(entry)
 
-# ---------------------------------------------------------
-# CATALYST LOG
-# ---------------------------------------------------------
-def build_catalyst_log(catalysts_by_symbol: Dict[str, List[Dict[str, Any]]]) -> Dict[str, Any]:
-    """
-    Build a clean catalyst log for GitHub storage.
-    """
-    return {
-        "timestamp": datetime.datetime.utcnow().isoformat(),
-        "catalysts": catalysts_by_symbol
-    }
-
-
-# ---------------------------------------------------------
-# MASTER COMBINER
-# ---------------------------------------------------------
-def build_combined_screener() -> Tuple[
-    Dict[int, List[Dict[str, Any]]],   # raw_by_day for calendar
-    List[Dict[str, Any]],              # real movers
-    Dict[str, Any]                     # catalyst log
-]:
-    """
-    Main entry point for your entire external data pipeline.
-    """
-
-    # 1. Scrape external data
-    raw_rows, catalysts_by_symbol = get_external_screener_data()
-
-    # 2. Normalize
-    normalized = [normalize_row(r) for r in raw_rows]
-
-    # 3. Convert to SymbolSignal objects
-    signals: List[SymbolSignal] = []
-    for row in normalized:
-        symbol = row["symbol"]
-        cats = catalysts_by_symbol.get(symbol, [])
-        sig = build_symbol_signal(row, cats)
-        signals.append(sig)
-
-    # 4. Group by day for calendar
-    raw_by_day = group_by_day(signals)
-
-    # 5. Real Movers
-    real_movers = get_real_movers(signals)
-
-    # 6. Catalyst log
-    catalyst_log = build_catalyst_log(catalysts_by_symbol)
+    # Sort real movers by score
+    real_movers.sort(key=lambda x: x["score"], reverse=True)
 
     return raw_by_day, real_movers, catalyst_log
-
-
-# ---------------------------------------------------------
-# Standalone test
-# ---------------------------------------------------------
-if __name__ == "__main__":
-    raw_by_day, real_movers, catalyst_log = build_combined_screener()
-
-    print("Calendar-ready raw_by_day:")
-    print(raw_by_day)
-
-    print("\nTop Real Movers:")
-    for m in real_movers[:10]:
-        print(m)
-
-    print("\nCatalyst Log:")
-    print(catalyst_log)
