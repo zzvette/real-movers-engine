@@ -1,104 +1,118 @@
 {
-    "timestamp": "2026-09-14T15:28:04.633381",
+    "timestamp": "2026-09-14T16:48:23.679508",
     "catalysts": {
         "U": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 4h 33m"
+                "headline": "U.S. markets close in 3h 13m"
             }
         ],
         "S": [
             {
                 "source": "Yahoo Finance",
-                "headline": "U.S. markets close in 4h 33m"
+                "headline": "U.S. markets close in 3h 13m"
             },
             {
                 "source": "Yahoo Finance",
-                "headline": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge"
+                "headline": "Some Experts Say Stocks Still Look Cheap\u2014Even With the S&P 500 Near Its Record High"
+            }
+        ],
+        "A": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "A future president probably won't bulldoze Trump's new ballroom, billionaire investor David Rubenstein says"
+            }
+        ],
+        "CFO": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO"
+            }
+        ],
+        "IPO": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO"
             }
         ],
         "AI": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Why the midterms and China fears will complicate action in Washington to regulate AI"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Wall St falls as AI anxiety batters Nvidia, chipmakers"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Tech stocks slump after AI execs call for industry slowdown"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Trump dismisses calls to slow AI development, blames 'conspiracy' against AI and data centers"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Trump dismisses calls to slow AI development, blames 'conspiracy' against AI and data centers"
+            },
+            {
+                "source": "Yahoo Finance",
+                "headline": "Musk\u2019s xAI Resolves Claims Against Apple Over AI Competition"
+            },
             {
                 "source": "Yahoo Finance",
                 "headline": "Palantir, Nvidia curb AI model use over data fears, The Information reports"
             },
             {
                 "source": "Yahoo Finance",
-                "headline": "Tech stocks slide on AI slowdown talks"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Elon Musk: I've been 'sounding the alarm' on AI for a while"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Trump Rejects Calls for AI Guardrails, Blasts Anthropic\u2019s Amodei"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Tech stocks today: AI warnings send shock through chip stocks"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge"
+                "headline": "Carney Calls for Global Tech Body to Boost AI Guardrails"
             }
         ],
         "US": [
             {
                 "source": "Yahoo Finance",
-                "headline": "Explainer-US Treasury yields are rising - why does it matter?"
+                "headline": "US 10-year yields reach 5%, highest since 2023"
+            }
+        ],
+        "ETH": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH"
+            }
+        ],
+        "YPF": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project"
+            }
+        ],
+        "LNG": [
+            {
+                "source": "Yahoo Finance",
+                "headline": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project"
             },
             {
                 "source": "Yahoo Finance",
-                "headline": "10-year Treasury yield hits 5%, critical threshold for US economy and markets"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage"
+                "headline": "Wood Lands $200 Million Contract for ExxonMobil\u2019s PNG LNG Project"
             }
         ],
-        "YC": [
+        "PNG": [
             {
                 "source": "Yahoo Finance",
-                "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work"
+                "headline": "Wood Lands $200 Million Contract for ExxonMobil\u2019s PNG LNG Project"
             }
         ],
-        "IPO": [
+        "STRC": [
             {
                 "source": "Yahoo Finance",
-                "headline": "Anthropic IPO won't be slowed by safety uproar"
-            }
-        ],
-        "I": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Elon Musk: I've been 'sounding the alarm' on AI for a while"
-            }
-        ],
-        "TQL": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "Pink Cheetah, TQL fight it out as transparency rule awaited"
-            }
-        ],
-        "J": [
-            {
-                "source": "Yahoo Finance",
-                "headline": "J&J in talks to sell DePuy Synthes to Apollo for $20 billion"
-            },
-            {
-                "source": "Yahoo Finance",
-                "headline": "J&J in talks to sell DePuy Synthes to Apollo for $20 billion"
+                "headline": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week"
             }
         ],
         "P": [
             {
                 "source": "Yahoo Finance",
-                "headline": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge"
+                "headline": "Some Experts Say Stocks Still Look Cheap\u2014Even With the S&P 500 Near Its Record High"
             }
         ]
     }
