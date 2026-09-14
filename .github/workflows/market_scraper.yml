@@ -2,13 +2,11 @@ name: Market Data Scraper
 
 on:
   schedule:
-    # Existing runs (keep if you want mid-day / close data)
-    - cron: "0 12 * * 1-5"   # 7am EST
+    # Morning pre-market scan: 9am EST / 7am MST
+    - cron: "0 14 * * 1-5"
+    # Optional: mid-day and close scans (keep or remove as you like)
     - cron: "0 17 * * 1-5"   # 12pm EST
     - cron: "0 21 * * 1-5"   # 4pm EST
-    # New pre-market run at 7am MST (9am EST)
-    - cron: "0 14 * * 1-5"   # 9am EST / 7am MST
-
   workflow_dispatch:
 
 jobs:
