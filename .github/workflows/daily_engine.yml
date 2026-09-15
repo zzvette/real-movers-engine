@@ -1,0 +1,40 @@
+name: Daily Real Movers Engine
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 6:00 AM MDT (12:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  run-engine:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install yfinance requests beautifulsoup4
+
+      - name: Run scrapers
+        run: |
+          python github_scraper_runner.py
+
+      - name: Run daily engine
+        run: |
+          python daily_engine.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add history/*.json
+          git add daily_screener.json
+          git commit -m "Daily snapshot update"
+          git push
