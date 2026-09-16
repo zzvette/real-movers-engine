@@ -1,5 +1,5 @@
 from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth_sync
+from playwright_stealth import stealth
 
 FINVIZ_URL = "https://finviz.com/screener.ashx?v=111&s=ta_newhigh"
 
