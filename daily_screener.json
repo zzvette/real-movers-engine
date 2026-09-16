@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-16T20:27:00.618651+00:00",
+    "timestamp": "2026-09-16T20:43:03.675201+00:00",
     "signals": {
         "gainers": [],
         "highs": [],
@@ -24,9 +24,9 @@
             },
             {
                 "symbol": "^GSPC",
-                "headline": "How major US stock indexes fared Wednesday 9/16/2026",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201437660.html"
+                "headline": "Regions Bank Increases its Prime Lending Rate",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/economy/policy/articles/regions-bank-increases-prime-lending-203000251.html"
             },
             {
                 "symbol": "SPY",
@@ -48,9 +48,9 @@
             },
             {
                 "symbol": "^IXIC",
-                "headline": "How major US stock indexes fared Wednesday 9/16/2026",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201437660.html"
+                "headline": "US Equity Markets End Lower After Federal Reserve Increases Policy Rate",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-markets-end-lower-202744544.html"
             },
             {
                 "symbol": "ON",
