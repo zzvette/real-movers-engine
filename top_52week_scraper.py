@@ -8,7 +8,7 @@ def fetch_52week_gainers(limit=10):
 
     try:
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False)
+            browser = p.chromium.launch(headless=True)
             page = browser.new_page()
             stealth_sync(page)
 
