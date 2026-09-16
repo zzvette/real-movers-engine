@@ -9,17 +9,24 @@ def fetch_top_gainers(limit=10):
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
-            page.goto(FINVIZ_URL, timeout=60000)
 
-            rows = page.locator("table.table-light tr").all()[1:]  # skip header
+            page.goto(FINVIZ_URL, timeout=60000)
+            page.wait_for_selector("table.screener-table", timeout=60000)
+
+            rows = page.locator("table.screener-table tr").all()[1:]  # skip header
+
+            if not rows:
+                print("DEBUG: No rows found — Finviz layout may have changed.")
+                return []
 
             for row in rows[:limit]:
                 cols = row.locator("td").all()
 
+                # Updated column indexes for v=111
                 symbol = cols[1].inner_text().strip()
-                price = float(cols[8].inner_text().replace(",", ""))
-                change_pct = float(cols[9].inner_text().replace("%", "").replace("+", "").replace(",", ""))
-                volume = int(cols[10].inner_text().replace(",", ""))
+                price = float(cols[2].inner_text().replace(",", ""))
+                change_pct = float(cols[5].inner_text().replace("%", "").replace("+", "").replace(",", ""))
+                volume = int(cols[7].inner_text().replace(",", ""))
 
                 pct_component = max(min(change_pct * 2, 60), -20)
                 vol_component = min(volume / 1_000_000, 40)
@@ -35,7 +42,8 @@ def fetch_top_gainers(limit=10):
 
             browser.close()
 
-    except Exception:
+    except Exception as e:
+        print("ERROR in fetch_top_gainers:", e)
         return []
 
     return results
