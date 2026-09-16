@@ -1,18 +1,6 @@
 {
-    "timestamp": "2026-09-16T20:53:42.696710+00:00",
+    "timestamp": "2026-09-16T21:52:41.185231+00:00",
     "catalysts": [
-        {
-            "symbol": "BA",
-            "headline": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/8553f5cb-546f-338e-b794-6f7604bfb687/boeing-stock-skids-as-ceo.html"
-        },
-        {
-            "symbol": "^DJI",
-            "headline": "Update: Wall Street Extends Losses Following Fed Hike",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-extends-losses-following-204609835.html"
-        },
         {
             "symbol": "MEDS",
             "headline": "Sector Update: Healthcare Stocks Edge Lower Late Afternoon",
@@ -20,16 +8,10 @@
             "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-edge-lower-194551510.html"
         },
         {
-            "symbol": "^GSPC",
-            "headline": "Update: Wall Street Extends Losses Following Fed Hike",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-extends-losses-following-204609835.html"
-        },
-        {
-            "symbol": "SPY",
-            "headline": "Musk Warns of AI Control Problem After Agents Secretly Accessed OpenAI Servers for a Week",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/musk-warns-ai-control-problem-201527016.html"
+            "symbol": "BA",
+            "headline": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/8553f5cb-546f-338e-b794-6f7604bfb687/boeing-stock-skids-as-ceo.html"
         },
         {
             "symbol": "SNYR",
@@ -38,82 +20,100 @@
             "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
         },
         {
-            "symbol": "DLXY",
-            "headline": "Top Midday Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-184101406.html"
-        },
-        {
-            "symbol": "^IXIC",
-            "headline": "Update: Wall Street Extends Losses Following Fed Hike",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-extends-losses-following-204609835.html"
-        },
-        {
             "symbol": "ON",
             "headline": "Onsemi Launches Embedded Power Platform With Subaru as One of Its First Partners",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/technology/articles/onsemi-launches-embedded-power-platform-195138868.html"
         },
         {
+            "symbol": "DLXY",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-184101406.html"
+        },
+        {
+            "symbol": "LEN",
+            "headline": "Update: Lennar Fiscal Shares Fall After Q3 Adjusted Earnings, Revenue Miss Analysts' Expeactions",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/news/lennar-fiscal-shares-fall-q3-211249059.html"
+        },
+        {
+            "symbol": "^DJI",
+            "headline": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures%3A-s%26p-500.html"
+        },
+        {
+            "symbol": "FLNC",
+            "headline": "FLNC Stock Tumbles After-Hours As Houston Plant Delays Force Another Guidance Cut",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-tumbles-hours-houston-211902009.html"
+        },
+        {
+            "symbol": "GNRC",
+            "headline": "Amazon Deal Sends Generac Stock Skyrocketing Late",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/69240845-89cb-3d1b-92bb-16c0aeb6eb48/amazon-deal-sends-generac.html"
+        },
+        {
+            "symbol": "SPY",
+            "headline": "Buffer ETFs Promise 100 Percent Downside Protection. Here Is How That Actually Works and What You Give Up",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/options/articles/buffer-etfs-promise-100-percent-212540957.html"
+        },
+        {
             "symbol": "JBHT",
-            "headline": "Top Midday Decliners",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-185324038.html"
-        },
-        {
-            "symbol": "QQQ",
-            "headline": "Oil Prices Send Fresh Signal After Surprise Inventory Data",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/energy/articles/oil-prices-send-fresh-signal-195507134.html"
-        },
-        {
-            "symbol": "ZTG",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026763.html"
-        },
-        {
-            "symbol": "GC=F",
-            "headline": "TSX Closer: Index Falls as Energy Shares Slide With Oil; Investors Weigh Fed Rate Hike",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-falls-energy-202222298.html"
-        },
-        {
-            "symbol": "^VIX",
-            "headline": "Wall Street Fear Index Slips Ahead of Fed Rate Decision",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/3f9ec08f-229f-32df-ae9d-67f366517634/wall-street-fear-index-slips.html"
-        },
-        {
-            "symbol": "TPST",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026763.html"
+            "headline": "Auto & Transport Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/9b752ea8-7531-366e-8aae-dec2051d7b73/auto-%26-transport-roundup%3A.html"
         },
         {
             "symbol": "QCLS",
+            "headline": "Health Care Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/5e101bdb-36a0-3645-a7ab-6493bf7a0adc/health-care-roundup%3A-market.html"
+        },
+        {
+            "symbol": "LITE",
+            "headline": "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/axt-rises-10-being-named-204003104.html"
+        },
+        {
+            "symbol": "AEHL",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026763.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018991.html"
         },
         {
-            "symbol": "AXP",
-            "headline": "Microsoft Leads S&P 500 Stocks Going Nowhere",
+            "symbol": "ZTG",
+            "headline": "Zenta Group Company Limited Announces Agreement to Acquire ZentoAI Intelligent Technology Company Limited",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/zenta-group-company-limited-announces-153000405.html"
+        },
+        {
+            "symbol": "DCX",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173945885.html"
+        },
+        {
+            "symbol": "AXTI",
+            "headline": "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-leads-p-500-stocks-195912814.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/axt-rises-10-being-named-204003104.html"
         },
         {
-            "symbol": "SMTC",
-            "headline": "Does Semtech (SMTC) Have the Potential to Rally 36.99% as Wall Street Analysts Expect?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/does-semtech-smtc-potential-rally-135502875.html"
+            "symbol": "GLOO",
+            "headline": "Gloo Holdings, Inc. Q2 2027 Earnings Call Summary",
+            "publisher": "Moby",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/gloo-holdings-inc-q2-2027-123000622.html"
         },
         {
-            "symbol": "SCHD",
-            "headline": "JEPI Income ETF Stumbles 3% Year-Over-Year, But One Number Is Spooking Investors",
+            "symbol": "SPCX",
+            "headline": "Elon Musk Just Made a Massive Claim About Starlink\u2019s Next Generation",
             "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/jepi-income-etf-stumbles-3-191020224.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-made-massive-214232024.html"
         }
     ]
 }
