@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-16T21:52:41.185231+00:00",
+    "timestamp": "2026-09-16T22:04:16.957124+00:00",
     "catalysts": [
         {
             "symbol": "MEDS",
@@ -33,15 +33,15 @@
         },
         {
             "symbol": "LEN",
-            "headline": "Update: Lennar Fiscal Shares Fall After Q3 Adjusted Earnings, Revenue Miss Analysts' Expeactions",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/news/lennar-fiscal-shares-fall-q3-211249059.html"
+            "headline": "Lennar (LEN) Lags Q3 Earnings and Revenue Estimates",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-lags-q3-earnings-214001622.html"
         },
         {
             "symbol": "^DJI",
-            "headline": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures%3A-s%26p-500.html"
+            "headline": "Spotify (SPOT) Dips More Than Broader Market: What You Should Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spotify-spot-dips-more-broader-214507775.html"
         },
         {
             "symbol": "FLNC",
@@ -111,9 +111,9 @@
         },
         {
             "symbol": "SPCX",
-            "headline": "Elon Musk Just Made a Massive Claim About Starlink\u2019s Next Generation",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-made-massive-214232024.html"
+            "headline": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/65f68f37-8011-33ac-af60-a2d54da41be8/amd%2C-ibd-stock-of-the-day%2C.html"
         }
     ]
 }
