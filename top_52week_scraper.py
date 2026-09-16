@@ -2,6 +2,12 @@ from playwright.sync_api import sync_playwright
 
 FINVIZ_URL = "https://finviz.com/screener.ashx?v=111&s=ta_newhigh"
 
+TABLE_SELECTORS = [
+    "table.screener-table",
+    "table.screener-view-table",
+    "#screener-content table"
+]
+
 def fetch_52week_gainers(limit=10):
     results = []
 
@@ -11,12 +17,25 @@ def fetch_52week_gainers(limit=10):
             page = browser.new_page()
 
             page.goto(FINVIZ_URL, timeout=60000)
-            page.wait_for_selector("table.screener-table", timeout=60000)
 
-            rows = page.locator("table.screener-table tr").all()[1:]  # skip header
+            # Try multiple selectors
+            table_found = False
+            for selector in TABLE_SELECTORS:
+                try:
+                    page.wait_for_selector(selector, timeout=5000)
+                    table_found = selector
+                    break
+                except:
+                    continue
+
+            if not table_found:
+                print("DEBUG: No Finviz table found using any selector.")
+                return []
+
+            rows = page.locator(f"{table_found} tr").all()[1:]
 
             if not rows:
-                print("DEBUG: No rows found — Finviz layout may have changed.")
+                print("DEBUG: Table found but no rows detected.")
                 return []
 
             for row in rows[:limit]:
