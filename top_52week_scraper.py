@@ -1,12 +1,7 @@
 from playwright.sync_api import sync_playwright
+from playwright_stealth import stealth_sync
 
 FINVIZ_URL = "https://finviz.com/screener.ashx?v=111&s=ta_newhigh"
-
-TABLE_SELECTORS = [
-    "table.screener-table",
-    "table.screener-view-table",
-    "#screener-content table"
-]
 
 def fetch_52week_gainers(limit=10):
     results = []
@@ -15,33 +10,16 @@ def fetch_52week_gainers(limit=10):
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=False)
             page = browser.new_page()
+            stealth_sync(page)
 
             page.goto(FINVIZ_URL, timeout=60000)
+            page.wait_for_selector("table.screener-table", timeout=60000)
 
-            # Try multiple selectors
-            table_found = False
-            for selector in TABLE_SELECTORS:
-                try:
-                    page.wait_for_selector(selector, timeout=5000)
-                    table_found = selector
-                    break
-                except:
-                    continue
-
-            if not table_found:
-                print("DEBUG: No Finviz table found using any selector.")
-                return []
-
-            rows = page.locator(f"{table_found} tr").all()[1:]
-
-            if not rows:
-                print("DEBUG: Table found but no rows detected.")
-                return []
+            rows = page.locator("table.screener-table tr").all()[1:]
 
             for row in rows[:limit]:
                 cols = row.locator("td").all()
 
-                # Updated column indexes for v=111
                 symbol = cols[1].inner_text().strip()
                 price = float(cols[2].inner_text().replace(",", ""))
                 change_pct = float(cols[5].inner_text().replace("%", "").replace("+", "").replace(",", ""))
