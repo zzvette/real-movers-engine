@@ -13,6 +13,10 @@ def fetch_top_gainers(limit=10):
             stealth_sync(page)
 
             page.goto(FINVIZ_URL, timeout=60000)
+             html = page.content()
+            with open("finviz_debug.html", "w", encoding="utf-8") as f:
+                f.write(html)
+            print("DEBUG: Saved finviz_debug.html")
             page.wait_for_selector("table.screener-table", timeout=60000)
 
             rows = page.locator("table.screener-table tr").all()[1:]
