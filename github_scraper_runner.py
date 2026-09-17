@@ -1,68 +1,60 @@
 import json
+from pathlib import Path
 from datetime import datetime, timezone
 
-from top_gainers_scraper import fetch_top_gainers
-from top_52week_scraper import fetch_52week_gainers
-from news_scraper import fetch_news_catalysts
+from news_scraper import fetch_catalysts
+from daily_engine import score_all_catalysts
 
 
-def save_json(path: str, payload: dict):
-    with open(path, "w") as f:
-        json.dump(payload, f, indent=4)
+def get_symbols_for_scan() -> list:
+    """
+    For now, pull from daily_screener.json or top_gainers.json.
+    You can refine this later.
+    """
+    symbols = set()
+
+    for fname in ["daily_screener.json", "top_gainers.json", "top_52week.json"]:
+        p = Path(fname)
+        if p.exists():
+            try:
+                data = json.loads(p.read_text())
+                for item in data:
+                    sym = item.get("symbol") or item.get("ticker")
+                    if sym:
+                        symbols.add(sym)
+            except Exception as e:
+                print(f"[WARN] Failed to read {fname}: {e}")
+
+    return sorted(symbols)
 
 
-def debug_print(name, data):
-    print(f"\n===== DEBUG: {name} =====")
-    print(f"Type: {type(data)}")
-    print(f"Length: {len(data) if hasattr(data, '__len__') else 'N/A'}")
-    print("Sample:", data[:3] if isinstance(data, list) else data)
-    print("=========================\n")
+def main():
+    repo_root = Path(__file__).resolve().parent
+    catalysts_dir = repo_root / "catalysts"
+    catalysts_dir.mkdir(exist_ok=True)
 
+    symbols = get_symbols_for_scan()
+    if not symbols:
+        print("[WARN] No symbols found for scan.")
+        return
 
-def run_all_scrapers():
-    # FIXED: GitHub Actions Python 3.10 does NOT support UTC import
-    timestamp = datetime.now(timezone.utc).isoformat()
+    print(f"[INFO] Scanning {len(symbols)} symbols for news...")
+    raw_catalysts = fetch_catalysts(symbols)
+    scored_catalysts = score_all_catalysts(raw_catalysts)
 
-    # ---------------------------------------------------------
-    # RUN SCRAPERS
-    # ---------------------------------------------------------
-    gainers = fetch_top_gainers(limit=10)
-    highs = fetch_52week_gainers(limit=10)
-    catalysts = fetch_news_catalysts(limit=20)
+    # Timestamp for filename
+    now = datetime.now(timezone.utc)
+    ts_str = now.strftime("%Y%m%d_%H%M%S")
 
-    # ---------------------------------------------------------
-    # DEBUG OUTPUT
-    # ---------------------------------------------------------
-    debug_print("TOP GAINERS RAW", gainers)
-    debug_print("52-WEEK HIGHS RAW", highs)
-    debug_print("NEWS CATALYSTS RAW", catalysts)
+    snapshot_path = catalysts_dir / f"{ts_str}.json"
+    latest_path = catalysts_dir / "latest.json"
 
-    # ---------------------------------------------------------
-    # BUILD DAILY SCREENER
-    # ---------------------------------------------------------
-    daily_screener = {
-        "timestamp": timestamp,
-        "signals": {
-            "gainers": gainers,
-            "highs": highs,
-            "catalysts": catalysts,
-        },
-    }
+    snapshot_path.write_text(json.dumps(scored_catalysts, indent=2))
+    latest_path.write_text(json.dumps(scored_catalysts, indent=2))
 
-    # ---------------------------------------------------------
-    # SAVE JSON OUTPUTS
-    # ---------------------------------------------------------
-    save_json("top_gainers.json", {"timestamp": timestamp, "top_gainers": gainers})
-    save_json("top_52week.json", {"timestamp": timestamp, "top_52week": highs})
-    save_json("catalyst_log.json", {"timestamp": timestamp, "catalysts": daily_screener["signals"]["catalysts"]})
-    save_json("daily_screener.json", daily_screener)
-
-    # ---------------------------------------------------------
-    # SUMMARY
-    # ---------------------------------------------------------
-    print("Scraper run complete.")
-    print(f"Gainers: {len(gainers)} | Highs: {len(highs)} | Catalysts: {len(catalysts)}")
+    print(f"[INFO] Wrote snapshot: {snapshot_path}")
+    print(f"[INFO] Updated latest: {latest_path}")
 
 
 if __name__ == "__main__":
-    run_all_scrapers()
+    main()
