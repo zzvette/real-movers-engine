@@ -1,0 +1,52 @@
+name: Real-Time Catalyst Engine
+
+on:
+  schedule:
+    # Premarket: every 5 minutes, 4:00–9:29 EST (approx with 4–13 UTC depending on your timezone)
+    - cron: "*/5 9-13 * * 1-5"
+    # Intraday: every 2 minutes, 9:30–16:00 EST (approx)
+    - cron: "*/2 14-20 * * 1-5"
+    # After hours: every 10 minutes, 16:00–20:00 EST (approx)
+    - cron: "*/10 20-24 * * 1-5"
+    # Night: every 30 minutes, 0:00–4:00 EST (approx)
+    - cron: "*/30 0-4 * * 1-5"
+
+  workflow_dispatch:
+
+jobs:
+  run-catalyst-engine:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper + engine
+        run: |
+          python github_scraper_runner.py
+
+      - name: Commit catalyst snapshots
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add catalysts/*.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Real-time catalyst snapshot"
+            git push
+          fi
