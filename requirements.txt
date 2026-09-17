@@ -1,4 +1,1 @@
-playwright
-playwright-stealth
 requests
-yfinance
