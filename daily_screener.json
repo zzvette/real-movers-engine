@@ -1,9 +1,16 @@
 {
-    "timestamp": "2026-09-18T16:14:44.369820+00:00",
+    "timestamp": "2026-09-18T16:25:22.509862+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "COIN",
+                "headline": "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
+                "score": 6
+            },
+            {
+                "symbol": "IBIT",
                 "headline": "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
@@ -18,9 +25,9 @@
             },
             {
                 "symbol": "NFLX",
-                "headline": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/d830b11c-698b-34ab-91a9-7f7ec74fe029/netflix-stock-downgraded-to.html",
+                "headline": "Netflix just got a warning that could change the growth story",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/media-advertising/articles/netflix-just-got-warning-could-162152654.html",
                 "score": 0
             },
             {
@@ -39,9 +46,9 @@
             },
             {
                 "symbol": "SNDK",
-                "headline": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+                "headline": "Micron Just Built One Memory Stick That Replaces Four. Is MU Stock a Buy?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/micron-just-built-one-memory-161647407.html",
                 "score": 0
             },
             {
@@ -74,13 +81,6 @@
             },
             {
                 "symbol": "NCPL",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "IBIT",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
