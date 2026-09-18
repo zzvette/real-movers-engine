@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T13:48:39.995737+00:00",
+    "timestamp": "2026-09-18T13:58:16.468383+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,15 +10,15 @@
             },
             {
                 "symbol": "GOOG",
-                "headline": "The HBM Bottleneck: 3 Tech Companies Have Locked Up 85% of the Supply of AI's Scarcest Asset",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/hbm-bottleneck-3-tech-companies-133300429.html"
+                "headline": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-rises-3-meta-microsoft-135420873.html"
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Stock Market Today: Dow Falls As Oil Prices Turn Higher; Buffett Departs Berkshire (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-falls.html"
+                "headline": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-rises-3-meta-microsoft-135420873.html"
             },
             {
                 "symbol": "DKNG",
@@ -88,9 +88,9 @@
             },
             {
                 "symbol": "RARE",
-                "headline": "Ultragenyx Gets A \u2018Much-Needed Win,\u2019 Says Cantor \u2013 Sees $400M Opportunity After FDA Approves Neurodegenerative Disease Therapy",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/ultragenyx-gets-much-needed-win-121658249.html"
+                "headline": "/C O R R E C T I O N -- Andelyn Biosciences/",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/andelyn-curator-platform-achieve-first-120000644.html"
             },
             {
                 "symbol": "JPY=X",
@@ -100,9 +100,9 @@
             },
             {
                 "symbol": "CL=F",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq mixed as oil prices rise",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html"
+                "headline": "Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-fall-4-135338492.html"
             },
             {
                 "symbol": "AKAN",
