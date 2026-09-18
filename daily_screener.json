@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T21:10:30.269103+00:00",
+    "timestamp": "2026-09-18T21:25:22.833324+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,18 +10,11 @@
                 "score": 6
             },
             {
-                "symbol": "XENE",
-                "headline": "This Biotech Surged 50% On Positive Data In March. Now, It's Completely Gone.",
+                "symbol": "SNDK",
+                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2fce6acf-ffeb-3058-b267-ced8ca538b51/this-biotech-surged-50%25-on.html",
-                "score": 3
-            },
-            {
-                "symbol": "BMNR",
-                "headline": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html",
-                "score": 3
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
+                "score": 0
             },
             {
                 "symbol": "MSTR",
@@ -31,10 +24,10 @@
                 "score": 0
             },
             {
-                "symbol": "SNDK",
-                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
+                "symbol": "ONON",
+                "headline": "Sneaker Maker On Partners With Kylian Mbappe as Football Star Parts Ways With Nike",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sneaker-maker-partners-kylian-mbappe-201010046.html",
                 "score": 0
             },
             {
@@ -45,13 +38,6 @@
                 "score": 0
             },
             {
-                "symbol": "COIN",
-                "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
-                "score": 0
-            },
-            {
                 "symbol": "IMCC",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
@@ -59,10 +45,38 @@
                 "score": 0
             },
             {
-                "symbol": "GIPR",
-                "headline": "Generation Income Properties Enters Into Warrant Exercise Transaction for $4.3 Million in Gross Proceeds",
+                "symbol": "NVDA",
+                "headline": "Nvidia Stock Is Up 21% in Six Months. Here\u2019s What the Street Still Isn\u2019t Pricing In",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-21-six-months-210406486.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACN",
+                "headline": "Accenture, Anthropic To Build Embedded AI Evaluator Team",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/accenture-anthropic-build-embedded-ai-205100577.html",
+                "score": 0
+            },
+            {
+                "symbol": "OLOX",
+                "headline": "Olenox Industries Reports 15.63 Bitcoin Mined in August as Company Advances Energy-Powered Digital Infrastructure Strategy",
                 "publisher": "ACCESS Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-enters-warrant-181500959.html",
+                "link": "https://finance.yahoo.com/energy/articles/olenox-industries-reports-15-63-130000693.html",
+                "score": 0
+            },
+            {
+                "symbol": "NKE",
+                "headline": "Au Revoir, Nike: Kylian Mbappe Signs With On",
+                "publisher": "MediaPost",
+                "link": "https://finance.yahoo.com/media-advertising/articles/au-revoir-nike-kylian-mbappe-202759810.html",
                 "score": 0
             },
             {
@@ -73,20 +87,6 @@
                 "score": 0
             },
             {
-                "symbol": "KEEL",
-                "headline": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-faces-shakeout-corz-161546106.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
-                "score": 0
-            },
-            {
                 "symbol": "PEP",
                 "headline": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
                 "publisher": "24/7 Wall St.",
@@ -94,24 +94,24 @@
                 "score": 0
             },
             {
-                "symbol": "MHGU",
-                "headline": "Wendy's Faces Fresh Blow as Major Franchisee Files Bankruptcy",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wendys-faces-fresh-blow-major-201158978.html",
-                "score": 0
-            },
-            {
-                "symbol": "REFR",
-                "headline": "Research Frontiers Welcomes Gauzy\u2019s Court-Approved Restructuring and the Restart of SPD-Smart Light Control Film Production",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/research-frontiers-welcomes-gauzy-court-182500792.html",
-                "score": 0
-            },
-            {
                 "symbol": "GEMI",
                 "headline": "Jim Cramer on Gemini Space Station (GEMI): \u201cI Would Keep It as Your Spec\u201d",
                 "publisher": "Insider Monkey",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-gemini-space-station-115156897.html",
+                "score": 0
+            },
+            {
+                "symbol": "GIPR",
+                "headline": "Generation Income Properties Enters Into Warrant Exercise Transaction for $4.3 Million in Gross Proceeds",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-enters-warrant-181500959.html",
+                "score": 0
+            },
+            {
+                "symbol": "PS",
+                "headline": "1 of Billionaire Investor Bill Ackman's Newest Positions Is Down Roughly 21% This Year. A Wall Street Analyst Thinks Another 21% Decline Is Coming. Should Investors Sell the Stock?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/1-billionaire-investor-bill-ackmans-170101155.html",
                 "score": 0
             }
         ]
