@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T14:44:08.677106+00:00",
+    "timestamp": "2026-09-18T14:45:31.191840+00:00",
     "catalysts": [
         {
             "symbol": "SSM",
@@ -13,13 +13,6 @@
             "headline": "The Biotech Surged 50% On Positive Data In March. Now, It's Almost Gone.",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/2fce6acf-ffeb-3058-b267-ced8ca538b51/the-biotech-surged-50%25-on.html",
-            "score": 3
-        },
-        {
-            "symbol": "MSTR",
-            "headline": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html",
             "score": 3
         },
         {
@@ -45,9 +38,9 @@
         },
         {
             "symbol": "NFLX",
-            "headline": "Netflix Shares Tumble After Streaming Giant Downgraded by Wells Fargo Analyst",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-shares-tumble-streaming-giant-142119311.html",
+            "headline": "Netflix Stock Falls After Downgrade. Why It\u2019s Losing the Streaming Wars to Disney.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/d0cc864c-b6c6-3fa0-b490-9c4b0cd25003/netflix-stock-falls-after.html",
             "score": 0
         },
         {
@@ -94,9 +87,9 @@
         },
         {
             "symbol": "ONON",
-            "headline": "Kylian Mbapp\u00e9 Joins On Holding \u2013 Nike Just Lost One Of Its Biggest Soccer Stars After Nearly 20 Years",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/kylian-mbapp-joins-holding-nike-135003294.html",
+            "headline": "Soccer Star Mbapp\u00e9 Chooses On Holding Over Nike. What It Means for the Sportswear Stocks.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/8597d4b6-4fa9-3f64-9a53-2c00e628c3bf/soccer-star-mbapp%C3%A9-chooses-on.html",
             "score": 0
         },
         {
@@ -104,6 +97,13 @@
             "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
             "publisher": "TMX Newsfile",
             "link": "https://finance.yahoo.com/media-advertising/articles/tnl-mediagenes-news-lens-launches-113000993.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSTR",
+            "headline": "Netflix, Nucor, On Holding, StubHub, Xenon, Coinbase, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/netflix%2C-nucor%2C-on-holding%2C.html",
             "score": 0
         },
         {
