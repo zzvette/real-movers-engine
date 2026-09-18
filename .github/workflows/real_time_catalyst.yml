@@ -7,7 +7,7 @@ on:
     # Intraday: every 2 minutes, 9:30–16:00 EST (approx)
     - cron: "*/2 14-20 * * 1-5"
     # After hours: every 10 minutes, 16:00–20:00 EST (approx)
-    - cron: "*/10 20-24 * * 1-5"
+    - cron: "*/10 20-23 * * 1-5"
     # Night: every 30 minutes, 0:00–4:00 EST (approx)
     - cron: "*/30 0-4 * * 1-5"
 
