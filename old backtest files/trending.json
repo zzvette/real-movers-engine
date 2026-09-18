@@ -1,0 +1,147 @@
+{
+    "timestamp": "2026-09-15T13:22:42.799495+00:00",
+    "symbols": [
+        "BAC",
+        "FTFT",
+        "FPS",
+        "COIN",
+        "SUGP",
+        "ZS",
+        "VERA",
+        "PDSB",
+        "BDRX",
+        "MYSZ",
+        "PLAY",
+        "ADBT",
+        "VRA",
+        "MTEN",
+        "ARWR",
+        "ENVA",
+        "TRUG",
+        "CTNT",
+        "CCXI",
+        "NTSK"
+    ],
+    "quotes": [
+        {
+            "symbol": "BAC",
+            "price": 59.47,
+            "change_pct": -5.13638,
+            "volume": 61683436
+        },
+        {
+            "symbol": "FTFT",
+            "price": 8.04,
+            "change_pct": 179.167,
+            "volume": 123891950
+        },
+        {
+            "symbol": "FPS",
+            "price": 28.64,
+            "change_pct": -9.99372,
+            "volume": 12159975
+        },
+        {
+            "symbol": "COIN",
+            "price": 191.45,
+            "change_pct": 9.23771,
+            "volume": 13110304
+        },
+        {
+            "symbol": "SUGP",
+            "price": 0.7114,
+            "change_pct": 9.46299,
+            "volume": 669534
+        },
+        {
+            "symbol": "ZS",
+            "price": 191.73,
+            "change_pct": 16.5249,
+            "volume": 7515078
+        },
+        {
+            "symbol": "VERA",
+            "price": 34.05,
+            "change_pct": -2.85307,
+            "volume": 1702953
+        },
+        {
+            "symbol": "PDSB",
+            "price": 0.3991,
+            "change_pct": 35.334,
+            "volume": 75842101
+        },
+        {
+            "symbol": "BDRX",
+            "price": 1.12,
+            "change_pct": -13.8462,
+            "volume": 6019180
+        },
+        {
+            "symbol": "MYSZ",
+            "price": 1.66,
+            "change_pct": -4.04625,
+            "volume": 375141
+        },
+        {
+            "symbol": "PLAY",
+            "price": 8.47,
+            "change_pct": 4.05405,
+            "volume": 7568413
+        },
+        {
+            "symbol": "ADBT",
+            "price": 0.097,
+            "change_pct": -58.2436,
+            "volume": 102245585
+        },
+        {
+            "symbol": "VRA",
+            "price": 3.04,
+            "change_pct": -3.18472,
+            "volume": 522301
+        },
+        {
+            "symbol": "MTEN",
+            "price": 1.01,
+            "change_pct": -0.980391,
+            "volume": 77932
+        },
+        {
+            "symbol": "ARWR",
+            "price": 80.67,
+            "change_pct": -2.63126,
+            "volume": 1319199
+        },
+        {
+            "symbol": "ENVA",
+            "price": 226.72,
+            "change_pct": 1.4498,
+            "volume": 194008
+        },
+        {
+            "symbol": "TRUG",
+            "price": 0.6404,
+            "change_pct": -1.97459,
+            "volume": 20779559
+        },
+        {
+            "symbol": "CTNT",
+            "price": 0.1514,
+            "change_pct": -86.9483,
+            "volume": 93602941
+        },
+        {
+            "symbol": "CCXI",
+            "price": 12.0,
+            "change_pct": -2.5974,
+            "volume": 2845834
+        },
+        {
+            "symbol": "NTSK",
+            "price": 17.0,
+            "change_pct": 15.6463,
+            "volume": 13459507
+        }
+    ]
+}

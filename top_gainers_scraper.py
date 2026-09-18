@@ -1,80 +1,46 @@
-# top_gainers_scraper.py
+from playwright.sync_api import sync_playwright
+from playwright_stealth import stealth
 
-import requests
+FINVIZ_URL = "https://finviz.com/screener.ashx?v=111&s=ta_topgainers"
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-YAHOO_GAINERS_URL = (
-    "https://query1.finance.yahoo.com/v1/finance/screener/predefined/"
-    "day_gainers?count=50&offset=0"
-)
-
-
-def fetch_top_gainers(limit: int = 10):
-    """
-    Pull top gainers from Yahoo Finance's official 'day_gainers' screener.
-
-    Returns a list of dicts:
-    [
-        {
-            "symbol": "NVDA",
-            "price": 123.45,
-            "change": 8.23,
-            "change_pct": 7.12,
-            "volume": 45678900,
-            "score": 82
-        },
-        ...
-    ]
-    """
-
-    try:
-        resp = requests.get(YAHOO_GAINERS_URL, headers=HEADERS, timeout=10)
-        data = resp.json()
-        quotes = data["finance"]["result"][0]["quotes"]
-    except Exception:
-        return []
-
+def fetch_top_gainers(limit=10):
     results = []
 
-    for q in quotes:
-        try:
-            symbol = q.get("symbol")
-            price = q.get("regularMarketPrice")
-            change = q.get("regularMarketChange")
-            change_pct = q.get("regularMarketChangePercent")
-            volume = q.get("regularMarketVolume")
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            stealth(page)
 
-            # Reject invalid entries
-            if (
-                not symbol
-                or price is None
-                or change is None
-                or change_pct is None
-                or volume is None
-            ):
-                continue
+            page.goto(FINVIZ_URL, timeout=60000)
+            page.wait_for_selector("table.screener-table", timeout=60000)
 
-            # Simple score heuristic (same logic used in reversal_engine)
-            pct_component = max(min(change_pct * 2, 60), -20)
-            vol_component = min(volume / 1_000_000, 40)
-            score = int(max(min(pct_component + vol_component, 100), 0))
+            rows = page.locator("table.screener-table tr").all()[1:]
 
-            results.append(
-                {
+            for row in rows[:limit]:
+                cols = row.locator("td").all()
+
+                symbol = cols[1].inner_text().strip()
+                price = float(cols[2].inner_text().replace(",", ""))
+                change_pct = float(cols[5].inner_text().replace("%", "").replace("+", "").replace(",", ""))
+                volume = int(cols[7].inner_text().replace(",", ""))
+
+                pct_component = max(min(change_pct * 2, 60), -20)
+                vol_component = min(volume / 1_000_000, 40)
+                score = int(max(min(pct_component + vol_component, 100), 0))
+
+                results.append({
                     "symbol": symbol,
                     "price": price,
-                    "change": change,
                     "change_pct": change_pct,
                     "volume": volume,
                     "score": score,
-                }
-            )
+                })
 
-        except Exception:
-            continue
+            browser.close()
 
-    # Sort by percent change
-    results.sort(key=lambda x: x["change_pct"], reverse=True)
+    except Exception as e:
+        print("ERROR in fetch_top_gainers:", e)
+        return []
 
-    return results[:limit]
+    return results

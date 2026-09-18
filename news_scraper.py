@@ -1,65 +1,61 @@
-# news_scraper.py
-
 import requests
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+}
 
-# Yahoo Finance news feed (official JSON)
-YAHOO_NEWS_URL = (
-    "https://query1.finance.yahoo.com/v1/finance/news?category=generalnews"
-)
-
+SEARCH_URL = "https://query2.finance.yahoo.com/v1/finance/search?q={symbol}"
+TRENDING_URL = "https://query2.finance.yahoo.com/v1/finance/trending/US"
 
 def fetch_news_catalysts(limit: int = 20):
-    """
-    Pull news headlines from Yahoo Finance and extract tickers.
-
-    Returns a list of dicts:
-    [
-        {
-            "symbol": "TSLA",
-            "headline": "Tesla jumps after strong delivery numbers"
-        },
-        ...
-    ]
-    """
-
-    try:
-        resp = requests.get(YAHOO_NEWS_URL, headers=HEADERS, timeout=10)
-        data = resp.json()
-        items = data.get("items", [])
-    except Exception:
-        return []
-
     results = []
 
-    for item in items:
-        try:
-            headline = item.get("title")
-            related = item.get("relatedTickers", [])
+    # Step 1: Get trending tickers from Yahoo
+    try:
+        resp = requests.get(TRENDING_URL, headers=HEADERS, timeout=10)
+        data = resp.json()
+        symbols = [q["symbol"] for q in data["finance"]["result"][0]["quotes"][:50]]
+    except Exception as e:
+        print("ERROR fetching trending tickers:", e)
+        return []
 
-            if not headline or not related:
+    # Step 2: Fetch news for each symbol
+    for sym in symbols:
+        try:
+            url = SEARCH_URL.format(symbol=sym)
+            resp = requests.get(url, headers=HEADERS, timeout=10)
+            data = resp.json()
+
+            items = data.get("news", [])
+            if not items:
                 continue
 
-            # Attach headline to each related ticker
-            for sym in related:
-                results.append(
-                    {
-                        "symbol": sym,
-                        "headline": headline,
-                    }
-                )
+            for item in items[:3]:  # limit per symbol
+                title = item.get("title")
+                publisher = item.get("publisher")
+                link = item.get("link")
 
-        except Exception:
+                if not title:
+                    continue
+
+                results.append({
+                    "symbol": sym,
+                    "headline": title,
+                    "publisher": publisher,
+                    "link": link
+                })
+
+        except Exception as e:
+            print("ERROR fetching news for", sym, ":", e)
             continue
 
-    # Deduplicate by symbol
+    # Step 3: Deduplicate by symbol
     seen = set()
-    unique_results = []
+    unique = []
 
     for r in results:
         if r["symbol"] not in seen:
             seen.add(r["symbol"])
-            unique_results.append(r)
+            unique.append(r)
 
-    return unique_results[:limit]
+    return unique[:limit]

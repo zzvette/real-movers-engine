@@ -1,4 +1,119 @@
 {
-    "timestamp": "2026-09-15T03:44:31.635779",
-    "catalysts": {}
+    "timestamp": "2026-09-16T22:30:12.091711+00:00",
+    "catalysts": [
+        {
+            "symbol": "MEDS",
+            "headline": "Sector Update: Healthcare Stocks Edge Lower Late Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-edge-lower-194551510.html"
+        },
+        {
+            "symbol": "BA",
+            "headline": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/8553f5cb-546f-338e-b794-6f7604bfb687/boeing-stock-skids-as-ceo.html"
+        },
+        {
+            "symbol": "SNYR",
+            "headline": "How a Costco partner's bankruptcy could benefit its biggest rival",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
+        },
+        {
+            "symbol": "ON",
+            "headline": "Here's Why ON Semiconductor Corp. (ON) Fell More Than Broader Market",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-semiconductor-corp-fell-215005006.html"
+        },
+        {
+            "symbol": "DLXY",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-184101406.html"
+        },
+        {
+            "symbol": "LEN",
+            "headline": "Lennar (LEN) Lags Q3 Earnings and Revenue Estimates",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-lags-q3-earnings-214001622.html"
+        },
+        {
+            "symbol": "^DJI",
+            "headline": "TXO Partners LP (TXO) Declines More Than Market: Some Information for Investors",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-declines-221504118.html"
+        },
+        {
+            "symbol": "FLNC",
+            "headline": "FLNC Stock Tumbles After-Hours As Houston Plant Delays Force Another Guidance Cut",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-tumbles-hours-houston-211902009.html"
+        },
+        {
+            "symbol": "GNRC",
+            "headline": "Amazon Deal Sends Generac Stock Skyrocketing Late",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/69240845-89cb-3d1b-92bb-16c0aeb6eb48/amazon-deal-sends-generac.html"
+        },
+        {
+            "symbol": "SPY",
+            "headline": "Buffer ETFs Promise 100 Percent Downside Protection. Here Is How That Actually Works and What You Give Up",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/options/articles/buffer-etfs-promise-100-percent-212540957.html"
+        },
+        {
+            "symbol": "JBHT",
+            "headline": "Auto & Transport Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/9b752ea8-7531-366e-8aae-dec2051d7b73/auto-%26-transport-roundup%3A.html"
+        },
+        {
+            "symbol": "QCLS",
+            "headline": "Health Care Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/5e101bdb-36a0-3645-a7ab-6493bf7a0adc/health-care-roundup%3A-market.html"
+        },
+        {
+            "symbol": "LITE",
+            "headline": "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/axt-rises-10-being-named-204003104.html"
+        },
+        {
+            "symbol": "AEHL",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018991.html"
+        },
+        {
+            "symbol": "ZTG",
+            "headline": "Zenta Group Company Limited Announces Agreement to Acquire ZentoAI Intelligent Technology Company Limited",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/zenta-group-company-limited-announces-153000405.html"
+        },
+        {
+            "symbol": "DCX",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173945885.html"
+        },
+        {
+            "symbol": "AXTI",
+            "headline": "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/axt-rises-10-being-named-204003104.html"
+        },
+        {
+            "symbol": "GLOO",
+            "headline": "Gloo Holdings, Inc. Q2 2027 Earnings Call Summary",
+            "publisher": "Moby",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/gloo-holdings-inc-q2-2027-123000622.html"
+        },
+        {
+            "symbol": "SPCX",
+            "headline": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/65f68f37-8011-33ac-af60-a2d54da41be8/amd%2C-ibd-stock-of-the-day%2C.html"
+        }
+    ]
 }
