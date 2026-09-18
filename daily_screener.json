@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-09-18T15:08:31.903419+00:00",
+    "timestamp": "2026-09-18T15:21:25.364909+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "SSM",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html",
+                "symbol": "COIN",
+                "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
                 "score": 3
             },
             {
@@ -17,10 +17,10 @@
                 "score": 3
             },
             {
-                "symbol": "PURR",
-                "headline": "Top Premarket Gainers",
+                "symbol": "SSM",
+                "headline": "Top Midday Gainers",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111633221.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html",
                 "score": 3
             },
             {
@@ -31,73 +31,10 @@
                 "score": 2
             },
             {
-                "symbol": "TCRT",
-                "headline": "Alaunos Therapeutics, Inc. Announces Pricing of Registered Direct Offering priced at-the-market under Nasdaq rules",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/alaunos-therapeutics-inc-announces-pricing-130000291.html",
-                "score": 2
-            },
-            {
                 "symbol": "NFLX",
                 "headline": "Is Disney Stock A Bargain Or Just A Slower Grower?",
                 "publisher": "Trefis",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/disney-stock-bargain-just-slower-144111221.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOG",
-                "headline": "Wall St slips as higher Treasury yields weigh on sentiment",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html",
-                "score": 0
-            },
-            {
-                "symbol": "GIPR",
-                "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
-                "publisher": "ACCESS Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOGL",
-                "headline": "Wall St slips as higher Treasury yields weigh on sentiment",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html",
-                "score": 0
-            },
-            {
-                "symbol": "IMCC",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "DKNG",
-                "headline": "UBS Adjusts DraftKings Price Target to $48 From $49, Maintains Buy Rating",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-draftkings-price-target-132142948.html",
-                "score": 0
-            },
-            {
-                "symbol": "PEP",
-                "headline": "Coca-Cola Stock Is Up 9,234% Since Warren Buffett\u2019s Famous 1988 Bet. Here\u2019s How Much He Would Have Made If He Bet On Pepsi Instead.",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-9-234-140803566.html",
-                "score": 0
-            },
-            {
-                "symbol": "ONON",
-                "headline": "CNBC Host Says Berkshire Should Buy Iconic Consumer Brand After Stock Falls 75%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cnbc-host-says-berkshire-buy-144105168.html",
-                "score": 0
-            },
-            {
-                "symbol": "TNMG",
-                "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
-                "publisher": "TMX Newsfile",
-                "link": "https://finance.yahoo.com/media-advertising/articles/tnl-mediagenes-news-lens-launches-113000993.html",
                 "score": 0
             },
             {
@@ -108,10 +45,24 @@
                 "score": 0
             },
             {
-                "symbol": "CPOP",
-                "headline": "Pop Culture Group Co., Ltd Announces 15 for 1 Share Consolidation",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/pop-culture-group-co-ltd-200000819.html",
+                "symbol": "GIPR",
+                "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html",
+                "score": 0
+            },
+            {
+                "symbol": "IMCC",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "HOOD",
+                "headline": "Netflix, Nucor, On Holding, StubHub, Xenon, Coinbase, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/netflix%2C-nucor%2C-on-holding%2C.html",
                 "score": 0
             },
             {
@@ -122,10 +73,59 @@
                 "score": 0
             },
             {
-                "symbol": "HELP",
-                "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
+                "symbol": "SNDK",
+                "headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-sinks.html",
+                "score": 0
+            },
+            {
+                "symbol": "GOOGL",
+                "headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-sinks.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBIT",
+                "headline": "Equitable (EQH) Just Put Bitcoin Inside a Retirement Annuity",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/equitable-eqh-just-put-bitcoin-054059845.html",
+                "score": 0
+            },
+            {
+                "symbol": "MHGU",
+                "headline": "Giant Wendy\u2019s franchisee Meritage Hospitality Group files for bankruptcy",
+                "publisher": "Nation's Restaurant News",
+                "link": "https://finance.yahoo.com/small-business/articles/giant-wendy-franchisee-meritage-hospitality-134240961.html",
+                "score": 0
+            },
+            {
+                "symbol": "TNMG",
+                "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
+                "publisher": "TMX Newsfile",
+                "link": "https://finance.yahoo.com/media-advertising/articles/tnl-mediagenes-news-lens-launches-113000993.html",
+                "score": 0
+            },
+            {
+                "symbol": "GOOG",
+                "headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-sinks.html",
+                "score": 0
+            },
+            {
+                "symbol": "ALMR",
+                "headline": "Alamar Biosciences to Participate in Morgan Stanley 24th Annual Global Healthcare Conference",
                 "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/alamar-biosciences-participate-morgan-stanley-200500130.html",
+                "score": 0
+            },
+            {
+                "symbol": "BABA",
+                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144144656.html",
                 "score": 0
             }
         ]
