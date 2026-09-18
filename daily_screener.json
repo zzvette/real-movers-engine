@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T22:46:45.126543+00:00",
+    "timestamp": "2026-09-18T22:56:23.961701+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "SNDK",
-                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally",
+                "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
+                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
                 "score": 0
             },
             {
@@ -46,16 +46,16 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "3 Dividend Stocks to Buy and Hold for 10 Years",
+                "headline": "Why Wendy's Stock Flopped on Friday",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-hold-223301458.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-wendys-stock-flopped-friday-224154551.html",
                 "score": 0
             },
             {
                 "symbol": "AMD",
-                "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
+                "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
                 "score": 0
             },
             {
@@ -95,9 +95,9 @@
             },
             {
                 "symbol": "IBIT",
-                "headline": "The SEC Greenlights Tokenized Stocks... With Caveats",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-caveats-220732726.html",
+                "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
                 "score": 0
             },
             {
