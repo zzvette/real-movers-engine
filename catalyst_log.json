@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T17:35:23.744196+00:00",
+    "timestamp": "2026-09-18T17:42:07.051013+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -7,13 +7,6 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
             "score": 6
-        },
-        {
-            "symbol": "ONON",
-            "headline": "On Holding\u2019s Kylian Mbapp\u00e9 Deal Splits Analysts \u2014 Why Wall Street Has Different Takes On ONON",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-kylian-mbapp-deal-splits-170634965.html",
-            "score": 2
         },
         {
             "symbol": "MSTR",
@@ -90,6 +83,13 @@
             "headline": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-falls-3-while-consumer-170726924.html",
+            "score": 0
+        },
+        {
+            "symbol": "ONON",
+            "headline": "Sector Update: Consumer Stocks Softer Friday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-friday-172934527.html",
             "score": 0
         },
         {
