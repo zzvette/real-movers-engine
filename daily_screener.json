@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T19:05:06.621439+00:00",
+    "timestamp": "2026-09-18T19:17:39.453434+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,24 +10,17 @@
                 "score": 6
             },
             {
-                "symbol": "ZTG",
-                "headline": "Zenta Group Company Limited Announces Agreement to Acquire ZentoAI Intelligent Technology Company Limited",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/zenta-group-company-limited-announces-153000405.html",
-                "score": 2
+                "symbol": "BMNR",
+                "headline": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html",
+                "score": 3
             },
             {
                 "symbol": "MSTR",
                 "headline": "Investing.com\u2019s stocks of the week",
                 "publisher": "Investing.com",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182842541.html",
-                "score": 0
-            },
-            {
-                "symbol": "SNDK",
-                "headline": "Credo Technology Group vs. Sandisk: Which Technology Stock Is a Better Buy in 2026?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-vs-sandisk-180501158.html",
                 "score": 0
             },
             {
@@ -38,10 +31,24 @@
                 "score": 0
             },
             {
+                "symbol": "SNDK",
+                "headline": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+                "score": 0
+            },
+            {
                 "symbol": "COIN",
-                "headline": "Is Solana the Biggest Winner From the SEC\u2019s Tokenized Stock Rule? $465 Million of Stocks Already Trade There",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/solana-biggest-winner-sec-tokenized-183044485.html",
+                "headline": "COIN Stock Trades at a Premium to Industry: What Should Investors Do?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/coin-stock-trades-premium-industry-190200724.html",
+                "score": 0
+            },
+            {
+                "symbol": "MU",
+                "headline": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
                 "score": 0
             },
             {
@@ -53,16 +60,9 @@
             },
             {
                 "symbol": "HOOD",
-                "headline": "Stock Market Today: Dow Pressured Hit 5%; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
-                "score": 0
-            },
-            {
-                "symbol": "XENE",
-                "headline": "Sector Update: Healthcare Stocks Decline Friday Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-friday-173838911.html",
+                "headline": "COIN Stock Trades at a Premium to Industry: What Should Investors Do?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/coin-stock-trades-premium-industry-190200724.html",
                 "score": 0
             },
             {
@@ -73,10 +73,24 @@
                 "score": 0
             },
             {
-                "symbol": "MARA",
-                "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
+                "symbol": "XENE",
+                "headline": "Sector Update: Healthcare Stocks Decline Friday Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-friday-173838911.html",
+                "score": 0
+            },
+            {
+                "symbol": "IREN",
+                "headline": "Why Wall Street is Bullish On The AI Service Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/ad672612-e12d-3fd1-a586-8b76b9ff3028/why-wall-street-is-bullish-on.html",
+                "score": 0
+            },
+            {
+                "symbol": "FPS",
+                "headline": "Darden Restaurants, Costco In Earnings Spotlight, Along With This IT Distributor",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/55ebcb2f-36da-3667-af50-afa0729b542d/darden-restaurants%2C-costco-in.html",
                 "score": 0
             },
             {
@@ -84,6 +98,13 @@
                 "headline": "Meritage Hospitality files for Chapter 11 bankruptcy",
                 "publisher": "Quartz",
                 "link": "https://finance.yahoo.com/news/meritage-hospitality-files-chapter-11-174333665.html",
+                "score": 0
+            },
+            {
+                "symbol": "KEEL",
+                "headline": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-faces-shakeout-corz-161546106.html",
                 "score": 0
             },
             {
@@ -98,34 +119,6 @@
                 "headline": "Sector Update: Consumer Stocks Softer Friday Afternoon",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-friday-172934527.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "Micron Adds 1.3% as Intel Extends Memory Scarcity Into 2027",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/micron-adds-1-3-intel-182356450.html",
-                "score": 0
-            },
-            {
-                "symbol": "QNME",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "ITUB",
-                "headline": "Nu Holdings Cut to Market Perform on Brazil Credit Risk",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-cut-market-perform-165559776.html",
-                "score": 0
-            },
-            {
-                "symbol": "PEP",
-                "headline": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-falls-3-while-consumer-170726924.html",
                 "score": 0
             }
         ]
