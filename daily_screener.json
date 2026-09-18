@@ -1,122 +1,120 @@
 {
-    "timestamp": "2026-09-16T22:30:12.091711+00:00",
+    "timestamp": "2026-09-18T03:53:27.848997+00:00",
     "signals": {
-        "gainers": [],
-        "highs": [],
         "catalysts": [
             {
-                "symbol": "MEDS",
-                "headline": "Sector Update: Healthcare Stocks Edge Lower Late Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-edge-lower-194551510.html"
-            },
-            {
-                "symbol": "BA",
-                "headline": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
+                "symbol": "DKNG",
+                "headline": "CFTC Backs Off Prediction Markets, Crypto Trading Enforcement",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/8553f5cb-546f-338e-b794-6f7604bfb687/boeing-stock-skids-as-ceo.html"
+                "link": "https://finance.yahoo.com/m/5bcbb10c-0d10-3bec-9eb5-7d30dba919ff/cftc-backs-off-prediction.html"
             },
             {
-                "symbol": "SNYR",
-                "headline": "How a Costco partner's bankruptcy could benefit its biggest rival",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
+                "symbol": "SDGR",
+                "headline": "Schr\u00f6dinger Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/schr-dinger-reports-inducement-grants-123000554.html"
             },
             {
-                "symbol": "ON",
-                "headline": "Here's Why ON Semiconductor Corp. (ON) Fell More Than Broader Market",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-semiconductor-corp-fell-215005006.html"
-            },
-            {
-                "symbol": "DLXY",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-184101406.html"
-            },
-            {
-                "symbol": "LEN",
-                "headline": "Lennar (LEN) Lags Q3 Earnings and Revenue Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-lags-q3-earnings-214001622.html"
-            },
-            {
-                "symbol": "^DJI",
-                "headline": "TXO Partners LP (TXO) Declines More Than Market: Some Information for Investors",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-declines-221504118.html"
-            },
-            {
-                "symbol": "FLNC",
-                "headline": "FLNC Stock Tumbles After-Hours As Houston Plant Delays Force Another Guidance Cut",
+                "symbol": "OKLO",
+                "headline": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-tumbles-hours-houston-211902009.html"
+                "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html"
             },
             {
-                "symbol": "GNRC",
-                "headline": "Amazon Deal Sends Generac Stock Skyrocketing Late",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/69240845-89cb-3d1b-92bb-16c0aeb6eb48/amazon-deal-sends-generac.html"
-            },
-            {
-                "symbol": "SPY",
-                "headline": "Buffer ETFs Promise 100 Percent Downside Protection. Here Is How That Actually Works and What You Give Up",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/options/articles/buffer-etfs-promise-100-percent-212540957.html"
-            },
-            {
-                "symbol": "JBHT",
-                "headline": "Auto & Transport Roundup: Market Talk",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/9b752ea8-7531-366e-8aae-dec2051d7b73/auto-%26-transport-roundup%3A.html"
-            },
-            {
-                "symbol": "QCLS",
-                "headline": "Health Care Roundup: Market Talk",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/5e101bdb-36a0-3645-a7ab-6493bf7a0adc/health-care-roundup%3A-market.html"
-            },
-            {
-                "symbol": "LITE",
-                "headline": "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/axt-rises-10-being-named-204003104.html"
-            },
-            {
-                "symbol": "AEHL",
+                "symbol": "AEMD",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018991.html"
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
             },
             {
-                "symbol": "ZTG",
-                "headline": "Zenta Group Company Limited Announces Agreement to Acquire ZentoAI Intelligent Technology Company Limited",
+                "symbol": "TEM",
+                "headline": "Will 2026 Doom and Gloom Lead to Opportunity?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html"
+            },
+            {
+                "symbol": "HELP",
+                "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
                 "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/zenta-group-company-limited-announces-153000405.html"
+                "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
             },
             {
-                "symbol": "DCX",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173945885.html"
+                "symbol": "RARE",
+                "headline": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/abeo-stock-gains-approval-drug-233330146.html"
             },
             {
-                "symbol": "AXTI",
-                "headline": "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/axt-rises-10-being-named-204003104.html"
-            },
-            {
-                "symbol": "GLOO",
-                "headline": "Gloo Holdings, Inc. Q2 2027 Earnings Call Summary",
-                "publisher": "Moby",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gloo-holdings-inc-q2-2027-123000622.html"
-            },
-            {
-                "symbol": "SPCX",
-                "headline": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
+                "symbol": "TMUS",
+                "headline": "Apple iPhone 18 Pro Sales Helped By Carrier Promotions",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/65f68f37-8011-33ac-af60-a2d54da41be8/amd%2C-ibd-stock-of-the-day%2C.html"
+                "link": "https://finance.yahoo.com/m/74d62a29-1f7b-3f95-924b-399b49b779b5/apple-iphone-18-pro-sales.html"
+            },
+            {
+                "symbol": "PURR",
+                "headline": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
+            },
+            {
+                "symbol": "DAIC",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111218000.html"
+            },
+            {
+                "symbol": "BB",
+                "headline": "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-climbs-6-mobileye-rises-170301787.html"
+            },
+            {
+                "symbol": "MRNA",
+                "headline": "Dow Jones Futures: S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures%3A-s%26p-500%2C.html"
+            },
+            {
+                "symbol": "BABA",
+                "headline": "Alibaba Raised $10 Billion for AI While Sitting on $30 Billion in Cash. Here\u2019s Where the Stock Could Go",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
+            },
+            {
+                "symbol": "LCID",
+                "headline": "Early Uber Investor Sees \u2018All Car Companies\u2019 Joining Robotaxi Gold Rush \u2014 Lucid And Baidu Take It Global",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/early-uber-investor-sees-car-032436796.html"
+            },
+            {
+                "symbol": "CTNT",
+                "headline": "Top Premarket Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-113406053.html"
+            },
+            {
+                "symbol": "SMR",
+                "headline": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html"
+            },
+            {
+                "symbol": "SOXS",
+                "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html"
+            },
+            {
+                "symbol": "HPE",
+                "headline": "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-priced-orders-not-182258001.html"
+            },
+            {
+                "symbol": "NIO",
+                "headline": "NIO Stock Jumps Overnight: SUV Boom Helps Overtake Mercedes, BMW And Audi Across 8 Chinese Regions",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-jumps-overnight-suv-033549530.html"
             }
         ]
     }
