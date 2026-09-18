@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T16:50:33.585283+00:00",
+    "timestamp": "2026-09-18T16:56:13.053685+00:00",
     "signals": {
         "catalysts": [
             {
@@ -95,6 +95,13 @@
             },
             {
                 "symbol": "TRUG",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "MRNO",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
