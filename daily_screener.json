@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T21:25:22.833324+00:00",
+    "timestamp": "2026-09-18T21:39:12.279227+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "NFLX",
-                "headline": "Wells Fargo Brutally Revamps Netflix Stock Price Target",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-brutally-revamps-netflix-202122052.html",
+                "headline": "Stock Market Today, Sept. 18: Netflix Falls on Analyst Downgrade and Slashed Price Target",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-18-211458239.html",
                 "score": 0
             },
             {
@@ -46,16 +46,16 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Nvidia Stock Is Up 21% in Six Months. Here\u2019s What the Street Still Isn\u2019t Pricing In",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-21-six-months-210406486.html",
+                "headline": "Nvidia-Backed Cloud Platform Nscale Files For IPO \u2014 NVDA Stock In Focus",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-backed-cloud-platform-nscale-213111866.html",
                 "score": 0
             },
             {
                 "symbol": "AMD",
-                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
+                "headline": "AMD (AMD) Stock Looks Cheap After Its Huge 3 Year Run",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-looks-cheap-211318753.html",
                 "score": 0
             },
             {
