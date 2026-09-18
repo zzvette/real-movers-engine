@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T17:47:56.146183+00:00",
+    "timestamp": "2026-09-18T17:53:29.157242+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "COIN",
-            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
+            "headline": "Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks",
+            "publisher": "CryptoProwl",
+            "link": "https://finance.yahoo.com/markets/options/articles/coinbase-seeks-approval-list-perpetual-173700089.html",
             "score": 0
         },
         {
@@ -59,9 +59,9 @@
         },
         {
             "symbol": "XENE",
-            "headline": "Xenon Pharmaceuticals falls 30% after depression trial enrollment pause",
-            "publisher": "Proactive",
-            "link": "https://finance.yahoo.com/healthcare/articles/xenon-pharmaceuticals-falls-30-depression-152700708.html",
+            "headline": "Sector Update: Healthcare Stocks Decline Friday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-friday-173838911.html",
             "score": 0
         },
         {
@@ -111,6 +111,13 @@
             "headline": "1 Safe-and-Steady Stock to Consider Right Now and 2 We Brush Off",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-consider-110440268.html",
+            "score": 0
+        },
+        {
+            "symbol": "TRUG",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
             "score": 0
         },
         {
