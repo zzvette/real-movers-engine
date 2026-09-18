@@ -1,9 +1,6 @@
 import json
 from datetime import datetime, timezone
 
-# Correct imports — these MUST be functions, not modules
-from top_gainers_scraper import fetch_top_gainers
-from top_52week_scraper import fetch_52week_gainers
 from news_scraper import fetch_news_catalysts
 
 
@@ -34,28 +31,15 @@ def debug_print(name: str, data):
 
 
 def run_all_scrapers():
-    """Run all scrapers and produce JSON outputs."""
+    """Run catalyst-only scraper and produce JSON outputs."""
 
-    # GitHub Actions-safe timestamp
     timestamp = datetime.now(timezone.utc).isoformat()
 
     # ---------------------------------------------------------
-    # RUN SCRAPERS
+    # RUN SCRAPER (Catalyst Only)
     # ---------------------------------------------------------
     try:
-        gainers = fetch_top_gainers(limit=10)
-    except Exception as e:
-        print("ERROR in fetch_top_gainers:", e)
-        gainers = []
-
-    try:
-        highs = fetch_52week_gainers(limit=10)
-    except Exception as e:
-        print("ERROR in fetch_52week_gainers:", e)
-        highs = []
-
-    try:
-        catalysts = fetch_news_catalysts(limit=20)
+        catalysts = fetch_news_catalysts(limit=50)
     except Exception as e:
         print("ERROR in fetch_news_catalysts:", e)
         catalysts = []
@@ -63,8 +47,6 @@ def run_all_scrapers():
     # ---------------------------------------------------------
     # DEBUG OUTPUT
     # ---------------------------------------------------------
-    debug_print("TOP GAINERS RAW", gainers)
-    debug_print("52-WEEK HIGHS RAW", highs)
     debug_print("NEWS CATALYSTS RAW", catalysts)
 
     # ---------------------------------------------------------
@@ -73,8 +55,6 @@ def run_all_scrapers():
     daily_screener = {
         "timestamp": timestamp,
         "signals": {
-            "gainers": gainers,
-            "highs": highs,
             "catalysts": catalysts,
         },
     }
@@ -82,16 +62,6 @@ def run_all_scrapers():
     # ---------------------------------------------------------
     # SAVE JSON OUTPUTS
     # ---------------------------------------------------------
-    save_json("top_gainers.json", {
-        "timestamp": timestamp,
-        "top_gainers": gainers
-    })
-
-    save_json("top_52week.json", {
-        "timestamp": timestamp,
-        "top_52week": highs
-    })
-
     save_json("catalyst_log.json", {
         "timestamp": timestamp,
         "catalysts": catalysts
@@ -103,7 +73,7 @@ def run_all_scrapers():
     # SUMMARY
     # ---------------------------------------------------------
     print("Scraper run complete.")
-    print(f"Gainers: {len(gainers)} | Highs: {len(highs)} | Catalysts: {len(catalysts)}")
+    print(f"Catalysts: {len(catalysts)}")
 
 
 if __name__ == "__main__":
