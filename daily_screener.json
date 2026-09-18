@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T13:23:57.175484+00:00",
+    "timestamp": "2026-09-18T13:36:33.774802+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,21 +10,21 @@
             },
             {
                 "symbol": "GOOG",
-                "headline": "Sector Update: Tech Stocks Mixed Premarket Friday",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-premarket-131018506.html"
+                "headline": "2 Volatile Stocks on Our Watchlist and 1 We Question",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/2-volatile-stocks-watchlist-1-132840031.html"
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Sector Update: Tech Stocks Mixed Premarket Friday",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-premarket-131018506.html"
+                "headline": "2 Volatile Stocks on Our Watchlist and 1 We Question",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/2-volatile-stocks-watchlist-1-132840031.html"
             },
             {
                 "symbol": "DKNG",
-                "headline": "CFTC Backs Off Prediction Markets, Crypto Trading Enforcement",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/5bcbb10c-0d10-3bec-9eb5-7d30dba919ff/cftc-backs-off-prediction.html"
+                "headline": "UBS Adjusts DraftKings Price Target to $48 From $49, Maintains Buy Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-draftkings-price-target-132142948.html"
             },
             {
                 "symbol": "IMCC",
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "MSTR",
-                "headline": "Intel, Netflix, Berkshire Hathaway, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/intel%2C-netflix%2C-berkshire.html"
+                "headline": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html"
             },
             {
                 "symbol": "AEMD",
@@ -88,9 +88,9 @@
             },
             {
                 "symbol": "RARE",
-                "headline": "/C O R R E C T I O N -- Andelyn Biosciences/",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/andelyn-curator-platform-achieve-first-120000644.html"
+                "headline": "Ultragenyx Gets A \u2018Much-Needed Win,\u2019 Says Cantor \u2013 Sees $400M Opportunity After FDA Approves Neurodegenerative Disease Therapy",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/ultragenyx-gets-much-needed-win-121658249.html"
             },
             {
                 "symbol": "JPY=X",
@@ -100,9 +100,9 @@
             },
             {
                 "symbol": "CL=F",
-                "headline": "Record diesel prices are hitting the West Coast the hardest: Chart of the Day",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/record-diesel-prices-are-hitting-the-west-coast-the-hardest-chart-of-the-day-131048678.html"
+                "headline": "Correction: Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/energy/articles/correction-market-chatter-saudi-aramco-132727566.html"
             },
             {
                 "symbol": "AKAN",
