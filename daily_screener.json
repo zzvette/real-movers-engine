@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T12:56:18.218958+00:00",
+    "timestamp": "2026-09-18T13:10:05.190395+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,15 +10,15 @@
             },
             {
                 "symbol": "GOOG",
-                "headline": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html"
+                "headline": "Sector Update: Tech",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125501018.html"
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Cloud AI Update - Expanse Revolutionizes AI Efficiency With Precise Resource Allocation",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-expanse-revolutionizes-ai-123756470.html"
+                "headline": "Sector Update: Tech",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125501018.html"
             },
             {
                 "symbol": "DKNG",
@@ -40,9 +40,9 @@
             },
             {
                 "symbol": "TCRT",
-                "headline": "Ziopharm: Q2 Earnings Snapshot",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ziopharm-q2-earnings-snapshot-215627281.html"
+                "headline": "Alaunos Therapeutics, Inc. Announces Pricing of Registered Direct Offering priced at-the-market under Nasdaq rules",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/alaunos-therapeutics-inc-announces-pricing-130000291.html"
             },
             {
                 "symbol": "MSTR",
@@ -88,9 +88,9 @@
             },
             {
                 "symbol": "RARE",
-                "headline": "Ultragenyx Gets A \u2018Much-Needed Win,\u2019 Says Cantor \u2013 Sees $400M Opportunity After FDA Approves Neurodegenerative Disease Therapy",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/ultragenyx-gets-much-needed-win-121658249.html"
+                "headline": "/C O R R E C T I O N -- Andelyn Biosciences/",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/andelyn-curator-platform-achieve-first-120000644.html"
             },
             {
                 "symbol": "JPY=X",
@@ -100,9 +100,9 @@
             },
             {
                 "symbol": "CL=F",
-                "headline": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html"
+                "headline": "Stock Market Today: Dow Falls As Oil Erases Losses; Buffett Departs Berkshire (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-falls.html"
             },
             {
                 "symbol": "AKAN",
