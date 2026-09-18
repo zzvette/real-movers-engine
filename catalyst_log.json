@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T09:09:03.883239+00:00",
+    "timestamp": "2026-09-18T09:24:14.246941+00:00",
     "catalysts": [
         {
             "symbol": "GOOG",
@@ -66,6 +66,12 @@
             "headline": "Why Are Nasdaq, S&P 500 And Dow Futures Rising Premarket? NVDA, CRWV, AMD, SPCX, BE Stocks In Focus",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-dow-082832323.html"
+        },
+        {
+            "symbol": "PURR",
+            "headline": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
         },
         {
             "symbol": "SNDK",
