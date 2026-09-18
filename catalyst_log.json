@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-18T16:25:22.509862+00:00",
+    "timestamp": "2026-09-18T16:34:33.460443+00:00",
     "catalysts": [
-        {
-            "symbol": "COIN",
-            "headline": "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
-            "score": 6
-        },
         {
             "symbol": "IBIT",
             "headline": "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000",
@@ -31,9 +24,9 @@
         },
         {
             "symbol": "MSTR",
-            "headline": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
             "score": 0
         },
         {
@@ -41,6 +34,13 @@
             "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
             "publisher": "ACCESS Newswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html",
+            "score": 0
+        },
+        {
+            "symbol": "COIN",
+            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
             "score": 0
         },
         {
@@ -59,16 +59,16 @@
         },
         {
             "symbol": "HOOD",
-            "headline": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-            "publisher": "TechCrunch",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-abhishek-fatehpuria-winning-modern-150000018.html",
+            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
             "score": 0
         },
         {
             "symbol": "XENE",
-            "headline": "Xenon Pharmaceuticals' Azetukalner Retains Core Epilepsy Value, RBC Capital Markets Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/xenon-pharmaceuticals-apos-azetukalner-retains-152123214.html",
+            "headline": "Xenon Pharmaceuticals falls 30% after depression trial enrollment pause",
+            "publisher": "Proactive",
+            "link": "https://finance.yahoo.com/healthcare/articles/xenon-pharmaceuticals-falls-30-depression-152700708.html",
             "score": 0
         },
         {
@@ -108,9 +108,9 @@
         },
         {
             "symbol": "MARA",
-            "headline": "Can Applied Digital Stock Recover On Leases It Has Already Signed?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-stock-recover-leases-194158184.html",
+            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
             "score": 0
         },
         {
