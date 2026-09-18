@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T14:34:48.066357+00:00",
+    "timestamp": "2026-09-18T14:44:08.677106+00:00",
     "catalysts": [
         {
             "symbol": "SSM",
@@ -30,13 +30,6 @@
             "score": 3
         },
         {
-            "symbol": "IMCC",
-            "headline": "IM Cannabis Raises US$225,000 of Gross Proceeds in Convertible Note Financing",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-raises-us-225-201000144.html",
-            "score": 2
-        },
-        {
             "symbol": "PAAI",
             "headline": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
             "publisher": "Business Wire",
@@ -51,13 +44,6 @@
             "score": 2
         },
         {
-            "symbol": "TRUG",
-            "headline": "TruGolf Links Announces New Initiatives with Polymath to Develop Financing Opportunities for Franchisees",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/trugolf-links-announces-initiatives-polymath-110400952.html",
-            "score": 2
-        },
-        {
             "symbol": "NFLX",
             "headline": "Netflix Shares Tumble After Streaming Giant Downgraded by Wells Fargo Analyst",
             "publisher": "MT Newswires",
@@ -66,9 +52,9 @@
         },
         {
             "symbol": "GOOG",
-            "headline": "Meta, X, Google CEOs Asked to Participate in NYC Council Hearing on AI Risks",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-x-google-ceos-asked-143302985.html",
+            "headline": "Wall St slips as higher Treasury yields weigh on sentiment",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html",
             "score": 0
         },
         {
@@ -80,9 +66,16 @@
         },
         {
             "symbol": "GOOGL",
-            "headline": "Meta, X, Google CEOs Asked to Participate in NYC Council Hearing on AI Risks",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-x-google-ceos-asked-143302985.html",
+            "headline": "Wall St slips as higher Treasury yields weigh on sentiment",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html",
+            "score": 0
+        },
+        {
+            "symbol": "IMCC",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
             "score": 0
         },
         {
@@ -118,6 +111,13 @@
             "headline": "Pop Culture Group Co., Ltd Announces 15 for 1 Share Consolidation",
             "publisher": "PR Newswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/pop-culture-group-co-ltd-200000819.html",
+            "score": 0
+        },
+        {
+            "symbol": "TRUG",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
             "score": 0
         },
         {
