@@ -1,12 +1,19 @@
 {
-    "timestamp": "2026-09-18T23:11:50.460848+00:00",
+    "timestamp": "2026-09-18T23:29:21.407617+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "MSTR",
-                "headline": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
-                "publisher": "CryptoProwl",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-climbs-back-220100164.html",
+                "headline": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption \u2014 A New Catalyst Looms Next Week",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
+                "score": 3
+            },
+            {
+                "symbol": "MARA",
+                "headline": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption \u2014 A New Catalyst Looms Next Week",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
                 "score": 3
             },
             {
@@ -46,9 +53,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Why Wendy's Stock Flopped on Friday",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-wendys-stock-flopped-friday-224154551.html",
+                "headline": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-said-ai-firm-232154601.html",
                 "score": 0
             },
             {
@@ -77,13 +84,6 @@
                 "headline": "Au Revoir, Nike: Kylian Mbappe Signs With On",
                 "publisher": "MediaPost",
                 "link": "https://finance.yahoo.com/media-advertising/articles/au-revoir-nike-kylian-mbappe-202759810.html",
-                "score": 0
-            },
-            {
-                "symbol": "MARA",
-                "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
                 "score": 0
             },
             {
