@@ -1,13 +1,13 @@
 {
-    "timestamp": "2026-09-18T16:02:51.828961+00:00",
+    "timestamp": "2026-09-18T16:14:44.369820+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "COIN",
-                "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
-                "score": 3
+                "headline": "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
+                "score": 6
             },
             {
                 "symbol": "SSM",
@@ -15,20 +15,6 @@
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html",
                 "score": 3
-            },
-            {
-                "symbol": "SNDK",
-                "headline": "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-jumps-6-storage-bid-155121366.html",
-                "score": 3
-            },
-            {
-                "symbol": "PAAI",
-                "headline": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/paradium-ai-signs-10-strategic-214500063.html",
-                "score": 2
             },
             {
                 "symbol": "NFLX",
@@ -39,9 +25,9 @@
             },
             {
                 "symbol": "MSTR",
-                "headline": "Netflix, Nucor, On Holding, StubHub, Xenon, Coinbase, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/netflix%2C-nucor%2C-on-holding%2C.html",
+                "headline": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
                 "score": 0
             },
             {
@@ -52,17 +38,17 @@
                 "score": 0
             },
             {
+                "symbol": "SNDK",
+                "headline": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+                "score": 0
+            },
+            {
                 "symbol": "IMCC",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "XENE",
-                "headline": "Xenon Pharmaceuticals' Azetukalner Retains Core Epilepsy Value, RBC Capital Markets Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/xenon-pharmaceuticals-apos-azetukalner-retains-152123214.html",
                 "score": 0
             },
             {
@@ -73,24 +59,10 @@
                 "score": 0
             },
             {
-                "symbol": "TRUG",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOGL",
-                "headline": "Meta Is About to Become Mega Cloud Operator",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/meta-become-mega-cloud-operator-154422140.html",
-                "score": 0
-            },
-            {
-                "symbol": "IBIT",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "symbol": "XENE",
+                "headline": "Xenon Pharmaceuticals' Azetukalner Retains Core Epilepsy Value, RBC Capital Markets Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/xenon-pharmaceuticals-apos-azetukalner-retains-152123214.html",
                 "score": 0
             },
             {
@@ -101,6 +73,48 @@
                 "score": 0
             },
             {
+                "symbol": "NCPL",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBIT",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "PEP",
+                "headline": "Coca-Cola Stock Is Up 9,234% Since Warren Buffett\u2019s Famous 1988 Bet. Here\u2019s How Much He Would Have Made If He Bet On Pepsi Instead.",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-9-234-140803566.html",
+                "score": 0
+            },
+            {
+                "symbol": "TRUG",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "MRNO",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "MARA",
+                "headline": "Can Applied Digital Stock Recover On Leases It Has Already Signed?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-stock-recover-leases-194158184.html",
+                "score": 0
+            },
+            {
                 "symbol": "TNMG",
                 "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
                 "publisher": "TMX Newsfile",
@@ -108,24 +122,10 @@
                 "score": 0
             },
             {
-                "symbol": "GOOG",
-                "headline": "Meta Is About to Become Mega Cloud Operator",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/meta-become-mega-cloud-operator-154422140.html",
-                "score": 0
-            },
-            {
                 "symbol": "ALMR",
                 "headline": "Alamar Biosciences to Participate in Morgan Stanley 24th Annual Global Healthcare Conference",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/healthcare/articles/alamar-biosciences-participate-morgan-stanley-200500130.html",
-                "score": 0
-            },
-            {
-                "symbol": "BABA",
-                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144144656.html",
                 "score": 0
             }
         ]
