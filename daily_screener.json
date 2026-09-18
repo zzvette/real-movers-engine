@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T09:57:52.681922+00:00",
+    "timestamp": "2026-09-18T10:13:32.100615+00:00",
     "signals": {
         "catalysts": [
             {
@@ -7,6 +7,18 @@
                 "headline": "Stocks to Watch: Nestle, Nike, Sandoz",
                 "publisher": "The Wall Street Journal",
                 "link": "https://finance.yahoo.com/m/8113683f-1185-3927-bc12-8765aef40bb9/stocks-to-watch%3A-nestle%2C.html"
+            },
+            {
+                "symbol": "NFLX",
+                "headline": "Wells Fargo Downgrades Netflix to Underweight From Equalweight, Adjusts Price Target to $57 From $80",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-downgrades-netflix-underweight-095112004.html"
+            },
+            {
+                "symbol": "AEMD",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
             },
             {
                 "symbol": "GOOGL",
@@ -27,13 +39,25 @@
                 "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html"
             },
             {
-                "symbol": "AEMD",
-                "headline": "BC-Most Active Stocks",
+                "symbol": "TCRT",
+                "headline": "Ziopharm: Q2 Earnings Snapshot",
                 "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ziopharm-q2-earnings-snapshot-215627281.html"
             },
             {
-                "symbol": "INTC",
+                "symbol": "CL=F",
+                "headline": "London's FTSE 100 retreats as banks, energy weigh but eyes weekly rise",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/londons-ftse-100-retreats-banks-100746049.html"
+            },
+            {
+                "symbol": "SSM",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html"
+            },
+            {
+                "symbol": "MSTR",
                 "headline": "Stocks to Watch: Nestle, Nike, Sandoz",
                 "publisher": "The Wall Street Journal",
                 "link": "https://finance.yahoo.com/m/8113683f-1185-3927-bc12-8765aef40bb9/stocks-to-watch%3A-nestle%2C.html"
@@ -45,10 +69,16 @@
                 "link": "https://finance.yahoo.com/markets/stocks/articles/schr-dinger-reports-inducement-grants-123000554.html"
             },
             {
-                "symbol": "MU",
-                "headline": "Micron's Largest Production Base Faces Strike Threats as Bonus Falls 'Short of Expectations,' Workers Demand Bigger Cut of AI-Driven Profits: Report",
-                "publisher": "Benzinga",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/microns-largest-production-faces-strike-052010224.html"
+                "symbol": "BABA",
+                "headline": "Alibaba Raised $10 Billion for AI While Sitting on $30 Billion in Cash. Here\u2019s Where the Stock Could Go",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
+            },
+            {
+                "symbol": "PAAI",
+                "headline": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/paradium-ai-signs-10-strategic-214500063.html"
             },
             {
                 "symbol": "TEM",
@@ -57,16 +87,10 @@
                 "link": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html"
             },
             {
-                "symbol": "BABA",
-                "headline": "Alibaba Raised $10 Billion for AI While Sitting on $30 Billion in Cash. Here\u2019s Where the Stock Could Go",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
-            },
-            {
-                "symbol": "AMD",
-                "headline": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rises-premarket-report-092213707.html"
+                "symbol": "HELP",
+                "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
             },
             {
                 "symbol": "PURR",
@@ -75,22 +99,10 @@
                 "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
             },
             {
-                "symbol": "SNDK",
-                "headline": "Sandisk Unveiled an $14 Billion Buyback and Warren Buffett Has Something to Say About It",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-unveiled-14-billion-buyback-042000962.html"
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "BioNTech Threw in the Towel on Its Colorectal Cancer Vaccine Trial. Should Investors Be Worried?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/healthcare/articles/biontech-threw-towel-colorectal-cancer-090400523.html"
-            },
-            {
-                "symbol": "RARE",
-                "headline": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/abeo-stock-gains-approval-drug-233330146.html"
+                "symbol": "JPY=X",
+                "headline": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/economy/policy/articles/bank-japan-set-raise-interest-220332298.html"
             },
             {
                 "symbol": "TMUS",
@@ -99,22 +111,16 @@
                 "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081316373.html"
             },
             {
-                "symbol": "IONQ",
-                "headline": "Here's What $1,000 Invested in IonQ Stock Could Be Worth by 2030",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-invested-ionq-053600289.html"
+                "symbol": "USDE",
+                "headline": "StablecoinX Names Christopher Jensen as CEO",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/stablecoinx-names-christopher-jensen-ceo-142101970.html"
             },
             {
-                "symbol": "CRSP",
-                "headline": "Where Will CRISPR Therapeutics Be in 10 Years if Gene Editing Fulfills Its Promise?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/healthcare/articles/where-crispr-therapeutics-10-years-032000546.html"
-            },
-            {
-                "symbol": "MSTR",
-                "headline": "Stocks to Watch: Nestle, Nike, Sandoz",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/8113683f-1185-3927-bc12-8765aef40bb9/stocks-to-watch%3A-nestle%2C.html"
+                "symbol": "BIAF",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-182242959.html"
             }
         ]
     }
