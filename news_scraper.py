@@ -7,6 +7,49 @@ HEADERS = {
 SEARCH_URL = "https://query2.finance.yahoo.com/v1/finance/search?q={symbol}"
 TRENDING_URL = "https://query2.finance.yahoo.com/v1/finance/trending/US"
 
+# ---------------------------------------------------------
+# KEYWORD GROUPS (your updated ranking)
+# ---------------------------------------------------------
+
+# Highest priority: movement words
+MOVEMENT_WORDS = [
+    "raised", "climbs", "climbed", "gainers", "gaining", "moving",
+    "jumps", "jumped", "surges", "surged", "spikes", "spiked",
+    "rebounds", "breakout", "breaks out"
+]
+
+# Second priority: money / institutional words
+MONEY_WORDS = [
+    "dollars", "cash", "percentage", "percent", "merger", "acquisition",
+    "financing", "offering", "agreement", "deal", "valuation", "buyout"
+]
+
+# ---------------------------------------------------------
+# SCORING FUNCTION
+# ---------------------------------------------------------
+
+def score_headline(text):
+    """Score a headline based on movement and money keywords."""
+    text_lower = text.lower()
+    score = 0
+
+    # Movement words = +3 each (highest priority)
+    for w in MOVEMENT_WORDS:
+        if w in text_lower:
+            score += 3
+
+    # Money words = +2 each (second priority)
+    for w in MONEY_WORDS:
+        if w in text_lower:
+            score += 2
+
+    return score
+
+
+# ---------------------------------------------------------
+# MAIN SCRAPER
+# ---------------------------------------------------------
+
 def fetch_news_catalysts(limit: int = 20):
     results = []
 
@@ -38,11 +81,15 @@ def fetch_news_catalysts(limit: int = 20):
                 if not title:
                     continue
 
+                # Score the headline
+                score = score_headline(title)
+
                 results.append({
                     "symbol": sym,
                     "headline": title,
                     "publisher": publisher,
-                    "link": link
+                    "link": link,
+                    "score": score
                 })
 
         except Exception as e:
@@ -58,4 +105,7 @@ def fetch_news_catalysts(limit: int = 20):
             seen.add(r["symbol"])
             unique.append(r)
 
-    return unique[:limit]
+    # Step 4: Sort by score (highest first)
+    unique_sorted = sorted(unique, key=lambda x: x["score"], reverse=True)
+
+    return unique_sorted[:limit]
