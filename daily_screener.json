@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-09-18T13:58:16.468383+00:00",
+    "timestamp": "2026-09-18T14:01:39.944987+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "NFLX",
-                "headline": "Netflix downgraded, Etsy upgraded: Wall Street's top analyst calls",
-                "publisher": "The Fly",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cigna-downgraded-humana-upgraded-wall-134340274.html"
+                "headline": "Netflix Shares Fall as Wells Fargo Turns Bearish",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-shares-fall-wells-fargo-135918935.html"
             },
             {
                 "symbol": "GOOG",
@@ -88,9 +88,9 @@
             },
             {
                 "symbol": "RARE",
-                "headline": "/C O R R E C T I O N -- Andelyn Biosciences/",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/andelyn-curator-platform-achieve-first-120000644.html"
+                "headline": "Ultragenyx Gets A \u2018Much-Needed Win,\u2019 Says Cantor \u2013 Sees $400M Opportunity After FDA Approves Neurodegenerative Disease Therapy",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/ultragenyx-gets-much-needed-win-121658249.html"
             },
             {
                 "symbol": "JPY=X",
