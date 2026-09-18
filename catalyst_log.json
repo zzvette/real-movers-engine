@@ -1,23 +1,23 @@
 {
-    "timestamp": "2026-09-18T13:10:05.190395+00:00",
+    "timestamp": "2026-09-18T13:23:57.175484+00:00",
     "catalysts": [
         {
             "symbol": "NFLX",
-            "headline": "Wells Fargo cuts Netflix rating on engagement risk, weak slate",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-cuts-netflix-rating-120836104.html"
+            "headline": "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-falls-4-wells-fargo-130606484.html"
         },
         {
             "symbol": "GOOG",
-            "headline": "Sector Update: Tech",
+            "headline": "Sector Update: Tech Stocks Mixed Premarket Friday",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125501018.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-premarket-131018506.html"
         },
         {
             "symbol": "GOOGL",
-            "headline": "Sector Update: Tech",
+            "headline": "Sector Update: Tech Stocks Mixed Premarket Friday",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125501018.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-premarket-131018506.html"
         },
         {
             "symbol": "DKNG",
@@ -99,9 +99,9 @@
         },
         {
             "symbol": "CL=F",
-            "headline": "Stock Market Today: Dow Falls As Oil Erases Losses; Buffett Departs Berkshire (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-falls.html"
+            "headline": "Record diesel prices are hitting the West Coast the hardest: Chart of the Day",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/record-diesel-prices-are-hitting-the-west-coast-the-hardest-chart-of-the-day-131048678.html"
         },
         {
             "symbol": "AKAN",
