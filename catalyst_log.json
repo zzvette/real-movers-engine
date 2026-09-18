@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T18:45:08.576957+00:00",
+    "timestamp": "2026-09-18T18:51:40.838320+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -69,13 +69,6 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-            "score": 0
-        },
-        {
-            "symbol": "MARA",
-            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
             "score": 0
         },
         {
