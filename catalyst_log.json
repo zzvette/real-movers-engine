@@ -1,11 +1,17 @@
 {
-    "timestamp": "2026-09-18T04:11:55.684883+00:00",
+    "timestamp": "2026-09-18T04:41:08.744060+00:00",
     "catalysts": [
         {
             "symbol": "DKNG",
             "headline": "CFTC Backs Off Prediction Markets, Crypto Trading Enforcement",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/5bcbb10c-0d10-3bec-9eb5-7d30dba919ff/cftc-backs-off-prediction.html"
+        },
+        {
+            "symbol": "AEMD",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
         },
         {
             "symbol": "SDGR",
@@ -20,52 +26,16 @@
             "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html"
         },
         {
-            "symbol": "AEMD",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
-        },
-        {
             "symbol": "TEM",
             "headline": "Will 2026 Doom and Gloom Lead to Opportunity?",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html"
         },
         {
-            "symbol": "HELP",
-            "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
-        },
-        {
-            "symbol": "RARE",
-            "headline": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/abeo-stock-gains-approval-drug-233330146.html"
-        },
-        {
-            "symbol": "TMUS",
-            "headline": "Apple iPhone 18 Pro Sales Helped By Carrier Promotions",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/74d62a29-1f7b-3f95-924b-399b49b779b5/apple-iphone-18-pro-sales.html"
-        },
-        {
-            "symbol": "PURR",
-            "headline": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
-        },
-        {
-            "symbol": "DAIC",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111218000.html"
-        },
-        {
-            "symbol": "BB",
-            "headline": "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-climbs-6-mobileye-rises-170301787.html"
+            "symbol": "JPY=X",
+            "headline": "Investors react to BOJ raising interest rates to 31-year high",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/economy/policy/articles/investors-react-boj-raising-interest-032308463.html"
         },
         {
             "symbol": "MRNA",
@@ -74,16 +44,46 @@
             "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures%3A-s%26p-500%2C.html"
         },
         {
+            "symbol": "TMUS",
+            "headline": "Apple iPhone 18 Pro Sales Helped By Carrier Promotions",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/74d62a29-1f7b-3f95-924b-399b49b779b5/apple-iphone-18-pro-sales.html"
+        },
+        {
+            "symbol": "RARE",
+            "headline": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/abeo-stock-gains-approval-drug-233330146.html"
+        },
+        {
+            "symbol": "CRSP",
+            "headline": "Where Will CRISPR Therapeutics Be in 10 Years if Gene Editing Fulfills Its Promise?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/healthcare/articles/where-crispr-therapeutics-10-years-032000546.html"
+        },
+        {
+            "symbol": "HELP",
+            "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
+        },
+        {
+            "symbol": "PURR",
+            "headline": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
+        },
+        {
+            "symbol": "BB",
+            "headline": "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-climbs-6-mobileye-rises-170301787.html"
+        },
+        {
             "symbol": "BABA",
             "headline": "Alibaba Raised $10 Billion for AI While Sitting on $30 Billion in Cash. Here\u2019s Where the Stock Could Go",
             "publisher": "TIKR",
             "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
-        },
-        {
-            "symbol": "LCID",
-            "headline": "Early Uber Investor Sees \u2018All Car Companies\u2019 Joining Robotaxi Gold Rush \u2014 Lucid And Baidu Take It Global",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/early-uber-investor-sees-car-032436796.html"
         },
         {
             "symbol": "CTNT",
@@ -92,28 +92,28 @@
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-113406053.html"
         },
         {
+            "symbol": "LCID",
+            "headline": "Early Uber Investor Sees \u2018All Car Companies\u2019 Joining Robotaxi Gold Rush \u2014 Lucid And Baidu Take It Global",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/early-uber-investor-sees-car-032436796.html"
+        },
+        {
+            "symbol": "DAIC",
+            "headline": "Top Premarket Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111218000.html"
+        },
+        {
+            "symbol": "SMCI",
+            "headline": "Will 2026 Doom and Gloom Lead to Opportunity?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html"
+        },
+        {
             "symbol": "SMR",
             "headline": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html"
-        },
-        {
-            "symbol": "SOXS",
-            "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html"
-        },
-        {
-            "symbol": "HPE",
-            "headline": "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-priced-orders-not-182258001.html"
-        },
-        {
-            "symbol": "NIO",
-            "headline": "NIO Stock Jumps Overnight: SUV Boom Helps Overtake Mercedes, BMW And Audi Across 8 Chinese Regions",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-jumps-overnight-suv-033549530.html"
         }
     ]
 }
