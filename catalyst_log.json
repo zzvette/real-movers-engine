@@ -1,23 +1,23 @@
 {
-    "timestamp": "2026-09-18T12:05:43.979488+00:00",
+    "timestamp": "2026-09-18T12:25:42.247040+00:00",
     "catalysts": [
         {
             "symbol": "NFLX",
-            "headline": "NFLX Stock Heads For 4-Day Slide, Extends September Losing Streak After Wells Fargo Flags \u201cWorrying\u201d Engagement In Downgrade",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nflx-stock-heads-4-day-110717047.html"
+            "headline": "Wells Fargo cuts Netflix rating on engagement risk, weak slate",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-cuts-netflix-rating-120836104.html"
         },
         {
             "symbol": "GOOG",
-            "headline": "Here's How Google Advertising Antitrust Ruling Could Play Out",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/e09a475a-3229-3db1-b035-946dec5d9f36/here%27s-how-google-advertising.html"
+            "headline": "Why Meta Could\u00a0Keep Surprising Wall\u00a0Street",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-meta-could-keep-surprising-120053070.html"
         },
         {
             "symbol": "GOOGL",
-            "headline": "Here's How Google Advertising Antitrust Ruling Could Play Out",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/e09a475a-3229-3db1-b035-946dec5d9f36/here%27s-how-google-advertising.html"
+            "headline": "Why Meta Could\u00a0Keep Surprising Wall\u00a0Street",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-meta-could-keep-surprising-120053070.html"
         },
         {
             "symbol": "DKNG",
@@ -87,9 +87,9 @@
         },
         {
             "symbol": "RARE",
-            "headline": "Andelyn and Its Curator\u00ae Platform Achieve First FDA-Approved Commercial Gene Therapy Manufacturing Milestone Following FDA Approval of Ultragenyx's FAYUVITM to Treat Sanfilippo Syndrome Type A (MPS IIIA)",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/andelyn-curator-platform-achieve-first-120000644.html"
+            "headline": "Ultragenyx Gets A \u2018Much-Needed Win,\u2019 Says Cantor \u2013 Sees $400M Opportunity After FDA Approves Neurodegenerative Disease Therapy",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/ultragenyx-gets-much-needed-win-121658249.html"
         },
         {
             "symbol": "JPY=X",
@@ -99,9 +99,9 @@
         },
         {
             "symbol": "CL=F",
-            "headline": "PERMIAN BASIN ROYALTY TRUST ANNOUNCES SEPTEMBER CASH DISTRIBUTION AND EXCESS COST POSITION ON WADDELL RANCH PROPERTIES",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/energy/articles/permian-basin-royalty-trust-announces-120000104.html"
+            "headline": "Saudi Aramco halts crude oil supply to European customers",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/energy/articles/saudi-aramco-halts-crude-oil-121030516.html"
         },
         {
             "symbol": "AKAN",
