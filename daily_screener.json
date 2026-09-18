@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T15:21:25.364909+00:00",
+    "timestamp": "2026-09-18T15:31:55.977546+00:00",
     "signals": {
         "catalysts": [
             {
@@ -7,13 +7,6 @@
                 "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
-                "score": 3
-            },
-            {
-                "symbol": "XENE",
-                "headline": "The Biotech Surged 50% On Positive Data In March. Now, It's Almost Gone.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2fce6acf-ffeb-3058-b267-ced8ca538b51/the-biotech-surged-50%25-on.html",
                 "score": 3
             },
             {
@@ -59,6 +52,13 @@
                 "score": 0
             },
             {
+                "symbol": "XENE",
+                "headline": "Xenon Pharmaceuticals' Azetukalner Retains Core Epilepsy Value, RBC Capital Markets Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/xenon-pharmaceuticals-apos-azetukalner-retains-152123214.html",
+                "score": 0
+            },
+            {
                 "symbol": "HOOD",
                 "headline": "Netflix, Nucor, On Holding, StubHub, Xenon, Coinbase, and More Stocks That Explain Today\u2019s Market",
                 "publisher": "Barrons.com",
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-sinks.html",
+                "headline": "Legendary Investor Warren Buffett Is Resigning as Berkshire Chairman",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-warren-buffett-resigning-151058047.html",
                 "score": 0
             },
             {
@@ -109,9 +109,9 @@
             },
             {
                 "symbol": "GOOG",
-                "headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-sinks.html",
+                "headline": "Legendary Investor Warren Buffett Is Resigning as Berkshire Chairman",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-warren-buffett-resigning-151058047.html",
                 "score": 0
             },
             {
