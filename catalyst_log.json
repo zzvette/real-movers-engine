@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T20:02:17.761737+00:00",
+    "timestamp": "2026-09-18T20:11:03.591522+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -23,17 +23,17 @@
             "score": 0
         },
         {
-            "symbol": "NFLX",
-            "headline": "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/netflix%2C-nucor%2C-on-holding%2C.html",
-            "score": 0
-        },
-        {
             "symbol": "SNDK",
             "headline": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+            "score": 0
+        },
+        {
+            "symbol": "NFLX",
+            "headline": "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/netflix%2C-nucor%2C-on-holding%2C.html",
             "score": 0
         },
         {
@@ -44,10 +44,17 @@
             "score": 0
         },
         {
-            "symbol": "MU",
-            "headline": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+            "symbol": "XENE",
+            "headline": "Sector Update: Healthcare Stocks Decline Friday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-friday-173838911.html",
+            "score": 0
+        },
+        {
+            "symbol": "IMCC",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
             "score": 0
         },
         {
@@ -65,38 +72,24 @@
             "score": 0
         },
         {
-            "symbol": "HOOD",
-            "headline": "COIN Stock Trades at a Premium to Industry: What Should Investors Do?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/coin-stock-trades-premium-industry-190200724.html",
+            "symbol": "KEEL",
+            "headline": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-faces-shakeout-corz-161546106.html",
             "score": 0
         },
         {
-            "symbol": "IMCC",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-            "score": 0
-        },
-        {
-            "symbol": "XENE",
-            "headline": "Sector Update: Healthcare Stocks Decline Friday Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-friday-173838911.html",
-            "score": 0
-        },
-        {
-            "symbol": "IREN",
-            "headline": "Why Wall Street is Bullish On The AI Service Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/ad672612-e12d-3fd1-a586-8b76b9ff3028/why-wall-street-is-bullish-on.html",
-            "score": 0
-        },
-        {
-            "symbol": "FPS",
-            "headline": "Darden Restaurants, Costco In Earnings Spotlight, Along With This IT Distributor",
+            "symbol": "MU",
+            "headline": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/55ebcb2f-36da-3667-af50-afa0729b542d/darden-restaurants%2C-costco-in.html",
+            "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+            "score": 0
+        },
+        {
+            "symbol": "PEP",
+            "headline": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-falls-3-while-consumer-170726924.html",
             "score": 0
         },
         {
@@ -107,24 +100,17 @@
             "score": 0
         },
         {
-            "symbol": "KEEL",
-            "headline": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-faces-shakeout-corz-161546106.html",
+            "symbol": "REFR",
+            "headline": "Research Frontiers Welcomes Gauzy\u2019s Court-Approved Restructuring and the Restart of SPD-Smart Light Control Film Production",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/articles/research-frontiers-welcomes-gauzy-court-182500792.html",
             "score": 0
         },
         {
-            "symbol": "QCOM",
-            "headline": "Qualcomm Drops 6% as Past Month\u2019s Rally Unwinds; Skyworks and Qorvo Slip",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-drops-6-past-month-175845817.html",
-            "score": 0
-        },
-        {
-            "symbol": "ONON",
-            "headline": "Sector Update: Consumer Stocks Softer Friday Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-friday-172934527.html",
+            "symbol": "GEMI",
+            "headline": "Jim Cramer on Gemini Space Station (GEMI): \u201cI Would Keep It as Your Spec\u201d",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-gemini-space-station-115156897.html",
             "score": 0
         }
     ]
