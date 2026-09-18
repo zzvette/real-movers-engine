@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T21:39:12.279227+00:00",
+    "timestamp": "2026-09-18T21:49:34.159183+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -7,6 +7,13 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
             "score": 6
+        },
+        {
+            "symbol": "ACN",
+            "headline": "Anthropic, ACN To Invest $1B Each In Frontier AI Evaluation Over Five Years",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-acn-invest-1b-frontier-213720675.html",
+            "score": 2
         },
         {
             "symbol": "SNDK",
@@ -52,16 +59,9 @@
         },
         {
             "symbol": "AMD",
-            "headline": "AMD (AMD) Stock Looks Cheap After Its Huge 3 Year Run",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-looks-cheap-211318753.html",
-            "score": 0
-        },
-        {
-            "symbol": "ACN",
-            "headline": "Accenture, Anthropic To Build Embedded AI Evaluator Team",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/accenture-anthropic-build-embedded-ai-205100577.html",
+            "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
             "score": 0
         },
         {
