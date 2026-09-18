@@ -1,30 +1,24 @@
 {
-    "timestamp": "2026-09-18T11:02:30.213191+00:00",
+    "timestamp": "2026-09-18T11:18:58.836652+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "GOOG",
-                "headline": "Stocks to Watch: Nestle, Nike, Sandoz",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/8113683f-1185-3927-bc12-8765aef40bb9/stocks-to-watch%3A-nestle%2C.html"
-            },
-            {
                 "symbol": "NFLX",
-                "headline": "Wells Fargo Downgrades Netflix to Underweight From Equalweight, Adjusts Price Target to $57 From $80",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-downgrades-netflix-underweight-095112004.html"
+                "headline": "NFLX Stock Heads For 4-Day Slide, Extends September Losing Streak After Wells Fargo Flags \u201cWorrying\u201d Engagement In Downgrade",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nflx-stock-heads-4-day-110717047.html"
             },
             {
-                "symbol": "AEMD",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
+                "symbol": "GOOG",
+                "headline": "AgentCard Gives AI Agents Their Own Identity. That Is the Point.",
+                "publisher": "Forkast News",
+                "link": "https://finance.yahoo.com/technology/ai/articles/agentcard-gives-ai-agents-own-110940084.html"
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Stocks to Watch: Nestle, Nike, Sandoz",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/8113683f-1185-3927-bc12-8765aef40bb9/stocks-to-watch%3A-nestle%2C.html"
+                "headline": "AgentCard Gives AI Agents Their Own Identity. That Is the Point.",
+                "publisher": "Forkast News",
+                "link": "https://finance.yahoo.com/technology/ai/articles/agentcard-gives-ai-agents-own-110940084.html"
             },
             {
                 "symbol": "DKNG",
@@ -33,22 +27,10 @@
                 "link": "https://finance.yahoo.com/m/5bcbb10c-0d10-3bec-9eb5-7d30dba919ff/cftc-backs-off-prediction.html"
             },
             {
-                "symbol": "OKLO",
-                "headline": "The Anthropic IPO Could Be Bigger Than SpaceX. Here's What That Means for Vistra, Bloom Energy, and Oklo.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-bigger-spacex-102000686.html"
-            },
-            {
-                "symbol": "TCRT",
-                "headline": "Ziopharm: Q2 Earnings Snapshot",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ziopharm-q2-earnings-snapshot-215627281.html"
-            },
-            {
-                "symbol": "CL=F",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil prices slip",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html"
+                "symbol": "IMCC",
+                "headline": "IM Cannabis Raises US$225,000 of Gross Proceeds in Convertible Note Financing",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-raises-us-225-201000144.html"
             },
             {
                 "symbol": "SSM",
@@ -57,10 +39,28 @@
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html"
             },
             {
+                "symbol": "TCRT",
+                "headline": "Ziopharm: Q2 Earnings Snapshot",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ziopharm-q2-earnings-snapshot-215627281.html"
+            },
+            {
                 "symbol": "MSTR",
-                "headline": "Stocks to Watch: Nestle, Nike, Sandoz",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/8113683f-1185-3927-bc12-8765aef40bb9/stocks-to-watch%3A-nestle%2C.html"
+                "headline": "Intel, Netflix, Berkshire Hathaway, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/intel%2C-netflix%2C-berkshire.html"
+            },
+            {
+                "symbol": "AEMD",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
+            },
+            {
+                "symbol": "OKLO",
+                "headline": "The Anthropic IPO Could Be Bigger Than SpaceX. Here's What That Means for Vistra, Bloom Energy, and Oklo.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-bigger-spacex-102000686.html"
             },
             {
                 "symbol": "SDGR",
@@ -69,10 +69,10 @@
                 "link": "https://finance.yahoo.com/markets/stocks/articles/sophia-genetics-soph-moves-7-104800316.html"
             },
             {
-                "symbol": "BABA",
-                "headline": "Alibaba Raised $10 Billion for AI While Sitting on $30 Billion in Cash. Here\u2019s Where the Stock Could Go",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
+                "symbol": "PURR",
+                "headline": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
             },
             {
                 "symbol": "PAAI",
@@ -81,22 +81,16 @@
                 "link": "https://finance.yahoo.com/technology/ai/articles/paradium-ai-signs-10-strategic-214500063.html"
             },
             {
-                "symbol": "TEM",
-                "headline": "Strength Seen in Tempus (TEM): Can Its 14.9% Jump Turn into More Strength?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-tempus-tem-14-104700946.html"
+                "symbol": "BABA",
+                "headline": "Alibaba Raised $10 Billion for AI While Sitting on $30 Billion in Cash. Here\u2019s Where the Stock Could Go",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
             },
             {
-                "symbol": "HELP",
-                "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
-            },
-            {
-                "symbol": "PURR",
-                "headline": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
+                "symbol": "RARE",
+                "headline": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/abeo-stock-gains-approval-drug-233330146.html"
             },
             {
                 "symbol": "JPY=X",
@@ -105,22 +99,22 @@
                 "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-oil-prices-lower-101730657.html"
             },
             {
-                "symbol": "TMUS",
-                "headline": "US Stock Market Today S&P 500 Futures Climb On Fed Hike Resilience Hope",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081316373.html"
+                "symbol": "CL=F",
+                "headline": "Crude prices drop amid reduced concerns over Saudi oil supplies",
+                "publisher": "Offshore Technology",
+                "link": "https://finance.yahoo.com/energy/articles/crude-prices-drop-amid-reduced-110921809.html"
             },
             {
-                "symbol": "USDE",
-                "headline": "StablecoinX Names Christopher Jensen as CEO",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/stablecoinx-names-christopher-jensen-ceo-142101970.html"
+                "symbol": "AKAN",
+                "headline": "Akanda\u2019s First Towers & Fiber Generates First Cash Flow From 200 KM Fiber Network",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/technology/articles/akanda-first-towers-fiber-generates-135416723.html"
             },
             {
-                "symbol": "BIAF",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-182242959.html"
+                "symbol": "SDST",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
             }
         ]
     }
