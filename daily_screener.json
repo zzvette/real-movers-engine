@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-18T04:41:08.744060+00:00",
+    "timestamp": "2026-09-18T09:09:03.883239+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "GOOG",
+                "headline": "The \u201cMagnificent Seven\u201d Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-seen-valuations-082301435.html"
+            },
+            {
+                "symbol": "GOOGL",
+                "headline": "The \u201cMagnificent Seven\u201d Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-seen-valuations-082301435.html"
+            },
             {
                 "symbol": "DKNG",
                 "headline": "CFTC Backs Off Prediction Markets, Crypto Trading Enforcement",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/5bcbb10c-0d10-3bec-9eb5-7d30dba919ff/cftc-backs-off-prediction.html"
-            },
-            {
-                "symbol": "AEMD",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
-            },
-            {
-                "symbol": "SDGR",
-                "headline": "Schr\u00f6dinger Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/schr-dinger-reports-inducement-grants-123000554.html"
             },
             {
                 "symbol": "OKLO",
@@ -27,58 +27,34 @@
                 "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html"
             },
             {
+                "symbol": "AEMD",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
+            },
+            {
+                "symbol": "INTC",
+                "headline": "Apple\u2019s Chip Strategy Keeps Paying Dividends",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/aadfe062-0205-321c-81ce-610b0b8898d2/apple%E2%80%99s-chip-strategy-keeps.html"
+            },
+            {
+                "symbol": "SDGR",
+                "headline": "Schr\u00f6dinger Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/schr-dinger-reports-inducement-grants-123000554.html"
+            },
+            {
+                "symbol": "MU",
+                "headline": "Micron's Largest Production Base Faces Strike Threats as Bonus Falls 'Short of Expectations,' Workers Demand Bigger Cut of AI-Driven Profits: Report",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/microns-largest-production-faces-strike-052010224.html"
+            },
+            {
                 "symbol": "TEM",
                 "headline": "Will 2026 Doom and Gloom Lead to Opportunity?",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html"
-            },
-            {
-                "symbol": "JPY=X",
-                "headline": "Investors react to BOJ raising interest rates to 31-year high",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/economy/policy/articles/investors-react-boj-raising-interest-032308463.html"
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "Dow Jones Futures: S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures%3A-s%26p-500%2C.html"
-            },
-            {
-                "symbol": "TMUS",
-                "headline": "Apple iPhone 18 Pro Sales Helped By Carrier Promotions",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/74d62a29-1f7b-3f95-924b-399b49b779b5/apple-iphone-18-pro-sales.html"
-            },
-            {
-                "symbol": "RARE",
-                "headline": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/abeo-stock-gains-approval-drug-233330146.html"
-            },
-            {
-                "symbol": "CRSP",
-                "headline": "Where Will CRISPR Therapeutics Be in 10 Years if Gene Editing Fulfills Its Promise?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/healthcare/articles/where-crispr-therapeutics-10-years-032000546.html"
-            },
-            {
-                "symbol": "HELP",
-                "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
-            },
-            {
-                "symbol": "PURR",
-                "headline": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-100-135502395.html"
-            },
-            {
-                "symbol": "BB",
-                "headline": "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-climbs-6-mobileye-rises-170301787.html"
             },
             {
                 "symbol": "BABA",
@@ -87,34 +63,52 @@
                 "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
             },
             {
-                "symbol": "CTNT",
-                "headline": "Top Premarket Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-113406053.html"
-            },
-            {
-                "symbol": "LCID",
-                "headline": "Early Uber Investor Sees \u2018All Car Companies\u2019 Joining Robotaxi Gold Rush \u2014 Lucid And Baidu Take It Global",
+                "symbol": "AMD",
+                "headline": "Why Are Nasdaq, S&P 500 And Dow Futures Rising Premarket? NVDA, CRWV, AMD, SPCX, BE Stocks In Focus",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/early-uber-investor-sees-car-032436796.html"
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-dow-082832323.html"
             },
             {
-                "symbol": "DAIC",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111218000.html"
+                "symbol": "SNDK",
+                "headline": "Sandisk Unveiled an $14 Billion Buyback and Warren Buffett Has Something to Say About It",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-unveiled-14-billion-buyback-042000962.html"
             },
             {
-                "symbol": "SMCI",
-                "headline": "Will 2026 Doom and Gloom Lead to Opportunity?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html"
+                "symbol": "MRNA",
+                "headline": "BioNTech Threw in the Towel on Its Colorectal Cancer Vaccine Trial. Should Investors Be Worried?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/healthcare/articles/biontech-threw-towel-colorectal-cancer-090400523.html"
             },
             {
-                "symbol": "SMR",
-                "headline": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
+                "symbol": "RARE",
+                "headline": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html"
+                "link": "https://finance.yahoo.com/healthcare/articles/abeo-stock-gains-approval-drug-233330146.html"
+            },
+            {
+                "symbol": "TMUS",
+                "headline": "US Stock Market Today S&P 500 Futures Climb On Fed Hike Resilience Hope",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081316373.html"
+            },
+            {
+                "symbol": "IONQ",
+                "headline": "Here's What $1,000 Invested in IonQ Stock Could Be Worth by 2030",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-invested-ionq-053600289.html"
+            },
+            {
+                "symbol": "CRSP",
+                "headline": "Where Will CRISPR Therapeutics Be in 10 Years if Gene Editing Fulfills Its Promise?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/healthcare/articles/where-crispr-therapeutics-10-years-032000546.html"
+            },
+            {
+                "symbol": "MSTR",
+                "headline": "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/boomers-held-bitcoin-etfs-54-175636410.html"
             }
         ]
     }
