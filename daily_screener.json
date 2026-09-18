@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T12:42:30.529121+00:00",
+    "timestamp": "2026-09-18T12:56:18.218958+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,15 +10,15 @@
             },
             {
                 "symbol": "GOOG",
-                "headline": "Why Meta Could\u00a0Keep Surprising Wall\u00a0Street",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-meta-could-keep-surprising-120053070.html"
+                "headline": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html"
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Why Meta Could\u00a0Keep Surprising Wall\u00a0Street",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-meta-could-keep-surprising-120053070.html"
+                "headline": "Cloud AI Update - Expanse Revolutionizes AI Efficiency With Precise Resource Allocation",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-expanse-revolutionizes-ai-123756470.html"
             },
             {
                 "symbol": "DKNG",
@@ -100,9 +100,9 @@
             },
             {
                 "symbol": "CL=F",
-                "headline": "Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-123135207.html"
+                "headline": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-091428378.html"
             },
             {
                 "symbol": "AKAN",
