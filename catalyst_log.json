@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T14:01:39.944987+00:00",
+    "timestamp": "2026-09-18T14:13:20.313408+00:00",
     "catalysts": [
         {
             "symbol": "NFLX",
@@ -9,21 +9,21 @@
         },
         {
             "symbol": "GOOG",
-            "headline": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-rises-3-meta-microsoft-135420873.html"
+            "headline": "Google Brain Co-Founder Pushes Back on AI Doom Warnings",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/google-brain-co-founder-pushes-140424658.html"
+        },
+        {
+            "symbol": "GIPR",
+            "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html"
         },
         {
             "symbol": "GOOGL",
-            "headline": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-rises-3-meta-microsoft-135420873.html"
-        },
-        {
-            "symbol": "DKNG",
-            "headline": "UBS Adjusts DraftKings Price Target to $48 From $49, Maintains Buy Rating",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-draftkings-price-target-132142948.html"
+            "headline": "Google Brain Co-Founder Pushes Back on AI Doom Warnings",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/google-brain-co-founder-pushes-140424658.html"
         },
         {
             "symbol": "IMCC",
@@ -32,46 +32,16 @@
             "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-raises-us-225-201000144.html"
         },
         {
-            "symbol": "SSM",
-            "headline": "Top Midday Gainers",
+            "symbol": "DKNG",
+            "headline": "UBS Adjusts DraftKings Price Target to $48 From $49, Maintains Buy Rating",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-draftkings-price-target-132142948.html"
         },
         {
-            "symbol": "TCRT",
-            "headline": "Alaunos Therapeutics, Inc. Announces Pricing of Registered Direct Offering priced at-the-market under Nasdaq rules",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/alaunos-therapeutics-inc-announces-pricing-130000291.html"
-        },
-        {
-            "symbol": "MSTR",
-            "headline": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html"
-        },
-        {
-            "symbol": "AEMD",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
-        },
-        {
-            "symbol": "OKLO",
-            "headline": "House Data Center Power Bill Lifts Nuclear Stocks: Here's Why",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/energy/articles/house-data-center-power-bill-111400976.html"
-        },
-        {
-            "symbol": "SDGR",
-            "headline": "SOPHiA GENETICS (SOPH) Moves 7.0% Higher: Will This Strength Last?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sophia-genetics-soph-moves-7-104800316.html"
-        },
-        {
-            "symbol": "PURR",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111633221.html"
+            "symbol": "PEP",
+            "headline": "This Dividend King Yielding 4X the S&P 500 Looks Like a Buy Right Now",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-yielding-4x-p-105000646.html"
         },
         {
             "symbol": "PAAI",
@@ -80,40 +50,64 @@
             "link": "https://finance.yahoo.com/technology/ai/articles/paradium-ai-signs-10-strategic-214500063.html"
         },
         {
-            "symbol": "BABA",
-            "headline": "Alibaba Raised $10 Billion for AI While Sitting on $30 Billion in Cash. Here\u2019s Where the Stock Could Go",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-raised-10-billion-ai-141449144.html"
+            "symbol": "SSM",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html"
         },
         {
-            "symbol": "RARE",
-            "headline": "Ultragenyx Gets A \u2018Much-Needed Win,\u2019 Says Cantor \u2013 Sees $400M Opportunity After FDA Approves Neurodegenerative Disease Therapy",
+            "symbol": "XENE",
+            "headline": "The Biotech Surged 50% On Positive Data In March. Now, It's Almost Gone.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2fce6acf-ffeb-3058-b267-ced8ca538b51/the-biotech-surged-50%25-on.html"
+        },
+        {
+            "symbol": "ONON",
+            "headline": "Kylian Mbapp\u00e9 Joins On Holding \u2013 Nike Just Lost One Of Its Biggest Soccer Stars After Nearly 20 Years",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/ultragenyx-gets-much-needed-win-121658249.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/kylian-mbapp-joins-holding-nike-135003294.html"
         },
         {
-            "symbol": "JPY=X",
-            "headline": "Yen slumps to two-week low after BOJ rate hike underwhelms",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/currencies/articles/yen-weak-ahead-boj-decision-005910776.html"
+            "symbol": "TNMG",
+            "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/media-advertising/articles/tnl-mediagenes-news-lens-launches-113000993.html"
         },
         {
-            "symbol": "CL=F",
-            "headline": "Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying",
+            "symbol": "MSTR",
+            "headline": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
             "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-fall-4-135338492.html"
+            "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html"
         },
         {
-            "symbol": "AKAN",
-            "headline": "Akanda\u2019s First Towers & Fiber Generates First Cash Flow From 200 KM Fiber Network",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/technology/articles/akanda-first-towers-fiber-generates-135416723.html"
+            "symbol": "TCRT",
+            "headline": "Alaunos Therapeutics, Inc. Announces Pricing of Registered Direct Offering priced at-the-market under Nasdaq rules",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/alaunos-therapeutics-inc-announces-pricing-130000291.html"
         },
         {
-            "symbol": "SDST",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143027139.html"
+            "symbol": "CPOP",
+            "headline": "Pop Culture Group Co., Ltd Announces 15 for 1 Share Consolidation",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pop-culture-group-co-ltd-200000819.html"
+        },
+        {
+            "symbol": "TRUG",
+            "headline": "TruGolf Links Announces New Initiatives with Polymath to Develop Financing Opportunities for Franchisees",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/small-business/articles/trugolf-links-announces-initiatives-polymath-110400952.html"
+        },
+        {
+            "symbol": "PURR",
+            "headline": "Top Premarket Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111633221.html"
+        },
+        {
+            "symbol": "HELP",
+            "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
         }
     ]
 }
