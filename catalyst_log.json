@@ -1,113 +1,131 @@
 {
-    "timestamp": "2026-09-18T14:25:08.214508+00:00",
+    "timestamp": "2026-09-18T14:34:48.066357+00:00",
     "catalysts": [
-        {
-            "symbol": "NFLX",
-            "headline": "Netflix Shares Tumble After Streaming Giant Downgraded by Wells Fargo Analyst",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-shares-tumble-streaming-giant-142119311.html"
-        },
-        {
-            "symbol": "GOOG",
-            "headline": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/sp-500-wavers-after-best-one-day-rally-in-six-weeks-alphacheck-141322068.html"
-        },
-        {
-            "symbol": "GIPR",
-            "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html"
-        },
-        {
-            "symbol": "GOOGL",
-            "headline": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/sp-500-wavers-after-best-one-day-rally-in-six-weeks-alphacheck-141322068.html"
-        },
-        {
-            "symbol": "IMCC",
-            "headline": "IM Cannabis Raises US$225,000 of Gross Proceeds in Convertible Note Financing",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-raises-us-225-201000144.html"
-        },
-        {
-            "symbol": "DKNG",
-            "headline": "UBS Adjusts DraftKings Price Target to $48 From $49, Maintains Buy Rating",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-draftkings-price-target-132142948.html"
-        },
-        {
-            "symbol": "PEP",
-            "headline": "Coca-Cola Stock Is Up 9,234% Since Warren Buffett\u2019s Famous 1988 Bet. Here\u2019s How Much He Would Have Made If He Bet On Pepsi Instead.",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-9-234-140803566.html"
-        },
-        {
-            "symbol": "PAAI",
-            "headline": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/paradium-ai-signs-10-strategic-214500063.html"
-        },
         {
             "symbol": "SSM",
             "headline": "Top Midday Gainers",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html",
+            "score": 3
         },
         {
             "symbol": "XENE",
             "headline": "The Biotech Surged 50% On Positive Data In March. Now, It's Almost Gone.",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2fce6acf-ffeb-3058-b267-ced8ca538b51/the-biotech-surged-50%25-on.html"
-        },
-        {
-            "symbol": "ONON",
-            "headline": "Kylian Mbapp\u00e9 Joins On Holding \u2013 Nike Just Lost One Of Its Biggest Soccer Stars After Nearly 20 Years",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/kylian-mbapp-joins-holding-nike-135003294.html"
-        },
-        {
-            "symbol": "TNMG",
-            "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
-            "publisher": "TMX Newsfile",
-            "link": "https://finance.yahoo.com/media-advertising/articles/tnl-mediagenes-news-lens-launches-113000993.html"
+            "link": "https://finance.yahoo.com/m/2fce6acf-ffeb-3058-b267-ced8ca538b51/the-biotech-surged-50%25-on.html",
+            "score": 3
         },
         {
             "symbol": "MSTR",
             "headline": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
             "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html"
-        },
-        {
-            "symbol": "TCRT",
-            "headline": "Alaunos Therapeutics, Inc. Announces Pricing of Registered Direct Offering priced at-the-market under Nasdaq rules",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/alaunos-therapeutics-inc-announces-pricing-130000291.html"
-        },
-        {
-            "symbol": "CPOP",
-            "headline": "Pop Culture Group Co., Ltd Announces 15 for 1 Share Consolidation",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/pop-culture-group-co-ltd-200000819.html"
-        },
-        {
-            "symbol": "TRUG",
-            "headline": "TruGolf Links Announces New Initiatives with Polymath to Develop Financing Opportunities for Franchisees",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/trugolf-links-announces-initiatives-polymath-110400952.html"
+            "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-4-ethereum-rallies-131056258.html",
+            "score": 3
         },
         {
             "symbol": "PURR",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111633221.html"
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111633221.html",
+            "score": 3
+        },
+        {
+            "symbol": "IMCC",
+            "headline": "IM Cannabis Raises US$225,000 of Gross Proceeds in Convertible Note Financing",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-raises-us-225-201000144.html",
+            "score": 2
+        },
+        {
+            "symbol": "PAAI",
+            "headline": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/paradium-ai-signs-10-strategic-214500063.html",
+            "score": 2
+        },
+        {
+            "symbol": "TCRT",
+            "headline": "Alaunos Therapeutics, Inc. Announces Pricing of Registered Direct Offering priced at-the-market under Nasdaq rules",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/alaunos-therapeutics-inc-announces-pricing-130000291.html",
+            "score": 2
+        },
+        {
+            "symbol": "TRUG",
+            "headline": "TruGolf Links Announces New Initiatives with Polymath to Develop Financing Opportunities for Franchisees",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/small-business/articles/trugolf-links-announces-initiatives-polymath-110400952.html",
+            "score": 2
+        },
+        {
+            "symbol": "NFLX",
+            "headline": "Netflix Shares Tumble After Streaming Giant Downgraded by Wells Fargo Analyst",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-shares-tumble-streaming-giant-142119311.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOG",
+            "headline": "Meta, X, Google CEOs Asked to Participate in NYC Council Hearing on AI Risks",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/meta-x-google-ceos-asked-143302985.html",
+            "score": 0
+        },
+        {
+            "symbol": "GIPR",
+            "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOGL",
+            "headline": "Meta, X, Google CEOs Asked to Participate in NYC Council Hearing on AI Risks",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/meta-x-google-ceos-asked-143302985.html",
+            "score": 0
+        },
+        {
+            "symbol": "DKNG",
+            "headline": "UBS Adjusts DraftKings Price Target to $48 From $49, Maintains Buy Rating",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-draftkings-price-target-132142948.html",
+            "score": 0
+        },
+        {
+            "symbol": "PEP",
+            "headline": "Coca-Cola Stock Is Up 9,234% Since Warren Buffett\u2019s Famous 1988 Bet. Here\u2019s How Much He Would Have Made If He Bet On Pepsi Instead.",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-9-234-140803566.html",
+            "score": 0
+        },
+        {
+            "symbol": "ONON",
+            "headline": "Kylian Mbapp\u00e9 Joins On Holding \u2013 Nike Just Lost One Of Its Biggest Soccer Stars After Nearly 20 Years",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/kylian-mbapp-joins-holding-nike-135003294.html",
+            "score": 0
+        },
+        {
+            "symbol": "TNMG",
+            "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/media-advertising/articles/tnl-mediagenes-news-lens-launches-113000993.html",
+            "score": 0
+        },
+        {
+            "symbol": "CPOP",
+            "headline": "Pop Culture Group Co., Ltd Announces 15 for 1 Share Consolidation",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pop-culture-group-co-ltd-200000819.html",
+            "score": 0
         },
         {
             "symbol": "HELP",
             "headline": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York",
             "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html"
+            "link": "https://finance.yahoo.com/healthcare/articles/helus-pharma-participate-morgan-stanley-113000849.html",
+            "score": 0
         }
     ]
 }
