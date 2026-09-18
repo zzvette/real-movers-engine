@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T12:25:42.247040+00:00",
+    "timestamp": "2026-09-18T12:42:30.529121+00:00",
     "signals": {
         "catalysts": [
             {
@@ -94,15 +94,15 @@
             },
             {
                 "symbol": "JPY=X",
-                "headline": "Stocks and bonds dip as central banks jack up rates to tame\u00a0inflation",
+                "headline": "Yen slumps to two-week low after BOJ rate hike underwhelms",
                 "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/articles/stocks-rise-oil-dips-yen-013424826.html"
+                "link": "https://finance.yahoo.com/markets/currencies/articles/yen-weak-ahead-boj-decision-005910776.html"
             },
             {
                 "symbol": "CL=F",
-                "headline": "Saudi Aramco halts crude oil supply to European customers",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/energy/articles/saudi-aramco-halts-crude-oil-121030516.html"
+                "headline": "Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-123135207.html"
             },
             {
                 "symbol": "AKAN",
