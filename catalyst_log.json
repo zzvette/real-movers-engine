@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T19:17:39.453434+00:00",
+    "timestamp": "2026-09-18T19:26:16.078186+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -55,6 +55,13 @@
             "headline": "Generation Income Properties Enters Into Warrant Exercise Transaction for $4.3 Million in Gross Proceeds",
             "publisher": "ACCESS Newswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-enters-warrant-181500959.html",
+            "score": 0
+        },
+        {
+            "symbol": "MARA",
+            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
             "score": 0
         },
         {
