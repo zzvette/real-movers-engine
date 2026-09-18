@@ -1,17 +1,17 @@
 {
-    "timestamp": "2026-09-18T14:13:20.313408+00:00",
+    "timestamp": "2026-09-18T14:25:08.214508+00:00",
     "catalysts": [
         {
             "symbol": "NFLX",
-            "headline": "Netflix Shares Fall as Wells Fargo Turns Bearish",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-shares-fall-wells-fargo-135918935.html"
+            "headline": "Netflix Shares Tumble After Streaming Giant Downgraded by Wells Fargo Analyst",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-shares-tumble-streaming-giant-142119311.html"
         },
         {
             "symbol": "GOOG",
-            "headline": "Google Brain Co-Founder Pushes Back on AI Doom Warnings",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/google-brain-co-founder-pushes-140424658.html"
+            "headline": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/sp-500-wavers-after-best-one-day-rally-in-six-weeks-alphacheck-141322068.html"
         },
         {
             "symbol": "GIPR",
@@ -21,9 +21,9 @@
         },
         {
             "symbol": "GOOGL",
-            "headline": "Google Brain Co-Founder Pushes Back on AI Doom Warnings",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/google-brain-co-founder-pushes-140424658.html"
+            "headline": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/sp-500-wavers-after-best-one-day-rally-in-six-weeks-alphacheck-141322068.html"
         },
         {
             "symbol": "IMCC",
@@ -39,9 +39,9 @@
         },
         {
             "symbol": "PEP",
-            "headline": "This Dividend King Yielding 4X the S&P 500 Looks Like a Buy Right Now",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-yielding-4x-p-105000646.html"
+            "headline": "Coca-Cola Stock Is Up 9,234% Since Warren Buffett\u2019s Famous 1988 Bet. Here\u2019s How Much He Would Have Made If He Bet On Pepsi Instead.",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-9-234-140803566.html"
         },
         {
             "symbol": "PAAI",
