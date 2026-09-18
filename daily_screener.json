@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T16:44:03.371087+00:00",
+    "timestamp": "2026-09-18T16:50:33.585283+00:00",
     "signals": {
         "catalysts": [
             {
@@ -87,14 +87,14 @@
                 "score": 0
             },
             {
-                "symbol": "TRUG",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "symbol": "PEP",
+                "headline": "Coca-Cola Stock Is Up 9,234% Since Warren Buffett\u2019s Famous 1988 Bet. Here\u2019s How Much He Would Have Made If He Bet On Pepsi Instead.",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-9-234-140803566.html",
                 "score": 0
             },
             {
-                "symbol": "MRNO",
+                "symbol": "TRUG",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
