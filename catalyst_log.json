@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T20:43:32.111612+00:00",
+    "timestamp": "2026-09-18T20:49:42.321966+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -55,6 +55,13 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+            "score": 0
+        },
+        {
+            "symbol": "GIPR",
+            "headline": "Generation Income Properties Enters Into Warrant Exercise Transaction for $4.3 Million in Gross Proceeds",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-enters-warrant-181500959.html",
             "score": 0
         },
         {
