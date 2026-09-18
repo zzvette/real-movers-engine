@@ -1,23 +1,23 @@
 {
-    "timestamp": "2026-09-18T13:36:33.774802+00:00",
+    "timestamp": "2026-09-18T13:48:39.995737+00:00",
     "catalysts": [
         {
             "symbol": "NFLX",
-            "headline": "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-falls-4-wells-fargo-130606484.html"
+            "headline": "Netflix downgraded, Etsy upgraded: Wall Street's top analyst calls",
+            "publisher": "The Fly",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cigna-downgraded-humana-upgraded-wall-134340274.html"
         },
         {
             "symbol": "GOOG",
-            "headline": "2 Volatile Stocks on Our Watchlist and 1 We Question",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/2-volatile-stocks-watchlist-1-132840031.html"
+            "headline": "The HBM Bottleneck: 3 Tech Companies Have Locked Up 85% of the Supply of AI's Scarcest Asset",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/hbm-bottleneck-3-tech-companies-133300429.html"
         },
         {
             "symbol": "GOOGL",
-            "headline": "2 Volatile Stocks on Our Watchlist and 1 We Question",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/2-volatile-stocks-watchlist-1-132840031.html"
+            "headline": "Stock Market Today: Dow Falls As Oil Prices Turn Higher; Buffett Departs Berkshire (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-falls.html"
         },
         {
             "symbol": "DKNG",
@@ -99,9 +99,9 @@
         },
         {
             "symbol": "CL=F",
-            "headline": "Correction: Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/energy/articles/correction-market-chatter-saudi-aramco-132727566.html"
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq mixed as oil prices rise",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html"
         },
         {
             "symbol": "AKAN",
