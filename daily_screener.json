@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T20:13:38.076968+00:00",
+    "timestamp": "2026-09-18T20:24:39.997520+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,6 +8,13 @@
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
                 "score": 6
+            },
+            {
+                "symbol": "XENE",
+                "headline": "This Biotech Surged 50% On Positive Data In March. Now, It's Completely Gone.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2fce6acf-ffeb-3058-b267-ced8ca538b51/this-biotech-surged-50%25-on.html",
+                "score": 3
             },
             {
                 "symbol": "BMNR",
@@ -32,9 +39,9 @@
             },
             {
                 "symbol": "NFLX",
-                "headline": "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/dcd0f202-0845-3945-921f-f151203b3bfe/netflix%2C-nucor%2C-on-holding%2C.html",
+                "headline": "Wells Fargo Brutally Revamps Netflix Stock Price Target",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-brutally-revamps-netflix-202122052.html",
                 "score": 0
             },
             {
@@ -42,13 +49,6 @@
                 "headline": "COIN Stock Trades at a Premium to Industry: What Should Investors Do?",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/coin-stock-trades-premium-industry-190200724.html",
-                "score": 0
-            },
-            {
-                "symbol": "XENE",
-                "headline": "Xenon Stock Craters 30% on Drug Trial Setback. Its Failure Could Be This Biotech\u2019s Gain.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f43f3182-0f5a-379f-b87e-46423fb22cae/xenon-stock-craters-30%25-on.html",
                 "score": 0
             },
             {
