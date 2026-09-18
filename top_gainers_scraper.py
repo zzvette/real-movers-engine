@@ -3,6 +3,7 @@ from playwright_stealth import stealth
 
 FINVIZ_URL = "https://finviz.com/screener.ashx?v=111&s=ta_topgainers"
 
+
 def fetch_top_gainers(limit=10):
     results = []
 
@@ -12,19 +13,44 @@ def fetch_top_gainers(limit=10):
             page = browser.new_page()
             stealth(page)
 
+            # Load Finviz
             page.goto(FINVIZ_URL, timeout=60000)
-            page.wait_for_selector("table.screener-table", timeout=60000)
 
-            rows = page.locator("table.screener-table tr").all()[1:]
+            # Correct table selector (Finviz changed their DOM)
+            page.wait_for_selector("table.screener-view-table", timeout=60000)
+
+            # Extract rows (skip header)
+            rows = page.locator("table.screener-view-table tr").all()[1:]
 
             for row in rows[:limit]:
                 cols = row.locator("td").all()
 
-                symbol = cols[1].inner_text().strip()
-                price = float(cols[2].inner_text().replace(",", ""))
-                change_pct = float(cols[5].inner_text().replace("%", "").replace("+", "").replace(",", ""))
-                volume = int(cols[7].inner_text().replace(",", ""))
+                # Finviz column layout for v=111:
+                # 0 = No.
+                # 1 = Ticker
+                # 2 = Company
+                # 3 = Sector
+                # 4 = Industry
+                # 5 = Country
+                # 6 = Market Cap
+                # 7 = Price
+                # 8 = Change %
+                # 9 = Volume
 
+                symbol = cols[1].inner_text().strip()
+
+                price = float(cols[7].inner_text().replace(",", ""))
+
+                change_pct = float(
+                    cols[8].inner_text()
+                    .replace("%", "")
+                    .replace("+", "")
+                    .replace(",", "")
+                )
+
+                volume = int(cols[9].inner_text().replace(",", ""))
+
+                # Scoring logic
                 pct_component = max(min(change_pct * 2, 60), -20)
                 vol_component = min(volume / 1_000_000, 40)
                 score = int(max(min(pct_component + vol_component, 100), 0))
