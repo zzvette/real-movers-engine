@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T21:00:41.985310+00:00",
+    "timestamp": "2026-09-18T21:10:30.269103+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "SNDK",
-                "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
                 "score": 0
             },
             {
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "MU",
-                "headline": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
+                "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
                 "score": 0
             },
             {
