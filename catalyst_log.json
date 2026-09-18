@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T17:02:09.534562+00:00",
+    "timestamp": "2026-09-18T17:12:30.796934+00:00",
     "catalysts": [
         {
             "symbol": "IBIT",
@@ -17,9 +17,9 @@
         },
         {
             "symbol": "NFLX",
-            "headline": "Netflix just got a warning that could change the growth story",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/media-advertising/articles/netflix-just-got-warning-could-162152654.html",
+            "headline": "1 of Billionaire Investor Bill Ackman's Newest Positions Is Down Roughly 21% This Year. A Wall Street Analyst Thinks Another 21% Decline Is Coming. Should Investors Sell the Stock?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/1-billionaire-investor-bill-ackmans-170101155.html",
             "score": 0
         },
         {
@@ -34,6 +34,13 @@
             "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
             "publisher": "ACCESS Newswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html",
+            "score": 0
+        },
+        {
+            "symbol": "COIN",
+            "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
             "score": 0
         },
         {
