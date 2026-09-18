@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T17:12:30.796934+00:00",
+    "timestamp": "2026-09-18T17:21:31.745127+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,31 +10,31 @@
                 "score": 6
             },
             {
-                "symbol": "SSM",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-173212520.html",
-                "score": 3
-            },
-            {
-                "symbol": "NFLX",
-                "headline": "1 of Billionaire Investor Bill Ackman's Newest Positions Is Down Roughly 21% This Year. A Wall Street Analyst Thinks Another 21% Decline Is Coming. Should Investors Sell the Stock?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/1-billionaire-investor-bill-ackmans-170101155.html",
-                "score": 0
+                "symbol": "ONON",
+                "headline": "On Holding\u2019s Kylian Mbapp\u00e9 Deal Splits Analysts \u2014 Why Wall Street Has Different Takes On ONON",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-kylian-mbapp-deal-splits-170634965.html",
+                "score": 2
             },
             {
                 "symbol": "MSTR",
-                "headline": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html",
+                "headline": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
                 "score": 0
             },
             {
-                "symbol": "GIPR",
-                "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
-                "publisher": "ACCESS Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html",
+                "symbol": "NFLX",
+                "headline": "Sector Update: Consumer",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-170923552.html",
+                "score": 0
+            },
+            {
+                "symbol": "SNDK",
+                "headline": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html",
                 "score": 0
             },
             {
@@ -45,10 +45,10 @@
                 "score": 0
             },
             {
-                "symbol": "SNDK",
-                "headline": "Why Sandisk Stock Rallied Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-rallied-today-165646280.html",
+                "symbol": "GIPR",
+                "headline": "Generation Income Properties Announces Preferred Equity Reduction and Extension of Preferred Equity Mandatory Redemption Date",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-announces-preferred-202000942.html",
                 "score": 0
             },
             {
@@ -73,6 +73,13 @@
                 "score": 0
             },
             {
+                "symbol": "QCOM",
+                "headline": "Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-does-nvda-stock-carry-164036851.html",
+                "score": 0
+            },
+            {
                 "symbol": "MHGU",
                 "headline": "Giant Wendy\u2019s franchisee Meritage Hospitality Group files for bankruptcy",
                 "publisher": "Nation's Restaurant News",
@@ -80,31 +87,10 @@
                 "score": 0
             },
             {
-                "symbol": "NCPL",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
                 "symbol": "PEP",
-                "headline": "Coca-Cola Stock Is Up 9,234% Since Warren Buffett\u2019s Famous 1988 Bet. Here\u2019s How Much He Would Have Made If He Bet On Pepsi Instead.",
+                "headline": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-9-234-140803566.html",
-                "score": 0
-            },
-            {
-                "symbol": "TRUG",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRNO",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-falls-3-while-consumer-170726924.html",
                 "score": 0
             },
             {
@@ -115,17 +101,31 @@
                 "score": 0
             },
             {
-                "symbol": "TNMG",
-                "headline": "TNL Mediagene's The News Lens Launches TNL Daily, a Subscription Newsletter, with Crowdfunding Campaign Exceeding Its Funding Target",
-                "publisher": "TMX Newsfile",
-                "link": "https://finance.yahoo.com/media-advertising/articles/tnl-mediagenes-news-lens-launches-113000993.html",
-                "score": 0
-            },
-            {
                 "symbol": "ALMR",
                 "headline": "Alamar Biosciences to Participate in Morgan Stanley 24th Annual Global Healthcare Conference",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/healthcare/articles/alamar-biosciences-participate-morgan-stanley-200500130.html",
+                "score": 0
+            },
+            {
+                "symbol": "WYNN",
+                "headline": "1 Safe-and-Steady Stock to Consider Right Now and 2 We Brush Off",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-consider-110440268.html",
+                "score": 0
+            },
+            {
+                "symbol": "TRUG",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "NCPL",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
                 "score": 0
             }
         ]
