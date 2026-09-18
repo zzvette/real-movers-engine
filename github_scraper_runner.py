@@ -1,34 +1,64 @@
 import json
 from datetime import datetime, timezone
 
+# Correct imports — these MUST be functions, not modules
 from top_gainers_scraper import fetch_top_gainers
 from top_52week_scraper import fetch_52week_gainers
 from news_scraper import fetch_news_catalysts
 
 
 def save_json(path: str, payload: dict):
+    """Write JSON to disk with pretty formatting."""
     with open(path, "w") as f:
         json.dump(payload, f, indent=4)
 
 
-def debug_print(name, data):
+def debug_print(name: str, data):
+    """Print structured debug output for GitHub Actions logs."""
     print(f"\n===== DEBUG: {name} =====")
     print(f"Type: {type(data)}")
-    print(f"Length: {len(data) if hasattr(data, '__len__') else 'N/A'}")
-    print("Sample:", data[:3] if isinstance(data, list) else data)
+
+    try:
+        length = len(data)
+    except Exception:
+        length = "N/A"
+
+    print(f"Length: {length}")
+
+    if isinstance(data, list):
+        print("Sample:", data[:3])
+    else:
+        print("Sample:", data)
+
     print("=========================\n")
 
 
 def run_all_scrapers():
-    # FIXED: GitHub Actions Python 3.10 does NOT support UTC import
+    """Run all scrapers and produce JSON outputs."""
+
+    # GitHub Actions-safe timestamp
     timestamp = datetime.now(timezone.utc).isoformat()
 
     # ---------------------------------------------------------
     # RUN SCRAPERS
     # ---------------------------------------------------------
-    gainers = fetch_top_gainers(limit=10)
-    highs = fetch_52week_gainers(limit=10)
-    catalysts = fetch_news_catalysts(limit=20)
+    try:
+        gainers = fetch_top_gainers(limit=10)
+    except Exception as e:
+        print("ERROR in fetch_top_gainers:", e)
+        gainers = []
+
+    try:
+        highs = fetch_52week_gainers(limit=10)
+    except Exception as e:
+        print("ERROR in fetch_52week_gainers:", e)
+        highs = []
+
+    try:
+        catalysts = fetch_news_catalysts(limit=20)
+    except Exception as e:
+        print("ERROR in fetch_news_catalysts:", e)
+        catalysts = []
 
     # ---------------------------------------------------------
     # DEBUG OUTPUT
@@ -52,9 +82,21 @@ def run_all_scrapers():
     # ---------------------------------------------------------
     # SAVE JSON OUTPUTS
     # ---------------------------------------------------------
-    save_json("top_gainers.json", {"timestamp": timestamp, "top_gainers": gainers})
-    save_json("top_52week.json", {"timestamp": timestamp, "top_52week": highs})
-    save_json("catalyst_log.json", {"timestamp": timestamp, "catalysts": daily_screener["signals"]["catalysts"]})
+    save_json("top_gainers.json", {
+        "timestamp": timestamp,
+        "top_gainers": gainers
+    })
+
+    save_json("top_52week.json", {
+        "timestamp": timestamp,
+        "top_52week": highs
+    })
+
+    save_json("catalyst_log.json", {
+        "timestamp": timestamp,
+        "catalysts": catalysts
+    })
+
     save_json("daily_screener.json", daily_screener)
 
     # ---------------------------------------------------------
