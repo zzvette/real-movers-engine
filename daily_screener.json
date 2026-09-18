@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T15:56:23.287009+00:00",
+    "timestamp": "2026-09-18T16:02:51.828961+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,6 +17,13 @@
                 "score": 3
             },
             {
+                "symbol": "SNDK",
+                "headline": "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-jumps-6-storage-bid-155121366.html",
+                "score": 3
+            },
+            {
                 "symbol": "PAAI",
                 "headline": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
                 "publisher": "Business Wire",
@@ -25,9 +32,9 @@
             },
             {
                 "symbol": "NFLX",
-                "headline": "Wells Fargo Sends Stark Warning on Netflix Stock -- Sees 24% Downside",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-sends-stark-warning-153626064.html",
+                "headline": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/d830b11c-698b-34ab-91a9-7f7ec74fe029/netflix-stock-downgraded-to.html",
                 "score": 0
             },
             {
@@ -70,13 +77,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "SNDK",
-                "headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow-sinks.html",
                 "score": 0
             },
             {
