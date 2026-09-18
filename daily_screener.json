@@ -1,13 +1,20 @@
 {
-    "timestamp": "2026-09-18T21:59:48.317152+00:00",
+    "timestamp": "2026-09-18T22:17:29.601496+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "IBIT",
-                "headline": "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-12-coinbase-jumps-155737829.html",
-                "score": 6
+                "symbol": "MSTR",
+                "headline": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
+                "publisher": "CryptoProwl",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-climbs-back-220100164.html",
+                "score": 3
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
+                "publisher": "CryptoProwl",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-climbs-back-220100164.html",
+                "score": 3
             },
             {
                 "symbol": "GEMI",
@@ -17,24 +24,10 @@
                 "score": 3
             },
             {
-                "symbol": "ACN",
-                "headline": "Anthropic, ACN To Invest $1B Each In Frontier AI Evaluation Over Five Years",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-acn-invest-1b-frontier-213720675.html",
-                "score": 2
-            },
-            {
                 "symbol": "SNDK",
                 "headline": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "MSTR",
-                "headline": "Bitcoin Is Rallying and Coinbase Is Today\u2019s Best Stock in the S&P 500 Against All the Odds",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/e25155b5-f547-30d8-8d06-525381605868/bitcoin-is-rallying-and.html",
                 "score": 0
             },
             {
@@ -59,17 +52,17 @@
                 "score": 0
             },
             {
-                "symbol": "NVDA",
-                "headline": "Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-maintained-prediction-ai-214300951.html",
-                "score": 0
-            },
-            {
                 "symbol": "AMD",
                 "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACN",
+                "headline": "Accenture (ACN) Stock Sinks As Market Gains: Here's Why",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-stock-sinks-market-215003281.html",
                 "score": 0
             },
             {
@@ -98,6 +91,13 @@
                 "headline": "PepsiCo (PEP) Stock Dips While Market Gains: Key Facts",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-stock-dips-while-214504050.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBIT",
+                "headline": "The SEC Greenlights Tokenized Stocks... With Caveats",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-caveats-220732726.html",
                 "score": 0
             },
             {
