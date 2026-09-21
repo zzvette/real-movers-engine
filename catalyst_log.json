@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T22:31:09.639929+00:00",
+    "timestamp": "2026-09-21T22:47:33.510688+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -45,9 +45,9 @@
         },
         {
             "symbol": "META",
-            "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-ends-nearly-3-higher-220454998.html",
+            "headline": "Decibel hits $7 billion in total trading volume on Aptos",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/decibel-hits-7-billion-total-224313647.html",
             "score": 0
         },
         {
@@ -59,9 +59,9 @@
         },
         {
             "symbol": "GME",
-            "headline": "Jim Cramer on GameStop (GME): \u201cI\u2019m Willing to Say That That Stock Is a Buy\u201d",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gamestop-gme-m-193001444.html",
+            "headline": "GME Pops 3% After the Bell As CEO Buys $26M Worth of Shares",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-3-bell-ceo-223838381.html",
             "score": 0
         },
         {
