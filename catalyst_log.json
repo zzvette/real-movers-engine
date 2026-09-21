@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-21T16:01:48.517988+00:00",
+    "timestamp": "2026-09-21T16:14:21.310766+00:00",
     "catalysts": [
         {
             "symbol": "VEEE",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
-            "score": 3
-        },
-        {
-            "symbol": "MRNA",
-            "headline": "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/moderna-surges-9-phase-3-154555747.html",
             "score": 3
         },
         {
@@ -37,13 +30,6 @@
             "score": 2
         },
         {
-            "symbol": "CRML",
-            "headline": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/4f845649-d89b-397f-849b-e954cb011149/greenland-deal-fuels-critical.html",
-            "score": 2
-        },
-        {
             "symbol": "WBD",
             "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
             "publisher": "Reuters",
@@ -52,16 +38,16 @@
         },
         {
             "symbol": "AMD",
-            "headline": "Meta AI agent \u2018Muse\u2019 triggers massive tech rally as chips and Wall Street soar",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html",
+            "headline": "From $24 to $109: Intel\u2019s Comeback Is Real. The Price Tag Is Now the Problem",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/24-109-intel-comeback-real-160546243.html",
             "score": 0
         },
         {
             "symbol": "META",
-            "headline": "Amazon Locks Meta's Muse Out of Its Store",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/amazon-locks-metas-muse-store-155222583.html",
+            "headline": "Can Pinterest's Latest Visual Search Ads Boost Its Market Position?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/media-advertising/articles/pinterests-latest-visual-search-ads-155800014.html",
             "score": 0
         },
         {
@@ -73,16 +59,23 @@
         },
         {
             "symbol": "INTC",
-            "headline": "Meta AI agent \u2018Muse\u2019 triggers massive tech rally as chips and Wall Street soar",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html",
+            "headline": "From $24 to $109: Intel\u2019s Comeback Is Real. The Price Tag Is Now the Problem",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/24-109-intel-comeback-real-160546243.html",
             "score": 0
         },
         {
             "symbol": "NVO",
-            "headline": "Novo Sets Long-Term Targets Ahead of Semaglutide Patent Expirations",
+            "headline": "European Stocks Close Higher Monday as Oil Prices Tumble",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/novo-sets-long-term-targets-154510590.html",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-higher-monday-160251892.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRML",
+            "headline": "Why Critical Metals Stock Is Rocketing Higher Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-critical-metals-stock-rocketing-160120525.html",
             "score": 0
         },
         {
@@ -97,6 +90,13 @@
             "headline": "FDA Decision Watch: MRK, MIRM, INCY, GRAL Face Key Regulatory Catalysts This Week",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/healthcare/articles/fda-decision-watch-mrk-mirm-110643425.html",
+            "score": 0
+        },
+        {
+            "symbol": "MRNA",
+            "headline": "Biotech ETFs to Buy as Cancer Drug Breakthroughs Accelerate",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/healthcare/articles/biotech-etfs-buy-cancer-drug-160300435.html",
             "score": 0
         },
         {
