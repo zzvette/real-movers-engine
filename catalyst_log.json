@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T15:01:03.502652+00:00",
+    "timestamp": "2026-09-21T15:12:37.504538+00:00",
     "catalysts": [
         {
             "symbol": "CRML",
@@ -7,13 +7,6 @@
             "publisher": "Barrons.com",
             "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-stock-surges.html",
             "score": 5
-        },
-        {
-            "symbol": "WBD",
-            "headline": "Paramount, Warner Bros. shares rally on reports of merger settlement agreement",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-shares-rally-on-reports-of-merger-settlement-agreement-134233954.html",
-            "score": 4
         },
         {
             "symbol": "VEEE",
@@ -37,11 +30,18 @@
             "score": 3
         },
         {
-            "symbol": "USAR",
-            "headline": "USA Rare Earth Shares Rise 6% Following Trump\u2019s Greenland Agreement Announcement",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-shares-rise-124700040.html",
-            "score": 2
+            "symbol": "AMD",
+            "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-relentless-rally-pushes-150127695.html",
+            "score": 0
+        },
+        {
+            "symbol": "META",
+            "headline": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-dow-up-as.html",
+            "score": 0
         },
         {
             "symbol": "GLND",
@@ -51,10 +51,10 @@
             "score": 0
         },
         {
-            "symbol": "AMD",
-            "headline": "The AI Trade Leads Today's Stock Market Rally",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/b24c3065-0473-386a-99cf-91ee77efb0c8/the-ai-trade-leads-today%27s.html",
+            "symbol": "INTC",
+            "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-relentless-rally-pushes-150127695.html",
             "score": 0
         },
         {
@@ -65,38 +65,24 @@
             "score": 0
         },
         {
-            "symbol": "INTC",
-            "headline": "The AI Trade Leads Today's Stock Market Rally",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/b24c3065-0473-386a-99cf-91ee77efb0c8/the-ai-trade-leads-today%27s.html",
-            "score": 0
-        },
-        {
             "symbol": "NVO",
-            "headline": "Why Novo Stock Is Tumbling After Drugmaker Unveils Ambitious Growth Plan",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/ac73f8d0-6e02-33c4-b56b-b9f4d2b06550/why-novo-stock-is-tumbling.html",
+            "headline": "Wegovy Maker Novo Promises New Drugs to Boost Sales, but Investors Are Wary",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/healthcare/articles/wegovy-maker-novo-looks-drugs-104200917.html",
             "score": 0
         },
         {
-            "symbol": "MSTR",
-            "headline": "AMD, Intel, Novo, Meta, Strategy, Critical Metals, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/6c151bf6-d6e0-326a-905a-75334358e038/amd%2C-intel%2C-novo%2C-meta%2C.html",
+            "symbol": "ARM",
+            "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-relentless-rally-pushes-150127695.html",
             "score": 0
         },
         {
-            "symbol": "BTTC",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-            "score": 0
-        },
-        {
-            "symbol": "AUR",
-            "headline": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
+            "symbol": "WBD",
+            "headline": "Paramount, Warner Bros. Rally On Promising Settlement Talks With California AG",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/cea669fb-eaee-3828-84b0-1ffd579b1826/paramount%2C-warner-bros.-rally.html",
             "score": 0
         },
         {
@@ -107,24 +93,10 @@
             "score": 0
         },
         {
-            "symbol": "ARM",
-            "headline": "Intel and Arm Stocks Are Jumping. Thank Meta\u2019s Muse AI Agent.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/96f093e9-37a1-34c6-9da9-e24f0b868868/intel-and-arm-stocks-are.html",
-            "score": 0
-        },
-        {
-            "symbol": "MX",
-            "headline": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/technology/articles/magnachip-shares-rise-14-securing-124011700.html",
-            "score": 0
-        },
-        {
-            "symbol": "NCPL",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "symbol": "MRNA",
+            "headline": "Moderna Announces Late-Breaking Data to be Presented at ESMO Congress 2026",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/moderna-announces-breaking-data-presented-141200784.html",
             "score": 0
         },
         {
@@ -132,6 +104,34 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "score": 0
+        },
+        {
+            "symbol": "BTTC",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "score": 0
+        },
+        {
+            "symbol": "AXTI",
+            "headline": "Bear of the Day: Qualcomm (QCOM)",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html",
+            "score": 0
+        },
+        {
+            "symbol": "UPS",
+            "headline": "BofA Securities Adjusts United Parcel Service Price Target to $108 From $115, Maintains Neutral Rating",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-united-parcel-142939955.html",
+            "score": 0
+        },
+        {
+            "symbol": "QTOP",
+            "headline": "Should iShares Nasdaq Top 30 Stocks ETF (QTOP) Be on Your Investing Radar?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-nasdaq-top-30-stocks-102001670.html",
             "score": 0
         }
     ]
