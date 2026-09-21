@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T02:41:19.384269+00:00",
+    "timestamp": "2026-09-21T03:11:56.344493+00:00",
     "signals": {
         "catalysts": [
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "GC=F",
-                "headline": "Bombardier (TSX:BBD.B) Wins Approval For Global 8000 Flights Into London City Airport",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bombardier-tsx-bbd-b-wins-231352843.html",
+                "headline": "Gold Edges Lower as Investors Monitor Central Bank Clues on Rates",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/2379763e-fae8-3db7-a869-5a5535a1ea09/gold-edges-lower-as-investors.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-022332279.html",
+                "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
                 "score": 0
             }
         ]
