@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T00:15:38.610332+00:00",
+    "timestamp": "2026-09-21T00:44:49.368323+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "CL=F",
-                "headline": "Big Oil\u2019s Production Keeps Soaring Despite Deep Spending Cuts",
-                "publisher": "Oilprice.com",
-                "link": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
+                "headline": "Oil slips as investors assess Saudi export recovery",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/energy/articles/oil-rises-houthi-attack-saudi-221210416.html",
                 "score": 0
             },
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?",
+                "headline": "Hyperliquid Just Hit a New All-Time High of $92. How Hyped Should Investors Be For HYPE?",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/buy-goldman-sachs-stock-26-235000705.html",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-just-hit-time-high-002000840.html",
                 "score": 0
             },
             {
