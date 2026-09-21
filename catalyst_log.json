@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T20:43:29.744106+00:00",
+    "timestamp": "2026-09-21T20:47:36.017916+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -16,21 +16,7 @@
             "score": 4
         },
         {
-            "symbol": "AMD",
-            "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
-            "score": 3
-        },
-        {
             "symbol": "ARM",
-            "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
-            "score": 3
-        },
-        {
-            "symbol": "INTC",
             "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
@@ -66,9 +52,9 @@
         },
         {
             "symbol": "META",
-            "headline": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-dow-up%2C.html",
+            "headline": "Marvell just made a move that changes the AI networking story",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/ai/articles/marvell-just-made-move-changes-203300538.html",
             "score": 0
         },
         {
@@ -76,6 +62,13 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMD",
+            "headline": "Update: Nasdaq Composite Rallies to Record as AI Trade Lifts Chipmakers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-rallies-record-ai-203838542.html",
             "score": 0
         },
         {
@@ -111,6 +104,13 @@
             "headline": "Top Midday Decliners",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182846292.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Update: Nasdaq Composite Rallies to Record as AI Trade Lifts Chipmakers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-rallies-record-ai-203838542.html",
             "score": 0
         },
         {
