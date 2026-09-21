@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T20:11:07.426555+00:00",
+    "timestamp": "2026-09-21T20:22:42.847152+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,27 +8,6 @@
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-7-refinancing-pushes-180912319.html",
                 "score": 5
-            },
-            {
-                "symbol": "META",
-                "headline": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-                "score": 3
-            },
-            {
-                "symbol": "AMD",
-                "headline": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-                "score": 3
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-                "score": 3
             },
             {
                 "symbol": "VEEE",
@@ -59,10 +38,31 @@
                 "score": 2
             },
             {
+                "symbol": "NUAI",
+                "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-shares-rise-180729641.html",
+                "score": 2
+            },
+            {
+                "symbol": "META",
+                "headline": "Meta stock soars 11% on price target increase, Muse AI downloads",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/technology/article/meta-stock-soars-11-on-price-target-increase-muse-ai-downloads-180423756.html",
+                "score": 0
+            },
+            {
                 "symbol": "GLND",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
                 "score": 0
             },
             {
@@ -81,7 +81,7 @@
             },
             {
                 "symbol": "ARM",
-                "headline": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat",
+                "headline": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
                 "publisher": "Reuters",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
                 "score": 0
@@ -108,6 +108,20 @@
                 "score": 0
             },
             {
+                "symbol": "INTC",
+                "headline": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
+                "score": 0
+            },
+            {
+                "symbol": "APP",
+                "headline": "Dell and AppLovin Look Vulnerable. How to Play the Charts.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f394c2e8-43ac-3e47-bed7-0b1380703f1f/dell-and-applovin-look.html",
+                "score": 0
+            },
+            {
                 "symbol": "FSLY",
                 "headline": "Update: Fastly Shares Rise After Launching New Capabilities for Securing, Scaling AI",
                 "publisher": "MT Newswires",
@@ -115,31 +129,10 @@
                 "score": 0
             },
             {
-                "symbol": "VRME",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-                "score": 0
-            },
-            {
-                "symbol": "ALAB",
-                "headline": "Tech Stocks Break Out: The Next Leg of the Bull Market",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-break-next-leg-180300015.html",
-                "score": 0
-            },
-            {
                 "symbol": "SHOP",
                 "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
                 "publisher": "GuruFocus.com",
                 "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-192343518.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVDA",
-                "headline": "Intel's CEO Just Gave Micron Technology Investors Great News",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/intels-ceo-just-gave-micron-195001342.html",
                 "score": 0
             }
         ]
