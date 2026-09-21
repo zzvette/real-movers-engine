@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T21:27:42.985591+00:00",
+    "timestamp": "2026-09-21T21:39:57.335407+00:00",
     "signals": {
         "catalysts": [
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "NVO",
-                "headline": "LLY Stock Gains As CEO Says Foundayo Wins One-Third of New GLP-1 Pill Starts, Breaks Ground On $6.5B Houston Plant",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/lly-stock-gains-ceo-says-194919636.html",
+                "headline": "Novo Nordisk (CPSE:NOVO B) Unveiled A 2030 Blockbuster Drug Plan",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-211228776.html",
                 "score": 0
             },
             {
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "PSKY",
-                "headline": "What to know about Paramount's settlement and its impact on movies",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/media-advertising/articles/know-paramounts-settlement-impact-movies-210108097.html",
+                "headline": "Paramount Skydance Corporation Announces Extension of Expiration Dates of Previously Announced Exchange Offers and Tender Offers",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-corporation-announces-extension-212500408.html",
                 "score": 0
             },
             {
@@ -137,9 +137,9 @@
             },
             {
                 "symbol": "^IXIC",
-                "headline": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-212222022.html",
+                "headline": "BC-Select Stock Indices",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013026.html",
                 "score": 0
             }
         ]
