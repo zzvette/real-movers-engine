@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T23:43:17.113510+00:00",
+    "timestamp": "2026-09-21T23:56:12.345290+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "META",
-                "headline": "Decibel hits $7 billion in total trading volume on Aptos",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/decibel-hits-7-billion-total-224313647.html",
+                "headline": "Meta (META) Stock Trades Up, Here Is Why",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-trades-why-235025743.html",
                 "score": 0
             },
             {
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "ARM",
-                "headline": "Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/communication-services-tech-heavyweights-push-210945542.html",
+                "headline": "Junk-Bond Market Gets AI Jolt from SoftBank",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/0d4e8d84-48a9-3f11-9f58-7f6ce474d7c9/junk-bond-market-gets-ai-jolt.html",
                 "score": 0
             },
             {
