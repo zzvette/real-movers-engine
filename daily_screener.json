@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T12:00:34.842700+00:00",
+    "timestamp": "2026-09-21T12:22:21.620571+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,6 +17,13 @@
                 "score": 3
             },
             {
+                "symbol": "WBD",
+                "headline": "Paramount Stock Jumps 7% on WBD Settlement Talks",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-stock-jumps-7-wbd-121736781.html",
+                "score": 3
+            },
+            {
                 "symbol": "CUE",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
@@ -24,31 +31,10 @@
                 "score": 3
             },
             {
-                "symbol": "WBD",
-                "headline": "Paramount and Warner Bros. Shares Rise on Report of Progress in Merger Settlement Talks",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-warner-bros-shares-rise-102422485.html",
-                "score": 2
-            },
-            {
-                "symbol": "BMNR",
-                "headline": "Tom Lee Says Crypto Is A 'Huge Winner' As Banks Move Toward Tech-Style Valuations, While Dan Ives Calls AI A 'Two-Horse Race'",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-crypto-huge-123834043.html",
-                "score": 2
-            },
-            {
                 "symbol": "MSTR",
-                "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-today-oil-prices-113059049.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVO",
-                "headline": "Novo Nordisk's Weight-Loss, Diabetes Drug Candidate Meets Primary Goals",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-apos-weight-loss-114632046.html",
+                "headline": "Bitcoin prices rip despite the Clarity Act failure",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/crypto/article/bitcoin-prices-rip-despite-the-clarity-act-failure-101541736.html",
                 "score": 0
             },
             {
@@ -59,17 +45,17 @@
                 "score": 0
             },
             {
-                "symbol": "IREN",
-                "headline": "Rothschild & Co Redburn Initiates Iren at Neutral With $40 Price Target",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-initiates-iren-091952610.html",
+                "symbol": "NVO",
+                "headline": "Novo Nordisk Stock Drops 5.6% as 2030 Goals Match Peers",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-drops-5-122029338.html",
                 "score": 0
             },
             {
                 "symbol": "COIN",
-                "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-today-oil-prices-113059049.html",
+                "headline": "Bitcoin prices rip despite the Clarity Act failure",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/crypto/article/bitcoin-prices-rip-despite-the-clarity-act-failure-101541736.html",
                 "score": 0
             },
             {
@@ -80,6 +66,13 @@
                 "score": 0
             },
             {
+                "symbol": "NUAI",
+                "headline": "New Era Energy & Digital Secures 20-Year, 207 MW PPA with Vistra",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-secures-20-110000164.html",
+                "score": 0
+            },
+            {
                 "symbol": "MARA",
                 "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
                 "publisher": "24/7 Wall St.",
@@ -87,17 +80,24 @@
                 "score": 0
             },
             {
-                "symbol": "META",
-                "headline": "The Tech Selloff Is Only Strengthening My Belief In Alphabet",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tech-selloff-only-strengthening-belief-111759381.html",
+                "symbol": "IREN",
+                "headline": "CRWV, NBIS Stocks Get \u2018Sell\u2019 Ratings, AI-Pivoting Bitcoin Miners Get \u2018Neutral\u2019 Calls: Rothschild Says Credit Market Is \u2018Sending The More Important Signal\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-stocks-sell-ratings-120653484.html",
                 "score": 0
             },
             {
-                "symbol": "HIVE",
-                "headline": "HIVE Digital strengthens BuzzHPC board for AI growth - ICYMI",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/technology/ai/articles/hive-digital-strengthens-buzzhpc-board-192000210.html",
+                "symbol": "CYAB",
+                "headline": "Innventure Leadership Increases Focus on Accelsius Value Creation, Implements Significant Cost Cuts, and Strengthens Board Independence",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/innventure-leadership-increases-focus-accelsius-120000124.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACN",
+                "headline": "Dragos Acquires NetRise and runZero to Expand its Industry Defining xOT Cybersecurity Platform",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/dragos-acquires-netrise-runzero-expand-121200029.html",
                 "score": 0
             },
             {
