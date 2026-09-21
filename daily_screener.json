@@ -1,21 +1,7 @@
 {
-    "timestamp": "2026-09-21T12:22:21.620571+00:00",
+    "timestamp": "2026-09-21T12:37:24.199310+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "CRML",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110217882.html",
-                "score": 3
-            },
-            {
-                "symbol": "GRML",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110217882.html",
-                "score": 3
-            },
             {
                 "symbol": "WBD",
                 "headline": "Paramount Stock Jumps 7% on WBD Settlement Talks",
@@ -32,23 +18,30 @@
             },
             {
                 "symbol": "MSTR",
-                "headline": "Bitcoin prices rip despite the Clarity Act failure",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/crypto/article/bitcoin-prices-rip-despite-the-clarity-act-failure-101541736.html",
+                "headline": "MicroStrategy Ends Two-Week Pause With 950 Bitcoin: Is the Buying Engine Stalling?",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-ends-two-week-pause-121459967.html",
                 "score": 0
             },
             {
                 "symbol": "GLND",
-                "headline": "Easing Oil Bills, Pending Xi US Visit Buoy Wall Street Pre-Bell; Asia, Europe Up",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/articles/easing-oil-bills-pending-xi-111727506.html",
+                "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-soar-trumps-122522935.html",
                 "score": 0
             },
             {
                 "symbol": "NVO",
-                "headline": "Novo Nordisk Stock Drops 5.6% as 2030 Goals Match Peers",
+                "headline": "Novo Nordisk's $23B Obesity Goal Isn't Enough to Stop the Selloff",
                 "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-drops-5-122029338.html",
+                "link": "https://finance.yahoo.com/media-advertising/articles/novo-nordisks-23b-obesity-goal-123503290.html",
+                "score": 0
+            },
+            {
+                "symbol": "GRML",
+                "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-soar-trumps-122522935.html",
                 "score": 0
             },
             {
