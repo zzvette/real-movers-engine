@@ -1,34 +1,13 @@
 {
-    "timestamp": "2026-09-21T15:40:41.985140+00:00",
+    "timestamp": "2026-09-21T15:49:00.272391+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "META",
-                "headline": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
-                "score": 9
-            },
             {
                 "symbol": "INTC",
                 "headline": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
                 "score": 9
-            },
-            {
-                "symbol": "ARM",
-                "headline": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
-                "score": 9
-            },
-            {
-                "symbol": "AMD",
-                "headline": "AMD Stock Jumps. Record Chip Exports Point to Strong AI Demand",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-record-chip-153544439.html",
-                "score": 3
             },
             {
                 "symbol": "VEEE",
@@ -52,6 +31,41 @@
                 "score": 3
             },
             {
+                "symbol": "GRML",
+                "headline": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/4f845649-d89b-397f-849b-e954cb011149/greenland-deal-fuels-critical.html",
+                "score": 2
+            },
+            {
+                "symbol": "CRML",
+                "headline": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/4f845649-d89b-397f-849b-e954cb011149/greenland-deal-fuels-critical.html",
+                "score": 2
+            },
+            {
+                "symbol": "WBD",
+                "headline": "Paramount Settles With 12 States, Clearing Path For $110 Billion Warner Deal",
+                "publisher": "Moby",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-settles-12-states-clearing-153715604.html",
+                "score": 2
+            },
+            {
+                "symbol": "AMD",
+                "headline": "AMD Gains 8.7% as Muse Pulls Inference Beyond GPUs",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-gains-8-7-muse-154611660.html",
+                "score": 0
+            },
+            {
+                "symbol": "META",
+                "headline": "AMD Gains 8.7% as Muse Pulls Inference Beyond GPUs",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-gains-8-7-muse-154611660.html",
+                "score": 0
+            },
+            {
                 "symbol": "GLND",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
@@ -59,31 +73,17 @@
                 "score": 0
             },
             {
-                "symbol": "GRML",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-                "score": 0
-            },
-            {
                 "symbol": "NVO",
-                "headline": "European Equities Traded in the US as American depositary Receipts Rise in Monday Trading",
+                "headline": "Novo Sets Long-Term Targets Ahead of Semaglutide Patent Expirations",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152908906.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/novo-sets-long-term-targets-154510590.html",
                 "score": 0
             },
             {
-                "symbol": "CRML",
-                "headline": "What Critical Metals (CRML)'s Low-Waste Romanian Refinery Plan Means For Shareholders",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-crml-low-waste-151400807.html",
-                "score": 0
-            },
-            {
-                "symbol": "WBD",
-                "headline": "Ackman Bets $1 Billion on Netflix Redemption After $400 Million 2022 Loss",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ackman-bets-1-billion-netflix-153044051.html",
+                "symbol": "ARM",
+                "headline": "Arm Rises 8.8% as Muse Expands AI's CPU Royalty Funnel",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/arm-rises-8-8-muse-154744100.html",
                 "score": 0
             },
             {
