@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T13:17:57.103373+00:00",
+    "timestamp": "2026-09-21T13:32:23.244932+00:00",
     "signals": {
         "catalysts": [
             {
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "NUAI",
-                "headline": "New Era Energy Shares Rise 16% After Securing 20-Year Power Agreement With Vistra",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/energy/articles/era-energy-shares-rise-16-123851353.html",
+                "headline": "New Era Energy secures 20-year power deal with Vistra for Texas data center project",
+                "publisher": "Proactive",
+                "link": "https://finance.yahoo.com/energy/articles/era-energy-secures-20-power-132300226.html",
                 "score": 2
             },
             {
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "NVO",
-                "headline": "Sector Update: Healthcare",
+                "headline": "Sector Update: Healthcare Stocks Mixed Premarket Monday",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-130125180.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-mixed-premarket-131851210.html",
                 "score": 0
             },
             {
@@ -102,9 +102,9 @@
             },
             {
                 "symbol": "CRDO",
-                "headline": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It\u2019s About to Double",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crashed-3-months-115135647.html",
+                "headline": "The Zacks Analyst Blog Highlights Credo Technology and NVIDIA",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-credo-130000521.html",
                 "score": 0
             }
         ]
