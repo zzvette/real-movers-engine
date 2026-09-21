@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T13:46:32.437332+00:00",
+    "timestamp": "2026-09-21T13:57:31.148511+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,25 +10,11 @@
                 "score": 6
             },
             {
-                "symbol": "BMNR",
-                "headline": "Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html",
-                "score": 6
-            },
-            {
                 "symbol": "MARA",
                 "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-jumps-6-bitcoin-hits-124444487.html",
                 "score": 6
-            },
-            {
-                "symbol": "MSTR",
-                "headline": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html",
-                "score": 3
             },
             {
                 "symbol": "CUE",
@@ -59,6 +45,13 @@
                 "score": 2
             },
             {
+                "symbol": "MSTR",
+                "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+                "score": 0
+            },
+            {
                 "symbol": "GLND",
                 "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
                 "publisher": "GuruFocus.com",
@@ -74,16 +67,16 @@
             },
             {
                 "symbol": "NVO",
-                "headline": "Sector Update: Healthcare Stocks Mixed Premarket Monday",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-mixed-premarket-131851210.html",
+                "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
                 "score": 0
             },
             {
                 "symbol": "AMD",
-                "headline": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-5-report-flags-133753675.html",
+                "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
                 "score": 0
             },
             {
@@ -95,9 +88,16 @@
             },
             {
                 "symbol": "COIN",
-                "headline": "Here is What to Know Beyond Why Coinbase Global, Inc. (COIN) is a Trending Stock",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-coinbase-global-130006694.html",
+                "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+                "score": 0
+            },
+            {
+                "symbol": "BMNR",
+                "headline": "Bitmine Buys $75 Million Of Ethereum Amid Signs \u2018Crypto Winter\u2019 Is Over",
+                "publisher": "CryptoProwl",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-75-million-ethereum-134800517.html",
                 "score": 0
             },
             {
