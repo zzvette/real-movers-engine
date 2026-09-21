@@ -1,6 +1,13 @@
 {
-    "timestamp": "2026-09-21T21:39:57.335407+00:00",
+    "timestamp": "2026-09-21T21:51:21.757535+00:00",
     "catalysts": [
+        {
+            "symbol": "META",
+            "headline": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-214356870.html",
+            "score": 3
+        },
         {
             "symbol": "VEEE",
             "headline": "Top Premarket Gainers",
@@ -9,18 +16,18 @@
             "score": 3
         },
         {
+            "symbol": "^IXIC",
+            "headline": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-214356870.html",
+            "score": 3
+        },
+        {
             "symbol": "GRML",
             "headline": "Greenland Mines (GRML) Highlights Critical Minerals Role Following U.S.-Denmark-Greenland Security Agreement",
             "publisher": "NewMediaWire",
             "link": "https://finance.yahoo.com/energy/articles/greenland-mines-grml-highlights-critical-193000316.html",
             "score": 2
-        },
-        {
-            "symbol": "META",
-            "headline": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-212222022.html",
-            "score": 0
         },
         {
             "symbol": "GLND",
@@ -132,13 +139,6 @@
             "headline": "Salesforce vs. Twilio: Which Customer Engagement Stock Has the Edge?",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-twilio-customer-engagement-130000980.html",
-            "score": 0
-        },
-        {
-            "symbol": "^IXIC",
-            "headline": "BC-Select Stock Indices",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013026.html",
             "score": 0
         }
     ]
