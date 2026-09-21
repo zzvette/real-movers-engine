@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T14:26:55.159173+00:00",
+    "timestamp": "2026-09-21T14:36:39.933093+00:00",
     "signals": {
         "catalysts": [
             {
@@ -7,6 +7,13 @@
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
+                "score": 3
+            },
+            {
+                "symbol": "NUAI",
+                "headline": "New Era jumps 30% after signing 207 MW Vistra PPA",
+                "publisher": "Blockspace",
+                "link": "https://finance.yahoo.com/energy/articles/era-jumps-30-signing-207-142704464.html",
                 "score": 3
             },
             {
@@ -24,13 +31,6 @@
                 "score": 2
             },
             {
-                "symbol": "NUAI",
-                "headline": "New Era Energy secures 20-year power deal with Vistra for Texas data center project",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/energy/articles/era-energy-secures-20-power-132300226.html",
-                "score": 2
-            },
-            {
                 "symbol": "USAR",
                 "headline": "USA Rare Earth Shares Rise 6% Following Trump\u2019s Greenland Agreement Announcement",
                 "publisher": "InvestorsHub",
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "GLND",
-                "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-soar-trumps-122522935.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
                 "score": 0
             },
             {
@@ -53,16 +53,16 @@
             },
             {
                 "symbol": "GRML",
-                "headline": "Greenland Mines Applies for License to More Than Double Sarfartoq Footprint",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/greenland-mines-applies-license-more-135541575.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
                 "score": 0
             },
             {
@@ -87,6 +87,13 @@
                 "score": 0
             },
             {
+                "symbol": "BTTC",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+                "score": 0
+            },
+            {
                 "symbol": "AUR",
                 "headline": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
                 "publisher": "MarketBeat",
@@ -108,24 +115,17 @@
                 "score": 0
             },
             {
-                "symbol": "MX",
-                "headline": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/technology/articles/magnachip-shares-rise-14-securing-124011700.html",
-                "score": 0
-            },
-            {
                 "symbol": "NCPL",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
                 "score": 0
             },
             {
                 "symbol": "LOBO",
-                "headline": "LOBO TECHNOLOGIES LTD. Announces First Half of Fiscal Year 2026 Financial Results",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lobo-technologies-ltd-announces-first-200500826.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
                 "score": 0
             }
         ]
