@@ -1,116 +1,123 @@
 {
-    "timestamp": "2026-09-18T23:57:07.665532+00:00",
+    "timestamp": "2026-09-21T00:15:38.610332+00:00",
     "catalysts": [
         {
-            "symbol": "MSTR",
-            "headline": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption \u2014 A New Catalyst Looms Next Week",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
-            "score": 3
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "score": 0
         },
         {
-            "symbol": "MARA",
-            "headline": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption \u2014 A New Catalyst Looms Next Week",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
-            "score": 3
+            "symbol": "ES=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "score": 0
         },
         {
-            "symbol": "GEMI",
-            "headline": "Why Gemini Space Station Stock Jumped 31.2% Today",
+            "symbol": "CL=F",
+            "headline": "Big Oil\u2019s Production Keeps Soaring Despite Deep Spending Cuts",
+            "publisher": "Oilprice.com",
+            "link": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
+            "score": 0
+        },
+        {
+            "symbol": "YM=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "score": 0
+        },
+        {
+            "symbol": "MU",
+            "headline": "Prediction: Micron Will Earn More Profit Than Microsoft in Fiscal 2027",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-gemini-space-station-stock-215405601.html",
-            "score": 3
-        },
-        {
-            "symbol": "SNDK",
-            "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-earn-more-profit-173701623.html",
             "score": 0
         },
         {
-            "symbol": "ONON",
-            "headline": "Sneaker Maker On Partners With Kylian Mbappe as Football Star Parts Ways With Nike",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sneaker-maker-partners-kylian-mbappe-201010046.html",
-            "score": 0
-        },
-        {
-            "symbol": "NFLX",
-            "headline": "Netflix (NFLX) Stock Trades Down, Here Is Why",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-stock-trades-down-223240493.html",
-            "score": 0
-        },
-        {
-            "symbol": "IMCC",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+            "symbol": "GC=F",
+            "headline": "Bombardier (TSX:BBD.B) Wins Approval For Global 8000 Flights Into London City Airport",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bombardier-tsx-bbd-b-wins-231352843.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil \u2014 NVDA, TSLA, SPCX, ONON In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-record-worst-week-233558682.html",
+            "headline": "Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/buy-goldman-sachs-stock-26-235000705.html",
+            "score": 0
+        },
+        {
+            "symbol": "^N225",
+            "headline": "BC-Nikkei 225 Futures",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-200111232.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
+            "score": 0
+        },
+        {
+            "symbol": "OSCR",
+            "headline": "3 notable business takes that flew under the radar this week",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/3-notable-business-takes-that-flew-under-the-radar-this-week-120000112.html",
+            "score": 0
+        },
+        {
+            "symbol": "KO",
+            "headline": "The Ultimate Dividend Growth stock to Buy With $1,000 Right Now.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ultimate-dividend-growth-stock-buy-213500253.html",
+            "score": 0
+        },
+        {
+            "symbol": "BZ=F",
+            "headline": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
+            "score": 0
+        },
+        {
+            "symbol": "SI=F",
+            "headline": "Why Is MMG (SEHK:1208) Raising Rosebery Sales Caps And What Could It Signal?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-mmg-sehk-1208-raising-151258770.html",
+            "score": 0
+        },
+        {
+            "symbol": "MRVL",
+            "headline": "3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-hardware-stocks-linked-151344773.html",
+            "score": 0
+        },
+        {
+            "symbol": "^KS11",
+            "headline": "UBS cuts KOSPI target by nearly 10% to reflect higher rates",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/ubs-cuts-kospi-target-nearly-131614040.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOXL",
+            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Dropped Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-174030964.html",
             "score": 0
         },
         {
             "symbol": "AMD",
-            "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+            "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
-            "score": 0
-        },
-        {
-            "symbol": "ACN",
-            "headline": "Accenture (ACN) Stock Trades Down, Here Is Why",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-stock-trades-down-224040409.html",
-            "score": 0
-        },
-        {
-            "symbol": "OLOX",
-            "headline": "Olenox Industries Reports 15.63 Bitcoin Mined in August as Company Advances Energy-Powered Digital Infrastructure Strategy",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/energy/articles/olenox-industries-reports-15-63-130000693.html",
-            "score": 0
-        },
-        {
-            "symbol": "NKE",
-            "headline": "Au Revoir, Nike: Kylian Mbappe Signs With On",
-            "publisher": "MediaPost",
-            "link": "https://finance.yahoo.com/media-advertising/articles/au-revoir-nike-kylian-mbappe-202759810.html",
-            "score": 0
-        },
-        {
-            "symbol": "PEP",
-            "headline": "PepsiCo (PEP) Stock Dips While Market Gains: Key Facts",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-stock-dips-while-214504050.html",
-            "score": 0
-        },
-        {
-            "symbol": "IBIT",
-            "headline": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html",
-            "score": 0
-        },
-        {
-            "symbol": "GIPR",
-            "headline": "Generation Income Properties Enters Into Warrant Exercise Transaction for $4.3 Million in Gross Proceeds",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-enters-warrant-181500959.html",
-            "score": 0
-        },
-        {
-            "symbol": "PS",
-            "headline": "1 of Billionaire Investor Bill Ackman's Newest Positions Is Down Roughly 21% This Year. A Wall Street Analyst Thinks Another 21% Decline Is Coming. Should Investors Sell the Stock?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/1-billionaire-investor-bill-ackmans-170101155.html",
+            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
             "score": 0
         }
     ]
