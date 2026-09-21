@@ -1,102 +1,46 @@
 {
-    "timestamp": "2026-09-21T04:43:00.355759+00:00",
+    "timestamp": "2026-09-21T09:09:33.978088+00:00",
     "catalysts": [
         {
-            "symbol": "AAOI",
-            "headline": "Lumentum Climbs 3% as Optics Buying Extends; Coherent Rises 5%, Corning Jumps 3%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-climbs-3-optics-buying-140139997.html",
-            "score": 6
+            "symbol": "BWET",
+            "headline": "Oil Surges, Tanker Rates Soar: ETFs in Play",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/energy/articles/oil-surges-tanker-rates-soar-195500447.html",
+            "score": 3
         },
         {
             "symbol": "CRML",
-            "headline": "CRML, GLND, GRML Surge Overnight After Trump Unveils \u2018Permanent\u2019 US Security Deal For Greenland",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crml-glnd-grml-surge-overnight-015054024.html",
+            "headline": "Critical Metals, Greenland-Linked Stocks Rise After Trump Unveils Security Deal",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/critical-metals-greenland-linked-stocks-075416803.html",
             "score": 2
         },
         {
             "symbol": "GLND",
-            "headline": "CRML, GLND, GRML Surge Overnight After Trump Unveils \u2018Permanent\u2019 US Security Deal For Greenland",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crml-glnd-grml-surge-overnight-015054024.html",
+            "headline": "Critical Metals, Greenland-Linked Stocks Rise After Trump Unveils Security Deal",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/critical-metals-greenland-linked-stocks-075416803.html",
             "score": 2
         },
         {
             "symbol": "GRML",
-            "headline": "CRML, GLND, GRML Surge Overnight After Trump Unveils \u2018Permanent\u2019 US Security Deal For Greenland",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crml-glnd-grml-surge-overnight-015054024.html",
+            "headline": "Critical Metals, Greenland-Linked Stocks Rise After Trump Unveils Security Deal",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/critical-metals-greenland-linked-stocks-075416803.html",
             "score": 2
-        },
-        {
-            "symbol": "WBD",
-            "headline": "Paramount Discussed $1.5 Billion California Investment to Clear Merger Hurdle",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/6fc96d24-2323-3183-980a-71c250c2f8b5/paramount-discussed-%241.5.html",
-            "score": 2
-        },
-        {
-            "symbol": "MU",
-            "headline": "MU, SNDK, SKHY Stocks In Focus: Memory Rebound Gains Steam Even As China\u2019s CXMT Touts Faster Production",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-stocks-focus-020119161.html",
-            "score": 0
-        },
-        {
-            "symbol": "SNDK",
-            "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
-            "score": 0
         },
         {
             "symbol": "MSTR",
-            "headline": "Michael Saylor Hints at More MicroStrategy Bitcoin Buys After \u201cDead Cat Bounce\u201d Debate",
-            "publisher": "BeInCrypto",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-hints-more-microstrategy-192307340.html",
+            "headline": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081254387.html",
             "score": 0
         },
         {
-            "symbol": "CL=F",
-            "headline": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/energy/articles/oil-rises-houthi-attack-saudi-221210416.html",
-            "score": 0
-        },
-        {
-            "symbol": "IREN",
-            "headline": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html",
-            "score": 0
-        },
-        {
-            "symbol": "AMD",
-            "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOXL",
-            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Dropped Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-174030964.html",
-            "score": 0
-        },
-        {
-            "symbol": "MARA",
-            "headline": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don\u2019t Agree.",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mara-stock-rose-14-friday-092852256.html",
-            "score": 0
-        },
-        {
-            "symbol": "DRAM",
-            "headline": "Stocks face a growing list of threats \u2014 so why are investors staying so calm?",
-            "publisher": "MarketWatch",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-face-growing-list-threats-113000494.html",
+            "symbol": "META",
+            "headline": "SPIE announces the launch of a sustainability-linked bond issue",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/energy/articles/spie-announces-launch-sustainability-linked-075500717.html",
             "score": 0
         },
         {
@@ -107,17 +51,52 @@
             "score": 0
         },
         {
-            "symbol": "KO",
-            "headline": "The Ultimate Dividend Growth stock to Buy With $1,000 Right Now.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ultimate-dividend-growth-stock-buy-213500253.html",
+            "symbol": "WBD",
+            "headline": "Market Chatter: Paramount, California Settlement Talks Include Penalty for Missing 30-Film Pledge",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-paramount-california-settlement-084909761.html",
             "score": 0
         },
         {
-            "symbol": "NQ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "MARA",
+            "headline": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don\u2019t Agree.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mara-stock-rose-14-friday-092852256.html",
+            "score": 0
+        },
+        {
+            "symbol": "IREN",
+            "headline": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html",
+            "score": 0
+        },
+        {
+            "symbol": "ONON",
+            "headline": "Why Did NKE, OPEN, MCD Stocks Slip To 52-Week Lows Last Week?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nke-open-mcd-025430714.html",
+            "score": 0
+        },
+        {
+            "symbol": "NFLX",
+            "headline": "Streaming\u2019s Biggest Rivals Just Became Allies in Washington",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/media-advertising/articles/streaming-biggest-rivals-just-became-202114144.html",
+            "score": 0
+        },
+        {
+            "symbol": "KEEL",
+            "headline": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-faces-shakeout-corz-161546106.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARM",
+            "headline": "Better Artificial Intelligence Stock: Arm Holdings vs. ASML",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-arm-015219848.html",
             "score": 0
         }
     ]
