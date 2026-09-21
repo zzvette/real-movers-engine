@@ -1,12 +1,26 @@
 {
-    "timestamp": "2026-09-21T17:19:15.163324+00:00",
+    "timestamp": "2026-09-21T17:27:33.274793+00:00",
     "catalysts": [
         {
-            "symbol": "PSKY",
-            "headline": "Paramount reaches deal with states to settle their case challenging Warner buyout, AP source says",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-reaches-deal-states-settle-170738779.html",
-            "score": 4
+            "symbol": "AMD",
+            "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
+            "score": 3
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
+            "score": 3
+        },
+        {
+            "symbol": "ARM",
+            "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
+            "score": 3
         },
         {
             "symbol": "VEEE",
@@ -23,10 +37,10 @@
             "score": 3
         },
         {
-            "symbol": "GRML",
-            "headline": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/4f845649-d89b-397f-849b-e954cb011149/greenland-deal-fuels-critical.html",
+            "symbol": "PSKY",
+            "headline": "PSKY, WBD Stock Soars As Paramount Skydance Reportedly Reaches Settlement With State Prosecutors In $110B Warner Merger",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/media-advertising/articles/psky-wbd-stock-soars-paramount-171637861.html",
             "score": 2
         },
         {
@@ -44,31 +58,17 @@
             "score": 0
         },
         {
-            "symbol": "AMD",
-            "headline": "AMD stock crosses $1 trillion market cap for first time",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-crosses-1-trillion-170121700.html",
-            "score": 0
-        },
-        {
-            "symbol": "INTC",
-            "headline": "AMD stock crosses $1 trillion market cap for first time",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-crosses-1-trillion-170121700.html",
+            "symbol": "GRML",
+            "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
             "score": 0
         },
         {
             "symbol": "GLND",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-            "score": 0
-        },
-        {
-            "symbol": "ARM",
-            "headline": "AMD stock crosses $1 trillion market cap for first time",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-crosses-1-trillion-170121700.html",
+            "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
             "score": 0
         },
         {
@@ -87,9 +87,9 @@
         },
         {
             "symbol": "CRML",
-            "headline": "Why Critical Metals Stock Is Rocketing Higher Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-critical-metals-stock-rocketing-160120525.html",
+            "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
             "score": 0
         },
         {
