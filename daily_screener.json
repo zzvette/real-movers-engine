@@ -1,13 +1,27 @@
 {
-    "timestamp": "2026-09-21T10:01:25.736158+00:00",
+    "timestamp": "2026-09-21T10:19:23.926997+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "COIN",
+                "symbol": "SNDK",
                 "headline": "Coinbase Stock Jumped 12% Last Friday. Bitcoin\u2019s Breakout Wasn\u2019t the Only Reason.",
                 "publisher": "TIKR",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-jumped-12-last-043449751.html",
                 "score": 6
+            },
+            {
+                "symbol": "SBET",
+                "headline": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption \u2014 A New Catalyst Looms Next Week",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
+                "score": 3
+            },
+            {
+                "symbol": "NVO",
+                "headline": "Market Chatter: Novo Nordisk Urged by Shareholders to Develop New Medicines, Pursue Acquisitions",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-novo-nordisk-urged-094702305.html",
+                "score": 2
             },
             {
                 "symbol": "CRML",
@@ -21,13 +35,6 @@
                 "headline": "Critical Metals, Greenland-Linked Stocks Rise After Trump Unveils Security Deal",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/commodities/articles/critical-metals-greenland-linked-stocks-075416803.html",
-                "score": 2
-            },
-            {
-                "symbol": "NVO",
-                "headline": "Market Chatter: Novo Nordisk Urged by Shareholders to Develop New Medicines, Pursue Acquisitions",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-novo-nordisk-urged-094702305.html",
                 "score": 2
             },
             {
@@ -46,23 +53,9 @@
             },
             {
                 "symbol": "MSTR",
-                "headline": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081254387.html",
-                "score": 0
-            },
-            {
-                "symbol": "META",
-                "headline": "Meta Reportedly Challenges UK Regulator Over Online Safety Act Rules",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/media-advertising/articles/meta-reportedly-challenges-uk-regulator-095341171.html",
-                "score": 0
-            },
-            {
-                "symbol": "MARA",
-                "headline": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don\u2019t Agree.",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mara-stock-rose-14-friday-092852256.html",
+                "headline": "Bitcoin prices rip despite the Clarity Act failure",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/crypto/article/bitcoin-prices-rip-despite-the-clarity-act-failure-101541736.html",
                 "score": 0
             },
             {
@@ -73,31 +66,10 @@
                 "score": 0
             },
             {
-                "symbol": "WBD",
-                "headline": "Market Chatter: Paramount, California Settlement Talks Include Penalty for Missing 30-Film Pledge",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-paramount-california-settlement-084909761.html",
-                "score": 0
-            },
-            {
-                "symbol": "CUE",
-                "headline": "Cue Biopharma Meets Primary Goal in a Phase 2 Study of Chronic Hives Disease Drug Candidate",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/cue-biopharma-meets-primary-goal-072620649.html",
-                "score": 0
-            },
-            {
-                "symbol": "NFLX",
-                "headline": "Streaming\u2019s Biggest Rivals Just Became Allies in Washington",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/media-advertising/articles/streaming-biggest-rivals-just-became-202114144.html",
-                "score": 0
-            },
-            {
-                "symbol": "ONON",
-                "headline": "Why Did NKE, OPEN, MCD Stocks Slip To 52-Week Lows Last Week?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nke-open-mcd-025430714.html",
+                "symbol": "AMD",
+                "headline": "Stocks to Watch: Warner Bros., Intel, Strategy",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-warner.html",
                 "score": 0
             },
             {
@@ -105,6 +77,41 @@
                 "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
+                "score": 0
+            },
+            {
+                "symbol": "COIN",
+                "headline": "Bitcoin prices rip despite the Clarity Act failure",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/crypto/article/bitcoin-prices-rip-despite-the-clarity-act-failure-101541736.html",
+                "score": 0
+            },
+            {
+                "symbol": "MARA",
+                "headline": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don\u2019t Agree.",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mara-stock-rose-14-friday-092852256.html",
+                "score": 0
+            },
+            {
+                "symbol": "MU",
+                "headline": "China\u2019s CXMT Says It Has Reached Advanced DRAM Mass Production, Challenging Samsung, SK Hynix and Micron in Memory Chips",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/technology/articles/china-cxmt-says-reached-advanced-041453764.html",
+                "score": 0
+            },
+            {
+                "symbol": "WBD",
+                "headline": "Global Stocks Rally, Yields Lower as Oil Prices Extend Falls",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/fdadf140-7a65-390c-9b12-45fe62a86518/global-stocks-rally%2C-yields.html",
+                "score": 0
+            },
+            {
+                "symbol": "BTDR",
+                "headline": "Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/bitdeer-btdr-fully-contracts-a102-210458313.html",
                 "score": 0
             }
         ]
