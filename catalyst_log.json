@@ -1,20 +1,6 @@
 {
-    "timestamp": "2026-09-21T21:11:01.081213+00:00",
+    "timestamp": "2026-09-21T21:27:42.985591+00:00",
     "catalysts": [
-        {
-            "symbol": "AMC",
-            "headline": "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-7-refinancing-pushes-180912319.html",
-            "score": 5
-        },
-        {
-            "symbol": "ARM",
-            "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
-            "score": 3
-        },
         {
             "symbol": "VEEE",
             "headline": "Top Premarket Gainers",
@@ -30,17 +16,10 @@
             "score": 2
         },
         {
-            "symbol": "NUAI",
-            "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-shares-rise-180729641.html",
-            "score": 2
-        },
-        {
             "symbol": "META",
-            "headline": "Has The Price For Amazon Stock Already Peaked?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/price-amazon-stock-already-peaked-204339927.html",
+            "headline": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-212222022.html",
             "score": 0
         },
         {
@@ -51,17 +30,17 @@
             "score": 0
         },
         {
-            "symbol": "AMD",
-            "headline": "Nasdaq hits record high as chipmakers fuel stock gains",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-shares-higher-asia-004028094.html",
-            "score": 0
-        },
-        {
             "symbol": "MRNA",
             "headline": "Moderna (MRNA) Soars to Fresh High Ahead of Pipeline Updates This Week",
             "publisher": "Insider Monkey",
             "link": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-fresh-high-191331309.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRML",
+            "headline": "Critical Metals (CRML) Dropped, So What Is Driving Attention Now?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-crml-dropped-driving-201301125.html",
             "score": 0
         },
         {
@@ -72,10 +51,17 @@
             "score": 0
         },
         {
-            "symbol": "CRML",
-            "headline": "Critical Metals (CRML) Dropped, So What Is Driving Attention Now?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-crml-dropped-driving-201301125.html",
+            "symbol": "ARM",
+            "headline": "Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/communication-services-tech-heavyweights-push-210945542.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html",
             "score": 0
         },
         {
@@ -100,6 +86,13 @@
             "score": 0
         },
         {
+            "symbol": "TOPS",
+            "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
+            "score": 0
+        },
+        {
             "symbol": "UPS",
             "headline": "Top Midday Decliners",
             "publisher": "MT Newswires",
@@ -107,24 +100,24 @@
             "score": 0
         },
         {
-            "symbol": "INTC",
-            "headline": "Nasdaq hits record high as chipmakers fuel stock gains",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-shares-higher-asia-004028094.html",
-            "score": 0
-        },
-        {
-            "symbol": "APP",
-            "headline": "Dell and AppLovin Look Vulnerable. How to Play the Charts.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/f394c2e8-43ac-3e47-bed7-0b1380703f1f/dell-and-applovin-look.html",
+            "symbol": "VKTX",
+            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
             "score": 0
         },
         {
             "symbol": "FSLY",
-            "headline": "Update: Fastly Shares Rise After Launching New Capabilities for Securing, Scaling AI",
+            "headline": "Fastly's CTO Sells Over 33,000 Shares for $825,000 After the Stock Rose 177% Over the Past Year",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fastlys-cto-sells-over-33-211209509.html",
+            "score": 0
+        },
+        {
+            "symbol": "VICR",
+            "headline": "Vicor Raises Q3 Growth Guidance",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/fastly-shares-rise-launching-capabilities-181852521.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/vicor-raises-q3-growth-guidance-201047018.html",
             "score": 0
         },
         {
@@ -132,6 +125,20 @@
             "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
             "publisher": "GuruFocus.com",
             "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-192343518.html",
+            "score": 0
+        },
+        {
+            "symbol": "TWLO",
+            "headline": "Salesforce vs. Twilio: Which Customer Engagement Stock Has the Edge?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-twilio-customer-engagement-130000980.html",
+            "score": 0
+        },
+        {
+            "symbol": "^IXIC",
+            "headline": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-212222022.html",
             "score": 0
         }
     ]
