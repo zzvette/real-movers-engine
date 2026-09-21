@@ -1,25 +1,60 @@
 {
-    "timestamp": "2026-09-21T03:11:56.344493+00:00",
+    "timestamp": "2026-09-21T03:43:11.189833+00:00",
     "catalysts": [
         {
-            "symbol": "NVDA",
-            "headline": "Nvidia's Jensen Huang Beats Zuckerberg, Bezos for Trump's AI Favor as Stock Climbs",
-            "publisher": "BeInCrypto",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-jensen-huang-beats-zuckerberg-020726073.html",
+            "symbol": "AAOI",
+            "headline": "Lumentum Climbs 3% as Optics Buying Extends; Coherent Rises 5%, Corning Jumps 3%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-climbs-3-optics-buying-140139997.html",
+            "score": 6
+        },
+        {
+            "symbol": "BWET",
+            "headline": "Oil Surges, Tanker Rates Soar: ETFs in Play",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/energy/articles/oil-surges-tanker-rates-soar-195500447.html",
             "score": 3
         },
         {
-            "symbol": "NQ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "CRML",
+            "headline": "CRML, GLND, GRML Surge Overnight After Trump Unveils \u2018Permanent\u2019 US Security Deal For Greenland",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crml-glnd-grml-surge-overnight-015054024.html",
+            "score": 2
+        },
+        {
+            "symbol": "GLND",
+            "headline": "CRML, GLND, GRML Surge Overnight After Trump Unveils \u2018Permanent\u2019 US Security Deal For Greenland",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crml-glnd-grml-surge-overnight-015054024.html",
+            "score": 2
+        },
+        {
+            "symbol": "GRML",
+            "headline": "CRML, GLND, GRML Surge Overnight After Trump Unveils \u2018Permanent\u2019 US Security Deal For Greenland",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crml-glnd-grml-surge-overnight-015054024.html",
+            "score": 2
+        },
+        {
+            "symbol": "WBD",
+            "headline": "Paramount Discussed $1.5 Billion California Investment to Clear Merger Hurdle",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/6fc96d24-2323-3183-980a-71c250c2f8b5/paramount-discussed-%241.5.html",
+            "score": 2
+        },
+        {
+            "symbol": "MU",
+            "headline": "MU, SNDK, SKHY Stocks In Focus: Memory Rebound Gains Steam Even As China\u2019s CXMT Touts Faster Production",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-stocks-focus-020119161.html",
             "score": 0
         },
         {
-            "symbol": "ES=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "MSTR",
+            "headline": "Michael Saylor Hints at More MicroStrategy Bitcoin Buys After \u201cDead Cat Bounce\u201d Debate",
+            "publisher": "BeInCrypto",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-hints-more-microstrategy-192307340.html",
             "score": 0
         },
         {
@@ -30,80 +65,17 @@
             "score": 0
         },
         {
-            "symbol": "YM=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "IREN",
+            "headline": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html",
             "score": 0
         },
         {
-            "symbol": "MU",
-            "headline": "MU, SNDK, SKHY Stocks In Focus: Memory Rebound Gains Steam Even As China\u2019s CXMT Touts Faster Production",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-stocks-focus-020119161.html",
-            "score": 0
-        },
-        {
-            "symbol": "GC=F",
-            "headline": "Gold Edges Lower as Investors Monitor Central Bank Clues on Rates",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/2379763e-fae8-3db7-a869-5a5535a1ea09/gold-edges-lower-as-investors.html",
-            "score": 0
-        },
-        {
-            "symbol": "^N225",
-            "headline": "BC-Nikkei 225 Futures",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-200111232.html",
-            "score": 0
-        },
-        {
-            "symbol": "SNDK",
+            "symbol": "AMD",
             "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
-            "score": 0
-        },
-        {
-            "symbol": "OSCR",
-            "headline": "3 notable business takes that flew under the radar this week",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/3-notable-business-takes-that-flew-under-the-radar-this-week-120000112.html",
-            "score": 0
-        },
-        {
-            "symbol": "KO",
-            "headline": "The Ultimate Dividend Growth stock to Buy With $1,000 Right Now.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ultimate-dividend-growth-stock-buy-213500253.html",
-            "score": 0
-        },
-        {
-            "symbol": "BZ=F",
-            "headline": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
-            "score": 0
-        },
-        {
-            "symbol": "SI=F",
-            "headline": "Why Is MMG (SEHK:1208) Raising Rosebery Sales Caps And What Could It Signal?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-mmg-sehk-1208-raising-151258770.html",
-            "score": 0
-        },
-        {
-            "symbol": "MRVL",
-            "headline": "3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-hardware-stocks-linked-151344773.html",
-            "score": 0
-        },
-        {
-            "symbol": "^KS11",
-            "headline": "UBS cuts KOSPI target by nearly 10% to reflect higher rates",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/ubs-cuts-kospi-target-nearly-131614040.html",
             "score": 0
         },
         {
@@ -114,10 +86,38 @@
             "score": 0
         },
         {
-            "symbol": "AMD",
-            "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
+            "symbol": "MARA",
+            "headline": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don\u2019t Agree.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mara-stock-rose-14-friday-092852256.html",
+            "score": 0
+        },
+        {
+            "symbol": "DRAM",
+            "headline": "Stocks face a growing list of threats \u2014 so why are investors staying so calm?",
+            "publisher": "MarketWatch",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-face-growing-list-threats-113000494.html",
+            "score": 0
+        },
+        {
+            "symbol": "ACN",
+            "headline": "Accenture Is Down 37% From Its Peak. Does the AI Transformation Story Still Hold Up?",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/technology/ai/articles/accenture-down-37-peak-does-145857267.html",
+            "score": 0
+        },
+        {
+            "symbol": "KO",
+            "headline": "The Ultimate Dividend Growth stock to Buy With $1,000 Right Now.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ultimate-dividend-growth-stock-buy-213500253.html",
+            "score": 0
+        },
+        {
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
             "score": 0
         }
     ]
