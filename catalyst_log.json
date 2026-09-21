@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-21T17:27:33.274793+00:00",
+    "timestamp": "2026-09-21T17:35:23.315132+00:00",
     "catalysts": [
-        {
-            "symbol": "AMD",
-            "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
-            "score": 3
-        },
         {
             "symbol": "INTC",
             "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
@@ -55,6 +48,13 @@
             "headline": "Market Chatter: Amazon Blocks Meta's Muse AI Agent From Retail Site",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-amazon-blocks-meta-170356282.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMD",
+            "headline": "AMD joins $1 trillion market cap club on AI computing bets",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-joins-1-trillion-market-172341283.html",
             "score": 0
         },
         {
