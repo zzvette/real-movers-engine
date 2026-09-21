@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T22:11:10.082826+00:00",
+    "timestamp": "2026-09-21T22:31:09.639929+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -23,13 +23,6 @@
             "score": 5
         },
         {
-            "symbol": "META",
-            "headline": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-214356870.html",
-            "score": 3
-        },
-        {
             "symbol": "VEEE",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
@@ -51,6 +44,13 @@
             "score": 2
         },
         {
+            "symbol": "META",
+            "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-ends-nearly-3-higher-220454998.html",
+            "score": 0
+        },
+        {
             "symbol": "MRNA",
             "headline": "AMD, Intel, Meta, Warner Bros., Moderna, Grail, Strategy, and More Stocks That Explain Today\u2019s Market",
             "publisher": "Barrons.com",
@@ -58,10 +58,17 @@
             "score": 0
         },
         {
-            "symbol": "NVO",
-            "headline": "Novo Nordisk (CPSE:NOVO B) Unveiled A 2030 Blockbuster Drug Plan",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-211228776.html",
+            "symbol": "GME",
+            "headline": "Jim Cramer on GameStop (GME): \u201cI\u2019m Willing to Say That That Stock Is a Buy\u201d",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gamestop-gme-m-193001444.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html",
             "score": 0
         },
         {
@@ -72,10 +79,17 @@
             "score": 0
         },
         {
-            "symbol": "INTC",
-            "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html",
+            "symbol": "NVO",
+            "headline": "Novo Nordisk (CPSE:NOVO B) Unveiled A 2030 Blockbuster Drug Plan",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-211228776.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMD",
+            "headline": "Advanced Micro Devices (AMD) Is Up 24.7% After Expanding Its Role In Regulated AI Infrastructure \u2013 Has The Bull Case Changed?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-24-221840955.html",
             "score": 0
         },
         {
@@ -93,17 +107,17 @@
             "score": 0
         },
         {
-            "symbol": "UPS",
-            "headline": "UPS Among Today\u2019s Worst Stocks in the S&P 500 After Slowed Amazon Shipments",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/c6671747-948f-3f51-b606-0c24e395b819/ups-among-today%E2%80%99s-worst.html",
+            "symbol": "SHOP",
+            "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-192343518.html",
             "score": 0
         },
         {
-            "symbol": "VKTX",
-            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
+            "symbol": "UPS",
+            "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
             "score": 0
         },
         {
@@ -121,24 +135,10 @@
             "score": 0
         },
         {
-            "symbol": "SHOP",
-            "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-192343518.html",
-            "score": 0
-        },
-        {
-            "symbol": "TWLO",
-            "headline": "Salesforce vs. Twilio: Which Customer Engagement Stock Has the Edge?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-twilio-customer-engagement-130000980.html",
-            "score": 0
-        },
-        {
-            "symbol": "^IXIC",
-            "headline": "Citigroup (C) Laps the Stock Market: Here's Why",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-laps-stock-market-215004033.html",
+            "symbol": "VKTX",
+            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
             "score": 0
         }
     ]
