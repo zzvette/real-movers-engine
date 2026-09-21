@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-21T15:12:37.504538+00:00",
+    "timestamp": "2026-09-21T15:22:19.055481+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "CRML",
-                "headline": "Critical Metals Stock Surges 35% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-stock-surges.html",
-                "score": 5
-            },
             {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
@@ -73,6 +66,13 @@
                 "score": 0
             },
             {
+                "symbol": "CRML",
+                "headline": "CRML Stock Heads For Best Day In Nearly A Year \u2013 Why This Analyst Sees A Further 110% Upside",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crml-stock-heads-best-day-150225678.html",
+                "score": 0
+            },
+            {
                 "symbol": "ARM",
                 "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
                 "publisher": "Stocktwits",
@@ -81,7 +81,7 @@
             },
             {
                 "symbol": "WBD",
-                "headline": "Paramount, Warner Bros. Rally On Promising Settlement Talks With California AG",
+                "headline": "Paramount, Warner Bros. Rally After Settling Antitrust Lawsuit, Report",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/cea669fb-eaee-3828-84b0-1ffd579b1826/paramount%2C-warner-bros.-rally.html",
                 "score": 0
