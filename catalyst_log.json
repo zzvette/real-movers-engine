@@ -1,6 +1,13 @@
 {
-    "timestamp": "2026-09-21T13:32:23.244932+00:00",
+    "timestamp": "2026-09-21T13:46:32.437332+00:00",
     "catalysts": [
+        {
+            "symbol": "WBD",
+            "headline": "Warner Bros. Discovery Jumps 7%, Paramount Skydance Climbs 5% as Antitrust Settlement Talks Advance; Netflix Sits Out the Rally",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/media-advertising/articles/warner-bros-discovery-jumps-7-134236689.html",
+            "score": 6
+        },
         {
             "symbol": "BMNR",
             "headline": "Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%",
@@ -14,6 +21,13 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-jumps-6-bitcoin-hits-124444487.html",
             "score": 6
+        },
+        {
+            "symbol": "MSTR",
+            "headline": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html",
+            "score": 3
         },
         {
             "symbol": "CUE",
@@ -44,13 +58,6 @@
             "score": 2
         },
         {
-            "symbol": "MSTR",
-            "headline": "Strategy Inc (MSTR) Is a Trending Stock: Facts to Know Before Betting on It",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-inc-mstr-trending-stock-130004461.html",
-            "score": 0
-        },
-        {
             "symbol": "GLND",
             "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
             "publisher": "GuruFocus.com",
@@ -59,9 +66,9 @@
         },
         {
             "symbol": "GRML",
-            "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-soar-trumps-122522935.html",
+            "headline": "Greenland Mines More Than Doubles Control Position in the Sarfartoq Rare Earth Magnet District in West Greenland",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/energy/articles/greenland-mines-more-doubles-control-133000167.html",
             "score": 0
         },
         {
@@ -73,9 +80,9 @@
         },
         {
             "symbol": "AMD",
-            "headline": "The Zacks Analyst Blog Highlights AMD, Linde, Amgen and INNOVATE",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amd-130000931.html",
+            "headline": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-5-report-flags-133753675.html",
             "score": 0
         },
         {
@@ -90,13 +97,6 @@
             "headline": "Here is What to Know Beyond Why Coinbase Global, Inc. (COIN) is a Trending Stock",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-coinbase-global-130006694.html",
-            "score": 0
-        },
-        {
-            "symbol": "WBD",
-            "headline": "Paramount, Warner Bros. Rally On Promising Settlement Talks With California AG",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/cea669fb-eaee-3828-84b0-1ffd579b1826/paramount%2C-warner-bros.-rally.html",
             "score": 0
         },
         {
