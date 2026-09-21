@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T19:44:13.958063+00:00",
+    "timestamp": "2026-09-21T19:50:06.261132+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,13 +8,6 @@
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-7-refinancing-pushes-180912319.html",
                 "score": 5
-            },
-            {
-                "symbol": "META",
-                "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-                "score": 3
             },
             {
                 "symbol": "AMD",
@@ -74,9 +67,9 @@
             },
             {
                 "symbol": "NVO",
-                "headline": "Lilly Gains as Novo Wins a Lower-Dose Weight-Loss Round",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/healthcare/articles/lilly-gains-novo-wins-lower-190909293.html",
+                "headline": "Sector Update: Healthcare Stocks Higher Late Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-higher-afternoon-194339680.html",
                 "score": 0
             },
             {
@@ -98,13 +91,6 @@
                 "headline": "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/7d2e13c5-f28d-35eb-bb9e-ef92c21b9995/grail-catapults-30%25-plus-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "UPS",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182846292.html",
                 "score": 0
             },
             {
