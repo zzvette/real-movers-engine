@@ -1,18 +1,18 @@
 {
-    "timestamp": "2026-09-21T18:19:59.133411+00:00",
+    "timestamp": "2026-09-21T18:34:31.310000+00:00",
     "catalysts": [
         {
             "symbol": "META",
-            "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+            "headline": "Meta Stock Jumps as Wells Fargo Underwrites the AI Story",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/meta-stock-jumps-wells-fargo-182613920.html",
             "score": 3
         },
         {
-            "symbol": "INTC",
-            "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+            "symbol": "GRML",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-181445249.html",
             "score": 3
         },
         {
@@ -30,13 +30,6 @@
             "score": 3
         },
         {
-            "symbol": "FSLY",
-            "headline": "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-soars-14-ai-firewall-180407439.html",
-            "score": 3
-        },
-        {
             "symbol": "WBD",
             "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
             "publisher": "CBS News",
@@ -45,9 +38,9 @@
         },
         {
             "symbol": "PSKY",
-            "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
-            "publisher": "CBS News",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
+            "headline": "Paramount settles with US states to clear Warner Bros. mega-merger",
+            "publisher": "AFP",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-us-states-clear-162242141.html",
             "score": 2
         },
         {
@@ -65,10 +58,10 @@
             "score": 2
         },
         {
-            "symbol": "GRML",
-            "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
+            "symbol": "AMD",
+            "headline": "Nvidia\u2019s AI CPU Push Threatens Intel and AMD",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-cpu-push-threatens-181835881.html",
             "score": 0
         },
         {
@@ -76,6 +69,13 @@
             "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Nvidia\u2019s AI CPU Push Threatens Intel and AMD",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-cpu-push-threatens-181835881.html",
             "score": 0
         },
         {
@@ -108,16 +108,16 @@
         },
         {
             "symbol": "UPS",
-            "headline": "Bank of America cuts UPS price target to $108 on lower package volumes",
-            "publisher": "Proactive",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-cuts-ups-price-171500196.html",
+            "headline": "Top Midday Decliners",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182846292.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "Why Is XRP Up Today?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/why-xrp-today-181330354.html",
+            "headline": "Larry Page, Sergey Brin, and Peter Thiel All Fled California\u2019s Billionaire Tax. Nvidia\u2019s CEO Isn\u2019t Going Anywhere. Even With an $8 Billion Bill Coming His Way",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/economy/policy/articles/larry-page-sergey-brin-peter-182255068.html",
             "score": 0
         },
         {
@@ -125,6 +125,13 @@
             "headline": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
             "publisher": "MarketBeat",
             "link": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
+            "score": 0
+        },
+        {
+            "symbol": "FSLY",
+            "headline": "Update: Fastly Shares Rise After Launching New Capabilities for Securing, Scaling AI",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/fastly-shares-rise-launching-capabilities-181852521.html",
             "score": 0
         },
         {
