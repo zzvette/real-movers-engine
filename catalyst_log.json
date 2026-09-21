@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T14:36:39.933093+00:00",
+    "timestamp": "2026-09-21T14:47:34.314340+00:00",
     "catalysts": [
         {
             "symbol": "VEEE",
@@ -27,6 +27,13 @@
             "headline": "Critical Metals Shares Rise 27% Premarket Following Trump\u2019s Greenland Agreement Announcement",
             "publisher": "InvestorsHub",
             "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-shares-rise-27-123214773.html",
+            "score": 2
+        },
+        {
+            "symbol": "WBD",
+            "headline": "Paramount\u00a0settles with California, other states over Warner Bros merger, Bloomberg News reports",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-143030254.html",
             "score": 2
         },
         {
@@ -79,13 +86,6 @@
             "score": 0
         },
         {
-            "symbol": "WBD",
-            "headline": "Price Prediction: One Bank Sees Netflix at $57. We See Triple That.",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-one-bank-sees-140043950.html",
-            "score": 0
-        },
-        {
             "symbol": "BTTC",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
@@ -111,6 +111,13 @@
             "headline": "Intel and Arm Stocks Are Jumping. Thank Meta\u2019s Muse AI Agent.",
             "publisher": "Barrons.com",
             "link": "https://finance.yahoo.com/m/96f093e9-37a1-34c6-9da9-e24f0b868868/intel-and-arm-stocks-are.html",
+            "score": 0
+        },
+        {
+            "symbol": "MX",
+            "headline": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/technology/articles/magnachip-shares-rise-14-securing-124011700.html",
             "score": 0
         },
         {
