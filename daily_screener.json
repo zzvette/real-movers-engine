@@ -1,23 +1,9 @@
 {
-    "timestamp": "2026-09-21T13:00:27.003881+00:00",
+    "timestamp": "2026-09-21T13:17:57.103373+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "MSTR",
-                "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-jumps-6-bitcoin-hits-124444487.html",
-                "score": 6
-            },
-            {
-                "symbol": "CRML",
-                "headline": "Critical Metals Surges 25% as Greenland Security Pact Puts Tanbreez Rare Earth Permit in Focus; USA Rare Earth Climbs 6%, MP Materials Rises 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-surges-25-greenland-123115471.html",
-                "score": 6
-            },
-            {
-                "symbol": "COIN",
+                "symbol": "BMNR",
                 "headline": "Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html",
@@ -38,17 +24,38 @@
                 "score": 3
             },
             {
+                "symbol": "VEEE",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
+                "score": 3
+            },
+            {
+                "symbol": "CRML",
+                "headline": "Critical Metals Shares Rise 27% Premarket Following Trump\u2019s Greenland Agreement Announcement",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-shares-rise-27-123214773.html",
+                "score": 2
+            },
+            {
+                "symbol": "NUAI",
+                "headline": "New Era Energy Shares Rise 16% After Securing 20-Year Power Agreement With Vistra",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/energy/articles/era-energy-shares-rise-16-123851353.html",
+                "score": 2
+            },
+            {
+                "symbol": "MSTR",
+                "headline": "Strategy Inc (MSTR) Is a Trending Stock: Facts to Know Before Betting on It",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-inc-mstr-trending-stock-130004461.html",
+                "score": 0
+            },
+            {
                 "symbol": "GLND",
                 "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
                 "publisher": "GuruFocus.com",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-soar-trumps-122522935.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVO",
-                "headline": "Novo Nordisk A/S - share repurchase programme",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-share-repurchase-programme-123700858.html",
                 "score": 0
             },
             {
@@ -59,10 +66,31 @@
                 "score": 0
             },
             {
+                "symbol": "NVO",
+                "headline": "Sector Update: Healthcare",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-130125180.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "The Zacks Analyst Blog Highlights AMD, Linde, Amgen and INNOVATE",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amd-130000931.html",
+                "score": 0
+            },
+            {
                 "symbol": "IBIT",
                 "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
+                "score": 0
+            },
+            {
+                "symbol": "COIN",
+                "headline": "Here is What to Know Beyond Why Coinbase Global, Inc. (COIN) is a Trending Stock",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-coinbase-global-130006694.html",
                 "score": 0
             },
             {
@@ -73,38 +101,10 @@
                 "score": 0
             },
             {
-                "symbol": "NUAI",
-                "headline": "New Era Energy & Digital Secures 20-Year, 207 MW PPA with Vistra",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-secures-20-110000164.html",
-                "score": 0
-            },
-            {
-                "symbol": "IREN",
-                "headline": "CRWV, NBIS Stocks Get \u2018Sell\u2019 Ratings, AI-Pivoting Bitcoin Miners Get \u2018Neutral\u2019 Calls: Rothschild Says Credit Market Is \u2018Sending The More Important Signal\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-stocks-sell-ratings-120653484.html",
-                "score": 0
-            },
-            {
-                "symbol": "CYAB",
-                "headline": "Innventure Leadership Increases Focus on Accelsius Value Creation, Implements Significant Cost Cuts, and Strengthens Board Independence",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/innventure-leadership-increases-focus-accelsius-120000124.html",
-                "score": 0
-            },
-            {
-                "symbol": "ACN",
-                "headline": "Dragos Acquires NetRise and runZero to Expand its Industry Defining xOT Cybersecurity Platform",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/dragos-acquires-netrise-runzero-expand-121200029.html",
-                "score": 0
-            },
-            {
-                "symbol": "KEEL",
-                "headline": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-faces-shakeout-corz-161546106.html",
+                "symbol": "CRDO",
+                "headline": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It\u2019s About to Double",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crashed-3-months-115135647.html",
                 "score": 0
             }
         ]
