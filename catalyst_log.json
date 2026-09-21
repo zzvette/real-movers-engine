@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-09-21T09:09:33.978088+00:00",
+    "timestamp": "2026-09-21T09:26:01.751335+00:00",
     "catalysts": [
         {
-            "symbol": "BWET",
-            "headline": "Oil Surges, Tanker Rates Soar: ETFs in Play",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/energy/articles/oil-surges-tanker-rates-soar-195500447.html",
-            "score": 3
+            "symbol": "COIN",
+            "headline": "Coinbase Stock Jumped 12% Last Friday. Bitcoin\u2019s Breakout Wasn\u2019t the Only Reason.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-jumped-12-last-043449751.html",
+            "score": 6
         },
         {
             "symbol": "CRML",
@@ -30,6 +30,13 @@
             "score": 2
         },
         {
+            "symbol": "BMNR",
+            "headline": "Tom Lee Says Crypto Is A 'Huge Winner' As Banks Move Toward Tech-Style Valuations, While Dan Ives Calls AI A 'Two-Horse Race'",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-crypto-huge-123834043.html",
+            "score": 2
+        },
+        {
             "symbol": "MSTR",
             "headline": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
             "publisher": "Simply Wall St.",
@@ -37,24 +44,17 @@
             "score": 0
         },
         {
+            "symbol": "NVO",
+            "headline": "Novo Nordisk stock gets drilled on pipeline concerns\u2014 its CEO sees this as the main problem",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
+            "score": 0
+        },
+        {
             "symbol": "META",
-            "headline": "SPIE announces the launch of a sustainability-linked bond issue",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/energy/articles/spie-announces-launch-sustainability-linked-075500717.html",
-            "score": 0
-        },
-        {
-            "symbol": "ACN",
-            "headline": "Accenture Is Down 37% From Its Peak. Does the AI Transformation Story Still Hold Up?",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/technology/ai/articles/accenture-down-37-peak-does-145857267.html",
-            "score": 0
-        },
-        {
-            "symbol": "WBD",
-            "headline": "Market Chatter: Paramount, California Settlement Talks Include Penalty for Missing 30-Film Pledge",
+            "headline": "Wells Fargo Adjusts Price Target on Meta Platforms to $796 From $640, Keeps Overweight Rating",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-paramount-california-settlement-084909761.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-091922649.html",
             "score": 0
         },
         {
@@ -66,16 +66,23 @@
         },
         {
             "symbol": "IREN",
-            "headline": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html",
+            "headline": "Rothschild & Co Redburn Initiates Iren at Neutral With $40 Price Target",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-initiates-iren-091952610.html",
             "score": 0
         },
         {
-            "symbol": "ONON",
-            "headline": "Why Did NKE, OPEN, MCD Stocks Slip To 52-Week Lows Last Week?",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nke-open-mcd-025430714.html",
+            "symbol": "WBD",
+            "headline": "Market Chatter: Paramount, California Settlement Talks Include Penalty for Missing 30-Film Pledge",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-paramount-california-settlement-084909761.html",
+            "score": 0
+        },
+        {
+            "symbol": "CUE",
+            "headline": "Cue Biopharma Meets Primary Goal in a Phase 2 Study of Chronic Hives Disease Drug Candidate",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/cue-biopharma-meets-primary-goal-072620649.html",
             "score": 0
         },
         {
@@ -86,17 +93,17 @@
             "score": 0
         },
         {
-            "symbol": "KEEL",
-            "headline": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares",
+            "symbol": "ONON",
+            "headline": "Why Did NKE, OPEN, MCD Stocks Slip To 52-Week Lows Last Week?",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-faces-shakeout-corz-161546106.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nke-open-mcd-025430714.html",
             "score": 0
         },
         {
-            "symbol": "ARM",
-            "headline": "Better Artificial Intelligence Stock: Arm Holdings vs. ASML",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-arm-015219848.html",
+            "symbol": "IBIT",
+            "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
             "score": 0
         }
     ]
