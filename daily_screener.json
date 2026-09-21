@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T03:43:11.189833+00:00",
+    "timestamp": "2026-09-21T04:11:24.425527+00:00",
     "signals": {
         "catalysts": [
             {
@@ -49,6 +49,13 @@
                 "headline": "MU, SNDK, SKHY Stocks In Focus: Memory Rebound Gains Steam Even As China\u2019s CXMT Touts Faster Production",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-stocks-focus-020119161.html",
+                "score": 0
+            },
+            {
+                "symbol": "SNDK",
+                "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
                 "score": 0
             },
             {
