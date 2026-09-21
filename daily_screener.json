@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T20:31:58.858931+00:00",
+    "timestamp": "2026-09-21T20:40:33.719944+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,6 +17,27 @@
                 "score": 4
             },
             {
+                "symbol": "AMD",
+                "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
+                "score": 3
+            },
+            {
+                "symbol": "ARM",
+                "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
+                "score": 3
+            },
+            {
+                "symbol": "INTC",
+                "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
+                "score": 3
+            },
+            {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
@@ -32,9 +53,9 @@
             },
             {
                 "symbol": "PSKY",
-                "headline": "Paramount Skydance, Warner Bros. Merger Settlement Supported by Teamsters Union",
+                "headline": "Paramount Settles Multistate Lawsuit Over Proposed Warner Bros. Deal",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-warner-bros-merger-193643766.html",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-multistate-lawsuit-over-203000731.html",
                 "score": 2
             },
             {
@@ -46,9 +67,9 @@
             },
             {
                 "symbol": "META",
-                "headline": "Meta stock soars 11% on price target increase, Muse AI downloads",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/technology/article/meta-stock-soars-11-on-price-target-increase-muse-ai-downloads-180423756.html",
+                "headline": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-dow-up%2C.html",
                 "score": 0
             },
             {
@@ -56,13 +77,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMD",
-                "headline": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
                 "score": 0
             },
             {
@@ -77,13 +91,6 @@
                 "headline": "LLY Stock Gains As CEO Says Foundayo Wins One-Third of New GLP-1 Pill Starts, Breaks Ground On $6.5B Houston Plant",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/healthcare/articles/lly-stock-gains-ceo-says-194919636.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARM",
-                "headline": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
                 "score": 0
             },
             {
@@ -105,13 +112,6 @@
                 "headline": "Top Midday Decliners",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182846292.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
                 "score": 0
             },
             {
