@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T19:36:27.432026+00:00",
+    "timestamp": "2026-09-21T19:44:13.958063+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,10 +10,24 @@
                 "score": 5
             },
             {
-                "symbol": "GRML",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-181445249.html",
+                "symbol": "META",
+                "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+                "score": 3
+            },
+            {
+                "symbol": "AMD",
+                "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+                "score": 3
+            },
+            {
+                "symbol": "INTC",
+                "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
                 "score": 3
             },
             {
@@ -24,18 +38,25 @@
                 "score": 3
             },
             {
-                "symbol": "META",
-                "headline": "Amazon Just Blocked Meta's AI Agent and It's Not Alone",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/amazon-just-blocked-metas-ai-192537732.html",
-                "score": 0
+                "symbol": "GRML",
+                "headline": "Greenland Mines (GRML) Highlights Critical Minerals Role Following U.S.-Denmark-Greenland Security Agreement",
+                "publisher": "NewMediaWire",
+                "link": "https://finance.yahoo.com/energy/articles/greenland-mines-grml-highlights-critical-193000316.html",
+                "score": 2
             },
             {
-                "symbol": "AMD",
-                "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-storms-1-trillion-club-192641920.html",
-                "score": 0
+                "symbol": "WBD",
+                "headline": "Paramount Skydance, Warner Bros. Merger Settlement Supported by Teamsters Union",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-warner-bros-merger-193643766.html",
+                "score": 2
+            },
+            {
+                "symbol": "PSKY",
+                "headline": "Paramount Skydance, Warner Bros. Merger Settlement Supported by Teamsters Union",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-warner-bros-merger-193643766.html",
+                "score": 2
             },
             {
                 "symbol": "GLND",
@@ -66,13 +87,6 @@
                 "score": 0
             },
             {
-                "symbol": "WBD",
-                "headline": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
-                "score": 0
-            },
-            {
                 "symbol": "CRML",
                 "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
                 "publisher": "The Wall Street Journal",
@@ -80,24 +94,10 @@
                 "score": 0
             },
             {
-                "symbol": "INTC",
-                "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-storms-1-trillion-club-192641920.html",
-                "score": 0
-            },
-            {
                 "symbol": "GRAL",
                 "headline": "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/7d2e13c5-f28d-35eb-bb9e-ef92c21b9995/grail-catapults-30%25-plus-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "PSKY",
-                "headline": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
                 "score": 0
             },
             {
@@ -137,9 +137,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-storms-1-trillion-club-192641920.html",
+                "headline": "Stock Market Today: Nasdaq Roars As Micron Tests Entry; AMD In Buy Zone As It Eyes New High (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-nasdaq.html",
                 "score": 0
             }
         ]
