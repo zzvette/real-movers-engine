@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T16:55:02.242908+00:00",
+    "timestamp": "2026-09-21T17:00:20.942089+00:00",
     "catalysts": [
         {
             "symbol": "LUNR",
@@ -31,6 +31,13 @@
         },
         {
             "symbol": "WBD",
+            "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
+            "score": 2
+        },
+        {
+            "symbol": "PSKY",
             "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
             "publisher": "Reuters",
             "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
@@ -83,13 +90,6 @@
             "headline": "Why Critical Metals Stock Is Rocketing Higher Today",
             "publisher": "Motley Fool",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-critical-metals-stock-rocketing-160120525.html",
-            "score": 0
-        },
-        {
-            "symbol": "PSKY",
-            "headline": "Paramount Skydance and Warner Bros. Stock Pop on Antitrust Settlement",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/5c7e3d94-ea21-39dc-8e76-70936d4a8775/paramount-skydance-and-warner.html",
             "score": 0
         },
         {
