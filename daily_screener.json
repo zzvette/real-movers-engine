@@ -1,21 +1,7 @@
 {
-    "timestamp": "2026-09-21T17:35:23.315132+00:00",
+    "timestamp": "2026-09-21T17:44:48.303138+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "INTC",
-                "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
-                "score": 3
-            },
-            {
-                "symbol": "ARM",
-                "headline": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/962f9419-3a45-3b55-ac87-70b396098e6c/chip-stocks-rise-as-four-new.html",
-                "score": 3
-            },
             {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
@@ -66,10 +52,24 @@
                 "score": 0
             },
             {
+                "symbol": "INTC",
+                "headline": "Stock Market Today: Dow Up, Nasdaq Roars As Micron Tests Entry; Bessent Touts China Progress (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-dow-up%2C.html",
+                "score": 0
+            },
+            {
                 "symbol": "GLND",
                 "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
                 "publisher": "The Wall Street Journal",
                 "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "ARM",
+                "headline": "Arm\u2019s Shift From Royalties to Silicon Manufacturing Could Reshape Chip Economics",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-shift-royalties-silicon-manufacturing-173352254.html",
                 "score": 0
             },
             {
