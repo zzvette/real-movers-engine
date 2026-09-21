@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T15:22:19.055481+00:00",
+    "timestamp": "2026-09-21T15:31:39.790397+00:00",
     "catalysts": [
         {
             "symbol": "VEEE",
@@ -23,17 +23,24 @@
             "score": 3
         },
         {
+            "symbol": "WBD",
+            "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
+            "score": 2
+        },
+        {
             "symbol": "AMD",
-            "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-relentless-rally-pushes-150127695.html",
+            "headline": "Why AMD Stock Is Rising Fast Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-fast-152300624.html",
             "score": 0
         },
         {
             "symbol": "META",
-            "headline": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/b7ca9b65-19fd-32e7-bad5-f53a1ee49def/stock-market-today%3A-dow-up-as.html",
+            "headline": "Why AMD Stock Is Rising Fast Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-fast-152300624.html",
             "score": 0
         },
         {
@@ -66,9 +73,9 @@
         },
         {
             "symbol": "CRML",
-            "headline": "CRML Stock Heads For Best Day In Nearly A Year \u2013 Why This Analyst Sees A Further 110% Upside",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crml-stock-heads-best-day-150225678.html",
+            "headline": "What Critical Metals (CRML)'s Low-Waste Romanian Refinery Plan Means For Shareholders",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-crml-low-waste-151400807.html",
             "score": 0
         },
         {
@@ -76,13 +83,6 @@
             "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-relentless-rally-pushes-150127695.html",
-            "score": 0
-        },
-        {
-            "symbol": "WBD",
-            "headline": "Paramount, Warner Bros. Rally After Settling Antitrust Lawsuit, Report",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/cea669fb-eaee-3828-84b0-1ffd579b1826/paramount%2C-warner-bros.-rally.html",
             "score": 0
         },
         {
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "MRNA",
-            "headline": "Moderna Announces Late-Breaking Data to be Presented at ESMO Congress 2026",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/moderna-announces-breaking-data-presented-141200784.html",
+            "headline": "AZN vs. MRK: Comparing Keytruda, Pipelines and Growth Strategies",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/healthcare/articles/azn-vs-mrk-comparing-keytruda-152200773.html",
             "score": 0
         },
         {
