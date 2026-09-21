@@ -1,12 +1,33 @@
 {
-    "timestamp": "2026-09-21T12:37:24.199310+00:00",
+    "timestamp": "2026-09-21T12:50:52.069376+00:00",
     "catalysts": [
         {
-            "symbol": "WBD",
-            "headline": "Paramount Stock Jumps 7% on WBD Settlement Talks",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-stock-jumps-7-wbd-121736781.html",
-            "score": 3
+            "symbol": "MSTR",
+            "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-jumps-6-bitcoin-hits-124444487.html",
+            "score": 6
+        },
+        {
+            "symbol": "CRML",
+            "headline": "Critical Metals Surges 25% as Greenland Security Pact Puts Tanbreez Rare Earth Permit in Focus; USA Rare Earth Climbs 6%, MP Materials Rises 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-surges-25-greenland-123115471.html",
+            "score": 6
+        },
+        {
+            "symbol": "COIN",
+            "headline": "Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html",
+            "score": 6
+        },
+        {
+            "symbol": "MARA",
+            "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-jumps-6-bitcoin-hits-124444487.html",
+            "score": 6
         },
         {
             "symbol": "CUE",
@@ -14,13 +35,6 @@
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110217882.html",
             "score": 3
-        },
-        {
-            "symbol": "MSTR",
-            "headline": "MicroStrategy Ends Two-Week Pause With 950 Bitcoin: Is the Buying Engine Stalling?",
-            "publisher": "BeInCrypto",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-ends-two-week-pause-121459967.html",
-            "score": 0
         },
         {
             "symbol": "GLND",
@@ -31,9 +45,9 @@
         },
         {
             "symbol": "NVO",
-            "headline": "Novo Nordisk's $23B Obesity Goal Isn't Enough to Stop the Selloff",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/media-advertising/articles/novo-nordisks-23b-obesity-goal-123503290.html",
+            "headline": "Novo Nordisk A/S - share repurchase programme",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-share-repurchase-programme-123700858.html",
             "score": 0
         },
         {
@@ -44,13 +58,6 @@
             "score": 0
         },
         {
-            "symbol": "COIN",
-            "headline": "Bitcoin prices rip despite the Clarity Act failure",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/crypto/article/bitcoin-prices-rip-despite-the-clarity-act-failure-101541736.html",
-            "score": 0
-        },
-        {
             "symbol": "IBIT",
             "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
             "publisher": "Investor's Business Daily",
@@ -58,17 +65,17 @@
             "score": 0
         },
         {
+            "symbol": "WBD",
+            "headline": "Paramount, Warner Bros. Rally On Promising Settlement Talks With California AG",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/cea669fb-eaee-3828-84b0-1ffd579b1826/paramount%2C-warner-bros.-rally.html",
+            "score": 0
+        },
+        {
             "symbol": "NUAI",
             "headline": "New Era Energy & Digital Secures 20-Year, 207 MW PPA with Vistra",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-secures-20-110000164.html",
-            "score": 0
-        },
-        {
-            "symbol": "MARA",
-            "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-today-oil-prices-113059049.html",
             "score": 0
         },
         {
