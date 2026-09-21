@@ -1,22 +1,8 @@
 {
-    "timestamp": "2026-09-21T22:47:33.510688+00:00",
+    "timestamp": "2026-09-21T22:58:16.307903+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
-            "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
-            "score": 5
-        },
-        {
-            "symbol": "GLND",
-            "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
-            "score": 5
-        },
-        {
-            "symbol": "CRML",
             "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
             "publisher": "Barrons.com",
             "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
@@ -51,6 +37,13 @@
             "score": 0
         },
         {
+            "symbol": "GLND",
+            "headline": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch-recap%3A.html",
+            "score": 0
+        },
+        {
             "symbol": "MRNA",
             "headline": "AMD, Intel, Meta, Warner Bros., Moderna, Grail, Strategy, and More Stocks That Explain Today\u2019s Market",
             "publisher": "Barrons.com",
@@ -66,9 +59,9 @@
         },
         {
             "symbol": "INTC",
-            "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html",
+            "headline": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch-recap%3A.html",
             "score": 0
         },
         {
@@ -107,10 +100,17 @@
             "score": 0
         },
         {
+            "symbol": "CRML",
+            "headline": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch-recap%3A.html",
+            "score": 0
+        },
+        {
             "symbol": "SHOP",
-            "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-192343518.html",
+            "headline": "Shopify to Use Meta\u2019s Muse for Agentic Checkout",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/32a5a382-45b4-3257-a158-45162dcf7de9/shopify-to-use-meta%E2%80%99s-muse.html",
             "score": 0
         },
         {
