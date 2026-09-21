@@ -1,32 +1,18 @@
 {
-    "timestamp": "2026-09-21T14:01:58.295822+00:00",
+    "timestamp": "2026-09-21T14:13:37.770697+00:00",
     "catalysts": [
         {
-            "symbol": "WBD",
-            "headline": "Warner Bros. Discovery Jumps 7%, Paramount Skydance Climbs 5% as Antitrust Settlement Talks Advance; Netflix Sits Out the Rally",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/media-advertising/articles/warner-bros-discovery-jumps-7-134236689.html",
-            "score": 6
-        },
-        {
-            "symbol": "MARA",
-            "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-jumps-6-bitcoin-hits-124444487.html",
-            "score": 6
+            "symbol": "VEEE",
+            "headline": "Top Premarket Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
+            "score": 3
         },
         {
             "symbol": "CUE",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110217882.html",
-            "score": 3
-        },
-        {
-            "symbol": "VEEE",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
             "score": 3
         },
         {
@@ -44,31 +30,17 @@
             "score": 2
         },
         {
-            "symbol": "MSTR",
-            "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
-            "score": 0
+            "symbol": "USAR",
+            "headline": "USA Rare Earth Shares Rise 6% Following Trump\u2019s Greenland Agreement Announcement",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-shares-rise-124700040.html",
+            "score": 2
         },
         {
             "symbol": "GLND",
             "headline": "Rare Earth Stocks Soar After Trump's Greenland Security Announcement",
             "publisher": "GuruFocus.com",
             "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-soar-trumps-122522935.html",
-            "score": 0
-        },
-        {
-            "symbol": "GRML",
-            "headline": "Greenland Mines More Than Doubles Control Position in the Sarfartoq Rare Earth Magnet District in West Greenland",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/energy/articles/greenland-mines-more-doubles-control-133000167.html",
-            "score": 0
-        },
-        {
-            "symbol": "NVO",
-            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
             "score": 0
         },
         {
@@ -79,31 +51,80 @@
             "score": 0
         },
         {
-            "symbol": "IBIT",
-            "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
+            "symbol": "GRML",
+            "headline": "Greenland Mines Applies for License to More Than Double Sarfartoq Footprint",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/greenland-mines-applies-license-more-135541575.html",
             "score": 0
         },
         {
-            "symbol": "COIN",
+            "symbol": "INTC",
             "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
             "score": 0
         },
         {
-            "symbol": "BMNR",
-            "headline": "Bitmine Buys $75 Million Of Ethereum Amid Signs \u2018Crypto Winter\u2019 Is Over",
-            "publisher": "CryptoProwl",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-75-million-ethereum-134800517.html",
+            "symbol": "NVO",
+            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
             "score": 0
         },
         {
-            "symbol": "CRDO",
-            "headline": "The Zacks Analyst Blog Highlights Credo Technology and NVIDIA",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-credo-130000521.html",
+            "symbol": "MSTR",
+            "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+            "score": 0
+        },
+        {
+            "symbol": "WBD",
+            "headline": "Price Prediction: One Bank Sees Netflix at $57. We See Triple That.",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-one-bank-sees-140043950.html",
+            "score": 0
+        },
+        {
+            "symbol": "AUR",
+            "headline": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
+            "score": 0
+        },
+        {
+            "symbol": "GRAL",
+            "headline": "FDA Decision Watch: MRK, MIRM, INCY, GRAL Face Key Regulatory Catalysts This Week",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/fda-decision-watch-mrk-mirm-110643425.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARM",
+            "headline": "Intel and Arm Stocks Are Jumping. Thank Meta\u2019s Muse AI Agent.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/96f093e9-37a1-34c6-9da9-e24f0b868868/intel-and-arm-stocks-are.html",
+            "score": 0
+        },
+        {
+            "symbol": "MX",
+            "headline": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/technology/articles/magnachip-shares-rise-14-securing-124011700.html",
+            "score": 0
+        },
+        {
+            "symbol": "NCPL",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+            "score": 0
+        },
+        {
+            "symbol": "LOBO",
+            "headline": "LOBO TECHNOLOGIES LTD. Announces First Half of Fiscal Year 2026 Financial Results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/lobo-technologies-ltd-announces-first-200500826.html",
             "score": 0
         }
     ]
