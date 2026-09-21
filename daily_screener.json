@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T17:00:20.942089+00:00",
+    "timestamp": "2026-09-21T17:09:11.813576+00:00",
     "signals": {
         "catalysts": [
             {
@@ -39,23 +39,23 @@
             },
             {
                 "symbol": "PSKY",
-                "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
+                "headline": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger",
+                "publisher": "The Guardian",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-lawsuits-12-us-165249084.html",
                 "score": 2
             },
             {
                 "symbol": "AMD",
-                "headline": "Update: Chipmakers Push US Equity Indexes Higher as Treasury Yields, Crude Oil Decline",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-push-us-equity-indexes-163955212.html",
+                "headline": "AMD stock crosses $1 trillion market cap for first time",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-crosses-1-trillion-170121700.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "Update: Chipmakers Push US Equity Indexes Higher as Treasury Yields, Crude Oil Decline",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-push-us-equity-indexes-163955212.html",
+                "headline": "AMD stock crosses $1 trillion market cap for first time",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-crosses-1-trillion-170121700.html",
                 "score": 0
             },
             {
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "ARM",
-                "headline": "Update: Chipmakers Push US Equity Indexes Higher as Treasury Yields, Crude Oil Decline",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-push-us-equity-indexes-163955212.html",
+                "headline": "AMD stock crosses $1 trillion market cap for first time",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-crosses-1-trillion-170121700.html",
                 "score": 0
             },
             {
