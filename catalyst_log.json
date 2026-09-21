@@ -1,6 +1,13 @@
 {
-    "timestamp": "2026-09-21T14:47:34.314340+00:00",
+    "timestamp": "2026-09-21T14:55:36.251747+00:00",
     "catalysts": [
+        {
+            "symbol": "WBD",
+            "headline": "Paramount, Warner Bros. shares rally on reports of merger settlement agreement",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-shares-rally-on-reports-of-merger-settlement-agreement-134233954.html",
+            "score": 4
+        },
         {
             "symbol": "VEEE",
             "headline": "Top Premarket Gainers",
@@ -30,13 +37,6 @@
             "score": 2
         },
         {
-            "symbol": "WBD",
-            "headline": "Paramount\u00a0settles with California, other states over Warner Bros merger, Bloomberg News reports",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-143030254.html",
-            "score": 2
-        },
-        {
             "symbol": "USAR",
             "headline": "USA Rare Earth Shares Rise 6% Following Trump\u2019s Greenland Agreement Announcement",
             "publisher": "InvestorsHub",
@@ -52,9 +52,9 @@
         },
         {
             "symbol": "AMD",
-            "headline": "Tech Retakes Lead Heading into Q4: Stocks to Watch",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-retakes-lead-heading-q4-140700418.html",
+            "headline": "The AI Trade Leads Today's Stock Market Rally",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/b24c3065-0473-386a-99cf-91ee77efb0c8/the-ai-trade-leads-today%27s.html",
             "score": 0
         },
         {
@@ -73,16 +73,16 @@
         },
         {
             "symbol": "NVO",
-            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
+            "headline": "Why Novo Stock Is Tumbling After Drugmaker Unveils Ambitious Growth Plan",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/ac73f8d0-6e02-33c4-b56b-b9f4d2b06550/why-novo-stock-is-tumbling.html",
             "score": 0
         },
         {
             "symbol": "MSTR",
-            "headline": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
+            "headline": "AMD, Intel, Novo, Meta, Strategy, Critical Metals, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/6c151bf6-d6e0-326a-905a-75334358e038/amd%2C-intel%2C-novo%2C-meta%2C.html",
             "score": 0
         },
         {
