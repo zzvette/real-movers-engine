@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T20:59:31.343880+00:00",
+    "timestamp": "2026-09-21T21:11:01.081213+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -7,13 +7,6 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-7-refinancing-pushes-180912319.html",
             "score": 5
-        },
-        {
-            "symbol": "WBD",
-            "headline": "Paramount Deal Approval Puts Netflix Stock And Media Merger Winners In Focus",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-deal-approval-puts-netflix-201505168.html",
-            "score": 4
         },
         {
             "symbol": "ARM",
@@ -37,13 +30,6 @@
             "score": 2
         },
         {
-            "symbol": "PSKY",
-            "headline": "Paramount Settles Multistate Lawsuit Over Proposed Warner Bros. Deal",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-multistate-lawsuit-over-203000731.html",
-            "score": 2
-        },
-        {
             "symbol": "NUAI",
             "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
             "publisher": "MT Newswires",
@@ -52,9 +38,9 @@
         },
         {
             "symbol": "META",
-            "headline": "Marvell just made a move that changes the AI networking story",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/ai/articles/marvell-just-made-move-changes-203300538.html",
+            "headline": "Has The Price For Amazon Stock Already Peaked?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/price-amazon-stock-already-peaked-204339927.html",
             "score": 0
         },
         {
@@ -93,10 +79,24 @@
             "score": 0
         },
         {
+            "symbol": "WBD",
+            "headline": "What to know about Paramount's settlement and its impact on movies",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/media-advertising/articles/know-paramounts-settlement-impact-movies-210108097.html",
+            "score": 0
+        },
+        {
             "symbol": "GRAL",
             "headline": "GRAL Stock Clocks Best Day In Over 1.5 Years \u2014 FDA Papers Lift Galleri Approval Hopes",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/healthcare/articles/gral-stock-clocks-best-day-205018255.html",
+            "score": 0
+        },
+        {
+            "symbol": "PSKY",
+            "headline": "What to know about Paramount's settlement and its impact on movies",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/media-advertising/articles/know-paramounts-settlement-impact-movies-210108097.html",
             "score": 0
         },
         {
