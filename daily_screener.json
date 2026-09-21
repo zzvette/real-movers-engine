@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-21T17:44:48.303138+00:00",
+    "timestamp": "2026-09-21T17:51:20.799970+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "META",
+                "headline": "Arm Stock Surges As Meta\u2019s Muse Reportedly Fuels CPU Rally \u2014 Meta Is Lead Partner On AGI CPU",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/technology/ai/articles/arm-stock-surges-meta-muse-172556001.html",
+                "score": 3
+            },
             {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
@@ -18,9 +25,9 @@
             },
             {
                 "symbol": "PSKY",
-                "headline": "PSKY, WBD Stock Soars As Paramount Skydance Reportedly Reaches Settlement With State Prosecutors In $110B Warner Merger",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/media-advertising/articles/psky-wbd-stock-soars-paramount-171637861.html",
+                "headline": "Paramount Moves Closer to Clearing a Major Antitrust Hurdle. Here\u2019s How That Impacts Its Warner Bros. Discovery Acquisition.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-moves-closer-clearing-major-174301945.html",
                 "score": 2
             },
             {
@@ -29,13 +36,6 @@
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/verifyme-declares-special-dividend-tied-203244064.html",
                 "score": 2
-            },
-            {
-                "symbol": "META",
-                "headline": "Market Chatter: Amazon Blocks Meta's Muse AI Agent From Retail Site",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-amazon-blocks-meta-170356282.html",
-                "score": 0
             },
             {
                 "symbol": "AMD",
