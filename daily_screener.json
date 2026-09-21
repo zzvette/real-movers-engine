@@ -1,7 +1,28 @@
 {
-    "timestamp": "2026-09-21T18:03:45.686548+00:00",
+    "timestamp": "2026-09-21T18:19:59.133411+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "META",
+                "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+                "score": 3
+            },
+            {
+                "symbol": "INTC",
+                "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+                "score": 3
+            },
+            {
+                "symbol": "MRNA",
+                "headline": "Moderna To Present Additional Data From Key Melanoma Trial At ESMO Congress \u2013 Retail Says \u2018Breakout Is Getting Hard To Ignore\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/moderna-present-additional-data-key-174020473.html",
+                "score": 3
+            },
             {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
@@ -10,24 +31,24 @@
                 "score": 3
             },
             {
-                "symbol": "NUAI",
-                "headline": "New Era jumps 30% after signing 207 MW Vistra PPA",
-                "publisher": "Blockspace",
-                "link": "https://finance.yahoo.com/energy/articles/era-jumps-30-signing-207-142704464.html",
+                "symbol": "FSLY",
+                "headline": "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-soars-14-ai-firewall-180407439.html",
                 "score": 3
             },
             {
                 "symbol": "WBD",
-                "headline": "Paramount Reaches Settlement With State Attorneys General in Warner Bros. Merger Case",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-reaches-settlement-state-attorneys-175250751.html",
+                "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
+                "publisher": "CBS News",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
                 "score": 2
             },
             {
                 "symbol": "PSKY",
-                "headline": "Paramount Reaches Settlement With State Attorneys General in Warner Bros. Merger Case",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-reaches-settlement-state-attorneys-175250751.html",
+                "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
+                "publisher": "CBS News",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
                 "score": 2
             },
             {
@@ -38,31 +59,17 @@
                 "score": 2
             },
             {
-                "symbol": "META",
-                "headline": "Update: Market Chatter: Amazon Blocks Meta's Muse AI Agent From Retail Site",
+                "symbol": "NUAI",
+                "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-amazon-blocks-meta-175237514.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMD",
-                "headline": "Update: Equities Rise Intraday as Chip Stocks Rally",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-chip-stocks-175229305.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-shares-rise-180729641.html",
+                "score": 2
             },
             {
                 "symbol": "GRML",
                 "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
                 "publisher": "The Wall Street Journal",
                 "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Update: Equities Rise Intraday as Chip Stocks Rally",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-chip-stocks-175229305.html",
                 "score": 0
             },
             {
@@ -74,9 +81,9 @@
             },
             {
                 "symbol": "ARM",
-                "headline": "Arm\u2019s Shift From Royalties to Silicon Manufacturing Could Reshape Chip Economics",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-shift-royalties-silicon-manufacturing-173352254.html",
+                "headline": "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-communication-180405761.html",
                 "score": 0
             },
             {
@@ -101,35 +108,28 @@
                 "score": 0
             },
             {
-                "symbol": "FSLY",
-                "headline": "Fastly Launches New Capabilities for Securing, Scaling AI",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/fastly-launches-capabilities-securing-scaling-133843561.html",
+                "symbol": "UPS",
+                "headline": "Bank of America cuts UPS price target to $108 on lower package volumes",
+                "publisher": "Proactive",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-cuts-ups-price-171500196.html",
                 "score": 0
             },
             {
-                "symbol": "UPS",
-                "headline": "BofA Securities Adjusts United Parcel Service Price Target to $108 From $115, Maintains Neutral Rating",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-united-parcel-142939955.html",
+                "symbol": "NVDA",
+                "headline": "Why Is XRP Up Today?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/why-xrp-today-181330354.html",
+                "score": 0
+            },
+            {
+                "symbol": "AUR",
+                "headline": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
                 "score": 0
             },
             {
                 "symbol": "BTTC",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-                "score": 0
-            },
-            {
-                "symbol": "POET",
-                "headline": "Is POET Technologies (POET) Undervalued On Its Optical Expo Update And 1.5x P B?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/poet-technologies-poet-undervalued-optical-231414352.html",
-                "score": 0
-            },
-            {
-                "symbol": "LOBO",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
