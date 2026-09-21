@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-21T02:11:27.914630+00:00",
+    "timestamp": "2026-09-21T02:41:19.384269+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "NVDA",
+                "headline": "Nvidia's Jensen Huang Beats Zuckerberg, Bezos for Trump's AI Favor as Stock Climbs",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-jensen-huang-beats-zuckerberg-020726073.html",
+                "score": 3
+            },
             {
                 "symbol": "NQ=F",
                 "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
@@ -18,9 +25,9 @@
             },
             {
                 "symbol": "CL=F",
-                "headline": "S&P 500 To 9,000 By 2027? Analyst Breaks Down Bullish Thesis",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-9-000-2027-012518098.html",
+                "headline": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/energy/articles/oil-rises-houthi-attack-saudi-221210416.html",
                 "score": 0
             },
             {
@@ -42,13 +49,6 @@
                 "headline": "Bombardier (TSX:BBD.B) Wins Approval For Global 8000 Flights Into London City Airport",
                 "publisher": "Simply Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bombardier-tsx-bbd-b-wins-231352843.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVDA",
-                "headline": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html",
+                "headline": "Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-022332279.html",
                 "score": 0
             }
         ]
