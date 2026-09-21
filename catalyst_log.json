@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T11:50:57.778101+00:00",
+    "timestamp": "2026-09-21T12:00:34.842700+00:00",
     "catalysts": [
         {
             "symbol": "CRML",
@@ -45,9 +45,9 @@
         },
         {
             "symbol": "NVO",
-            "headline": "Novo Nordisk Targets Over Five New Blockbusters By 2030, But NVO Stock Slides On Growth Concerns",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-targets-over-five-113108107.html",
+            "headline": "Novo Nordisk's Weight-Loss, Diabetes Drug Candidate Meets Primary Goals",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-apos-weight-loss-114632046.html",
             "score": 0
         },
         {
@@ -55,6 +55,13 @@
             "headline": "Easing Oil Bills, Pending Xi US Visit Buoy Wall Street Pre-Bell; Asia, Europe Up",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/articles/easing-oil-bills-pending-xi-111727506.html",
+            "score": 0
+        },
+        {
+            "symbol": "IREN",
+            "headline": "Rothschild & Co Redburn Initiates Iren at Neutral With $40 Price Target",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-initiates-iren-091952610.html",
             "score": 0
         },
         {
