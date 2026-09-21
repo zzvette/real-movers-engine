@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T18:57:44.625105+00:00",
+    "timestamp": "2026-09-21T19:04:28.951097+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,16 +25,16 @@
             },
             {
                 "symbol": "WBD",
-                "headline": "Paramount settles with states over Warner Bros Discovery deal",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-states-over-warner-183529271.html",
+                "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
+                "publisher": "CBS News",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
                 "score": 2
             },
             {
                 "symbol": "PSKY",
-                "headline": "Paramount settles with states over Warner Bros Discovery deal",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-states-over-warner-183529271.html",
+                "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
+                "publisher": "CBS News",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
                 "score": 2
             },
             {
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "INTC",
-                "headline": "Nvidia\u2019s AI CPU Push Threatens Intel and AMD",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-cpu-push-threatens-181835881.html",
+                "headline": "Intel Stock Soars as AI Spending Fears Fade",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-soars-ai-spending-190205655.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Cisco Moves Higher as Splunk Takes Agents Behind the Firewall",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cisco-moves-higher-splunk-takes-184516001.html",
+                "headline": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/energy/articles/why-nano-nuclear-energy-stock-185059384.html",
                 "score": 0
             },
             {
