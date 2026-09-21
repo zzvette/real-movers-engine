@@ -1,18 +1,18 @@
 {
-    "timestamp": "2026-09-21T19:04:28.951097+00:00",
+    "timestamp": "2026-09-21T19:16:49.789049+00:00",
     "catalysts": [
+        {
+            "symbol": "AMC",
+            "headline": "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-7-refinancing-pushes-180912319.html",
+            "score": 5
+        },
         {
             "symbol": "GRML",
             "headline": "Top Midday Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-181445249.html",
-            "score": 3
-        },
-        {
-            "symbol": "MRNA",
-            "headline": "Moderna To Present Additional Data From Key Melanoma Trial At ESMO Congress \u2013 Retail Says \u2018Breakout Is Getting Hard To Ignore\u2019",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/moderna-present-additional-data-key-174020473.html",
             "score": 3
         },
         {
@@ -37,13 +37,6 @@
             "score": 2
         },
         {
-            "symbol": "NUAI",
-            "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-shares-rise-180729641.html",
-            "score": 2
-        },
-        {
             "symbol": "META",
             "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
             "publisher": "GuruFocus.com",
@@ -52,23 +45,30 @@
         },
         {
             "symbol": "AMD",
-            "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html",
+            "headline": "AMD Is About to Become a Trillion-Dollar Stock as It Hikes Chip Prices 10%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-become-trillion-dollar-stock-185353481.html",
             "score": 0
         },
         {
             "symbol": "GLND",
-            "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
             "score": 0
         },
         {
-            "symbol": "INTC",
-            "headline": "Intel Stock Soars as AI Spending Fears Fade",
+            "symbol": "MRNA",
+            "headline": "Moderna (MRNA) Soars to Fresh High Ahead of Pipeline Updates This Week",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-fresh-high-191331309.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVO",
+            "headline": "Lilly Gains as Novo Wins a Lower-Dose Weight-Loss Round",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-soars-ai-spending-190205655.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/lilly-gains-novo-wins-lower-190909293.html",
             "score": 0
         },
         {
@@ -79,17 +79,17 @@
             "score": 0
         },
         {
-            "symbol": "NVO",
-            "headline": "Sector Update: Healthcare Stocks Rise in Afternoon Trading",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-175058246.html",
-            "score": 0
-        },
-        {
             "symbol": "CRML",
             "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Intel Stock Soars as AI Spending Fears Fade",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-soars-ai-spending-190205655.html",
             "score": 0
         },
         {
@@ -107,27 +107,6 @@
             "score": 0
         },
         {
-            "symbol": "VRME",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-            "score": 0
-        },
-        {
-            "symbol": "NVDA",
-            "headline": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/energy/articles/why-nano-nuclear-energy-stock-185059384.html",
-            "score": 0
-        },
-        {
-            "symbol": "AUR",
-            "headline": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
-            "score": 0
-        },
-        {
             "symbol": "FSLY",
             "headline": "Update: Fastly Shares Rise After Launching New Capabilities for Securing, Scaling AI",
             "publisher": "MT Newswires",
@@ -135,10 +114,31 @@
             "score": 0
         },
         {
-            "symbol": "BTTC",
+            "symbol": "VRME",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "score": 0
+        },
+        {
+            "symbol": "ALAB",
+            "headline": "Tech Stocks Break Out: The Next Leg of the Bull Market",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-break-next-leg-180300015.html",
+            "score": 0
+        },
+        {
+            "symbol": "SHOP",
+            "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVDA",
+            "headline": "Why Marvell Stock Rallied Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-rallied-today-190128245.html",
             "score": 0
         }
     ]
