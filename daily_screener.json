@@ -1,19 +1,26 @@
 {
-    "timestamp": "2026-09-21T15:49:00.272391+00:00",
+    "timestamp": "2026-09-21T15:56:36.171662+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "INTC",
-                "headline": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
-                "score": 9
+                "headline": "Intel Jumps 9.1% as Muse Reopens the CPU Debate",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-jumps-9-1-muse-155058867.html",
+                "score": 3
             },
             {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
+                "score": 3
+            },
+            {
+                "symbol": "MRNA",
+                "headline": "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/moderna-surges-9-phase-3-154555747.html",
                 "score": 3
             },
             {
@@ -60,9 +67,9 @@
             },
             {
                 "symbol": "META",
-                "headline": "AMD Gains 8.7% as Muse Pulls Inference Beyond GPUs",
+                "headline": "Amazon Locks Meta's Muse Out of Its Store",
                 "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-gains-8-7-muse-154611660.html",
+                "link": "https://finance.yahoo.com/technology/ai/articles/amazon-locks-metas-muse-store-155222583.html",
                 "score": 0
             },
             {
@@ -91,13 +98,6 @@
                 "headline": "FDA Decision Watch: MRK, MIRM, INCY, GRAL Face Key Regulatory Catalysts This Week",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/healthcare/articles/fda-decision-watch-mrk-mirm-110643425.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "AZN vs. MRK: Comparing Keytruda, Pipelines and Growth Strategies",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/healthcare/articles/azn-vs-mrk-comparing-keytruda-152200773.html",
                 "score": 0
             },
             {
