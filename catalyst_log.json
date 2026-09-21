@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-21T18:34:31.310000+00:00",
+    "timestamp": "2026-09-21T18:48:14.328182+00:00",
     "catalysts": [
-        {
-            "symbol": "META",
-            "headline": "Meta Stock Jumps as Wells Fargo Underwrites the AI Story",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-stock-jumps-wells-fargo-182613920.html",
-            "score": 3
-        },
         {
             "symbol": "GRML",
             "headline": "Top Midday Gainers",
@@ -31,23 +24,16 @@
         },
         {
             "symbol": "WBD",
-            "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
-            "publisher": "CBS News",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
+            "headline": "Paramount settles with states over Warner Bros Discovery deal",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-states-over-warner-183529271.html",
             "score": 2
         },
         {
             "symbol": "PSKY",
-            "headline": "Paramount settles with US states to clear Warner Bros. mega-merger",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-us-states-clear-162242141.html",
-            "score": 2
-        },
-        {
-            "symbol": "VRME",
-            "headline": "VerifyMe Declares Special Dividend Tied to Open World Deal; Shares Rise After Hours",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/verifyme-declares-special-dividend-tied-203244064.html",
+            "headline": "Paramount settles with states over Warner Bros Discovery deal",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-states-over-warner-183529271.html",
             "score": 2
         },
         {
@@ -58,10 +44,17 @@
             "score": 2
         },
         {
+            "symbol": "META",
+            "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html",
+            "score": 0
+        },
+        {
             "symbol": "AMD",
-            "headline": "Nvidia\u2019s AI CPU Push Threatens Intel and AMD",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-cpu-push-threatens-181835881.html",
+            "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html",
             "score": 0
         },
         {
@@ -114,10 +107,17 @@
             "score": 0
         },
         {
+            "symbol": "VRME",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "score": 0
+        },
+        {
             "symbol": "NVDA",
-            "headline": "Larry Page, Sergey Brin, and Peter Thiel All Fled California\u2019s Billionaire Tax. Nvidia\u2019s CEO Isn\u2019t Going Anywhere. Even With an $8 Billion Bill Coming His Way",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/economy/policy/articles/larry-page-sergey-brin-peter-182255068.html",
+            "headline": "Cisco Moves Higher as Splunk Takes Agents Behind the Firewall",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cisco-moves-higher-splunk-takes-184516001.html",
             "score": 0
         },
         {
