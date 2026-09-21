@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T19:16:49.789049+00:00",
+    "timestamp": "2026-09-21T19:28:11.320813+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -38,16 +38,16 @@
         },
         {
             "symbol": "META",
-            "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
+            "headline": "Amazon Just Blocked Meta's AI Agent and It's Not Alone",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/amazon-just-blocked-metas-ai-192537732.html",
             "score": 0
         },
         {
             "symbol": "AMD",
-            "headline": "AMD Is About to Become a Trillion-Dollar Stock as It Hikes Chip Prices 10%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-become-trillion-dollar-stock-185353481.html",
+            "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-storms-1-trillion-club-192641920.html",
             "score": 0
         },
         {
@@ -87,9 +87,9 @@
         },
         {
             "symbol": "INTC",
-            "headline": "Intel Stock Soars as AI Spending Fears Fade",
+            "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-soars-ai-spending-190205655.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-storms-1-trillion-club-192641920.html",
             "score": 0
         },
         {
@@ -129,16 +129,16 @@
         },
         {
             "symbol": "SHOP",
-            "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
+            "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-192343518.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "Why Marvell Stock Rallied Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-rallied-today-190128245.html",
+            "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-storms-1-trillion-club-192641920.html",
             "score": 0
         }
     ]
