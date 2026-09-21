@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T23:30:10.292491+00:00",
+    "timestamp": "2026-09-21T23:43:17.113510+00:00",
     "signals": {
         "catalysts": [
             {
@@ -15,20 +15,6 @@
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
                 "score": 3
-            },
-            {
-                "symbol": "WBD",
-                "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
-                "publisher": "CBS News",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
-                "score": 2
-            },
-            {
-                "symbol": "PSKY",
-                "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
-                "publisher": "CBS News",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
-                "score": 2
             },
             {
                 "symbol": "META",
@@ -60,9 +46,9 @@
             },
             {
                 "symbol": "INTC",
-                "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html",
+                "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
                 "score": 0
             },
             {
@@ -73,6 +59,13 @@
                 "score": 0
             },
             {
+                "symbol": "WBD",
+                "headline": "Warner Bros. Discovery (WBD) Shares Skyrocket, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-wbd-shares-233425158.html",
+                "score": 0
+            },
+            {
                 "symbol": "NVO",
                 "headline": "Novo Nordisk (CPSE:NOVO B) Unveiled A 2030 Blockbuster Drug Plan",
                 "publisher": "Simply Wall St.",
@@ -80,10 +73,17 @@
                 "score": 0
             },
             {
+                "symbol": "PSKY",
+                "headline": "Warner Bros. Discovery (WBD) Shares Skyrocket, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-wbd-shares-233425158.html",
+                "score": 0
+            },
+            {
                 "symbol": "AMD",
-                "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html",
+                "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
                 "score": 0
             },
             {
@@ -130,9 +130,9 @@
             },
             {
                 "symbol": "VICR",
-                "headline": "Vicor Raises Q3 Growth Guidance",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/vicor-raises-q3-growth-guidance-201047018.html",
+                "headline": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html",
                 "score": 0
             },
             {
