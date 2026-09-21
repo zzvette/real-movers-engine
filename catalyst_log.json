@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T19:50:06.261132+00:00",
+    "timestamp": "2026-09-21T19:55:20.044738+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -51,6 +51,13 @@
             "score": 2
         },
         {
+            "symbol": "META",
+            "headline": "META Stock Set For Best Day In 13 Months On Muse Popularity As Amazon Moves to Block It",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-set-best-day-194532740.html",
+            "score": 0
+        },
+        {
             "symbol": "GLND",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
@@ -73,9 +80,9 @@
         },
         {
             "symbol": "ARM",
-            "headline": "Arm Holdings (ARM) Soars 17% on Ambitious $2B Revenue Goal; Hedge Funds Bullish",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-soars-17-184855651.html",
+            "headline": "AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
+            "publisher": "BeInCrypto",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-hits-1-trillion-market-191855355.html",
             "score": 0
         },
         {
@@ -90,6 +97,13 @@
             "headline": "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/7d2e13c5-f28d-35eb-bb9e-ef92c21b9995/grail-catapults-30%25-plus-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "UPS",
+            "headline": "Top Midday Decliners",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182846292.html",
             "score": 0
         },
         {
