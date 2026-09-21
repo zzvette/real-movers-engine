@@ -1,7 +1,35 @@
 {
-    "timestamp": "2026-09-21T15:31:39.790397+00:00",
+    "timestamp": "2026-09-21T15:40:41.985140+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "META",
+                "headline": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
+                "score": 9
+            },
+            {
+                "symbol": "INTC",
+                "headline": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
+                "score": 9
+            },
+            {
+                "symbol": "ARM",
+                "headline": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
+                "score": 9
+            },
+            {
+                "symbol": "AMD",
+                "headline": "AMD Stock Jumps. Record Chip Exports Point to Strong AI Demand",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-record-chip-153544439.html",
+                "score": 3
+            },
             {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
@@ -24,38 +52,10 @@
                 "score": 3
             },
             {
-                "symbol": "WBD",
-                "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
-                "score": 2
-            },
-            {
-                "symbol": "AMD",
-                "headline": "Why AMD Stock Is Rising Fast Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-fast-152300624.html",
-                "score": 0
-            },
-            {
-                "symbol": "META",
-                "headline": "Why AMD Stock Is Rising Fast Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-fast-152300624.html",
-                "score": 0
-            },
-            {
                 "symbol": "GLND",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-relentless-rally-pushes-150127695.html",
                 "score": 0
             },
             {
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "NVO",
-                "headline": "Wegovy Maker Novo Promises New Drugs to Boost Sales, but Investors Are Wary",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/healthcare/articles/wegovy-maker-novo-looks-drugs-104200917.html",
+                "headline": "European Equities Traded in the US as American depositary Receipts Rise in Monday Trading",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152908906.html",
                 "score": 0
             },
             {
@@ -80,10 +80,10 @@
                 "score": 0
             },
             {
-                "symbol": "ARM",
-                "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-relentless-rally-pushes-150127695.html",
+                "symbol": "WBD",
+                "headline": "Ackman Bets $1 Billion on Netflix Redemption After $400 Million 2022 Loss",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ackman-bets-1-billion-netflix-153044051.html",
                 "score": 0
             },
             {
