@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T20:00:38.309889+00:00",
+    "timestamp": "2026-09-21T20:11:07.426555+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -9,8 +9,22 @@
             "score": 5
         },
         {
+            "symbol": "META",
+            "headline": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+            "score": 3
+        },
+        {
             "symbol": "AMD",
-            "headline": "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "headline": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+            "score": 3
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
             "score": 3
@@ -44,13 +58,6 @@
             "score": 2
         },
         {
-            "symbol": "META",
-            "headline": "META Stock Set For Best Day In 13 Months On Muse Popularity As Amazon Moves to Block It",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-set-best-day-194532740.html",
-            "score": 0
-        },
-        {
             "symbol": "GLND",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
@@ -66,16 +73,16 @@
         },
         {
             "symbol": "NVO",
-            "headline": "Sector Update: Healthcare Stocks Higher Late Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-higher-afternoon-194339680.html",
+            "headline": "LLY Stock Gains As CEO Says Foundayo Wins One-Third of New GLP-1 Pill Starts, Breaks Ground On $6.5B Houston Plant",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/lly-stock-gains-ceo-says-194919636.html",
             "score": 0
         },
         {
             "symbol": "ARM",
-            "headline": "AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
-            "publisher": "BeInCrypto",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-hits-1-trillion-market-191855355.html",
+            "headline": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
             "score": 0
         },
         {
@@ -83,13 +90,6 @@
             "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch%3A-paramount%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "INTC",
-            "headline": "Intel's CEO Just Gave Micron Technology Investors Great News",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/intels-ceo-just-gave-micron-195001342.html",
             "score": 0
         },
         {
