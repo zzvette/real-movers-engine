@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T19:28:11.320813+00:00",
+    "timestamp": "2026-09-21T19:36:27.432026+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -21,20 +21,6 @@
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
             "score": 3
-        },
-        {
-            "symbol": "WBD",
-            "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
-            "publisher": "CBS News",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
-            "score": 2
-        },
-        {
-            "symbol": "PSKY",
-            "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
-            "publisher": "CBS News",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
-            "score": 2
         },
         {
             "symbol": "META",
@@ -79,6 +65,13 @@
             "score": 0
         },
         {
+            "symbol": "WBD",
+            "headline": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
+            "score": 0
+        },
+        {
             "symbol": "CRML",
             "headline": "Stocks to Watch: Paramount, Intel, Strategy, Critical Metals",
             "publisher": "The Wall Street Journal",
@@ -97,6 +90,13 @@
             "headline": "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/7d2e13c5-f28d-35eb-bb9e-ef92c21b9995/grail-catapults-30%25-plus-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "PSKY",
+            "headline": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
             "score": 0
         },
         {
