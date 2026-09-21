@@ -1,13 +1,13 @@
 {
-    "timestamp": "2026-09-21T17:09:11.813576+00:00",
+    "timestamp": "2026-09-21T17:19:15.163324+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "LUNR",
-                "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-climbs-7-cantor-154002618.html",
-                "score": 6
+                "symbol": "PSKY",
+                "headline": "Paramount reaches deal with states to settle their case challenging Warner buyout, AP source says",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-reaches-deal-states-settle-170738779.html",
+                "score": 4
             },
             {
                 "symbol": "VEEE",
@@ -31,18 +31,18 @@
                 "score": 2
             },
             {
-                "symbol": "WBD",
-                "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
+                "symbol": "VRME",
+                "headline": "VerifyMe Declares Special Dividend Tied to Open World Deal; Shares Rise After Hours",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/verifyme-declares-special-dividend-tied-203244064.html",
                 "score": 2
             },
             {
-                "symbol": "PSKY",
-                "headline": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger",
-                "publisher": "The Guardian",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-lawsuits-12-us-165249084.html",
-                "score": 2
+                "symbol": "META",
+                "headline": "Market Chatter: Amazon Blocks Meta's Muse AI Agent From Retail Site",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-amazon-blocks-meta-170356282.html",
+                "score": 0
             },
             {
                 "symbol": "AMD",
@@ -66,24 +66,24 @@
                 "score": 0
             },
             {
-                "symbol": "META",
-                "headline": "We Think Meta Could Keep Soaring Higher and Wells Fargo Agrees",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/think-meta-could-keep-soaring-164535047.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVO",
-                "headline": "Why Novo Nordisk Stock Just Crashed",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-novo-nordisk-stock-just-161429665.html",
-                "score": 0
-            },
-            {
                 "symbol": "ARM",
                 "headline": "AMD stock crosses $1 trillion market cap for first time",
                 "publisher": "Quartz",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-crosses-1-trillion-170121700.html",
+                "score": 0
+            },
+            {
+                "symbol": "NVO",
+                "headline": "Sector Update: Healthcare",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-171000641.html",
+                "score": 0
+            },
+            {
+                "symbol": "WBD",
+                "headline": "Sector Update: Consumer",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-170713209.html",
                 "score": 0
             },
             {
@@ -101,6 +101,13 @@
                 "score": 0
             },
             {
+                "symbol": "FSLY",
+                "headline": "Fastly Launches New Capabilities for Securing, Scaling AI",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/fastly-launches-capabilities-securing-scaling-133843561.html",
+                "score": 0
+            },
+            {
                 "symbol": "UPS",
                 "headline": "BofA Securities Adjusts United Parcel Service Price Target to $108 From $115, Maintains Neutral Rating",
                 "publisher": "MT Newswires",
@@ -115,24 +122,17 @@
                 "score": 0
             },
             {
+                "symbol": "POET",
+                "headline": "Is POET Technologies (POET) Undervalued On Its Optical Expo Update And 1.5x P B?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/poet-technologies-poet-undervalued-optical-231414352.html",
+                "score": 0
+            },
+            {
                 "symbol": "LOBO",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-                "score": 0
-            },
-            {
-                "symbol": "AUR",
-                "headline": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "Biotech ETFs to Buy as Cancer Drug Breakthroughs Accelerate",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/healthcare/articles/biotech-etfs-buy-cancer-drug-160300435.html",
                 "score": 0
             }
         ]
