@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-21T14:55:36.251747+00:00",
+    "timestamp": "2026-09-21T15:01:03.502652+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "CRML",
+                "headline": "Critical Metals Stock Surges 35% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-stock-surges.html",
+                "score": 5
+            },
             {
                 "symbol": "WBD",
                 "headline": "Paramount, Warner Bros. shares rally on reports of merger settlement agreement",
@@ -29,13 +36,6 @@
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110217882.html",
                 "score": 3
-            },
-            {
-                "symbol": "CRML",
-                "headline": "Critical Metals Shares Rise 27% Premarket Following Trump\u2019s Greenland Agreement Announcement",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-shares-rise-27-123214773.html",
-                "score": 2
             },
             {
                 "symbol": "USAR",
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "INTC",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+                "headline": "The AI Trade Leads Today's Stock Market Rally",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b24c3065-0473-386a-99cf-91ee77efb0c8/the-ai-trade-leads-today%27s.html",
                 "score": 0
             },
             {
