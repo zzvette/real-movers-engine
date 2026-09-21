@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-21T15:56:36.171662+00:00",
+    "timestamp": "2026-09-21T16:01:48.517988+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "INTC",
-                "headline": "Intel Jumps 9.1% as Muse Reopens the CPU Debate",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-jumps-9-1-muse-155058867.html",
-                "score": 3
-            },
             {
                 "symbol": "VEEE",
                 "headline": "Top Premarket Gainers",
@@ -53,16 +46,16 @@
             },
             {
                 "symbol": "WBD",
-                "headline": "Paramount Settles With 12 States, Clearing Path For $110 Billion Warner Deal",
-                "publisher": "Moby",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-settles-12-states-clearing-153715604.html",
+                "headline": "Paramount\u00a0settles with US states in big step towards closing Warner Bros merger, source says",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
                 "score": 2
             },
             {
                 "symbol": "AMD",
-                "headline": "AMD Gains 8.7% as Muse Pulls Inference Beyond GPUs",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-gains-8-7-muse-154611660.html",
+                "headline": "Meta AI agent \u2018Muse\u2019 triggers massive tech rally as chips and Wall Street soar",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html",
                 "score": 0
             },
             {
@@ -77,6 +70,13 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+                "score": 0
+            },
+            {
+                "symbol": "INTC",
+                "headline": "Meta AI agent \u2018Muse\u2019 triggers massive tech rally as chips and Wall Street soar",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html",
                 "score": 0
             },
             {
