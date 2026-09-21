@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T04:11:24.425527+00:00",
+    "timestamp": "2026-09-21T04:43:00.355759+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,13 +8,6 @@
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-climbs-3-optics-buying-140139997.html",
                 "score": 6
-            },
-            {
-                "symbol": "BWET",
-                "headline": "Oil Surges, Tanker Rates Soar: ETFs in Play",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/energy/articles/oil-surges-tanker-rates-soar-195500447.html",
-                "score": 3
             },
             {
                 "symbol": "CRML",
