@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T16:27:16.335282+00:00",
+    "timestamp": "2026-09-21T16:36:53.772517+00:00",
     "catalysts": [
         {
             "symbol": "LUNR",
@@ -7,6 +7,13 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-climbs-7-cantor-154002618.html",
             "score": 6
+        },
+        {
+            "symbol": "AMD",
+            "headline": "AI Leader AMD Breaks Out Past New Buy Point With This Bullish Signal",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/dfc5af30-4a2d-3c4f-b662-605a3b800743/ai-leader-amd-breaks-out-past.html",
+            "score": 3
         },
         {
             "symbol": "VEEE",
@@ -44,16 +51,9 @@
             "score": 2
         },
         {
-            "symbol": "AMD",
-            "headline": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
-            "publisher": "Yahoo Personal Finance",
-            "link": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
-            "score": 0
-        },
-        {
             "symbol": "INTC",
             "headline": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
-            "publisher": "Yahoo Personal Finance",
+            "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
             "score": 0
         },
@@ -67,7 +67,7 @@
         {
             "symbol": "META",
             "headline": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
-            "publisher": "Yahoo Personal Finance",
+            "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
             "score": 0
         },
@@ -81,7 +81,7 @@
         {
             "symbol": "ARM",
             "headline": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
-            "publisher": "Yahoo Personal Finance",
+            "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
             "score": 0
         },
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "GRAL",
-            "headline": "FDA Decision Watch: MRK, MIRM, INCY, GRAL Face Key Regulatory Catalysts This Week",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/fda-decision-watch-mrk-mirm-110643425.html",
+            "headline": "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/7d2e13c5-f28d-35eb-bb9e-ef92c21b9995/grail-catapults-30%25-plus-as.html",
             "score": 0
         },
         {
