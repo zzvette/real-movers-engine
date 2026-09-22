@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-22T02:12:01.714171+00:00",
+    "timestamp": "2026-09-22T02:40:59.388621+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "GRML",
+                "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
+                "score": 5
+            },
             {
                 "symbol": "FSLY",
                 "headline": "Fastly Inc. (FSLY) Jumps 15% Ahead of Tuesday\u2019s Key Business Updates; Hedge Fund Conviction Weak",
@@ -18,9 +25,9 @@
             },
             {
                 "symbol": "META",
-                "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
+                "headline": "Stocks rise on AI buzz, drop in oil prices",
+                "publisher": "AFP",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html",
                 "score": 0
             },
             {
