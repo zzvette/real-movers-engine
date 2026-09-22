@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T18:33:42.736930+00:00",
+    "timestamp": "2026-09-22T18:46:23.226985+00:00",
     "signals": {
         "catalysts": [
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "GRAB",
-                "headline": "Grab Shares Rise After Insider Buying",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/grab-shares-rise-insider-buying-172454247.html",
+                "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/623c5c3f-6913-3d1b-8c72-02d83d4b68cc/grab%27s-chief-operating.html",
                 "score": 0
             },
             {
@@ -130,9 +130,9 @@
             },
             {
                 "symbol": "CGC",
-                "headline": "Canopy Growth to Supply Medical Cannabis for Distribution Into the UK",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/canopy-growth-supply-medical-cannabis-160755213.html",
+                "headline": "Arm Gains 1.5% as Agentic AI Multiplies CPU Cores",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/arm-gains-1-5-agentic-184537508.html",
                 "score": 0
             },
             {
