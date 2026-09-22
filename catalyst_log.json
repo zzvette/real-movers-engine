@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-22T13:34:51.255020+00:00",
+    "timestamp": "2026-09-22T13:48:13.139234+00:00",
     "catalysts": [
-        {
-            "symbol": "TOPS",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
-            "score": 3
-        },
         {
             "symbol": "GRAL",
             "headline": "GRAIL Stock Jumped 34% Yesterday. The FDA Just Told Its Investors Why.",
@@ -44,6 +37,13 @@
             "score": 0
         },
         {
+            "symbol": "TOPS",
+            "headline": "Top Ships Inc. Provides Response to Unusual Market Action",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-provides-response-132500657.html",
+            "score": 0
+        },
+        {
             "symbol": "SOFI",
             "headline": "SoFi Technologies Launches Stablecoin Settlement Across Mastercard's Global Payments Network",
             "publisher": "MT Newswires",
@@ -66,9 +66,9 @@
         },
         {
             "symbol": "META",
-            "headline": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-132600500.html",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq drift higher as oil retreats, AI trade powers market",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
             "score": 0
         },
         {
@@ -80,30 +80,30 @@
         },
         {
             "symbol": "BB",
-            "headline": "Sector Update: Tech Stocks Decline Pre-Bell Tuesday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-decline-pre-131246397.html",
+            "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
             "score": 0
         },
         {
             "symbol": "GME",
-            "headline": "Sector Update: Consumer Stocks Rise Premarket Tuesday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-premarket-131337022.html",
+            "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
             "score": 0
         },
         {
             "symbol": "ONON",
-            "headline": "On Holding Investor Day: On Sets Sights On $6.8B Sales Goal By 2029 \u2013 ONON Stock Heads For Best Day In Over 10 Months",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-investor-day-sets-sights-131358576.html",
+            "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
             "score": 0
         },
         {
             "symbol": "AZO",
-            "headline": "AZO Q4 Earnings Beat Expectations: CEO Says Firm\u2019s Well Positioned For Sales Growth In Fiscal 2027",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/azo-q4-earnings-beat-expectations-123331601.html",
+            "headline": "AutoZone (AZO) Reports Q4 Earnings: What Key Metrics Have to Say",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-reports-q4-earnings-133002446.html",
             "score": 0
         },
         {
@@ -122,9 +122,9 @@
         },
         {
             "symbol": "MSFT",
-            "headline": "Palo Alto Networks Launches AI-Powered Cybersecurity Service Using Anthropic, OpenAI Models",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-launches-ai-130925780.html",
+            "headline": "Here\u2019s What Nebius\u2019 Top Line AI Compute Expansion Means for Prices",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/nebius-top-line-ai-compute-134003638.html",
             "score": 0
         },
         {
@@ -136,9 +136,9 @@
         },
         {
             "symbol": "NOW",
-            "headline": "Wall Street\u2019s Palantir Price Targets Tell an Interesting Story",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-palantir-price-targets-123047963.html",
+            "headline": "ClickHouse Appoints Mike Scarpelli, Former Snowflake and ServiceNow CFO, to Board of Directors",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/clickhouse-appoints-mike-scarpelli-former-130000918.html",
             "score": 0
         }
     ]
