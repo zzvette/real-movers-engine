@@ -1,27 +1,6 @@
 {
-    "timestamp": "2026-09-22T15:06:57.320288+00:00",
+    "timestamp": "2026-09-22T15:20:29.341768+00:00",
     "catalysts": [
-        {
-            "symbol": "ONON",
-            "headline": "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-surges-13-investor-day-135337346.html",
-            "score": 3
-        },
-        {
-            "symbol": "GME",
-            "headline": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
-            "score": 3
-        },
-        {
-            "symbol": "GDC",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
-            "score": 3
-        },
         {
             "symbol": "LHSW",
             "headline": "Lianhe Sowell International Group Ltd. Signs Strategic Cooperation Agreement with Subsidiary of Chery Group Holding Company to Advance Intelligent Equipment in China\u2019s Automotive Aftermarket",
@@ -38,9 +17,9 @@
         },
         {
             "symbol": "SHOP",
-            "headline": "Stocks to Watch: Meta, Shopify, Roche",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/c5e89923-cb71-3b76-9c36-6ab7f607a3ee/stocks-to-watch%3A-meta%2C.html",
+            "headline": "Shopify Stock Soars. Meta Picks Shop Pay for AI Shopping Against Amazon",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-stock-soars-meta-picks-151118070.html",
             "score": 0
         },
         {
@@ -58,13 +37,6 @@
             "score": 0
         },
         {
-            "symbol": "SOFI",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
-            "score": 0
-        },
-        {
             "symbol": "XNDU",
             "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
             "publisher": "MT Newswires",
@@ -72,7 +44,63 @@
             "score": 0
         },
         {
+            "symbol": "JPM",
+            "headline": "Market Chatter: JPMorgan Chase Plans Expansion of GIFT City Business in India",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/currencies/articles/market-chatter-jpmorgan-chase-plans-141923402.html",
+            "score": 0
+        },
+        {
             "symbol": "DCOY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "score": 0
+        },
+        {
+            "symbol": "ONON",
+            "headline": "Why On Holding Stock Popped Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-holding-stock-popped-today-150252563.html",
+            "score": 0
+        },
+        {
+            "symbol": "SCHW",
+            "headline": "5 Dividend Stocks That Combine Income, Earnings Growth, and Wall Street Support",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-combine-income-142000173.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOFI",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "score": 0
+        },
+        {
+            "symbol": "BFLY",
+            "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
+            "score": 0
+        },
+        {
+            "symbol": "ZEO",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "score": 0
+        },
+        {
+            "symbol": "VICR",
+            "headline": "How Much Upside is Left in Vicor (VICR)? Wall Street Analysts Think 60.61%",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-vicor-vicr-135502825.html",
+            "score": 0
+        },
+        {
+            "symbol": "FLNA",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
@@ -86,10 +114,10 @@
             "score": 0
         },
         {
-            "symbol": "BB",
-            "headline": "BlackBerry to Report Q2 Results: Should Investors Hold or Fold?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-report-q2-results-investors-145200681.html",
+            "symbol": "CSCO",
+            "headline": "Stock Market Today: Dow Slips, Oil Stocks Fall On U.S.-Iran Hopes; Homebuilders, Retailers Shine (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow.html",
             "score": 0
         },
         {
@@ -100,31 +128,10 @@
             "score": 0
         },
         {
-            "symbol": "FLNA",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
-            "score": 0
-        },
-        {
-            "symbol": "BABA",
-            "headline": "Alibaba Looks to Strengthen Artificial Intelligence Position After Unveiling New Chips, Models",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-looks-strengthen-artificial-intelligence-145452881.html",
-            "score": 0
-        },
-        {
-            "symbol": "VICR",
-            "headline": "How Much Upside is Left in Vicor (VICR)? Wall Street Analysts Think 60.61%",
+            "symbol": "CLDX",
+            "headline": "4 Biotech Stocks With Key Clinical Readouts Expected This Fall",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-vicor-vicr-135502825.html",
-            "score": 0
-        },
-        {
-            "symbol": "TWLO",
-            "headline": "Twilio, Datadog, Unity, Zscaler, and Elastic Shares Skyrocket, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-datadog-unity-zscaler-elastic-004625817.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/4-biotech-stocks-key-clinical-145100233.html",
             "score": 0
         }
     ]
