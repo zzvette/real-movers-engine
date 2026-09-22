@@ -1,11 +1,18 @@
 {
-    "timestamp": "2026-09-22T19:10:41.227157+00:00",
+    "timestamp": "2026-09-22T19:21:17.243383+00:00",
     "catalysts": [
         {
             "symbol": "JAGX",
             "headline": "Top Midday Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-183934042.html",
+            "score": 3
+        },
+        {
+            "symbol": "WSP.TO",
+            "headline": "Micron Stock Climbs Despite $25 Billion Plant Labor Dispute",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-climbs-despite-25-192100309.html",
             "score": 3
         },
         {
@@ -16,17 +23,17 @@
             "score": 2
         },
         {
+            "symbol": "UBER",
+            "headline": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
+            "publisher": "Yahoo Finance Video",
+            "link": "https://finance.yahoo.com/video/teslas-evaluation-based-pure-faith-181659153.html",
+            "score": 2
+        },
+        {
             "symbol": "VKTX",
             "headline": "Sector Update: Healthcare Stocks Rise Tuesday Afternoon",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-tuesday-173043712.html",
-            "score": 0
-        },
-        {
-            "symbol": "CSCO",
-            "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
             "score": 0
         },
         {
@@ -37,10 +44,31 @@
             "score": 0
         },
         {
+            "symbol": "INOD",
+            "headline": "Innodata Bets on Agentic AI: Can Reinforcement Learning Drive Growth?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/ai/articles/innodata-bets-agentic-ai-reinforcement-173000019.html",
+            "score": 0
+        },
+        {
+            "symbol": "CSCO",
+            "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
+            "score": 0
+        },
+        {
             "symbol": "JPM",
             "headline": "Charles Schwab, JPMorgan Chase Slide On Vanguard-Backed AI Threat",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/7885a1d5-b2fc-3059-b37a-8828ffe771d1/charles-schwab%2C-jpmorgan.html",
+            "score": 0
+        },
+        {
+            "symbol": "RCL",
+            "headline": "Air, Cruise Lines Stage Uneven Rally As Oil Ebbs; Are They Ready To Rebound?",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2d97cb7b-5572-3619-b389-ff8f64c2eb0c/air%2C-cruise-lines-stage.html",
             "score": 0
         },
         {
@@ -51,59 +79,10 @@
             "score": 0
         },
         {
-            "symbol": "GRAB",
-            "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/m/623c5c3f-6913-3d1b-8c72-02d83d4b68cc/grab%27s-chief-operating.html",
-            "score": 0
-        },
-        {
             "symbol": "IBRX",
             "headline": "Could IBRX Be A Tokenized Stock? Founder\u2019s Tease Sends ImmunityBio Traders Into Speculation Mode",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/m/fdff1f70-304c-384f-9819-b6775817d0d6/could-ibrx-be-a-tokenized.html",
-            "score": 0
-        },
-        {
-            "symbol": "SHOP",
-            "headline": "Shopify Just Gave Meta's AI Agent a Major Boost",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/shopify-just-gave-metas-ai-185623345.html",
-            "score": 0
-        },
-        {
-            "symbol": "BFLY",
-            "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
-            "score": 0
-        },
-        {
-            "symbol": "HIMS",
-            "headline": "Novo Nordisk Targets Five Multi-Blockbusters by 2030 as Oral Wegovy Gains Traction",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/m/7f61bc97-ed6a-371a-9e33-a111308b21a9/novo-nordisk-targets-five.html",
-            "score": 0
-        },
-        {
-            "symbol": "XNDU",
-            "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
-            "score": 0
-        },
-        {
-            "symbol": "PLNT",
-            "headline": "1 Safe-and-Steady Stock to Own for Decades and 2 We Turn Down",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-own-090946221.html",
-            "score": 0
-        },
-        {
-            "symbol": "FLNA",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
@@ -114,10 +93,31 @@
             "score": 0
         },
         {
-            "symbol": "SCHW",
-            "headline": "Charles Schwab, JPMorgan Chase Slide On Vanguard-Backed AI Threat",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/7885a1d5-b2fc-3059-b37a-8828ffe771d1/charles-schwab%2C-jpmorgan.html",
+            "symbol": "XNDU",
+            "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
+            "score": 0
+        },
+        {
+            "symbol": "GRAB",
+            "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/grabs-chief-operating-officer-buys-183318676.html",
+            "score": 0
+        },
+        {
+            "symbol": "BFLY",
+            "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
+            "score": 0
+        },
+        {
+            "symbol": "FLNA",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
@@ -128,17 +128,17 @@
             "score": 0
         },
         {
-            "symbol": "CGC",
-            "headline": "Canopy Growth to Supply Medical Cannabis for Distribution Into the UK",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/canopy-growth-supply-medical-cannabis-160755213.html",
+            "symbol": "RAIN",
+            "headline": "Rain Enhancement Technologies to Present at H.C. Wainwright 28th Annual Global Investment Conference",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/technology/articles/rain-enhancement-technologies-present-h-140000232.html",
             "score": 0
         },
         {
-            "symbol": "NYT",
-            "headline": "Tech Companies\u2019 Staff Knew Their AI Tools Posed \u2018Existential Threat\u2019 to Publishers",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/33a3e37c-c02a-365d-96e9-7ba03d9d33e9/tech-companies%E2%80%99-staff-knew.html",
+            "symbol": "PLNT",
+            "headline": "1 Safe-and-Steady Stock to Own for Decades and 2 We Turn Down",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-own-090946221.html",
             "score": 0
         }
     ]
