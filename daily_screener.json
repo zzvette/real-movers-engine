@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T20:31:00.112733+00:00",
+    "timestamp": "2026-09-22T20:38:05.123952+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,17 +10,10 @@
                 "score": 3
             },
             {
-                "symbol": "MU",
-                "headline": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/248555df-b0ac-392d-a493-6f95b1e5c807/micron%2C-ibd-stock-of-the-day%2C.html",
-                "score": 3
-            },
-            {
                 "symbol": "VKTX",
-                "headline": "Sector Update: Healthcare Stocks Rise Late Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-200355451.html",
+                "headline": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f724af55-0e16-38ff-b1eb-f11fdfb65378/viking-therapeutics.html",
                 "score": 0
             },
             {
@@ -39,16 +32,16 @@
             },
             {
                 "symbol": "RCL",
-                "headline": "Stocks Supported as Crude Oil Prices Ease",
-                "publisher": "Barchart",
-                "link": "https://finance.yahoo.com/m/0766262a-2921-37a7-ae77-570ad1858a87/stocks-supported-as-crude-oil.html",
+                "headline": "Air, Cruise Lines Stage Uneven Rally As Oil Ebbs; Are They Ready To Rebound?",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2d97cb7b-5572-3619-b389-ff8f64c2eb0c/air%2C-cruise-lines-stage.html",
                 "score": 0
             },
             {
                 "symbol": "CSCO",
-                "headline": "Has Arista Networks Stock Quietly Become A Different Bet?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/m/ac4565f4-c99d-3f10-9ffb-28a239417411/has-arista-networks-stock.html",
+                "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html",
                 "score": 0
             },
             {
@@ -84,6 +77,13 @@
                 "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
+                "score": 0
+            },
+            {
+                "symbol": "MU",
+                "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html",
                 "score": 0
             },
             {
@@ -123,9 +123,9 @@
             },
             {
                 "symbol": "WSP.TO",
-                "headline": "TSX Closer: Index Closes Higher as Technology, Healthcare and Base Metals Lead Gains",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-higher-202417973.html",
+                "headline": "How retailers can fight AI-driven fraud without losing sales",
+                "publisher": "Retail Insight Network",
+                "link": "https://finance.yahoo.com/m/1347907f-7cc4-37a3-b7de-029f435e716f/how-retailers-can-fight.html",
                 "score": 0
             },
             {
