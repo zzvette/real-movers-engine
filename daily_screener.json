@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-22T09:58:02.615910+00:00",
+    "timestamp": "2026-09-22T10:14:04.201118+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "GRML",
+                "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
+                "score": 5
+            },
             {
                 "symbol": "GRAL",
                 "headline": "GRAIL Stock Jumped 34% Yesterday. The FDA Just Told Its Investors Why.",
@@ -14,13 +21,6 @@
                 "headline": "Fastly Stock Jumped 15% Yesterday on an AI Security Launch. Insiders Sold Millions First.",
                 "publisher": "TIKR",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-stock-jumped-15-yesterday-070938255.html",
-                "score": 3
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "Moderna Stock Jumped 12% Yesterday. An ESMO Presidential Slot Explains Why.",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-stock-jumped-12-yesterday-073305050.html",
                 "score": 3
             },
             {
@@ -38,6 +38,13 @@
                 "score": 0
             },
             {
+                "symbol": "TOPS",
+                "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
+                "score": 0
+            },
+            {
                 "symbol": "VKTX",
                 "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
                 "publisher": "Stocktwits",
@@ -45,10 +52,10 @@
                 "score": 0
             },
             {
-                "symbol": "TOPS",
-                "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
+                "symbol": "BABA",
+                "headline": "Alibaba\u2019s Zhenwu V900 Is China\u2019s Answer to Nvidia\u2019s Absence \u2013 and Export Controls Are the Reason It Exists",
+                "publisher": "Forkast News",
+                "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-zhenwu-v900-china-answer-090729183.html",
                 "score": 0
             },
             {
@@ -66,13 +73,6 @@
                 "score": 0
             },
             {
-                "symbol": "NOW",
-                "headline": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-crowdstrike-mongodb-servicenow-okta-003025037.html",
-                "score": 0
-            },
-            {
                 "symbol": "GME",
                 "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
                 "publisher": "Stocktwits",
@@ -80,45 +80,17 @@
                 "score": 0
             },
             {
-                "symbol": "GDC",
-                "headline": "These Three Stocks Fell More Than 10% Today To Hit 52-Week Lows -- What's Driving The Investor Skepticism?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/three-stocks-fell-more-10-175412835.html",
-                "score": 0
-            },
-            {
-                "symbol": "FBGL",
-                "headline": "Top Premarket Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-112741750.html",
-                "score": 0
-            },
-            {
-                "symbol": "^IXIC",
-                "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-                "score": 0
-            },
-            {
-                "symbol": "UPS",
-                "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
-                "score": 0
-            },
-            {
-                "symbol": "NUAI",
-                "headline": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
-                "score": 0
-            },
-            {
-                "symbol": "NET",
-                "headline": "Cloudflare (NET) Shares Skyrocket, What You Need To Know",
+                "symbol": "NOW",
+                "headline": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-shares-skyrocket-know-005425926.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-crowdstrike-mongodb-servicenow-okta-003025037.html",
+                "score": 0
+            },
+            {
+                "symbol": "ONON",
+                "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
                 "score": 0
             },
             {
@@ -129,17 +101,45 @@
                 "score": 0
             },
             {
-                "symbol": "BABA",
-                "headline": "Alibaba\u2019s Zhenwu V900 Is China\u2019s Answer to Nvidia\u2019s Absence \u2013 and Export Controls Are the Reason It Exists",
-                "publisher": "Forkast News",
-                "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-zhenwu-v900-china-answer-090729183.html",
+                "symbol": "RKLB",
+                "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
                 "score": 0
             },
             {
-                "symbol": "ONON",
-                "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
+                "symbol": "GDC",
+                "headline": "These Three Stocks Fell More Than 10% Today To Hit 52-Week Lows -- What's Driving The Investor Skepticism?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/three-stocks-fell-more-10-175412835.html",
+                "score": 0
+            },
+            {
+                "symbol": "UPS",
+                "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
+                "score": 0
+            },
+            {
+                "symbol": "IMCC",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+                "score": 0
+            },
+            {
+                "symbol": "NET",
+                "headline": "Cloudflare (NET) Shares Skyrocket, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-shares-skyrocket-know-005425926.html",
+                "score": 0
+            },
+            {
+                "symbol": "NUAI",
+                "headline": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
                 "score": 0
             }
         ]
