@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T14:27:19.652813+00:00",
+    "timestamp": "2026-09-22T14:39:03.123516+00:00",
     "catalysts": [
         {
             "symbol": "ONON",
@@ -13,6 +13,13 @@
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
+            "score": 3
+        },
+        {
+            "symbol": "GME",
+            "headline": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
             "score": 3
         },
         {
@@ -59,9 +66,9 @@
         },
         {
             "symbol": "SOFI",
-            "headline": "3 Crypto Stocks To Watch In September 2026",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/3-crypto-stocks-watch-september-141519735.html",
+            "headline": "How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/c02c36ef-fcad-3213-9f9c-63e947dd9869/how-sofi-is-turning-its.html",
             "score": 0
         },
         {
@@ -79,13 +86,6 @@
             "score": 0
         },
         {
-            "symbol": "GME",
-            "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
-            "score": 0
-        },
-        {
             "symbol": "BB",
             "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
             "publisher": "Yahoo Finance",
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "AZO",
-            "headline": "AutoZone Fourth-Quarter Sales Miss Views Amid Macro Headwinds",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-fourth-quarter-sales-miss-135231843.html",
+            "headline": "Still Waters Bring Mixed Pre-Market Levels",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/still-waters-bring-mixed-pre-141600857.html",
             "score": 0
         },
         {
