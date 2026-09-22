@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T20:19:03.311193+00:00",
+    "timestamp": "2026-09-22T20:28:44.135609+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "GME",
-                "headline": "Sector Update: Consumer Stocks Advance Tuesday Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-tuesday-173619109.html",
+                "headline": "Billionaire GameStop CEO Ryan Cohen Buys 1.2 Million Shares for $26.4 Million. Is GME Now a Buy?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/e5f3eae7-b7e4-3b03-8485-48ccb512a6cf/billionaire-gamestop-ceo-ryan.html",
                 "score": 0
             },
             {
@@ -123,9 +123,9 @@
             },
             {
                 "symbol": "WSP.TO",
-                "headline": "New Member Joins American Indian College Fund Board of Trustees",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/small-business/articles/member-joins-american-indian-college-201200967.html",
+                "headline": "TSX Closer: Index Closes Higher as Technology, Healthcare and Base Metals Lead Gains",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-higher-202417973.html",
                 "score": 0
             },
             {
