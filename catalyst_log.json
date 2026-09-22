@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T16:59:27.773459+00:00",
+    "timestamp": "2026-09-22T17:07:16.378989+00:00",
     "catalysts": [
         {
             "symbol": "SCHW",
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "JPM",
-            "headline": "A Bad Day for Bank Stocks Is Killing the Dow",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/65582ce1-8f3a-377a-974a-acc562bf0c56/a-bad-day-for-bank-stocks-is.html",
+            "headline": "JPMorgan Chase Falls 3% Despite New $20B QIA Partnership; Goldman Sachs Eases, Bank of America Slips",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/ac01261b-d6a1-3367-85b2-3bc5db47f1c2/jpmorgan-chase-falls-3%25.html",
             "score": 0
         },
         {
@@ -80,9 +80,9 @@
         },
         {
             "symbol": "DCOY",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "headline": "Decoy Therapeutics, Inc. Announces a Warrant Inducement Transaction for $3.85 Million in Gross Proceeds Priced At-The-Market under Nasdaq Rules",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-announces-warrant-165000539.html",
             "score": 0
         },
         {
