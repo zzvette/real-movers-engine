@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T00:44:52.427690+00:00",
+    "timestamp": "2026-09-22T01:10:27.756452+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -10,9 +10,9 @@
         },
         {
             "symbol": "WBD",
-            "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
-            "publisher": "CBS News",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
+            "headline": "Media Stocks Retail Investors Are Watching After The Paramount Warner Bros Discovery Deal",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/media-advertising/articles/media-stocks-retail-investors-watching-003130377.html",
             "score": 2
         },
         {
@@ -24,23 +24,23 @@
         },
         {
             "symbol": "META",
-            "headline": "Should Investors Chase the AI-Fueled Rally in AMD or META Stock?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/investors-chase-ai-fueled-rally-000500929.html",
+            "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
             "score": 0
         },
         {
             "symbol": "INTC",
-            "headline": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html",
+            "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
             "score": 0
         },
         {
             "symbol": "AMD",
-            "headline": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html",
+            "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
             "score": 0
         },
         {
@@ -66,9 +66,9 @@
         },
         {
             "symbol": "ARM",
-            "headline": "Junk-Bond Market Gets AI Jolt from SoftBank",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/0d4e8d84-48a9-3f11-9f58-7f6ce474d7c9/junk-bond-market-gets-ai-jolt.html",
+            "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
             "score": 0
         },
         {
@@ -101,9 +101,9 @@
         },
         {
             "symbol": "FSLY",
-            "headline": "Fastly's CTO Sells Over 33,000 Shares for $825,000 After the Stock Rose 177% Over the Past Year",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fastlys-cto-sells-over-33-211209509.html",
+            "headline": "RingCentral, Tenable, SentinelOne, AppLovin, and Fastly Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-tenable-sentinelone-applovin-fastly-010225783.html",
             "score": 0
         },
         {
@@ -125,13 +125,6 @@
             "headline": "Shopify to Use Meta\u2019s Muse for Agentic Checkout",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/32a5a382-45b4-3257-a158-45162dcf7de9/shopify-to-use-meta%E2%80%99s-muse.html",
-            "score": 0
-        },
-        {
-            "symbol": "UPS",
-            "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
             "score": 0
         },
         {
