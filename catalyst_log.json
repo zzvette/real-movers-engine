@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-22T19:21:17.243383+00:00",
+    "timestamp": "2026-09-22T19:29:56.573736+00:00",
     "catalysts": [
         {
             "symbol": "JAGX",
             "headline": "Top Midday Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-183934042.html",
-            "score": 3
-        },
-        {
-            "symbol": "WSP.TO",
-            "headline": "Micron Stock Climbs Despite $25 Billion Plant Labor Dispute",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-climbs-despite-25-192100309.html",
             "score": 3
         },
         {
@@ -52,7 +45,7 @@
         },
         {
             "symbol": "CSCO",
-            "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
+            "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; This Medical Play Hits A Buy Zone (Live Coverage)",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
             "score": 0
@@ -103,7 +96,7 @@
             "symbol": "GRAB",
             "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/grabs-chief-operating-officer-buys-183318676.html",
+            "link": "https://finance.yahoo.com/m/623c5c3f-6913-3d1b-8c72-02d83d4b68cc/grab%27s-chief-operating.html",
             "score": 0
         },
         {
@@ -111,6 +104,13 @@
             "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
+            "score": 0
+        },
+        {
+            "symbol": "WSP.TO",
+            "headline": "Dell Falls 2.5% as $1,199 Googlebook Tests PC Margin",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dell-falls-2-5-1-192803149.html",
             "score": 0
         },
         {
