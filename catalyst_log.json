@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-22T13:00:57.628349+00:00",
+    "timestamp": "2026-09-22T13:20:57.957632+00:00",
     "catalysts": [
         {
             "symbol": "TOPS",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
-            "score": 3
-        },
-        {
-            "symbol": "META",
-            "headline": "Shopify Spikes 7%, Meta Eases as Muse Agent Gains Shop Pay Checkout; Amazon Sits Out the Rally",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-spikes-7-meta-eases-124312301.html",
             "score": 3
         },
         {
@@ -23,45 +16,10 @@
             "score": 3
         },
         {
-            "symbol": "BB",
-            "headline": "BlackBerry Jumps 7% as Coretura Selects QNX-Based Alloy Kore for Truck Platform; Aptiv Edges Higher, Mobileye Barely Budges",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-jumps-7-coretura-selects-125455709.html",
-            "score": 3
-        },
-        {
-            "symbol": "GRML",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
-            "score": 3
-        },
-        {
             "symbol": "QNME",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
-            "score": 3
-        },
-        {
-            "symbol": "SHOP",
-            "headline": "Shopify Spikes 7%, Meta Eases as Muse Agent Gains Shop Pay Checkout; Amazon Sits Out the Rally",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-spikes-7-meta-eases-124312301.html",
-            "score": 3
-        },
-        {
-            "symbol": "BABA",
-            "headline": "Tencent Stock Jumps After New AI Model Takes on Alibaba",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/tencent-stock-jumps-ai-model-124341288.html",
-            "score": 3
-        },
-        {
-            "symbol": "GME",
-            "headline": "GameStop Jumps 4% as Ryan Cohen Buys 1.15 Million More Shares",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-jumps-4-ryan-cohen-125208287.html",
             "score": 3
         },
         {
@@ -72,17 +30,66 @@
             "score": 3
         },
         {
+            "symbol": "LHSW",
+            "headline": "Lianhe Sowell International Group Ltd. Signs Strategic Cooperation Agreement with Subsidiary of Chery Group Holding Company to Advance Intelligent Equipment in China\u2019s Automotive Aftermarket",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/articles/lianhe-sowell-international-group-ltd-120000363.html",
+            "score": 2
+        },
+        {
             "symbol": "VKTX",
-            "headline": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f724af55-0e16-38ff-b1eb-f11fdfb65378/viking-therapeutics.html",
+            "headline": "Sector Update: Healthcare",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-130002334.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOFI",
+            "headline": "SoFi Technologies Launches Stablecoin Settlement Across Mastercard's Global Payments Network",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/sofi-technologies-launches-stablecoin-settlement-130956698.html",
+            "score": 0
+        },
+        {
+            "symbol": "SHOP",
+            "headline": "Sector Update: Consumer Stocks Rise Premarket Tuesday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-premarket-131337022.html",
             "score": 0
         },
         {
             "symbol": "GRAB",
-            "headline": "Grab Insiders Buy the Dip Near Record-Low Prices",
+            "headline": "Grab Holdings Limited (GRAB) Is a Trending Stock: Facts to Know Before Betting on It",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/grab-holdings-limited-grab-trending-130004506.html",
+            "score": 0
+        },
+        {
+            "symbol": "META",
+            "headline": "Amazon Gains While Closing Its Store to Muse",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/grab-insiders-buy-dip-near-122209611.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-gains-while-closing-store-131729087.html",
+            "score": 0
+        },
+        {
+            "symbol": "DCOY",
+            "headline": "Decoy Therapeutics Exploring Pan-Filovirus Program via FDA Animal Rule Pathway and Non-Dilutive Funding",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-exploring-pan-filovirus-113000551.html",
+            "score": 0
+        },
+        {
+            "symbol": "GME",
+            "headline": "Sector Update: Consumer Stocks Rise Premarket Tuesday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-premarket-131337022.html",
+            "score": 0
+        },
+        {
+            "symbol": "ONON",
+            "headline": "Sector Update: Consumer Stocks Rise Premarket Tuesday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-premarket-131337022.html",
             "score": 0
         },
         {
@@ -93,10 +100,24 @@
             "score": 0
         },
         {
-            "symbol": "RKLB",
-            "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Tuesday; Rocket Lab, Alphabet to Advance",
+            "symbol": "CLDX",
+            "headline": "Celldex Therapeutics' Barzolvolimab Meets Phase 3 Endpoints in Two Urticaria Trials",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-105719443.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/celldex-therapeutics-apos-barzolvolimab-meets-113111118.html",
+            "score": 0
+        },
+        {
+            "symbol": "XNDU",
+            "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSFT",
+            "headline": "Palo Alto Networks Launches AI-Powered Cybersecurity Service Using Anthropic, OpenAI Models",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-launches-ai-130925780.html",
             "score": 0
         },
         {
@@ -107,38 +128,10 @@
             "score": 0
         },
         {
-            "symbol": "CLDX",
-            "headline": "Celldex Therapeutics' Barzolvolimab Meets Phase 3 Endpoints in Two Urticaria Trials",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/celldex-therapeutics-apos-barzolvolimab-meets-113111118.html",
-            "score": 0
-        },
-        {
-            "symbol": "ONON",
-            "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
-            "score": 0
-        },
-        {
-            "symbol": "STI",
-            "headline": "Solidion Technology Announces Purchase of Shares by Chairman and CEO Jaymes Winters, CFO Vlad Prantsevich, Board Member Karin-Joyce Tjon",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/solidion-technology-announces-purchase-shares-100000264.html",
-            "score": 0
-        },
-        {
-            "symbol": "FBGL",
-            "headline": "Top Premarket Decliners",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-112741750.html",
-            "score": 0
-        },
-        {
-            "symbol": "IMCC",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
+            "symbol": "NOW",
+            "headline": "Wall Street\u2019s Palantir Price Targets Tell an Interesting Story",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-palantir-price-targets-123047963.html",
             "score": 0
         }
     ]
