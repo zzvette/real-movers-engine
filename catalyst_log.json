@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T00:15:29.691238+00:00",
+    "timestamp": "2026-09-22T00:44:52.427690+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -24,23 +24,23 @@
         },
         {
             "symbol": "META",
-            "headline": "VIVEE Makes a Mysterious Debut as HTC Teases What\u2019s Next",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/articles/vivee-makes-mysterious-debut-htc-000000902.html",
+            "headline": "Should Investors Chase the AI-Fueled Rally in AMD or META Stock?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/investors-chase-ai-fueled-rally-000500929.html",
             "score": 0
         },
         {
             "symbol": "INTC",
-            "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
-            "publisher": "BeInCrypto",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
+            "headline": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html",
             "score": 0
         },
         {
             "symbol": "AMD",
-            "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
-            "publisher": "BeInCrypto",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
+            "headline": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html",
             "score": 0
         },
         {
@@ -52,9 +52,9 @@
         },
         {
             "symbol": "MRNA",
-            "headline": "Tempus AI Sees Pricing, Data Growth Fueling Long-Term Expansion",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/healthcare/articles/tempus-ai-sees-pricing-data-000202854.html",
+            "headline": "Moderna (MRNA) Stock Trades Up, Here Is Why",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-stock-trades-why-000625004.html",
             "score": 0
         },
         {
