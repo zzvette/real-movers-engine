@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T09:24:04.687948+00:00",
+    "timestamp": "2026-09-22T09:36:43.977200+00:00",
     "catalysts": [
         {
             "symbol": "GRAL",
@@ -24,10 +24,10 @@
         },
         {
             "symbol": "META",
-            "headline": "Jefferies Adjusts Price Target on Meta Platforms to $875 From $710, Keeps Buy Rating",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-meta-091127365.html",
-            "score": 0
+            "headline": "Why AMD's new $1 trillion valuation makes perfect sense",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+            "score": 2
         },
         {
             "symbol": "GRAB",
