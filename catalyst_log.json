@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-22T09:08:59.904550+00:00",
+    "timestamp": "2026-09-22T09:24:04.687948+00:00",
     "catalysts": [
-        {
-            "symbol": "GRML",
-            "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
-            "score": 5
-        },
         {
             "symbol": "GRAL",
             "headline": "GRAIL Stock Jumped 34% Yesterday. The FDA Just Told Its Investors Why.",
@@ -31,16 +24,9 @@
         },
         {
             "symbol": "META",
-            "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-            "score": 0
-        },
-        {
-            "symbol": "NVO",
-            "headline": "Capitalize on the PEGylated Proteins Revenue Shift: Benchmark Amgen, Roche, Merck KGaA, Pfizer and Novo Nordisk to Secure Competitive ROI Through the Forecast Period",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/capitalize-pegylated-proteins-revenue-shift-082800711.html",
+            "headline": "Jefferies Adjusts Price Target on Meta Platforms to $875 From $710, Keeps Buy Rating",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-meta-091127365.html",
             "score": 0
         },
         {
@@ -58,10 +44,31 @@
             "score": 0
         },
         {
+            "symbol": "TOPS",
+            "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
+            "score": 0
+        },
+        {
+            "symbol": "STI",
+            "headline": "Solidion Technology Announces Purchase of Shares by Chairman and CEO Jaymes Winters, CFO Vlad Prantsevich, Board Member Karin-Joyce Tjon",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/solidion-technology-announces-purchase-shares-100000264.html",
+            "score": 0
+        },
+        {
             "symbol": "QNME",
             "headline": "Top Premarket Decliners",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114220695.html",
+            "score": 0
+        },
+        {
+            "symbol": "NOW",
+            "headline": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-crowdstrike-mongodb-servicenow-okta-003025037.html",
             "score": 0
         },
         {
@@ -72,17 +79,38 @@
             "score": 0
         },
         {
+            "symbol": "GDC",
+            "headline": "These Three Stocks Fell More Than 10% Today To Hit 52-Week Lows -- What's Driving The Investor Skepticism?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/three-stocks-fell-more-10-175412835.html",
+            "score": 0
+        },
+        {
+            "symbol": "FBGL",
+            "headline": "Top Premarket Decliners",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-112741750.html",
+            "score": 0
+        },
+        {
+            "symbol": "^IXIC",
+            "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+            "score": 0
+        },
+        {
+            "symbol": "UPS",
+            "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
+            "score": 0
+        },
+        {
             "symbol": "NUAI",
             "headline": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
-            "score": 0
-        },
-        {
-            "symbol": "RKLB",
-            "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
             "score": 0
         },
         {
@@ -100,31 +128,17 @@
             "score": 0
         },
         {
-            "symbol": "GDC",
-            "headline": "These Three Stocks Fell More Than 10% Today To Hit 52-Week Lows -- What's Driving The Investor Skepticism?",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/three-stocks-fell-more-10-175412835.html",
-            "score": 0
-        },
-        {
-            "symbol": "^IXIC",
-            "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-            "score": 0
-        },
-        {
             "symbol": "BABA",
-            "headline": "Stocks rise on AI buzz, oil prices cool",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html",
+            "headline": "Alibaba\u2019s Zhenwu V900 Is China\u2019s Answer to Nvidia\u2019s Absence \u2013 and Export Controls Are the Reason It Exists",
+            "publisher": "Forkast News",
+            "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-zhenwu-v900-china-answer-090729183.html",
             "score": 0
         },
         {
-            "symbol": "QXO",
-            "headline": "QXO (QXO) Bets Its Building Products Roll-Up On A Proven Operator",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/qxo-qxo-bets-building-products-050250916.html",
+            "symbol": "ONON",
+            "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
             "score": 0
         }
     ]
