@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T03:41:36.813067+00:00",
+    "timestamp": "2026-09-22T04:11:35.027454+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -16,6 +16,13 @@
             "score": 3
         },
         {
+            "symbol": "RKLB",
+            "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-extends-rally-overnight-035810804.html",
+            "score": 2
+        },
+        {
             "symbol": "NUAI",
             "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
             "publisher": "MT Newswires",
@@ -23,24 +30,10 @@
             "score": 2
         },
         {
-            "symbol": "WBD",
-            "headline": "Paramount's $110B Warner Bros. Discovery Merger Clears Legal Hurdle; Elizabeth Warren Says Letting Trump-Aligned Entity 'Dominate' News Is 'Disastrous'",
-            "publisher": "Benzinga",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramounts-110b-warner-bros-discovery-021105640.html",
-            "score": 2
-        },
-        {
             "symbol": "META",
             "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rallies-muse-ai-032133115.html",
-            "score": 0
-        },
-        {
-            "symbol": "GME",
-            "headline": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-slip-while-p-024433977.html",
             "score": 0
         },
         {
@@ -58,10 +51,10 @@
             "score": 0
         },
         {
-            "symbol": "TOPS",
-            "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
+            "symbol": "GME",
+            "headline": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-slip-while-p-024433977.html",
             "score": 0
         },
         {
@@ -72,13 +65,6 @@
             "score": 0
         },
         {
-            "symbol": "ARM",
-            "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
-            "score": 0
-        },
-        {
             "symbol": "SHOP",
             "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
             "publisher": "Stocktwits",
@@ -86,31 +72,24 @@
             "score": 0
         },
         {
+            "symbol": "UPS",
+            "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARM",
+            "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
+            "score": 0
+        },
+        {
             "symbol": "MRNA",
-            "headline": "Moderna (MRNA) Stock Trades Up, Here Is Why",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-stock-trades-why-000625004.html",
-            "score": 0
-        },
-        {
-            "symbol": "QNME",
-            "headline": "Top Premarket Decliners",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114220695.html",
-            "score": 0
-        },
-        {
-            "symbol": "VKTX",
-            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
-            "score": 0
-        },
-        {
-            "symbol": "^IXIC",
-            "headline": "Asian benchmarks mostly rise after Wall Street's rally",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-benchmarks-mostly-rise-wall-033107078.html",
+            "headline": "Why Did AMD, WBD, MRNA Stocks Surge To 52-Week Highs Today?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-wbd-mrna-033924946.html",
             "score": 0
         },
         {
@@ -121,10 +100,31 @@
             "score": 0
         },
         {
-            "symbol": "UPS",
-            "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
+            "symbol": "QNME",
+            "headline": "Top Premarket Decliners",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114220695.html",
+            "score": 0
+        },
+        {
+            "symbol": "QCOM",
+            "headline": "Why Corning (GLW) Stock Is Trading Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-corning-glw-stock-trading-014225854.html",
+            "score": 0
+        },
+        {
+            "symbol": "NET",
+            "headline": "Cloudflare (NET) Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-shares-skyrocket-know-005425926.html",
+            "score": 0
+        },
+        {
+            "symbol": "VKTX",
+            "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
             "score": 0
         }
     ]
