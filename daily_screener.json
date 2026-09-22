@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T14:58:58.141346+00:00",
+    "timestamp": "2026-09-22T15:06:57.320288+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "VKTX",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+                "headline": "Viking Therapeutics Stock Soars After Obesity Drug Delivers 22% Weight Loss",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-stock-soars-obesity-150501115.html",
                 "score": 0
             },
             {
@@ -53,6 +53,13 @@
             },
             {
                 "symbol": "GRAB",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOFI",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
@@ -81,9 +88,9 @@
             },
             {
                 "symbol": "BB",
-                "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
+                "headline": "BlackBerry to Report Q2 Results: Should Investors Hold or Fold?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-report-q2-results-investors-145200681.html",
                 "score": 0
             },
             {
@@ -102,9 +109,9 @@
             },
             {
                 "symbol": "BABA",
-                "headline": "Stocks to Watch: Meta, Shopify, Roche",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/c5e89923-cb71-3b76-9c36-6ab7f607a3ee/stocks-to-watch%3A-meta%2C.html",
+                "headline": "Alibaba Looks to Strengthen Artificial Intelligence Position After Unveiling New Chips, Models",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-looks-strengthen-artificial-intelligence-145452881.html",
                 "score": 0
             },
             {
