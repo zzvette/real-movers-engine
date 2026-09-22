@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T01:10:27.756452+00:00",
+    "timestamp": "2026-09-22T01:40:12.153870+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,6 +8,13 @@
                 "publisher": "Barrons.com",
                 "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
                 "score": 5
+            },
+            {
+                "symbol": "FSLY",
+                "headline": "Fastly Inc. (FSLY) Jumps 15% Ahead of Tuesday\u2019s Key Business Updates; Hedge Fund Conviction Weak",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-inc-fsly-jumps-15-011603186.html",
+                "score": 3
             },
             {
                 "symbol": "WBD",
@@ -39,9 +46,9 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
+                "headline": "3 AI Chip Equipment Stocks Riding the Semiconductor Rally",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-equipment-stocks-011638161.html",
                 "score": 0
             },
             {
@@ -81,9 +88,9 @@
             },
             {
                 "symbol": "RKLB",
-                "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/fcc71e03-a6f0-328c-9e52-cafe16893b54/rocket-lab-looks-more-and.html",
+                "headline": "Why Are Rocket Lab (RKLB) Shares Soaring Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-shares-011025314.html",
                 "score": 0
             },
             {
@@ -98,13 +105,6 @@
                 "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
-                "score": 0
-            },
-            {
-                "symbol": "FSLY",
-                "headline": "RingCentral, Tenable, SentinelOne, AppLovin, and Fastly Shares Skyrocket, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-tenable-sentinelone-applovin-fastly-010225783.html",
                 "score": 0
             },
             {
@@ -126,6 +126,13 @@
                 "headline": "Shopify to Use Meta\u2019s Muse for Agentic Checkout",
                 "publisher": "The Wall Street Journal",
                 "link": "https://finance.yahoo.com/m/32a5a382-45b4-3257-a158-45162dcf7de9/shopify-to-use-meta%E2%80%99s-muse.html",
+                "score": 0
+            },
+            {
+                "symbol": "UPS",
+                "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
                 "score": 0
             },
             {
