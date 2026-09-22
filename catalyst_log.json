@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T17:50:44.027280+00:00",
+    "timestamp": "2026-09-22T17:56:24.375091+00:00",
     "catalysts": [
         {
             "symbol": "SCHW",
@@ -48,6 +48,13 @@
             "headline": "Top Ships Inc. Provides Response to Unusual Market Action",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-provides-response-132500657.html",
+            "score": 0
+        },
+        {
+            "symbol": "SHOP",
+            "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
             "score": 0
         },
         {
@@ -101,9 +108,9 @@
         },
         {
             "symbol": "ONON",
-            "headline": "First Came the Mbapp\u00e9 Partnership. Now On Holding Stock Is Surging on Higher Revenue Forecast.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/5ffa977c-8533-37f9-83d5-9aa63544f96e/first-came-the-mbapp%C3%A9.html",
+            "headline": "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-intraday-oil-prices-175037719.html",
             "score": 0
         },
         {
