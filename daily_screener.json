@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T11:07:45.932995+00:00",
+    "timestamp": "2026-09-22T11:23:20.653275+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,10 +24,10 @@
                 "score": 3
             },
             {
-                "symbol": "META",
-                "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+                "symbol": "TOPS",
+                "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
                 "score": 0
             },
             {
@@ -38,66 +38,10 @@
                 "score": 0
             },
             {
-                "symbol": "TOPS",
-                "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
-                "score": 0
-            },
-            {
-                "symbol": "VKTX",
-                "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
+                "symbol": "META",
+                "headline": "Beyond Meta, Cathie Wood\u2019s ARKG Loads Up On These 4 Biotech Names",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-pause-083218570.html",
-                "score": 0
-            },
-            {
-                "symbol": "BABA",
-                "headline": "US Stock Futures Steady Ahead of Trump\u2019s UN Address as Alibaba Unveils New AI Chip: Dow Jones, S&P, Nasdaq, Wall Street",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-ahead-093639727.html",
-                "score": 0
-            },
-            {
-                "symbol": "STI",
-                "headline": "Solidion Technology Announces Purchase of Shares by Chairman and CEO Jaymes Winters, CFO Vlad Prantsevich, Board Member Karin-Joyce Tjon",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/solidion-technology-announces-purchase-shares-100000264.html",
-                "score": 0
-            },
-            {
-                "symbol": "QNME",
-                "headline": "Top Premarket Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114220695.html",
-                "score": 0
-            },
-            {
-                "symbol": "GME",
-                "headline": "AMD, Intel, Salesforce, GameStop, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/amd%2C-intel%2C-salesforce%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "NOW",
-                "headline": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-crowdstrike-mongodb-servicenow-okta-003025037.html",
-                "score": 0
-            },
-            {
-                "symbol": "ONON",
-                "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
-                "score": 0
-            },
-            {
-                "symbol": "SHOP",
-                "headline": "Shopify to Integrate Meta Agentic AI Into Platform",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-integrate-meta-agentic-ai-082836563.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/beyond-meta-cathie-wood-arkg-111005337.html",
                 "score": 0
             },
             {
@@ -108,6 +52,34 @@
                 "score": 0
             },
             {
+                "symbol": "BABA",
+                "headline": "Alibaba Shares Rise as Company Unveils Zhenwu V900 AI Chip and Plans Major Data Centre Expansion",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-shares-rise-company-unveils-104706372.html",
+                "score": 0
+            },
+            {
+                "symbol": "SHOP",
+                "headline": "Meta Partners With Shopify to Introduce AI-Powered Shopping and Checkout in Muse",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/technology/ai/articles/meta-partners-shopify-introduce-ai-103123986.html",
+                "score": 0
+            },
+            {
+                "symbol": "QNME",
+                "headline": "Top Premarket Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114220695.html",
+                "score": 0
+            },
+            {
+                "symbol": "ONON",
+                "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
+                "score": 0
+            },
+            {
                 "symbol": "GDC",
                 "headline": "These Three Stocks Fell More Than 10% Today To Hit 52-Week Lows -- What's Driving The Investor Skepticism?",
                 "publisher": "Stocktwits",
@@ -115,10 +87,24 @@
                 "score": 0
             },
             {
-                "symbol": "UPS",
-                "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
+                "symbol": "STI",
+                "headline": "Solidion Technology Announces Purchase of Shares by Chairman and CEO Jaymes Winters, CFO Vlad Prantsevich, Board Member Karin-Joyce Tjon",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/solidion-technology-announces-purchase-shares-100000264.html",
+                "score": 0
+            },
+            {
+                "symbol": "GME",
+                "headline": "AMD, Intel, Salesforce, GameStop, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/amd%2C-intel%2C-salesforce%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "BYND",
+                "headline": "A Look Back at Perishable Food Stocks\u2019 Q2 Earnings: Beyond Meat (NASDAQ:BYND) Vs The Rest Of The Pack",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-perishable-food-stocks-131931179.html",
                 "score": 0
             },
             {
@@ -129,17 +115,17 @@
                 "score": 0
             },
             {
-                "symbol": "NET",
-                "headline": "Cloudflare (NET) Shares Skyrocket, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-shares-skyrocket-know-005425926.html",
+                "symbol": "AZO",
+                "headline": "AutoZone: Fiscal Q4 Earnings Snapshot",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-fiscal-q4-earnings-snapshot-111027095.html",
                 "score": 0
             },
             {
-                "symbol": "NUAI",
-                "headline": "New Era signs 20-year PPA with Vistra for Texas data centre project",
-                "publisher": "Energy Monitor",
-                "link": "https://finance.yahoo.com/energy/articles/era-signs-20-ppa-vistra-110612608.html",
+                "symbol": "UPS",
+                "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
                 "score": 0
             }
         ]
