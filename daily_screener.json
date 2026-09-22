@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T18:02:13.773196+00:00",
+    "timestamp": "2026-09-22T18:18:40.161726+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,13 +17,6 @@
                 "score": 2
             },
             {
-                "symbol": "LHSW",
-                "headline": "Lianhe Sowell International Group Ltd. Signs Strategic Cooperation Agreement with Subsidiary of Chery Group Holding Company to Advance Intelligent Equipment in China\u2019s Automotive Aftermarket",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/lianhe-sowell-international-group-ltd-120000363.html",
-                "score": 2
-            },
-            {
                 "symbol": "VKTX",
                 "headline": "Sector Update: Healthcare Stocks Rise Tuesday Afternoon",
                 "publisher": "MT Newswires",
@@ -35,6 +28,13 @@
                 "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
+                "score": 0
+            },
+            {
+                "symbol": "GME",
+                "headline": "Sector Update: Consumer Stocks Advance Tuesday Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-tuesday-173619109.html",
                 "score": 0
             },
             {
@@ -52,66 +52,10 @@
                 "score": 0
             },
             {
-                "symbol": "SHOP",
-                "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
-                "score": 0
-            },
-            {
                 "symbol": "GRAB",
                 "headline": "Grab Shares Rise After Insider Buying",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/grab-shares-rise-insider-buying-172454247.html",
-                "score": 0
-            },
-            {
-                "symbol": "GME",
-                "headline": "Sector Update: Consumer Stocks Advance Tuesday Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-tuesday-173619109.html",
-                "score": 0
-            },
-            {
-                "symbol": "XNDU",
-                "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
-                "score": 0
-            },
-            {
-                "symbol": "BFLY",
-                "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
-                "score": 0
-            },
-            {
-                "symbol": "FLNA",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
-                "score": 0
-            },
-            {
-                "symbol": "PLNT",
-                "headline": "1 Safe-and-Steady Stock to Own for Decades and 2 We Turn Down",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-own-090946221.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTU",
-                "headline": "How Will Paychex Stock React To Its Upcoming Earnings?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/m/d4f5c8e3-b107-30ca-912e-29545a91d0b4/how-will-paychex-stock-react.html",
-                "score": 0
-            },
-            {
-                "symbol": "ONON",
-                "headline": "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-intraday-oil-prices-175037719.html",
                 "score": 0
             },
             {
@@ -122,10 +66,52 @@
                 "score": 0
             },
             {
-                "symbol": "BLLN",
-                "headline": "BillionToOne SVP Sells 1,416 Shares",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/5f9ddbb8-1e9b-3277-829d-374b45727826/billiontoone-svp-sells-1%2C416.html",
+                "symbol": "IBRX",
+                "headline": "Could IBRX Be A Tokenized Stock? Founder\u2019s Tease Sends ImmunityBio Traders Into Speculation Mode",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/m/fdff1f70-304c-384f-9819-b6775817d0d6/could-ibrx-be-a-tokenized.html",
+                "score": 0
+            },
+            {
+                "symbol": "SHOP",
+                "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
+                "score": 0
+            },
+            {
+                "symbol": "BFLY",
+                "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
+                "score": 0
+            },
+            {
+                "symbol": "HIMS",
+                "headline": "Novo Nordisk Targets Five Multi-Blockbusters by 2030 as Oral Wegovy Gains Traction",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/m/7f61bc97-ed6a-371a-9e33-a111308b21a9/novo-nordisk-targets-five.html",
+                "score": 0
+            },
+            {
+                "symbol": "XNDU",
+                "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
+                "score": 0
+            },
+            {
+                "symbol": "PLNT",
+                "headline": "1 Safe-and-Steady Stock to Own for Decades and 2 We Turn Down",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-own-090946221.html",
+                "score": 0
+            },
+            {
+                "symbol": "FLNA",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
                 "score": 0
             },
             {
@@ -136,10 +122,24 @@
                 "score": 0
             },
             {
-                "symbol": "QNME",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+                "symbol": "ADBE",
+                "headline": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-lennar%2C-viking.html",
+                "score": 0
+            },
+            {
+                "symbol": "CGC",
+                "headline": "Canopy Growth to Supply Medical Cannabis for Distribution Into the UK",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/canopy-growth-supply-medical-cannabis-160755213.html",
+                "score": 0
+            },
+            {
+                "symbol": "NYT",
+                "headline": "Tech Companies\u2019 Staff Knew Their AI Tools Posed \u2018Existential Threat\u2019 to Publishers",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/33a3e37c-c02a-365d-96e9-7ba03d9d33e9/tech-companies%E2%80%99-staff-knew.html",
                 "score": 0
             }
         ]
