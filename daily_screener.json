@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T16:23:08.684407+00:00",
+    "timestamp": "2026-09-22T16:34:54.411644+00:00",
     "signals": {
         "catalysts": [
             {
@@ -20,14 +20,14 @@
                 "symbol": "VKTX",
                 "headline": "Viking shares surge on updated obesity drug data",
                 "publisher": "BioPharma Dive",
-                "link": "https://finance.yahoo.com/healthcare/articles/viking-shares-surge-updated-obesity-161000562.html",
+                "link": "https://finance.yahoo.com/m/c3e2e75a-999b-32dd-803d-d590330d0c22/viking-shares-surge-on.html",
                 "score": 0
             },
             {
                 "symbol": "SHOP",
-                "headline": "Meta\u2019s Muse Is a \u2018Killer Product\u2019. It Won\u2019t, However, Be the Death of Shopify.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/5741d22b-07e0-34f2-b170-f7774b81b94a/meta%E2%80%99s-muse-is-a-%E2%80%98killer.html",
+                "headline": "PayPal Joins Meta\u2019s Muse Checkout Ecosystem \u2014 Partnership Extends AI Shopping Across Its Merchant Network",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/m/196dc3ba-bfc3-368d-bc2c-74b2bf6e7e0d/paypal-joins-meta%E2%80%99s-muse.html",
                 "score": 0
             },
             {
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "CSCO",
-                "headline": "HPE's Networking Orders Signal Continued Growth: What's Ahead?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/articles/hpes-networking-orders-signal-continued-154200642.html",
+                "headline": "Stock Market Today: Dow Skids As Trump Threatens Iran; Apple Nears Buy Point (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html",
                 "score": 0
             },
             {
@@ -90,7 +90,7 @@
                 "symbol": "INTU",
                 "headline": "How Will Paychex Stock React To Its Upcoming Earnings?",
                 "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-stock-react-upcoming-earnings-123659252.html",
+                "link": "https://finance.yahoo.com/m/d4f5c8e3-b107-30ca-912e-29545a91d0b4/how-will-paychex-stock-react.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "PYPL",
-                "headline": "Can Visa Stock Keep Climbing After The World Cup?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-keep-climbing-world-155517802.html",
+                "headline": "PayPal Joins Meta\u2019s Muse Checkout Ecosystem \u2014 Partnership Extends AI Shopping Across Its Merchant Network",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/m/196dc3ba-bfc3-368d-bc2c-74b2bf6e7e0d/paypal-joins-meta%E2%80%99s-muse.html",
                 "score": 0
             },
             {
@@ -137,9 +137,9 @@
             },
             {
                 "symbol": "VICR",
-                "headline": "Sandisk, GameStop, Viking Therapeutics, Vicor, On Holding, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-gamestop%2C-viking.html",
+                "headline": "Earnings Estimates Rising for Vicor (VICR): Will It Gain?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-vicor-vicr-162002863.html",
                 "score": 0
             }
         ]
