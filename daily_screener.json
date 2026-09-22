@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T23:56:12.345290+00:00",
+    "timestamp": "2026-09-22T00:15:29.691238+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,38 +10,24 @@
                 "score": 5
             },
             {
-                "symbol": "VEEE",
-                "headline": "Top Premarket Gainers",
+                "symbol": "WBD",
+                "headline": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
+                "publisher": "CBS News",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-reaches-antitrust-deal-180320298.html",
+                "score": 2
+            },
+            {
+                "symbol": "NUAI",
+                "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110709775.html",
-                "score": 3
+                "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-shares-rise-180729641.html",
+                "score": 2
             },
             {
                 "symbol": "META",
-                "headline": "Meta (META) Stock Trades Up, Here Is Why",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-trades-why-235025743.html",
-                "score": 0
-            },
-            {
-                "symbol": "GLND",
-                "headline": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch-recap%3A.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "AMD, Intel, Meta, Warner Bros., Moderna, Grail, Strategy, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/6c151bf6-d6e0-326a-905a-75334358e038/amd%2C-intel%2C-meta%2C-warner.html",
-                "score": 0
-            },
-            {
-                "symbol": "GME",
-                "headline": "GME Pops 3% After the Bell As CEO Buys $26M Worth of Shares",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-3-bell-ceo-223838381.html",
+                "headline": "VIVEE Makes a Mysterious Debut as HTC Teases What\u2019s Next",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/articles/vivee-makes-mysterious-debut-htc-000000902.html",
                 "score": 0
             },
             {
@@ -52,17 +38,38 @@
                 "score": 0
             },
             {
+                "symbol": "AMD",
+                "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
+                "score": 0
+            },
+            {
+                "symbol": "GME",
+                "headline": "GME Pops 3% After the Bell As CEO Buys $26M Worth of Shares",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-3-bell-ceo-223838381.html",
+                "score": 0
+            },
+            {
+                "symbol": "MRNA",
+                "headline": "Tempus AI Sees Pricing, Data Growth Fueling Long-Term Expansion",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/healthcare/articles/tempus-ai-sees-pricing-data-000202854.html",
+                "score": 0
+            },
+            {
+                "symbol": "GLND",
+                "headline": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch-recap%3A.html",
+                "score": 0
+            },
+            {
                 "symbol": "ARM",
                 "headline": "Junk-Bond Market Gets AI Jolt from SoftBank",
                 "publisher": "Barrons.com",
                 "link": "https://finance.yahoo.com/m/0d4e8d84-48a9-3f11-9f58-7f6ce474d7c9/junk-bond-market-gets-ai-jolt.html",
-                "score": 0
-            },
-            {
-                "symbol": "WBD",
-                "headline": "Warner Bros. Discovery (WBD) Shares Skyrocket, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-wbd-shares-233425158.html",
                 "score": 0
             },
             {
@@ -73,17 +80,10 @@
                 "score": 0
             },
             {
-                "symbol": "PSKY",
-                "headline": "Warner Bros. Discovery (WBD) Shares Skyrocket, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-wbd-shares-233425158.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMD",
-                "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
+                "symbol": "RKLB",
+                "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/fcc71e03-a6f0-328c-9e52-cafe16893b54/rocket-lab-looks-more-and.html",
                 "score": 0
             },
             {
@@ -101,10 +101,24 @@
                 "score": 0
             },
             {
-                "symbol": "CRML",
-                "headline": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch-recap%3A.html",
+                "symbol": "FSLY",
+                "headline": "Fastly's CTO Sells Over 33,000 Shares for $825,000 After the Stock Rose 177% Over the Past Year",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fastlys-cto-sells-over-33-211209509.html",
+                "score": 0
+            },
+            {
+                "symbol": "VICR",
+                "headline": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html",
+                "score": 0
+            },
+            {
+                "symbol": "NQ=F",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
                 "score": 0
             },
             {
@@ -119,20 +133,6 @@
                 "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
-                "score": 0
-            },
-            {
-                "symbol": "FSLY",
-                "headline": "Fastly's CTO Sells Over 33,000 Shares for $825,000 After the Stock Rose 177% Over the Past Year",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fastlys-cto-sells-over-33-211209509.html",
-                "score": 0
-            },
-            {
-                "symbol": "VICR",
-                "headline": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html",
                 "score": 0
             },
             {
