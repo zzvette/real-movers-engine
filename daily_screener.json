@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T12:12:00.183645+00:00",
+    "timestamp": "2026-09-22T12:32:58.076064+00:00",
     "signals": {
         "catalysts": [
             {
@@ -31,13 +31,6 @@
                 "score": 3
             },
             {
-                "symbol": "GDC",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
-                "score": 3
-            },
-            {
                 "symbol": "FSLY",
                 "headline": "Fastly Stock Jumped 15% Yesterday on an AI Security Launch. Insiders Sold Millions First.",
                 "publisher": "TIKR",
@@ -45,24 +38,52 @@
                 "score": 3
             },
             {
-                "symbol": "GRAB",
-                "headline": "Grab Holdings Insider Bought Shares Worth $29,876,310, According to a Recent SEC Filing",
+                "symbol": "GDC",
+                "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/grab-holdings-insider-bought-shares-071259435.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
+                "score": 3
             },
             {
                 "symbol": "META",
-                "headline": "Shopify partners with Meta Muse for AI-powered checkout",
-                "publisher": "Quartz",
-                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-partners-meta-muse-ai-115807895.html",
-                "score": 0
+                "headline": "Why AMD's new $1 trillion valuation makes perfect sense",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+                "score": 2
             },
             {
                 "symbol": "VKTX",
                 "headline": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/f724af55-0e16-38ff-b1eb-f11fdfb65378/viking-therapeutics.html",
+                "score": 0
+            },
+            {
+                "symbol": "GRAB",
+                "headline": "Grab Insiders Buy the Dip Near Record-Low Prices",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/grab-insiders-buy-dip-near-122209611.html",
+                "score": 0
+            },
+            {
+                "symbol": "AZO",
+                "headline": "AutoZone (AZO) Tops Q4 Earnings Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-tops-q4-earnings-120501409.html",
+                "score": 0
+            },
+            {
+                "symbol": "BB",
+                "headline": "BlackBerry Unit's Alloy Kore Selected by Coretura for Commercial Vehicle Platform",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/articles/blackberry-unit-apos-alloy-kore-081831201.html",
+                "score": 0
+            },
+            {
+                "symbol": "SHOP",
+                "headline": "Shopify partners with Meta Muse for AI-powered checkout",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-partners-meta-muse-ai-115807895.html",
                 "score": 0
             },
             {
@@ -80,17 +101,24 @@
                 "score": 0
             },
             {
-                "symbol": "SHOP",
-                "headline": "Shopify partners with Meta Muse for AI-powered checkout",
-                "publisher": "Quartz",
-                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-partners-meta-muse-ai-115807895.html",
+                "symbol": "GME",
+                "headline": "GameStop Stock Rises After CEO Ryan Cohen Buys Millions in Stock",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-stock-rises-ceo-ryan-122046973.html",
                 "score": 0
             },
             {
-                "symbol": "BB",
-                "headline": "BlackBerry Unit's Alloy Kore Selected by Coretura for Commercial Vehicle Platform",
+                "symbol": "CLDX",
+                "headline": "Celldex Therapeutics' Barzolvolimab Meets Phase 3 Endpoints in Two Urticaria Trials",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/articles/blackberry-unit-apos-alloy-kore-081831201.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/celldex-therapeutics-apos-barzolvolimab-meets-113111118.html",
+                "score": 0
+            },
+            {
+                "symbol": "ONON",
+                "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
                 "score": 0
             },
             {
@@ -101,17 +129,10 @@
                 "score": 0
             },
             {
-                "symbol": "GME",
-                "headline": "GameStop CEO Ryan Cohen buys $26.4 million of GME stock",
-                "publisher": "Quartz",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-ceo-ryan-cohen-buys-113734989.html",
-                "score": 0
-            },
-            {
-                "symbol": "BYND",
-                "headline": "A Look Back at Perishable Food Stocks\u2019 Q2 Earnings: Beyond Meat (NASDAQ:BYND) Vs The Rest Of The Pack",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-perishable-food-stocks-131931179.html",
+                "symbol": "FBGL",
+                "headline": "Top Premarket Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-112741750.html",
                 "score": 0
             },
             {
@@ -119,20 +140,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020635.html",
-                "score": 0
-            },
-            {
-                "symbol": "AZO",
-                "headline": "US Equity Futures Mostly Flat Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-flat-115703333.html",
-                "score": 0
-            },
-            {
-                "symbol": "UPS",
-                "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
                 "score": 0
             }
         ]
