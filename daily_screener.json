@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T15:54:04.312246+00:00",
+    "timestamp": "2026-09-22T15:59:47.202549+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "SHOP",
-                "headline": "Shopify Stock Soars. Meta Picks Shop Pay for AI Shopping Against Amazon",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-stock-soars-meta-picks-151118070.html",
+                "headline": "Meta\u2019s Muse Is a \u2018Killer Product\u2019. It Won\u2019t, However, Be the Death of Shopify.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/5741d22b-07e0-34f2-b170-f7774b81b94a/meta%E2%80%99s-muse-is-a-%E2%80%98killer.html",
                 "score": 0
             },
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "JPM",
-                "headline": "Inflation Pressures May Persist: ETFs Worth Watching Now",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/economy/policy/articles/inflation-pressures-may-persist-etfs-153100523.html",
+                "headline": "A Bad Day for Bank Stocks Is Killing the Dow",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/65582ce1-8f3a-377a-974a-acc562bf0c56/a-bad-day-for-bank-stocks-is.html",
                 "score": 0
             },
             {
@@ -95,9 +95,9 @@
             },
             {
                 "symbol": "VICR",
-                "headline": "How Much Upside is Left in Vicor (VICR)? Wall Street Analysts Think 60.61%",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-vicor-vicr-135502825.html",
+                "headline": "Sandisk, GameStop, Viking Therapeutics, Vicor, On Holding, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-gamestop%2C-viking.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "CSCO",
-                "headline": "Stock Market Today: Dow Slips But Apple Touches A Buy Point; Homebuilder, Retailer Funds Shine (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-slips.html",
+                "headline": "HPE's Networking Orders Signal Continued Growth: What's Ahead?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/technology/articles/hpes-networking-orders-signal-continued-154200642.html",
                 "score": 0
             },
             {
