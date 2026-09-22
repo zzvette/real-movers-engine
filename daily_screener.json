@@ -1,27 +1,13 @@
 {
-    "timestamp": "2026-09-22T01:40:12.153870+00:00",
+    "timestamp": "2026-09-22T02:12:01.714171+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "GRML",
-                "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
-                "score": 5
-            },
             {
                 "symbol": "FSLY",
                 "headline": "Fastly Inc. (FSLY) Jumps 15% Ahead of Tuesday\u2019s Key Business Updates; Hedge Fund Conviction Weak",
                 "publisher": "Insider Monkey",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-inc-fsly-jumps-15-011603186.html",
                 "score": 3
-            },
-            {
-                "symbol": "WBD",
-                "headline": "Media Stocks Retail Investors Are Watching After The Paramount Warner Bros Discovery Deal",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/media-advertising/articles/media-stocks-retail-investors-watching-003130377.html",
-                "score": 2
             },
             {
                 "symbol": "NUAI",
@@ -32,23 +18,23 @@
             },
             {
                 "symbol": "META",
-                "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
+                "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
+                "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
                 "score": 0
             },
             {
                 "symbol": "AMD",
-                "headline": "3 AI Chip Equipment Stocks Riding the Semiconductor Rally",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-equipment-stocks-011638161.html",
+                "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
                 "score": 0
             },
             {
@@ -74,16 +60,16 @@
             },
             {
                 "symbol": "ARM",
-                "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/why-intel-arm-other-ai-010318570.html",
+                "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
                 "score": 0
             },
             {
                 "symbol": "NVO",
-                "headline": "Novo Nordisk (CPSE:NOVO B) Unveiled A 2030 Blockbuster Drug Plan",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-211228776.html",
+                "headline": "Novo Nordisk Partners with Anthropic to Bring AI Deeper into Drug Discovery",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-partners-anthropic-bring-014854957.html",
                 "score": 0
             },
             {
@@ -112,6 +98,13 @@
                 "headline": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
                 "publisher": "Insider Monkey",
                 "link": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html",
+                "score": 0
+            },
+            {
+                "symbol": "WBD",
+                "headline": "Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here\u2019s What That Means for Netflix Investors.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-could-acquire-warner-bros-014320618.html",
                 "score": 0
             },
             {
