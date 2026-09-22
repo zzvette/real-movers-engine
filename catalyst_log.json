@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T23:24:00.333174+00:00",
+    "timestamp": "2026-09-22T23:38:36.635946+00:00",
     "catalysts": [
         {
             "symbol": "JAGX",
@@ -9,10 +9,17 @@
             "score": 3
         },
         {
+            "symbol": "BFLY",
+            "headline": "Butterfly Network (BFLY) Gets New \u2018Buy\u2019 Reco, Climbs 22%; Hedge Fund Holdings More-Than-Double",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/healthcare/articles/butterfly-network-bfly-gets-buy-231418577.html",
+            "score": 3
+        },
+        {
             "symbol": "RCL",
-            "headline": "Market Chatter: Royal Caribbean Nears Deal to Acquire Majority Stake in Sandals Resorts",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-royal-caribbean-nears-212341566.html",
+            "headline": "RCL Stock Drops To Worst Day In Six Months \u2014 Royal Caribbean Reportedly Nears $6B Deal For Sandals Resorts",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/4884749d-4cce-39d9-94f3-9b31060946e8/rcl-stock-drops-to-worst-day.html",
             "score": 2
         },
         {
@@ -31,9 +38,9 @@
         },
         {
             "symbol": "IONQ",
-            "headline": "2 Magnificent Quantum Computing Stocks to Buy and Hold for 10 Years",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/m/001d41a6-d515-3bd1-aac1-29959eab36ed/2-magnificent-quantum.html",
+            "headline": "IonQ (IONQ) Just Gave Investors Something To Think About",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-just-gave-investors-232429150.html",
             "score": 0
         },
         {
@@ -93,13 +100,6 @@
             "score": 0
         },
         {
-            "symbol": "BFLY",
-            "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
-            "score": 0
-        },
-        {
             "symbol": "IBRX",
             "headline": "Could IBRX Be A Tokenized Stock? Founder\u2019s Tease Sends ImmunityBio Traders Into Speculation Mode",
             "publisher": "Stocktwits",
@@ -138,7 +138,7 @@
             "symbol": "LEN",
             "headline": "KB Home Q3 2026 Earnings: Live Updates of $KBH Earnings Call, Stock Forecast",
             "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/m/83a55987-9d2f-3eae-ad42-2e534e17c671/kb-home-q3-2026-earnings%3A.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/kb-home-q3-2026-earnings-222238945.html",
             "score": 0
         }
     ]
