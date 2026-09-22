@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-22T18:18:40.161726+00:00",
+    "timestamp": "2026-09-22T18:33:42.736930+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "SCHW",
-                "headline": "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/d6d13148-dd92-306c-9c2d-c63b115afd9d/meta%E2%80%99s-muse-jumps-to-the-top.html",
-                "score": 3
-            },
             {
                 "symbol": "DCOY",
                 "headline": "Decoy Therapeutics Enters Warrant Inducement Deal for $3.85 Million; Shares Rise",
@@ -39,9 +32,9 @@
             },
             {
                 "symbol": "JPM",
-                "headline": "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/123177c9-1ab7-3cde-9aa6-fbcc67922b8f/the-nasdaq-set-a-record-and.html",
+                "headline": "Charles Schwab, JPMorgan Chase Slide On Vanguard-Backed AI Threat",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7885a1d5-b2fc-3059-b37a-8828ffe771d1/charles-schwab%2C-jpmorgan.html",
                 "score": 0
             },
             {
@@ -119,6 +112,13 @@
                 "headline": "This Power Parts Maker\u2019s Stock Has Gained 366% in 2026. It\u2019s Rising Again Today on Boost to Growth Guidance.",
                 "publisher": "Barrons.com",
                 "link": "https://finance.yahoo.com/m/6ca36627-93fa-35b5-95dd-8a3e43b5dfcb/this-power-parts-maker%E2%80%99s.html",
+                "score": 0
+            },
+            {
+                "symbol": "SCHW",
+                "headline": "Charles Schwab, JPMorgan Chase Slide On Vanguard-Backed AI Threat",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7885a1d5-b2fc-3059-b37a-8828ffe771d1/charles-schwab%2C-jpmorgan.html",
                 "score": 0
             },
             {
