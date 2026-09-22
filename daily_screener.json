@@ -1,13 +1,13 @@
 {
-    "timestamp": "2026-09-22T11:23:20.653275+00:00",
+    "timestamp": "2026-09-22T11:36:12.119968+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "GRML",
-                "headline": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump\u2019s Security Deal",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/32ea537b-182a-3101-a331-701b312fafb8/critical-metals-surges-38%25.html",
-                "score": 5
+                "symbol": "TOPS",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
+                "score": 3
             },
             {
                 "symbol": "GRAL",
@@ -17,18 +17,32 @@
                 "score": 3
             },
             {
+                "symbol": "GRML",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
+                "score": 3
+            },
+            {
+                "symbol": "QNME",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
+                "score": 3
+            },
+            {
+                "symbol": "GDC",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
+                "score": 3
+            },
+            {
                 "symbol": "FSLY",
                 "headline": "Fastly Stock Jumped 15% Yesterday on an AI Security Launch. Insiders Sold Millions First.",
                 "publisher": "TIKR",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-stock-jumped-15-yesterday-070938255.html",
                 "score": 3
-            },
-            {
-                "symbol": "TOPS",
-                "headline": "TOP Ships Inc. Announces Net Income of $6.5 Million, Diluted Earnings per Share of $0.61 and Stockholders\u2019 Equity of $76.7 Million for the Six Months Ended June 30, 2026",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-announces-net-120000776.html",
-                "score": 0
             },
             {
                 "symbol": "GRAB",
@@ -45,6 +59,13 @@
                 "score": 0
             },
             {
+                "symbol": "VKTX",
+                "headline": "Viking Therapeutics Announces Positive Topline Results from Maintenance Study of GLP-1/GIP Agonist VK2735 Demonstrating the Promise of Multiple Maintenance Dosing Regimens",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-announces-positive-topline-110500449.html",
+                "score": 0
+            },
+            {
                 "symbol": "RKLB",
                 "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Tuesday; Rocket Lab, Alphabet to Advance",
                 "publisher": "MT Newswires",
@@ -53,9 +74,9 @@
             },
             {
                 "symbol": "BABA",
-                "headline": "Alibaba Shares Rise as Company Unveils Zhenwu V900 AI Chip and Plans Major Data Centre Expansion",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-shares-rise-company-unveils-104706372.html",
+                "headline": "Alibaba Group Holding (BABA) Could Be 52% Undervalued After AI Chip And Cloud Push",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-could-111436409.html",
                 "score": 0
             },
             {
@@ -66,10 +87,10 @@
                 "score": 0
             },
             {
-                "symbol": "QNME",
-                "headline": "Top Premarket Decliners",
+                "symbol": "BB",
+                "headline": "BlackBerry Unit's Alloy Kore Selected by Coretura for Commercial Vehicle Platform",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114220695.html",
+                "link": "https://finance.yahoo.com/technology/articles/blackberry-unit-apos-alloy-kore-081831201.html",
                 "score": 0
             },
             {
@@ -77,13 +98,6 @@
                 "headline": "On Holding Outlines Mid-Term Financial Targets; Approves $1 Billion Share Buyback",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/holding-outlines-mid-term-financial-073340744.html",
-                "score": 0
-            },
-            {
-                "symbol": "GDC",
-                "headline": "These Three Stocks Fell More Than 10% Today To Hit 52-Week Lows -- What's Driving The Investor Skepticism?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/three-stocks-fell-more-10-175412835.html",
                 "score": 0
             },
             {
