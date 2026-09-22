@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T10:55:52.959049+00:00",
+    "timestamp": "2026-09-22T11:07:45.932995+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -101,9 +101,9 @@
         },
         {
             "symbol": "RKLB",
-            "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
+            "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Tuesday; Rocket Lab, Alphabet to Advance",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-105719443.html",
             "score": 0
         },
         {
@@ -136,9 +136,9 @@
         },
         {
             "symbol": "NUAI",
-            "headline": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
+            "headline": "New Era signs 20-year PPA with Vistra for Texas data centre project",
+            "publisher": "Energy Monitor",
+            "link": "https://finance.yahoo.com/energy/articles/era-signs-20-ppa-vistra-110612608.html",
             "score": 0
         }
     ]
