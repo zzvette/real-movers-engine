@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T15:59:47.202549+00:00",
+    "timestamp": "2026-09-22T16:09:10.603066+00:00",
     "signals": {
         "catalysts": [
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "ONON",
-                "headline": "On Targets CHF 5.6 Billion by 2029, Buys Back Stock",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/targets-chf-5-6-billion-152005391.html",
+                "headline": "On Holding shares surge 11% despite analyst skepticism on investor day targets",
+                "publisher": "Proactive",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-shares-surge-11-despite-155000903.html",
                 "score": 0
             },
             {
@@ -123,16 +123,16 @@
             },
             {
                 "symbol": "AZO",
-                "headline": "Still Waters Bring Mixed Pre-Market Levels",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/still-waters-bring-mixed-pre-141600857.html",
+                "headline": "AutoZone Q4 Earnings Call Highlights",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-q4-earnings-call-highlights-160254949.html",
                 "score": 0
             },
             {
                 "symbol": "CLDX",
-                "headline": "4 Biotech Stocks With Key Clinical Readouts Expected This Fall",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/healthcare/articles/4-biotech-stocks-key-clinical-145100233.html",
+                "headline": "Celldex Phase III CSU Trials Hit Endpoints as Barzolvolimab Shows Durable Responses",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/healthcare/articles/celldex-phase-iii-csu-trials-160254116.html",
                 "score": 0
             }
         ]
