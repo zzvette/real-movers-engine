@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T11:36:12.119968+00:00",
+    "timestamp": "2026-09-22T11:47:05.595856+00:00",
     "signals": {
         "catalysts": [
             {
@@ -53,16 +53,16 @@
             },
             {
                 "symbol": "META",
-                "headline": "Beyond Meta, Cathie Wood\u2019s ARKG Loads Up On These 4 Biotech Names",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/beyond-meta-cathie-wood-arkg-111005337.html",
+                "headline": "Shopify Embraces Meta\u2019s Muse Across All Stores as Amazon Blocks It \u2013 and the Merchant Landscape Splits in Two",
+                "publisher": "Forkast News",
+                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-embraces-meta-muse-across-113401279.html",
                 "score": 0
             },
             {
                 "symbol": "VKTX",
-                "headline": "Viking Therapeutics Announces Positive Topline Results from Maintenance Study of GLP-1/GIP Agonist VK2735 Demonstrating the Promise of Multiple Maintenance Dosing Regimens",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-announces-positive-topline-110500449.html",
+                "headline": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f724af55-0e16-38ff-b1eb-f11fdfb65378/viking-therapeutics.html",
                 "score": 0
             },
             {
@@ -74,16 +74,16 @@
             },
             {
                 "symbol": "BABA",
-                "headline": "Alibaba Group Holding (BABA) Could Be 52% Undervalued After AI Chip And Cloud Push",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-could-111436409.html",
+                "headline": "Stocks climb as oil slides, AI buzz returns",
+                "publisher": "AFP",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html",
                 "score": 0
             },
             {
                 "symbol": "SHOP",
-                "headline": "Meta Partners With Shopify to Introduce AI-Powered Shopping and Checkout in Muse",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/technology/ai/articles/meta-partners-shopify-introduce-ai-103123986.html",
+                "headline": "Shopify Embraces Meta\u2019s Muse Across All Stores as Amazon Blocks It \u2013 and the Merchant Landscape Splits in Two",
+                "publisher": "Forkast News",
+                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-embraces-meta-muse-across-113401279.html",
                 "score": 0
             },
             {
@@ -109,9 +109,9 @@
             },
             {
                 "symbol": "GME",
-                "headline": "AMD, Intel, Salesforce, GameStop, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/amd%2C-intel%2C-salesforce%2C.html",
+                "headline": "GameStop CEO Ryan Cohen buys $26.4 million of GME stock",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-ceo-ryan-cohen-buys-113734989.html",
                 "score": 0
             },
             {
