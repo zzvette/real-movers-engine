@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T10:14:04.201118+00:00",
+    "timestamp": "2026-09-22T10:30:11.459171+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -24,9 +24,9 @@
         },
         {
             "symbol": "META",
-            "headline": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+            "headline": "Analysis-From smart glasses to AI pins, privacy fears challenge tech's next big bet",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/news/analysis-smart-glasses-ai-pins-100123150.html",
             "score": 0
         },
         {
@@ -52,9 +52,9 @@
         },
         {
             "symbol": "BABA",
-            "headline": "Alibaba\u2019s Zhenwu V900 Is China\u2019s Answer to Nvidia\u2019s Absence \u2013 and Export Controls Are the Reason It Exists",
-            "publisher": "Forkast News",
-            "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-zhenwu-v900-china-answer-090729183.html",
+            "headline": "US Stock Futures Steady Ahead of Trump\u2019s UN Address as Alibaba Unveils New AI Chip: Dow Jones, S&P, Nasdaq, Wall Street",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-ahead-093639727.html",
             "score": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "symbol": "GME",
-            "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-pause-083218570.html",
+            "headline": "AMD, Intel, Salesforce, GameStop, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/amd%2C-intel%2C-salesforce%2C.html",
             "score": 0
         },
         {
