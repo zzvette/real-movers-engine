@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T17:07:16.378989+00:00",
+    "timestamp": "2026-09-22T17:19:24.478269+00:00",
     "signals": {
         "catalysts": [
             {
@@ -20,21 +20,7 @@
                 "symbol": "VKTX",
                 "headline": "Viking shares surge on updated obesity drug data",
                 "publisher": "BioPharma Dive",
-                "link": "https://finance.yahoo.com/m/c3e2e75a-999b-32dd-803d-d590330d0c22/viking-shares-surge-on.html",
-                "score": 0
-            },
-            {
-                "symbol": "SHOP",
-                "headline": "Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f3b3cc09-e37e-3019-9d9e-60f625cbd9d2/why-shopify-stock%2C-twilio-are.html",
-                "score": 0
-            },
-            {
-                "symbol": "JPM",
-                "headline": "JPMorgan Chase Falls 3% Despite New $20B QIA Partnership; Goldman Sachs Eases, Bank of America Slips",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/m/ac01261b-d6a1-3367-85b2-3bc5db47f1c2/jpmorgan-chase-falls-3%25.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/viking-shares-surge-updated-obesity-161000562.html",
                 "score": 0
             },
             {
@@ -45,6 +31,13 @@
                 "score": 0
             },
             {
+                "symbol": "JPM",
+                "headline": "JPMorgan Chase Falls 3% Despite New $20B QIA Partnership; Goldman Sachs Eases, Bank of America Slips",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/m/ac01261b-d6a1-3367-85b2-3bc5db47f1c2/jpmorgan-chase-falls-3%25.html",
+                "score": 0
+            },
+            {
                 "symbol": "TOPS",
                 "headline": "Top Ships Inc. Provides Response to Unusual Market Action",
                 "publisher": "GlobeNewswire",
@@ -52,10 +45,10 @@
                 "score": 0
             },
             {
-                "symbol": "GME",
-                "headline": "Cohen Adds to GameStop Stake for a Second Time This Month",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cohen-adds-gamestop-stake-second-153006951.html",
+                "symbol": "SHOP",
+                "headline": "Stock Market Midday, Sept. 22: Means Markets Muted Despite Tech Gains as Geopolitics Dominates",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/82882594-ea0d-3672-9e97-2e0699b02428/stock-market-midday%2C-sept..html",
                 "score": 0
             },
             {
@@ -66,17 +59,17 @@
                 "score": 0
             },
             {
+                "symbol": "GME",
+                "headline": "Cohen Adds to GameStop Stake for a Second Time This Month",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cohen-adds-gamestop-stake-second-153006951.html",
+                "score": 0
+            },
+            {
                 "symbol": "XNDU",
                 "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
-                "score": 0
-            },
-            {
-                "symbol": "BFLY",
-                "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
                 "score": 0
             },
             {
@@ -87,45 +80,10 @@
                 "score": 0
             },
             {
-                "symbol": "INTU",
-                "headline": "How Will Paychex Stock React To Its Upcoming Earnings?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/m/d4f5c8e3-b107-30ca-912e-29545a91d0b4/how-will-paychex-stock-react.html",
-                "score": 0
-            },
-            {
-                "symbol": "ZEO",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
-                "score": 0
-            },
-            {
-                "symbol": "ONON",
-                "headline": "On Holding shares surge 11% despite analyst skepticism on investor day targets",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/m/a91e340b-558d-34cd-8aec-50c1be058977/on-holding-shares-surge-11%25.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOFI",
-                "headline": "SoFi Just Went Live With Stablecoin Settlement on Mastercard. That\u2019s the First Bank-Issued Stablecoin on a Major Card Network.",
-                "publisher": "Forkast News",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/sofi-just-went-live-stablecoin-160106348.html",
-                "score": 0
-            },
-            {
-                "symbol": "PYPL",
-                "headline": "PayPal Joins Meta\u2019s Muse Checkout Ecosystem \u2014 Partnership Extends AI Shopping Across Its Merchant Network",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/m/196dc3ba-bfc3-368d-bc2c-74b2bf6e7e0d/paypal-joins-meta%E2%80%99s-muse.html",
-                "score": 0
-            },
-            {
-                "symbol": "QNME",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+                "symbol": "BFLY",
+                "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
                 "score": 0
             },
             {
@@ -136,10 +94,52 @@
                 "score": 0
             },
             {
+                "symbol": "PLNT",
+                "headline": "1 Safe-and-Steady Stock to Own for Decades and 2 We Turn Down",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-own-090946221.html",
+                "score": 0
+            },
+            {
+                "symbol": "INTU",
+                "headline": "How Will Paychex Stock React To Its Upcoming Earnings?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/m/d4f5c8e3-b107-30ca-912e-29545a91d0b4/how-will-paychex-stock-react.html",
+                "score": 0
+            },
+            {
+                "symbol": "ONON",
+                "headline": "On Holding shares surge 11% despite analyst skepticism on investor day targets",
+                "publisher": "Proactive",
+                "link": "https://finance.yahoo.com/m/a91e340b-558d-34cd-8aec-50c1be058977/on-holding-shares-surge-11%25.html",
+                "score": 0
+            },
+            {
+                "symbol": "JAGX",
+                "headline": "Jaguar Health Receives Fee Waivers from FDA",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/jaguar-health-receives-fee-waivers-130500473.html",
+                "score": 0
+            },
+            {
+                "symbol": "BLLN",
+                "headline": "BillionToOne SVP Sells 1,416 Shares",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/5f9ddbb8-1e9b-3277-829d-374b45727826/billiontoone-svp-sells-1%2C416.html",
+                "score": 0
+            },
+            {
                 "symbol": "VICR",
                 "headline": "Earnings Estimates Rising for Vicor (VICR): Will It Gain?",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-vicor-vicr-162002863.html",
+                "score": 0
+            },
+            {
+                "symbol": "QNME",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
                 "score": 0
             }
         ]
