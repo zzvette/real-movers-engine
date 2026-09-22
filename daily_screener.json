@@ -1,7 +1,21 @@
 {
-    "timestamp": "2026-09-22T18:46:23.226985+00:00",
+    "timestamp": "2026-09-22T18:56:12.067841+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "JAGX",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-183934042.html",
+                "score": 3
+            },
+            {
+                "symbol": "HIMS",
+                "headline": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/healthcare/articles/quest-diagnostics-sees-growth-outpace-140210026.html",
+                "score": 3
+            },
             {
                 "symbol": "DCOY",
                 "headline": "Decoy Therapeutics Enters Warrant Inducement Deal for $3.85 Million; Shares Rise",
@@ -25,9 +39,9 @@
             },
             {
                 "symbol": "GME",
-                "headline": "Sector Update: Consumer Stocks Advance Tuesday Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-tuesday-173619109.html",
+                "headline": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-lennar%2C-viking.html",
                 "score": 0
             },
             {
@@ -52,13 +66,6 @@
                 "score": 0
             },
             {
-                "symbol": "JAGX",
-                "headline": "Jaguar Health Receives Fee Waivers from FDA",
-                "publisher": "ACCESS Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/jaguar-health-receives-fee-waivers-130500473.html",
-                "score": 0
-            },
-            {
                 "symbol": "IBRX",
                 "headline": "Could IBRX Be A Tokenized Stock? Founder\u2019s Tease Sends ImmunityBio Traders Into Speculation Mode",
                 "publisher": "Stocktwits",
@@ -77,13 +84,6 @@
                 "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
-                "score": 0
-            },
-            {
-                "symbol": "HIMS",
-                "headline": "Novo Nordisk Targets Five Multi-Blockbusters by 2030 as Oral Wegovy Gains Traction",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/m/7f61bc97-ed6a-371a-9e33-a111308b21a9/novo-nordisk-targets-five.html",
                 "score": 0
             },
             {
@@ -130,9 +130,9 @@
             },
             {
                 "symbol": "CGC",
-                "headline": "Arm Gains 1.5% as Agentic AI Multiplies CPU Cores",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/arm-gains-1-5-agentic-184537508.html",
+                "headline": "Canopy Growth to Supply Medical Cannabis for Distribution Into the UK",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/canopy-growth-supply-medical-cannabis-160755213.html",
                 "score": 0
             },
             {
