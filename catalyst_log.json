@@ -1,11 +1,11 @@
 {
-    "timestamp": "2026-09-22T14:01:47.457848+00:00",
+    "timestamp": "2026-09-22T14:14:07.117054+00:00",
     "catalysts": [
         {
-            "symbol": "GRAL",
-            "headline": "GRAIL Stock Jumped 34% Yesterday. The FDA Just Told Its Investors Why.",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/grail-stock-jumped-34-yesterday-060702817.html",
+            "symbol": "ONON",
+            "headline": "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-surges-13-investor-day-135337346.html",
             "score": 3
         },
         {
@@ -37,24 +37,17 @@
             "score": 0
         },
         {
+            "symbol": "SHOP",
+            "headline": "Fast Simon Streamlines Cross-Border Merchandising Within Shopify Markets",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/fast-simon-streamlines-cross-border-140000220.html",
+            "score": 0
+        },
+        {
             "symbol": "TOPS",
             "headline": "Top Ships Inc. Provides Response to Unusual Market Action",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-provides-response-132500657.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOFI",
-            "headline": "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-rises-5-getting-cut-134654083.html",
-            "score": 0
-        },
-        {
-            "symbol": "SHOP",
-            "headline": "Sector Update: Consumer Stocks Rise Premarket Tuesday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-premarket-131337022.html",
             "score": 0
         },
         {
@@ -65,10 +58,17 @@
             "score": 0
         },
         {
-            "symbol": "META",
-            "headline": "Stock market today: Nasdaq, S&P 500 drift higher as oil retreats, AI trade powers market",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+            "symbol": "SOFI",
+            "headline": "SoFi Shares Rise 3% as Bank Launches Stablecoin Settlement on Mastercard Network",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/sofi-shares-rise-3-bank-135419682.html",
+            "score": 0
+        },
+        {
+            "symbol": "XNDU",
+            "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
             "score": 0
         },
         {
@@ -79,13 +79,6 @@
             "score": 0
         },
         {
-            "symbol": "BB",
-            "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
-            "score": 0
-        },
-        {
             "symbol": "GME",
             "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
             "publisher": "Yahoo Finance",
@@ -93,7 +86,7 @@
             "score": 0
         },
         {
-            "symbol": "ONON",
+            "symbol": "BB",
             "headline": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
@@ -107,38 +100,31 @@
             "score": 0
         },
         {
-            "symbol": "CLDX",
-            "headline": "Celldex Therapeutics' Barzolvolimab Meets Phase 3 Endpoints in Two Urticaria Trials",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/celldex-therapeutics-apos-barzolvolimab-meets-113111118.html",
+            "symbol": "FLNA",
+            "headline": "Filana Therapeutics Announces FDA Lift of Clinical Hold on Simufilam, Enabling Phase 2a Study in TSC-Related Epilepsy",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/filana-therapeutics-announces-fda-lift-120000292.html",
             "score": 0
         },
         {
-            "symbol": "XNDU",
-            "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
+            "symbol": "BABA",
+            "headline": "Stocks climb as oil slides, AI buzz returns",
+            "publisher": "AFP",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html",
             "score": 0
         },
         {
-            "symbol": "MSFT",
-            "headline": "Market Chatter: Anthropic CEO Amodei Set to Brief UN Security Council on AI",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-anthropic-ceo-amodei-135533302.html",
+            "symbol": "VICR",
+            "headline": "How Much Upside is Left in Vicor (VICR)? Wall Street Analysts Think 60.61%",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-vicor-vicr-135502825.html",
             "score": 0
         },
         {
-            "symbol": "FSLY",
-            "headline": "Fastly\u2019s AI Security Push Adds Heat Ahead Of Investor Day",
-            "publisher": "Benzinga",
-            "link": "https://finance.yahoo.com/technology/ai/articles/fastly-ai-security-push-adds-113652327.html",
-            "score": 0
-        },
-        {
-            "symbol": "NOW",
-            "headline": "ClickHouse Appoints Mike Scarpelli, Former Snowflake and ServiceNow CFO, to Board of Directors",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/clickhouse-appoints-mike-scarpelli-former-130000918.html",
+            "symbol": "TWLO",
+            "headline": "Twilio, Datadog, Unity, Zscaler, and Elastic Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-datadog-unity-zscaler-elastic-004625817.html",
             "score": 0
         }
     ]
