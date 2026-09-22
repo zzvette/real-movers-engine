@@ -1,6 +1,13 @@
 {
-    "timestamp": "2026-09-22T16:09:10.603066+00:00",
+    "timestamp": "2026-09-22T16:23:08.684407+00:00",
     "catalysts": [
+        {
+            "symbol": "SCHW",
+            "headline": "PayPal surges on Meta AI deal as tech rotation sinks financials",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/paypal-surges-meta-ai-deal-153346134.html",
+            "score": 5
+        },
         {
             "symbol": "LHSW",
             "headline": "Lianhe Sowell International Group Ltd. Signs Strategic Cooperation Agreement with Subsidiary of Chery Group Holding Company to Advance Intelligent Equipment in China\u2019s Automotive Aftermarket",
@@ -10,9 +17,9 @@
         },
         {
             "symbol": "VKTX",
-            "headline": "Top Midday Stories: Goldman Reportedly in Talks to Acquire $37 Billion Credit Firm Palmer Square; Viking Obesity Drug Candidate Showed 'Superior' Results in Study",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-goldman-reportedly-154648409.html",
+            "headline": "Viking shares surge on updated obesity drug data",
+            "publisher": "BioPharma Dive",
+            "link": "https://finance.yahoo.com/healthcare/articles/viking-shares-surge-updated-obesity-161000562.html",
             "score": 0
         },
         {
@@ -23,10 +30,31 @@
             "score": 0
         },
         {
+            "symbol": "JPM",
+            "headline": "A Bad Day for Bank Stocks Is Killing the Dow",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/65582ce1-8f3a-377a-974a-acc562bf0c56/a-bad-day-for-bank-stocks-is.html",
+            "score": 0
+        },
+        {
+            "symbol": "CSCO",
+            "headline": "HPE's Networking Orders Signal Continued Growth: What's Ahead?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/articles/hpes-networking-orders-signal-continued-154200642.html",
+            "score": 0
+        },
+        {
             "symbol": "TOPS",
             "headline": "Top Ships Inc. Provides Response to Unusual Market Action",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-ships-inc-provides-response-132500657.html",
+            "score": 0
+        },
+        {
+            "symbol": "GME",
+            "headline": "Cohen Adds to GameStop Stake for a Second Time This Month",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cohen-adds-gamestop-stake-second-153006951.html",
             "score": 0
         },
         {
@@ -44,14 +72,28 @@
             "score": 0
         },
         {
-            "symbol": "JPM",
-            "headline": "A Bad Day for Bank Stocks Is Killing the Dow",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/65582ce1-8f3a-377a-974a-acc562bf0c56/a-bad-day-for-bank-stocks-is.html",
+            "symbol": "BFLY",
+            "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
             "score": 0
         },
         {
             "symbol": "DCOY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTU",
+            "headline": "How Will Paychex Stock React To Its Upcoming Earnings?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-stock-react-upcoming-earnings-123659252.html",
+            "score": 0
+        },
+        {
+            "symbol": "ZEO",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
@@ -65,45 +107,17 @@
             "score": 0
         },
         {
-            "symbol": "SCHW",
-            "headline": "5 Dividend Stocks That Combine Income, Earnings Growth, and Wall Street Support",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-combine-income-142000173.html",
-            "score": 0
-        },
-        {
             "symbol": "SOFI",
-            "headline": "\u2018Crypto Hurdle\u2019 Solved: SoFi Is First Bank Deploying Stablecoin Settlement Across Mastercard Network",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-hurdle-solved-sofi-first-152012538.html",
+            "headline": "SoFi Just Went Live With Stablecoin Settlement on Mastercard. That\u2019s the First Bank-Issued Stablecoin on a Major Card Network.",
+            "publisher": "Forkast News",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/sofi-just-went-live-stablecoin-160106348.html",
             "score": 0
         },
         {
-            "symbol": "BFLY",
-            "headline": "Needham Initiates Butterfly Network at Buy With $10 Price Target",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-butterfly-network-buy-103519011.html",
-            "score": 0
-        },
-        {
-            "symbol": "ZEO",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
-            "score": 0
-        },
-        {
-            "symbol": "VICR",
-            "headline": "Sandisk, GameStop, Viking Therapeutics, Vicor, On Holding, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-gamestop%2C-viking.html",
-            "score": 0
-        },
-        {
-            "symbol": "FLNA",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "symbol": "PYPL",
+            "headline": "Can Visa Stock Keep Climbing After The World Cup?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-keep-climbing-world-155517802.html",
             "score": 0
         },
         {
@@ -114,24 +128,17 @@
             "score": 0
         },
         {
-            "symbol": "CSCO",
-            "headline": "HPE's Networking Orders Signal Continued Growth: What's Ahead?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/articles/hpes-networking-orders-signal-continued-154200642.html",
+            "symbol": "FLNA",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
-            "symbol": "AZO",
-            "headline": "AutoZone Q4 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-q4-earnings-call-highlights-160254949.html",
-            "score": 0
-        },
-        {
-            "symbol": "CLDX",
-            "headline": "Celldex Phase III CSU Trials Hit Endpoints as Barzolvolimab Shows Durable Responses",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/healthcare/articles/celldex-phase-iii-csu-trials-160254116.html",
+            "symbol": "VICR",
+            "headline": "Sandisk, GameStop, Viking Therapeutics, Vicor, On Holding, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-gamestop%2C-viking.html",
             "score": 0
         }
     ]
