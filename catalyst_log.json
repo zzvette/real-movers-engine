@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T03:12:03.258370+00:00",
+    "timestamp": "2026-09-22T03:41:36.813067+00:00",
     "catalysts": [
         {
             "symbol": "GRML",
@@ -23,24 +23,17 @@
             "score": 2
         },
         {
+            "symbol": "WBD",
+            "headline": "Paramount's $110B Warner Bros. Discovery Merger Clears Legal Hurdle; Elizabeth Warren Says Letting Trump-Aligned Entity 'Dominate' News Is 'Disastrous'",
+            "publisher": "Benzinga",
+            "link": "https://finance.yahoo.com/media-advertising/articles/paramounts-110b-warner-bros-discovery-021105640.html",
+            "score": 2
+        },
+        {
             "symbol": "META",
-            "headline": "Stocks rise on AI buzz, drop in oil prices",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html",
-            "score": 0
-        },
-        {
-            "symbol": "INTC",
-            "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+            "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
-            "score": 0
-        },
-        {
-            "symbol": "AMD",
-            "headline": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-slip-while-p-024433977.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rallies-muse-ai-032133115.html",
             "score": 0
         },
         {
@@ -51,27 +44,6 @@
             "score": 0
         },
         {
-            "symbol": "MRNA",
-            "headline": "Moderna (MRNA) Stock Trades Up, Here Is Why",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-stock-trades-why-000625004.html",
-            "score": 0
-        },
-        {
-            "symbol": "GLND",
-            "headline": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/dd227320-73bc-33ca-ab26-64adeab65dfa/stocks-to-watch-recap%3A.html",
-            "score": 0
-        },
-        {
-            "symbol": "ARM",
-            "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
-            "score": 0
-        },
-        {
             "symbol": "NVO",
             "headline": "Novo Nordisk Partners with Anthropic to Bring AI Deeper into Drug Discovery",
             "publisher": "Insider Monkey",
@@ -79,17 +51,10 @@
             "score": 0
         },
         {
-            "symbol": "RKLB",
-            "headline": "Why Are Rocket Lab (RKLB) Shares Soaring Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-shares-011025314.html",
-            "score": 0
-        },
-        {
-            "symbol": "GRAL",
-            "headline": "GRAL Stock Clocks Best Day In Over 1.5 Years \u2014 FDA Papers Lift Galleri Approval Hopes",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/gral-stock-clocks-best-day-205018255.html",
+            "symbol": "GRAB",
+            "headline": "Grab to Buy 60% of Atome for $1.49B, Raises 2028 Growth Targets",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/grab-buy-60-atome-1-010205286.html",
             "score": 0
         },
         {
@@ -100,38 +65,38 @@
             "score": 0
         },
         {
-            "symbol": "VICR",
-            "headline": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html",
+            "symbol": "GRAL",
+            "headline": "GRAL Stock Clocks Best Day In Over 1.5 Years \u2014 FDA Papers Lift Galleri Approval Hopes",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/gral-stock-clocks-best-day-205018255.html",
             "score": 0
         },
         {
-            "symbol": "WBD",
-            "headline": "Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here\u2019s What That Means for Netflix Investors.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/media-advertising/articles/paramount-could-acquire-warner-bros-014320618.html",
-            "score": 0
-        },
-        {
-            "symbol": "NQ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "ARM",
+            "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
             "score": 0
         },
         {
             "symbol": "SHOP",
-            "headline": "Shopify to Use Meta\u2019s Muse for Agentic Checkout",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/32a5a382-45b4-3257-a158-45162dcf7de9/shopify-to-use-meta%E2%80%99s-muse.html",
+            "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rallies-muse-ai-032133115.html",
             "score": 0
         },
         {
-            "symbol": "UPS",
-            "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
+            "symbol": "MRNA",
+            "headline": "Moderna (MRNA) Stock Trades Up, Here Is Why",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-stock-trades-why-000625004.html",
+            "score": 0
+        },
+        {
+            "symbol": "QNME",
+            "headline": "Top Premarket Decliners",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114220695.html",
             "score": 0
         },
         {
@@ -139,6 +104,27 @@
             "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
+            "score": 0
+        },
+        {
+            "symbol": "^IXIC",
+            "headline": "Asian benchmarks mostly rise after Wall Street's rally",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-benchmarks-mostly-rise-wall-033107078.html",
+            "score": 0
+        },
+        {
+            "symbol": "BABA",
+            "headline": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-plans-ai-model-5-025213560.html",
+            "score": 0
+        },
+        {
+            "symbol": "UPS",
+            "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
             "score": 0
         }
     ]
