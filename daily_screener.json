@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T04:41:44.189080+00:00",
+    "timestamp": "2026-09-22T09:08:59.904550+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,94 +10,52 @@
                 "score": 5
             },
             {
-                "symbol": "FSLY",
-                "headline": "Fastly Inc. (FSLY) Jumps 15% Ahead of Tuesday\u2019s Key Business Updates; Hedge Fund Conviction Weak",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-inc-fsly-jumps-15-011603186.html",
+                "symbol": "GRAL",
+                "headline": "GRAIL Stock Jumped 34% Yesterday. The FDA Just Told Its Investors Why.",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/grail-stock-jumped-34-yesterday-060702817.html",
                 "score": 3
             },
             {
-                "symbol": "RKLB",
-                "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-extends-rally-overnight-035810804.html",
-                "score": 2
+                "symbol": "FSLY",
+                "headline": "Fastly Stock Jumped 15% Yesterday on an AI Security Launch. Insiders Sold Millions First.",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-stock-jumped-15-yesterday-070938255.html",
+                "score": 3
             },
             {
-                "symbol": "NUAI",
-                "headline": "Update: New Era Energy & Digital Shares Rise After Unit Signs 20-Year Power Deal With Vistra Affiliate",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-shares-rise-180729641.html",
-                "score": 2
+                "symbol": "MRNA",
+                "headline": "Moderna Stock Jumped 12% Yesterday. An ESMO Presidential Slot Explains Why.",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-stock-jumped-12-yesterday-073305050.html",
+                "score": 3
             },
             {
                 "symbol": "META",
-                "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rallies-muse-ai-032133115.html",
+                "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
                 "score": 0
             },
             {
                 "symbol": "NVO",
-                "headline": "Novo Nordisk Partners with Anthropic to Bring AI Deeper into Drug Discovery",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-partners-anthropic-bring-014854957.html",
+                "headline": "Capitalize on the PEGylated Proteins Revenue Shift: Benchmark Amgen, Roche, Merck KGaA, Pfizer and Novo Nordisk to Secure Competitive ROI Through the Forecast Period",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/capitalize-pegylated-proteins-revenue-shift-082800711.html",
                 "score": 0
             },
             {
                 "symbol": "GRAB",
-                "headline": "Grab to Buy 60% of Atome for $1.49B, Raises 2028 Growth Targets",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/grab-buy-60-atome-1-010205286.html",
+                "headline": "Grab Holdings Insider Bought Shares Worth $29,876,310, According to a Recent SEC Filing",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/grab-holdings-insider-bought-shares-071259435.html",
                 "score": 0
             },
             {
-                "symbol": "GME",
-                "headline": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
+                "symbol": "VKTX",
+                "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-slip-while-p-024433977.html",
-                "score": 0
-            },
-            {
-                "symbol": "GRAL",
-                "headline": "GRAL Stock Clocks Best Day In Over 1.5 Years \u2014 FDA Papers Lift Galleri Approval Hopes",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/gral-stock-clocks-best-day-205018255.html",
-                "score": 0
-            },
-            {
-                "symbol": "SHOP",
-                "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rallies-muse-ai-032133115.html",
-                "score": 0
-            },
-            {
-                "symbol": "UPS",
-                "headline": "United Parcel Service (UPS) Stock Slides as Market Rises: Facts to Know Before You Trade",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-stock-slides-220004268.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARM",
-                "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-intel-amd-surge-meta-015051328.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "Why Did AMD, WBD, MRNA Stocks Surge To 52-Week Highs Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-wbd-mrna-033924946.html",
-                "score": 0
-            },
-            {
-                "symbol": "BABA",
-                "headline": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-plans-ai-model-5-025213560.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-pause-083218570.html",
                 "score": 0
             },
             {
@@ -108,10 +66,24 @@
                 "score": 0
             },
             {
-                "symbol": "QCOM",
-                "headline": "Why Corning (GLW) Stock Is Trading Up Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-corning-glw-stock-trading-014225854.html",
+                "symbol": "GME",
+                "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-pause-083218570.html",
+                "score": 0
+            },
+            {
+                "symbol": "NUAI",
+                "headline": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
+                "score": 0
+            },
+            {
+                "symbol": "RKLB",
+                "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
                 "score": 0
             },
             {
@@ -122,10 +94,38 @@
                 "score": 0
             },
             {
-                "symbol": "VKTX",
-                "headline": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-falls-7-post-134522608.html",
+                "symbol": "SHOP",
+                "headline": "Shopify to Integrate Meta Agentic AI Into Platform",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-integrate-meta-agentic-ai-082836563.html",
+                "score": 0
+            },
+            {
+                "symbol": "GDC",
+                "headline": "These Three Stocks Fell More Than 10% Today To Hit 52-Week Lows -- What's Driving The Investor Skepticism?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/three-stocks-fell-more-10-175412835.html",
+                "score": 0
+            },
+            {
+                "symbol": "^IXIC",
+                "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+                "score": 0
+            },
+            {
+                "symbol": "BABA",
+                "headline": "Stocks rise on AI buzz, oil prices cool",
+                "publisher": "AFP",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html",
+                "score": 0
+            },
+            {
+                "symbol": "QXO",
+                "headline": "QXO (QXO) Bets Its Building Products Roll-Up On A Proven Operator",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/qxo-qxo-bets-building-products-050250916.html",
                 "score": 0
             }
         ]
