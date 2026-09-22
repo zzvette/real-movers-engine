@@ -1,20 +1,20 @@
 {
-    "timestamp": "2026-09-22T20:38:05.123952+00:00",
+    "timestamp": "2026-09-22T20:45:30.232553+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "VKTX",
+                "headline": "VKTX Stock Jumps 36% As Oppenheimer Hikes Target, Peers Call Data A Win",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/m/5196b8e2-4a37-3318-b28f-d9f7a3261229/vktx-stock-jumps-36%25-as.html",
+                "score": 3
+            },
             {
                 "symbol": "JAGX",
                 "headline": "Top Midday Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-183934042.html",
                 "score": 3
-            },
-            {
-                "symbol": "VKTX",
-                "headline": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f724af55-0e16-38ff-b1eb-f11fdfb65378/viking-therapeutics.html",
-                "score": 0
             },
             {
                 "symbol": "INOD",
@@ -123,9 +123,9 @@
             },
             {
                 "symbol": "WSP.TO",
-                "headline": "How retailers can fight AI-driven fraud without losing sales",
-                "publisher": "Retail Insight Network",
-                "link": "https://finance.yahoo.com/m/1347907f-7cc4-37a3-b7de-029f435e716f/how-retailers-can-fight.html",
+                "headline": "KBRA Assigns Preliminary Ratings to PowerPay Issuance Trust 2026-1",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kbra-assigns-preliminary-ratings-powerpay-204300465.html",
                 "score": 0
             },
             {
