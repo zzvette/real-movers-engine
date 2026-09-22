@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T13:48:13.139234+00:00",
+    "timestamp": "2026-09-22T13:59:08.409647+00:00",
     "catalysts": [
         {
             "symbol": "GRAL",
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "VKTX",
-            "headline": "Sector Update: Healthcare Stocks Mixed Pre-Bell Tuesday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-mixed-pre-131620547.html",
+            "headline": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f724af55-0e16-38ff-b1eb-f11fdfb65378/viking-therapeutics.html",
             "score": 0
         },
         {
@@ -45,9 +45,9 @@
         },
         {
             "symbol": "SOFI",
-            "headline": "SoFi Technologies Launches Stablecoin Settlement Across Mastercard's Global Payments Network",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/sofi-technologies-launches-stablecoin-settlement-130956698.html",
+            "headline": "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-rises-5-getting-cut-134654083.html",
             "score": 0
         },
         {
@@ -66,7 +66,7 @@
         },
         {
             "symbol": "META",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq drift higher as oil retreats, AI trade powers market",
+            "headline": "Stock market today: Nasdaq, S&P 500 drift higher as oil retreats, AI trade powers market",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
             "score": 0
