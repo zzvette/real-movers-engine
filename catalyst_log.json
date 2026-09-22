@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T17:29:22.621231+00:00",
+    "timestamp": "2026-09-22T17:37:50.925712+00:00",
     "catalysts": [
         {
             "symbol": "SCHW",
@@ -7,6 +7,13 @@
             "publisher": "Investing.com",
             "link": "https://finance.yahoo.com/technology/ai/articles/paypal-surges-meta-ai-deal-153346134.html",
             "score": 5
+        },
+        {
+            "symbol": "DCOY",
+            "headline": "Decoy Therapeutics Enters Warrant Inducement Deal for $3.85 Million; Shares Rise",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/decoy-therapeutics-enters-warrant-inducement-172453624.html",
+            "score": 2
         },
         {
             "symbol": "LHSW",
@@ -31,9 +38,9 @@
         },
         {
             "symbol": "JPM",
-            "headline": "JPMorgan Chase Falls 3% Despite New $20B QIA Partnership; Goldman Sachs Eases, Bank of America Slips",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/ac01261b-d6a1-3367-85b2-3bc5db47f1c2/jpmorgan-chase-falls-3%25.html",
+            "headline": "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/123177c9-1ab7-3cde-9aa6-fbcc67922b8f/the-nasdaq-set-a-record-and.html",
             "score": 0
         },
         {
@@ -52,9 +59,9 @@
         },
         {
             "symbol": "GRAB",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "headline": "Grab Shares Rise After Insider Buying",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/grab-shares-rise-insider-buying-172454247.html",
             "score": 0
         },
         {
@@ -69,13 +76,6 @@
             "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
-            "score": 0
-        },
-        {
-            "symbol": "DCOY",
-            "headline": "Decoy Therapeutics, Inc. Announces a Warrant Inducement Transaction for $3.85 Million in Gross Proceeds Priced At-The-Market under Nasdaq Rules",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-announces-warrant-165000539.html",
             "score": 0
         },
         {
@@ -108,9 +108,9 @@
         },
         {
             "symbol": "ONON",
-            "headline": "On Holding shares surge 11% despite analyst skepticism on investor day targets",
-            "publisher": "Proactive",
-            "link": "https://finance.yahoo.com/m/a91e340b-558d-34cd-8aec-50c1be058977/on-holding-shares-surge-11%25.html",
+            "headline": "First Came the Mbapp\u00e9 Partnership. Now On Holding Stock Is Surging on Higher Revenue Forecast.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/5ffa977c-8533-37f9-83d5-9aa63544f96e/first-came-the-mbapp%C3%A9.html",
             "score": 0
         },
         {
