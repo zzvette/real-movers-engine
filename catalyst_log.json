@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-22T14:39:03.123516+00:00",
+    "timestamp": "2026-09-22T14:49:34.660868+00:00",
     "catalysts": [
         {
             "symbol": "ONON",
             "headline": "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/holding-surges-13-investor-day-135337346.html",
-            "score": 3
-        },
-        {
-            "symbol": "QNME",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111902485.html",
             "score": 3
         },
         {
@@ -38,9 +31,9 @@
         },
         {
             "symbol": "VKTX",
-            "headline": "Viking Therapeutics\u2019 VK2735 Shows Strong Weight-Loss Retention With Monthly Dosing",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-vk2735-shows-strong-140253717.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
@@ -59,16 +52,16 @@
         },
         {
             "symbol": "GRAB",
-            "headline": "Grab Holdings Limited (GRAB) Is a Trending Stock: Facts to Know Before Betting on It",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/grab-holdings-limited-grab-trending-130004506.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
             "symbol": "SOFI",
-            "headline": "How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/c02c36ef-fcad-3213-9f9c-63e947dd9869/how-sofi-is-turning-its.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
@@ -80,9 +73,16 @@
         },
         {
             "symbol": "DCOY",
-            "headline": "Decoy Therapeutics Exploring Pan-Filovirus Program via FDA Animal Rule Pathway and Non-Dilutive Funding",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-exploring-pan-filovirus-113000551.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
+            "score": 0
+        },
+        {
+            "symbol": "QNME",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
@@ -101,9 +101,9 @@
         },
         {
             "symbol": "FLNA",
-            "headline": "Filana Therapeutics Announces FDA Lift of Clinical Hold on Simufilam, Enabling Phase 2a Study in TSC-Related Epilepsy",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/filana-therapeutics-announces-fda-lift-120000292.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017037.html",
             "score": 0
         },
         {
