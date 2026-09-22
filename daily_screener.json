@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T15:20:29.341768+00:00",
+    "timestamp": "2026-09-22T15:31:02.295361+00:00",
     "signals": {
         "catalysts": [
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "JPM",
-                "headline": "Market Chatter: JPMorgan Chase Plans Expansion of GIFT City Business in India",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/currencies/articles/market-chatter-jpmorgan-chase-plans-141923402.html",
+                "headline": "Will JPM's $20B QIA Partnership Strengthen Asset Management Business?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jpms-20b-qia-partnership-strengthen-151800006.html",
                 "score": 0
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "ONON",
-                "headline": "Why On Holding Stock Popped Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-holding-stock-popped-today-150252563.html",
+                "headline": "On Targets CHF 5.6 Billion by 2029, Buys Back Stock",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/targets-chf-5-6-billion-152005391.html",
                 "score": 0
             },
             {
