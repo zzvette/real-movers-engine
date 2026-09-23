@@ -1,6 +1,27 @@
 {
-    "timestamp": "2026-09-23T13:18:40.232029+00:00",
+    "timestamp": "2026-09-23T13:33:40.576244+00:00",
     "catalysts": [
+        {
+            "symbol": "QBTS",
+            "headline": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html",
+            "score": 8
+        },
+        {
+            "symbol": "RGTI",
+            "headline": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html",
+            "score": 8
+        },
+        {
+            "symbol": "QUBT",
+            "headline": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html",
+            "score": 8
+        },
         {
             "symbol": "VTGN",
             "headline": "Top Premarket Gainers",
@@ -17,9 +38,9 @@
         },
         {
             "symbol": "IONQ",
-            "headline": "Sector Update: Tech Stocks Decline Premarket Wednesday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-premarket-130915053.html",
+            "headline": "IONQ Stock On Track To Hit Over 1-Month High On Nvidia Superion 256 Deployment, Quantum Error Decoder Breakthrough",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-track-hit-over-132204557.html",
             "score": 0
         },
         {
@@ -27,13 +48,6 @@
             "headline": "Top Premarket Decliners",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114214925.html",
-            "score": 0
-        },
-        {
-            "symbol": "QBTS",
-            "headline": "Sector Update: Tech Stocks Decline Premarket Wednesday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-premarket-130915053.html",
             "score": 0
         },
         {
@@ -86,13 +100,6 @@
             "score": 0
         },
         {
-            "symbol": "RGTI",
-            "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
-            "score": 0
-        },
-        {
             "symbol": "BFRG",
             "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
             "publisher": "ACCESS Newswire",
@@ -115,23 +122,16 @@
         },
         {
             "symbol": "PAYX",
-            "headline": "Sector Update: Financial",
+            "headline": "Sector Update: Financial Stocks Lean Lower Pre-Bell Wednesday",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-130257544.html",
-            "score": 0
-        },
-        {
-            "symbol": "QUBT",
-            "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lean-lower-131904032.html",
             "score": 0
         },
         {
             "symbol": "MCD",
-            "headline": "McDonald's Plans $8.5 Billion in Franchisee Support Under New Growth Strategy",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/small-business/articles/mcdonald-apos-plans-8-5-130209613.html",
+            "headline": "MCD vs. SBUX: Which Payout Will Still Be Growing in 20 Years?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mcd-vs-sbux-payout-still-132737788.html",
             "score": 0
         },
         {
