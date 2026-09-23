@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T10:33:10.078187+00:00",
+    "timestamp": "2026-09-23T10:47:34.296167+00:00",
     "catalysts": [
         {
             "symbol": "BFLY",
@@ -17,16 +17,16 @@
         },
         {
             "symbol": "IONQ",
-            "headline": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-021808961.html",
+            "headline": "IonQ Shares Rise 11.8% After Quantum Error Correction Decoder Test",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ionq-shares-rise-11-8-101313153.html",
             "score": 0
         },
         {
             "symbol": "QBTS",
-            "headline": "D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-just-got-100501220.html",
+            "headline": "CGI and D-Wave Quantum partner to advance enterprise quantum adoption",
+            "publisher": "CNW Group",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cgi-d-wave-quantum-partner-103000759.html",
             "score": 0
         },
         {
@@ -38,9 +38,9 @@
         },
         {
             "symbol": "RCL",
-            "headline": "Royal Caribbean Buys 50% Stake in Sandals Resorts for $3 Billion",
-            "publisher": "Bloomberg",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buys-50-stake-082908054.html",
+            "headline": "Royal Caribbean to Acquire 50% Stake in Sandals and Beaches Resorts for About $3 Billion",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-acquire-50-stake-101143838.html",
             "score": 0
         },
         {
@@ -59,9 +59,9 @@
         },
         {
             "symbol": "RGTI",
-            "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-rigetti-computing-stock-012000110.html",
+            "headline": "Rigetti Computing (RGTI) Stock Looks Fully Valued Next To Its Book Value",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-rgti-stock-looks-101651072.html",
             "score": 0
         },
         {
@@ -80,9 +80,9 @@
         },
         {
             "symbol": "INFQ",
-            "headline": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/c5feeeb9-c2aa-3bc3-8339-4bf20dac6409/will-this-major-industry.html",
+            "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
             "score": 0
         },
         {
