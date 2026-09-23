@@ -1,20 +1,20 @@
 {
-    "timestamp": "2026-09-23T15:32:53.444266+00:00",
+    "timestamp": "2026-09-23T15:44:53.021655+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "HCTI",
-                "headline": "Healthcare Triangle Signs LOI for Proposed Roboticom Acquisition in $30 Million Deal",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/healthcare/articles/healthcare-triangle-signs-loi-proposed-134825278.html",
-                "score": 4
-            },
             {
                 "symbol": "RDDT",
                 "headline": "I'm 52 And Make $207K A Year But Hate My Job\u2014 They\u2019re Offering Me $150K Plus Salary To Quit. Do I Take The Buyout?",
                 "publisher": "Benzinga",
                 "link": "https://finance.yahoo.com/markets/articles/im-52-207k-hate-job-120010532.html",
                 "score": 4
+            },
+            {
+                "symbol": "^TNX",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+                "score": 3
             },
             {
                 "symbol": "VTGN",
@@ -24,6 +24,13 @@
                 "score": 3
             },
             {
+                "symbol": "IONQ",
+                "headline": "IonQ is in 'the beginning of an exciting era,' CEO says as Nvidia deal lifts stock",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/ionq-is-in-the-beginning-of-an-exciting-era-ceo-says-as-nvidia-deal-lifts-stock-154055369.html",
+                "score": 2
+            },
+            {
                 "symbol": "QBTS",
                 "headline": "Here's How QBTS Deepens Quantum Push With Funding and New Deals",
                 "publisher": "Zacks",
@@ -31,17 +38,10 @@
                 "score": 2
             },
             {
-                "symbol": "IONQ",
-                "headline": "IonQ shares rise on NVIDIA quantum computing deployment",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/technology/ai/articles/ionq-shares-rise-nvidia-quantum-143600941.html",
-                "score": 0
-            },
-            {
                 "symbol": "MCD",
-                "headline": "McDonald's plans $8.5 billion modernization by 2036",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/small-business/articles/mcdonalds-plans-8-5-billion-151911049.html",
+                "headline": "Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html",
                 "score": 0
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "PLTR",
-                "headline": "Michael Burry Shorts Micron, Palantir; Famed Investor Expects Chip 'Down Cycle'",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/076a0931-404b-3d27-987a-133088648502/michael-burry-shorts-micron%2C.html",
+                "headline": "Michael Burry Doubles Down Against Micron Stock",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-against-153431481.html",
                 "score": 0
             },
             {
@@ -80,17 +80,17 @@
                 "score": 0
             },
             {
-                "symbol": "^TNX",
-                "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
-                "score": 0
-            },
-            {
                 "symbol": "RCL",
                 "headline": "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-group-falls-5-141638827.html",
+                "score": 0
+            },
+            {
+                "symbol": "HCTI",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
                 "score": 0
             },
             {
@@ -137,9 +137,9 @@
             },
             {
                 "symbol": "INOD",
-                "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
+                "headline": "Strength Seen in Innodata Inc (INOD): Can Its 14.6% Jump Turn into More Strength?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-innodata-inc-inod-153700356.html",
                 "score": 0
             }
         ]
