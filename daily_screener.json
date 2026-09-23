@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T20:47:43.523012+00:00",
+    "timestamp": "2026-09-23T20:54:08.295283+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,13 +24,6 @@
                 "score": 3
             },
             {
-                "symbol": "PLTR",
-                "headline": "Palantir Stock Rises 3% Despite Losing $875 Million FAA AI Deal: Here\u2019s Why",
-                "publisher": "Benzinga Prediction Markets",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-rises-3-despite-200529861.html",
-                "score": 2
-            },
-            {
                 "symbol": "MCD",
                 "headline": "McDonald's exec says GLP-1 boom is 'an opportunity'",
                 "publisher": "Yahoo Finance",
@@ -52,6 +45,13 @@
                 "score": 0
             },
             {
+                "symbol": "PLTR",
+                "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir Flashes Buy Signal",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
+                "score": 0
+            },
+            {
                 "symbol": "FSLY",
                 "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
                 "publisher": "Trefis",
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "GOOG",
-                "headline": "Stock Market Today: Small Caps, Gold Miners Spanked Amid Selloff; Meta Makes A Bullish Move",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html",
+                "headline": "Debt-Financed AI Investment Boom Risks Equity Market Selloff, IMF Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/debt-financed-ai-investment-boom-203703821.html",
                 "score": 0
             },
             {
@@ -102,16 +102,16 @@
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Stock Market Today: Small Caps, Gold Miners Spanked Amid Selloff; Meta Makes A Bullish Move",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html",
+                "headline": "Debt-Financed AI Investment Boom Risks Equity Market Selloff, IMF Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/debt-financed-ai-investment-boom-203703821.html",
                 "score": 0
             },
             {
                 "symbol": "PANW",
-                "headline": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-looks-expensive-until-191655537.html",
+                "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir Flashes Buy Signal",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
                 "score": 0
             },
             {
