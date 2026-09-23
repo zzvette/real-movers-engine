@@ -1,26 +1,12 @@
 {
-    "timestamp": "2026-09-23T19:57:39.240964+00:00",
+    "timestamp": "2026-09-23T20:05:27.983769+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "^TNX",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-                "score": 3
-            },
-            {
-                "symbol": "PLTR",
-                "headline": "Palantir Jumps Over 4% as Karp Makes AI Liability the Product Test",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/palantir-jumps-over-4-karp-191126338.html",
-                "score": 3
-            },
-            {
-                "symbol": "VTGN",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
                 "score": 3
             },
             {
@@ -32,9 +18,9 @@
             },
             {
                 "symbol": "IONQ",
-                "headline": "The Quantum Industry\u2019s Biggest Event Kicks Off Today. What It Means for Stocks.",
+                "headline": "Palantir, IonQ, Royal Caribbean, Paychex, McDonald\u2019s, and More Stocks That Explain Today\u2019s Market",
                 "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/2b5b972d-9a3c-3dd0-8fa6-fee81ecd2ae6/the-quantum-industry%E2%80%99s.html",
+                "link": "https://finance.yahoo.com/m/0425a4bd-b145-34b7-ab74-ac10f40500b3/palantir%2C-ionq%2C-royal.html",
                 "score": 0
             },
             {
@@ -42,6 +28,13 @@
                 "headline": "Beneficient Seeks to Eliminate Debt, Equity Linked to Former CEO",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-eliminate-debt-equity-192027909.html",
+                "score": 0
+            },
+            {
+                "symbol": "PLTR",
+                "headline": "Palantir Could Be Big Winner as Air Traffic Control Goes AI. The Stock Is Rising.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f5ec8191-e112-3e18-8fd9-e31fa9d673be/palantir-could-be-big-winner.html",
                 "score": 0
             },
             {
@@ -60,9 +53,9 @@
             },
             {
                 "symbol": "GOOG",
-                "headline": "Alphabet Expands Free AI Video Generation to All Users in Google Vids",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-expands-free-ai-video-193904258.html",
+                "headline": "Wall Street ends down as oil prices, Treasury yields rise",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-muted-mideast-114116425.html",
                 "score": 0
             },
             {
@@ -81,9 +74,9 @@
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Alphabet Expands Free AI Video Generation to All Users in Google Vids",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-expands-free-ai-video-193904258.html",
+                "headline": "Wall Street ends down as oil prices, Treasury yields rise",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-muted-mideast-114116425.html",
                 "score": 0
             },
             {
@@ -119,6 +112,13 @@
                 "headline": "Top Midday Decliners",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-174539338.html",
+                "score": 0
+            },
+            {
+                "symbol": "U",
+                "headline": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
                 "score": 0
             },
             {
