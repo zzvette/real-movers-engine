@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T10:57:40.223021+00:00",
+    "timestamp": "2026-09-23T11:12:53.483538+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,16 +18,16 @@
             },
             {
                 "symbol": "IONQ",
-                "headline": "IonQ Shares Rise 11.8% After Quantum Error Correction Decoder Test",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/technology/ai/articles/ionq-shares-rise-11-8-101313153.html",
+                "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/energy/articles/classiq-israel-natural-gas-lines-110000652.html",
                 "score": 0
             },
             {
                 "symbol": "QBTS",
-                "headline": "CGI and D-Wave Quantum partner to advance enterprise quantum adoption",
-                "publisher": "CNW Group",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cgi-d-wave-quantum-partner-103000759.html",
+                "headline": "CGI, D-Wave Partner to Further Advance Quantum Adoption",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/cgi-d-wave-partner-further-105507167.html",
                 "score": 0
             },
             {
