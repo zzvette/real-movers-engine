@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T15:53:24.832391+00:00",
+    "timestamp": "2026-09-23T15:59:11.880672+00:00",
     "signals": {
         "catalysts": [
             {
@@ -31,13 +31,6 @@
                 "score": 2
             },
             {
-                "symbol": "MCD",
-                "headline": "Top Midday Stories: McDonald's Plans $8.5 Billion in Franchisee Support; Morgan Stanley Staffer Accidentally Leaks Investment-Bank Deal List",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-mcdonald-apos-153952086.html",
-                "score": 2
-            },
-            {
                 "symbol": "RCL",
                 "headline": "Royal Caribbean Stock Fell 6% on the Sandals Report. Now It\u2019s a Signed $3 Billion Deal. Was the Selloff Justified?",
                 "publisher": "TIKR",
@@ -50,6 +43,13 @@
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/technology/ai/articles/heres-qbts-deepens-quantum-push-151300692.html",
                 "score": 2
+            },
+            {
+                "symbol": "MCD",
+                "headline": "SBUX's Digital Menu Rollout Nears 90%: Can It Lift Afternoon Sales?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sbuxs-digital-menu-rollout-nears-154600868.html",
+                "score": 0
             },
             {
                 "symbol": "JAGX",
@@ -91,13 +91,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
-                "score": 0
-            },
-            {
-                "symbol": "APP",
-                "headline": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
                 "score": 0
             },
             {
