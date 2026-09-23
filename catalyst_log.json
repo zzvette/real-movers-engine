@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T22:12:31.120314+00:00",
+    "timestamp": "2026-09-23T22:30:15.400778+00:00",
     "catalysts": [
         {
             "symbol": "^TNX",
@@ -31,65 +31,23 @@
         },
         {
             "symbol": "PLTR",
-            "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
+            "headline": "Palantir's CEO just sent a message Silicon Valley won't ignore",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/ai/articles/palantirs-ceo-just-sent-message-221700521.html",
             "score": 0
         },
         {
-            "symbol": "GOOG",
-            "headline": "Alphabet Inc. (GOOG) Dips More Than Broader Market: What You Should Know",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-dips-more-214504286.html",
+            "symbol": "MSFT",
+            "headline": "Okta Sees AI Agent Identity Market Outgrowing Traditional IAM at Oktane 2026",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/okta-sees-ai-agent-identity-210208369.html",
             "score": 0
         },
         {
-            "symbol": "PANW",
-            "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
-            "score": 0
-        },
-        {
-            "symbol": "ARTL",
-            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
-            "score": 0
-        },
-        {
-            "symbol": "WHLR",
-            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
-            "score": 0
-        },
-        {
-            "symbol": "GOOGL",
-            "headline": "Alphabet Inc. (GOOG) Dips More Than Broader Market: What You Should Know",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-dips-more-214504286.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRWD",
-            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
+            "symbol": "FSLY",
+            "headline": "Why Fastly (FSLY) Stock Is Up Today",
             "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
-            "score": 0
-        },
-        {
-            "symbol": "SFIX",
-            "headline": "Stitch Fix (SFIX) Reports Q4 Loss, Misses Revenue Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stitch-fix-sfix-reports-q4-211501585.html",
-            "score": 0
-        },
-        {
-            "symbol": "TLT",
-            "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "publisher": "etf.com",
-            "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-fastly-fsly-stock-today-211405572.html",
             "score": 0
         },
         {
@@ -100,10 +58,52 @@
             "score": 0
         },
         {
-            "symbol": "BFRG",
+            "symbol": "ARTL",
+            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+            "score": 0
+        },
+        {
+            "symbol": "PANW",
+            "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
+            "score": 0
+        },
+        {
+            "symbol": "TLT",
+            "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+            "score": 0
+        },
+        {
+            "symbol": "SFIX",
+            "headline": "Stitch Fix (SFIX) Reports Q4 Loss, Misses Revenue Estimates",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stitch-fix-sfix-reports-q4-211501585.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOG",
+            "headline": "Alphabet Inc. (GOOG) Dips More Than Broader Market: What You Should Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-dips-more-214504286.html",
+            "score": 0
+        },
+        {
+            "symbol": "NCPL",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "score": 0
+        },
+        {
+            "symbol": "P",
+            "headline": "Everpure Reaffirms Fiscal 2027 Guidance, Sets 2028 Forecast",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-reaffirms-fiscal-2027-guidance-214800072.html",
             "score": 0
         },
         {
@@ -114,17 +114,31 @@
             "score": 0
         },
         {
-            "symbol": "DBGI",
-            "headline": "Digital Brands Group Investor Update: U.S. Program & Go-Private Process and Timeline",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/digital-brands-group-investor-u-131200046.html",
+            "symbol": "NEOV",
+            "headline": "NeoVolta Files $200 Million Mixed Shelf",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/neovolta-files-200-million-mixed-212640183.html",
             "score": 0
         },
         {
-            "symbol": "KOSS",
-            "headline": "KOSS Posts Q4 Earnings as DTC Growth and Tariff Refunds Aid",
+            "symbol": "CRWD",
+            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+            "score": 0
+        },
+        {
+            "symbol": "WHLR",
+            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
+            "score": 0
+        },
+        {
+            "symbol": "FUL",
+            "headline": "Here's What Key Metrics Tell Us About H. B. Fuller (FUL) Q3 Earnings",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/koss-posts-q4-earnings-dtc-163800457.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-213001894.html",
             "score": 0
         }
     ]
