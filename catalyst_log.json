@@ -1,19 +1,26 @@
 {
-    "timestamp": "2026-09-23T15:06:54.796863+00:00",
+    "timestamp": "2026-09-23T15:20:41.420234+00:00",
     "catalysts": [
-        {
-            "symbol": "QUBT",
-            "headline": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html",
-            "score": 8
-        },
         {
             "symbol": "HCTI",
             "headline": "Healthcare Triangle Signs LOI for Proposed Roboticom Acquisition in $30 Million Deal",
             "publisher": "InvestorsHub",
             "link": "https://finance.yahoo.com/healthcare/articles/healthcare-triangle-signs-loi-proposed-134825278.html",
             "score": 4
+        },
+        {
+            "symbol": "RDDT",
+            "headline": "I'm 52 And Make $207K A Year But Hate My Job\u2014 They\u2019re Offering Me $150K Plus Salary To Quit. Do I Take The Buyout?",
+            "publisher": "Benzinga",
+            "link": "https://finance.yahoo.com/markets/articles/im-52-207k-hate-job-120010532.html",
+            "score": 4
+        },
+        {
+            "symbol": "^TNX",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+            "score": 3
         },
         {
             "symbol": "VTGN",
@@ -30,17 +37,17 @@
             "score": 0
         },
         {
-            "symbol": "JAGX",
-            "headline": "Top Premarket Decliners",
+            "symbol": "MCD",
+            "headline": "McDonald's Unveils NEXT Strategy with New Financial Targets, Market Share Gains",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114214925.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-apos-unveils-next-strategy-151049251.html",
             "score": 0
         },
         {
-            "symbol": "QBTS",
-            "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
+            "symbol": "JAGX",
+            "headline": "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/two-biotechs-beaten-down-jaguar-150244696.html",
             "score": 0
         },
         {
@@ -51,10 +58,10 @@
             "score": 0
         },
         {
-            "symbol": "GIS",
-            "headline": "Pre-Markets Take a Breather from AI-Trade Resurgence",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-breather-ai-trade-142200210.html",
+            "symbol": "PLTR",
+            "headline": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/a7a5530e-0e96-3ee8-8e45-c97bbf8a8aa2/palantir%2C-ibd-stock-of-the.html",
             "score": 0
         },
         {
@@ -65,52 +72,10 @@
             "score": 0
         },
         {
-            "symbol": "INOD",
-            "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
-            "score": 0
-        },
-        {
-            "symbol": "IPDN",
-            "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
-            "score": 0
-        },
-        {
-            "symbol": "MCD",
-            "headline": "94% of Customers Say Technology Influences Which Quick-Service Restaurant They Eat At, Canopy Research Finds",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/articles/94-customers-technology-influences-quick-150000148.html",
-            "score": 0
-        },
-        {
-            "symbol": "CBRL",
-            "headline": "Cracker Barrel Quarterly Earnings Grow Amid Tariff Refunds as Traffic Trends Improve",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-quarterly-earnings-grow-150435648.html",
-            "score": 0
-        },
-        {
-            "symbol": "BFRG",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
-            "score": 0
-        },
-        {
-            "symbol": "PAYX",
-            "headline": "Paychex Q1 Earnings & Revenues Surpass Estimates, Increase Y/Y",
+            "symbol": "GIS",
+            "headline": "Pre-Markets Take a Breather from AI-Trade Resurgence",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-q1-earnings-revenues-surpass-143800573.html",
-            "score": 0
-        },
-        {
-            "symbol": "MSS",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-breather-ai-trade-142200210.html",
             "score": 0
         },
         {
@@ -121,24 +86,59 @@
             "score": 0
         },
         {
-            "symbol": "CTAS",
-            "headline": "Compared to Estimates, Cintas (CTAS) Q1 Earnings: A Look at Key Metrics",
+            "symbol": "APP",
+            "headline": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
+            "score": 0
+        },
+        {
+            "symbol": "PAYX",
+            "headline": "Paychex Q1 Earnings & Revenues Surpass Estimates, Increase Y/Y",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-cintas-ctas-q1-140002455.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-q1-earnings-revenues-surpass-143800573.html",
             "score": 0
         },
         {
-            "symbol": "RGTI",
+            "symbol": "PGY",
+            "headline": "Value Investing Legend Seth Klarman\u2019s New Non-AI Picks",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-seth-klarman-143834392.html",
+            "score": 0
+        },
+        {
+            "symbol": "IPDN",
+            "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
+            "score": 0
+        },
+        {
+            "symbol": "QBTS",
             "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
             "publisher": "Barrons.com",
             "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
             "score": 0
         },
         {
-            "symbol": "QNT",
-            "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
+            "symbol": "SRFM",
+            "headline": "Surf Air Mobility Signs OperatorOS Contract with SkyDance Air",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/articles/surf-air-mobility-signs-operatoros-104500728.html",
+            "score": 0
+        },
+        {
+            "symbol": "GCDT",
+            "headline": "Green Circle Decarbonize Technology Limited Announces 1-for-6 Share Consolidation to Become Effective on October 7, 2026",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/green-circle-decarbonize-technology-limited-125500714.html",
+            "score": 0
+        },
+        {
+            "symbol": "INOD",
+            "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
             "score": 0
         }
     ]
