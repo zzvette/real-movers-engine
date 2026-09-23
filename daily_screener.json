@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T19:15:23.688791+00:00",
+    "timestamp": "2026-09-23T19:25:41.891512+00:00",
     "signals": {
         "catalysts": [
             {
@@ -29,6 +29,13 @@
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
                 "score": 3
+            },
+            {
+                "symbol": "MCD",
+                "headline": "Can McDonald\u2019s Turn Better Restaurant Economics into Faster Growth?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-turn-better-restaurant-economics-184950771.html",
+                "score": 0
             },
             {
                 "symbol": "IONQ",
@@ -95,9 +102,9 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "2 Space Stocks That Could Double in 2027 (Hint: Neither of Them Is SpaceX)",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/2-space-stocks-could-double-182000503.html",
+                "headline": "Trump Disclosure Reveals Surprise SpaceX Stock Trades",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-disclosure-reveals-surprise-spacex-191836730.html",
                 "score": 0
             },
             {
@@ -119,6 +126,13 @@
                 "headline": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
                 "publisher": "GuruFocus.com",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
+                "score": 0
+            },
+            {
+                "symbol": "NLST",
+                "headline": "Can Netlist Sustain Q2 Momentum After 163% Revenue Growth?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/netlist-sustain-q2-momentum-163-120900209.html",
                 "score": 0
             }
         ]
