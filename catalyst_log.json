@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T14:58:49.871026+00:00",
+    "timestamp": "2026-09-23T15:06:54.796863+00:00",
     "catalysts": [
         {
             "symbol": "QUBT",
@@ -80,16 +80,16 @@
         },
         {
             "symbol": "MCD",
-            "headline": "McDonald\u2019s Unveils NewAI Operating System",
-            "publisher": "Moby",
-            "link": "https://finance.yahoo.com/technology/ai/articles/mcdonald-unveils-newai-operating-system-143608551.html",
+            "headline": "94% of Customers Say Technology Influences Which Quick-Service Restaurant They Eat At, Canopy Research Finds",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/articles/94-customers-technology-influences-quick-150000148.html",
             "score": 0
         },
         {
             "symbol": "CBRL",
-            "headline": "Cracker Barrel Stock Rises After Earnings as Traffic Trends Improve",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/4b4f446a-ec4a-3898-8cd2-610f83522955/cracker-barrel-stock-rises.html",
+            "headline": "Cracker Barrel Quarterly Earnings Grow Amid Tariff Refunds as Traffic Trends Improve",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-quarterly-earnings-grow-150435648.html",
             "score": 0
         },
         {
