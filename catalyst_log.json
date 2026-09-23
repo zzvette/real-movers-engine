@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-23T19:25:41.891512+00:00",
+    "timestamp": "2026-09-23T19:34:09.178400+00:00",
     "catalysts": [
         {
             "symbol": "^TNX",
             "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-            "score": 3
-        },
-        {
-            "symbol": "BENF",
-            "headline": "Top Midday Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-171133599.html",
             "score": 3
         },
         {
@@ -31,9 +24,9 @@
         },
         {
             "symbol": "MCD",
-            "headline": "Can McDonald\u2019s Turn Better Restaurant Economics into Faster Growth?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-turn-better-restaurant-economics-184950771.html",
+            "headline": "Domino\u2019s Pizza Is Down 28% This Year. Is It Time to Sell or Load Up?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/domino-pizza-down-28-time-192309706.html",
             "score": 0
         },
         {
@@ -41,6 +34,13 @@
             "headline": "The Quantum Industry\u2019s Biggest Event Kicks Off Today. What It Means for Stocks.",
             "publisher": "Barrons.com",
             "link": "https://finance.yahoo.com/m/2b5b972d-9a3c-3dd0-8fa6-fee81ecd2ae6/the-quantum-industry%E2%80%99s.html",
+            "score": 0
+        },
+        {
+            "symbol": "BENF",
+            "headline": "Beneficient Seeks to Eliminate Debt, Equity Linked to Former CEO",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-eliminate-debt-equity-192027909.html",
             "score": 0
         },
         {
@@ -59,9 +59,9 @@
         },
         {
             "symbol": "GOOG",
-            "headline": "Google Is Helping Upgrade Southern\u2019s Nuclear Plants. Can 96 MW Ease Its AI Power Bottleneck?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/energy/articles/google-helping-upgrade-southern-nuclear-184432017.html",
+            "headline": "Stock Market Today; Small Caps Spanked As Meta Platforms Makes This Bullish Move (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3B-small.html",
             "score": 0
         },
         {
@@ -80,9 +80,9 @@
         },
         {
             "symbol": "GOOGL",
-            "headline": "Google Is Helping Upgrade Southern\u2019s Nuclear Plants. Can 96 MW Ease Its AI Power Bottleneck?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/energy/articles/google-helping-upgrade-southern-nuclear-184432017.html",
+            "headline": "Stock Market Today; Small Caps Spanked As Meta Platforms Makes This Bullish Move (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3B-small.html",
             "score": 0
         },
         {
