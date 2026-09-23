@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T02:12:07.973590+00:00",
+    "timestamp": "2026-09-23T02:41:07.323715+00:00",
     "signals": {
         "catalysts": [
             {
@@ -31,24 +31,17 @@
                 "score": 2
             },
             {
-                "symbol": "QBTS",
-                "headline": "QBTS vs. QNT: Buy, Hold or Sell as Quantum Valuations Reset?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/qbts-vs-qnt-buy-hold-190000861.html",
-                "score": 2
-            },
-            {
                 "symbol": "IONQ",
-                "headline": "IonQ (IONQ) Just Gave Investors Something To Think About",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-just-gave-investors-232429150.html",
+                "headline": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/m/60673d6a-899f-3cd3-bd98-c563f4d571c9/dow%2C-s%26p-500%2C-nasdaq-futures.html",
                 "score": 0
             },
             {
                 "symbol": "VKTX",
-                "headline": "Viking Therapeutics (VKTX) Rockets 35.7% After Weight Loss Drug Trial \u2014 What\u2019s The Selling Point?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-vktx-rockets-35-223731784.html",
+                "headline": "Obesity titan could shake up Lilly and Novo after astonishing trial",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/m/2b8721eb-db5a-3f6f-ab71-ad53ef9620e0/obesity-titan-could-shake-up.html",
                 "score": 0
             },
             {
@@ -59,45 +52,10 @@
                 "score": 0
             },
             {
-                "symbol": "RGTI",
-                "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
-                "score": 0
-            },
-            {
-                "symbol": "DCOY",
-                "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-issues-correction-221400537.html",
-                "score": 0
-            },
-            {
                 "symbol": "XNDU",
                 "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
-                "score": 0
-            },
-            {
-                "symbol": "GRAB",
-                "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/623c5c3f-6913-3d1b-8c72-02d83d4b68cc/grab%27s-chief-operating.html",
-                "score": 0
-            },
-            {
-                "symbol": "IPDN",
-                "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
-                "score": 0
-            },
-            {
-                "symbol": "CSCO",
-                "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html",
                 "score": 0
             },
             {
@@ -108,24 +66,17 @@
                 "score": 0
             },
             {
-                "symbol": "SCHW",
-                "headline": "ETF League Tables: Schwab Sheds Almost $15B",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/m/01737f8b-9145-35a3-8a2e-11b3e1edbed1/etf-league-tables%3A-schwab.html",
+                "symbol": "RGTI",
+                "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
                 "score": 0
             },
             {
-                "symbol": "KBH",
-                "headline": "KB Home Q3 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/m/3b9a16cb-2749-33d0-a62f-16b3913c5f49/kb-home-q3-earnings-call.html",
-                "score": 0
-            },
-            {
-                "symbol": "LEN",
-                "headline": "KB Home Q3 2026 Earnings: Live Updates of $KBH Earnings Call, Stock Forecast",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/m/83a55987-9d2f-3eae-ad42-2e534e17c671/kb-home-q3-2026-earnings%3A.html",
+                "symbol": "QBTS",
+                "headline": "Is D-Wave Quantum\u2019s (QBTS) Cybersecurity Board Hire a Signal on Its Enterprise Readiness?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/d-wave-quantum-qbts-cybersecurity-021255221.html",
                 "score": 0
             },
             {
@@ -136,10 +87,52 @@
                 "score": 0
             },
             {
+                "symbol": "LEN",
+                "headline": "KB Home Q3 2026 Earnings: Live Updates of $KBH Earnings Call, Stock Forecast",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/m/83a55987-9d2f-3eae-ad42-2e534e17c671/kb-home-q3-2026-earnings%3A.html",
+                "score": 0
+            },
+            {
+                "symbol": "CSCO",
+                "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html",
+                "score": 0
+            },
+            {
+                "symbol": "ADBE",
+                "headline": "How Far Could CRM Stock Swing In A Year?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/m/1d047526-c9b0-3c51-8436-1dd2e9751e7a/how-far-could-crm-stock-swing.html",
+                "score": 0
+            },
+            {
                 "symbol": "QUBT",
                 "headline": "Netflix downgraded, SanDisk initiated: Wall Street's top analyst calls",
                 "publisher": "The Fly",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-sandisk-initiated-wall-134453114.html",
+                "score": 0
+            },
+            {
+                "symbol": "INFQ",
+                "headline": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/c5feeeb9-c2aa-3bc3-8339-4bf20dac6409/will-this-major-industry.html",
+                "score": 0
+            },
+            {
+                "symbol": "ONON",
+                "headline": "On Holding (ONON) Approves a $1 Billion Buyback Alongside its 2029 Targets",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-approves-1-billion-223549769.html",
+                "score": 0
+            },
+            {
+                "symbol": "INTU",
+                "headline": "How Will Paychex Stock React To Its Upcoming Earnings?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/m/d4f5c8e3-b107-30ca-912e-29545a91d0b4/how-will-paychex-stock-react.html",
                 "score": 0
             }
         ]
