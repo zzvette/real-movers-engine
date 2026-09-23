@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T20:40:58.680798+00:00",
+    "timestamp": "2026-09-23T20:47:43.523012+00:00",
     "signals": {
         "catalysts": [
             {
@@ -31,17 +31,10 @@
                 "score": 2
             },
             {
-                "symbol": "SPCX",
-                "headline": "SpaceX Drops 4% Amid Share Supply and Valuation Concerns; AST SpaceMobile Falls 6%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-drops-4-amid-share-200258181.html",
-                "score": 2
-            },
-            {
                 "symbol": "MCD",
-                "headline": "Sector Update: Consumer Stocks Retreat Late Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-retreat-afternoon-194623415.html",
+                "headline": "McDonald's exec says GLP-1 boom is 'an opportunity'",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/mcdonalds-exec-says-glp-1-boom-is-an-opportunity-204354994.html",
                 "score": 0
             },
             {
@@ -77,6 +70,13 @@
                 "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "Rocket Lab (RKLB) Neutron Could Fill A Medium Lift Launch Gap",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-neutron-could-201839880.html",
                 "score": 0
             },
             {
