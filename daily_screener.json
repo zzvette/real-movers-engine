@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T09:25:05.387053+00:00",
+    "timestamp": "2026-09-23T09:38:58.456665+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,17 +17,10 @@
                 "score": 3
             },
             {
-                "symbol": "JAGX",
-                "headline": "JAGX Stock Soars Over 10% Premarket After Best Day In Over 8 Years: What\u2019s Driving The Surge?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/jagx-stock-soars-over-10-080540914.html",
-                "score": 0
-            },
-            {
                 "symbol": "IONQ",
                 "headline": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/m/60673d6a-899f-3cd3-bd98-c563f4d571c9/dow%2C-s%26p-500%2C-nasdaq-futures.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-021808961.html",
                 "score": 0
             },
             {
@@ -39,9 +32,9 @@
             },
             {
                 "symbol": "QBTS",
-                "headline": "D Wave Quantum (QBTS) Stock Looks Pricey Following Its Huge Three Year Run",
+                "headline": "What Is Drawing Fresh Attention To D Wave Quantum (QBTS)?",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-qbts-stock-032310560.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/drawing-fresh-attention-d-wave-091633522.html",
                 "score": 0
             },
             {
@@ -69,7 +62,7 @@
                 "symbol": "RGTI",
                 "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-rigetti-computing-stock-012000110.html",
                 "score": 0
             },
             {
@@ -95,16 +88,16 @@
             },
             {
                 "symbol": "259960.KS",
-                "headline": "EIL secures $450m EPCM role for Dangote\u2019s refinery in Kenya",
-                "publisher": "Offshore Technology",
-                "link": "https://finance.yahoo.com/m/d406620b-7ba8-3234-9635-98a37b6a731b/eil-secures-%24450m-epcm-role.html",
+                "headline": "Packsize names Eric Fisher as CTO",
+                "publisher": "Packaging Gateway",
+                "link": "https://finance.yahoo.com/m/a5cb5470-2f83-380d-a157-88ff670e1095/packsize-names-eric-fisher-as.html",
                 "score": 0
             },
             {
                 "symbol": "BB",
                 "headline": "BB Stock Nears 1-Month High: Daimler-Volvo Venture Hands BlackBerry Its Biggest QNX Win Ahead Of Earnings",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-nears-1-month-041445086.html",
+                "link": "https://finance.yahoo.com/m/e15fa533-cf82-361a-aa5f-ecfba369c7d6/bb-stock-nears-1-month-high%3A.html",
                 "score": 0
             },
             {
@@ -116,16 +109,16 @@
             },
             {
                 "symbol": "QUBT",
-                "headline": "Netflix downgraded, SanDisk initiated: Wall Street's top analyst calls",
-                "publisher": "The Fly",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-sandisk-initiated-wall-134453114.html",
+                "headline": "RGTI's 108-Qubit Performance Hurdle Highlights Scaling Challenge Ahead",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/technology/ai/articles/rgtis-108-qubit-performance-hurdle-173200159.html",
                 "score": 0
             },
             {
                 "symbol": "SCHW",
                 "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
                 "publisher": "Pitchbook",
-                "link": "https://finance.yahoo.com/m/10d255c1-22c5-3707-ad12-4d8a0370b684/charles-schwab-has-48-million.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-48-million-reasons-083500492.html",
                 "score": 0
             },
             {
