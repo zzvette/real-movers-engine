@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T14:01:43.401200+00:00",
+    "timestamp": "2026-09-23T14:15:11.984310+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,18 +24,18 @@
                 "score": 8
             },
             {
+                "symbol": "HCTI",
+                "headline": "Healthcare Triangle Signs LOI for Proposed Roboticom Acquisition in $30 Million Deal",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/healthcare-triangle-signs-loi-proposed-134825278.html",
+                "score": 4
+            },
+            {
                 "symbol": "VTGN",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
                 "score": 3
-            },
-            {
-                "symbol": "IMCC",
-                "headline": "IM Cannabis Announces Pricing of US$1.31 Million Registered Direct Offering of Common Shares",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-announces-pricing-us-123700346.html",
-                "score": 2
             },
             {
                 "symbol": "IONQ",
@@ -52,24 +52,17 @@
                 "score": 0
             },
             {
-                "symbol": "GIS",
-                "headline": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
-                "score": 0
-            },
-            {
-                "symbol": "INOD",
-                "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
-                "score": 0
-            },
-            {
                 "symbol": "BENF",
                 "headline": "Beneficient Seeks Resolution to Eliminate About $130 Million of Disputed Debt Linked to Former CEO",
                 "publisher": "InvestorsHub",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-resolution-eliminate-130-121152396.html",
+                "score": 0
+            },
+            {
+                "symbol": "GIS",
+                "headline": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
                 "score": 0
             },
             {
@@ -80,10 +73,52 @@
                 "score": 0
             },
             {
+                "symbol": "INOD",
+                "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
+                "score": 0
+            },
+            {
                 "symbol": "IPDN",
                 "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
+                "score": 0
+            },
+            {
+                "symbol": "MCD",
+                "headline": "McDonald\u2019s to invest $8.5B as part of Next strategy",
+                "publisher": "Restaurant Dive",
+                "link": "https://finance.yahoo.com/small-business/articles/mcdonald-invest-8-5b-part-135400601.html",
+                "score": 0
+            },
+            {
+                "symbol": "CBRL",
+                "headline": "Cracker Barrel Old Country Store Q4 Earnings Call Highlights",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-140330282.html",
+                "score": 0
+            },
+            {
+                "symbol": "BFRG",
+                "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/small-business/articles/iaccess-alpha-virtual-best-ideas-120000991.html",
+                "score": 0
+            },
+            {
+                "symbol": "PAYX",
+                "headline": "Compared to Estimates, Paychex (PAYX) Q1 Earnings: A Look at Key Metrics",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-paychex-payx-q1-140001644.html",
+                "score": 0
+            },
+            {
+                "symbol": "MSS",
+                "headline": "Barnes & Noble Education (BNED) Reports Q1 Loss, Misses Revenue Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/barnes-noble-education-bned-reports-211502910.html",
                 "score": 0
             },
             {
@@ -95,44 +130,9 @@
             },
             {
                 "symbol": "CTAS",
-                "headline": "Stock Market Today (Sept. 23, 2026): Nasdaq futures edge higher as U.S.-Iran talks continue",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-23-134802225.html",
-                "score": 0
-            },
-            {
-                "symbol": "BFRG",
-                "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
-                "publisher": "ACCESS Newswire",
-                "link": "https://finance.yahoo.com/small-business/articles/iaccess-alpha-virtual-best-ideas-120000991.html",
-                "score": 0
-            },
-            {
-                "symbol": "CBRL",
-                "headline": "Stock Market Today (Sept. 23, 2026): Nasdaq futures edge higher as U.S.-Iran talks continue",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-23-134802225.html",
-                "score": 0
-            },
-            {
-                "symbol": "INFQ",
-                "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
-                "score": 0
-            },
-            {
-                "symbol": "PAYX",
-                "headline": "Paychex (PAYX) Q1 Earnings and Revenues Beat Estimates",
+                "headline": "Compared to Estimates, Cintas (CTAS) Q1 Earnings: A Look at Key Metrics",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-payx-q1-earnings-revenues-134002801.html",
-                "score": 0
-            },
-            {
-                "symbol": "MCD",
-                "headline": "McDonald\u2019s to invest $8.5B as part of Next strategy",
-                "publisher": "Restaurant Dive",
-                "link": "https://finance.yahoo.com/small-business/articles/mcdonald-invest-8-5b-part-135400601.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-cintas-ctas-q1-140002455.html",
                 "score": 0
             },
             {
