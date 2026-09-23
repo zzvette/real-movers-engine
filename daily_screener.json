@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T19:03:38.500745+00:00",
+    "timestamp": "2026-09-23T19:15:23.688791+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,32 +17,18 @@
                 "score": 3
             },
             {
+                "symbol": "PLTR",
+                "headline": "Palantir Jumps Over 4% as Karp Makes AI Liability the Product Test",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/palantir-jumps-over-4-karp-191126338.html",
+                "score": 3
+            },
+            {
                 "symbol": "VTGN",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
                 "score": 3
-            },
-            {
-                "symbol": "SECZ",
-                "headline": "Securitize Stock Jumps 12% as Cantor Bets on a Tokenization Boom",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/4d277d66-8801-3298-9a87-aa7d091e8669/securitize-stock-jumps-12%25-as.html",
-                "score": 3
-            },
-            {
-                "symbol": "RCL",
-                "headline": "Royal Caribbean-Sandals Deal Accretive in Year One, Truist Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-sandals-deal-accretive-185020471.html",
-                "score": 2
-            },
-            {
-                "symbol": "MCD",
-                "headline": "Can McDonald\u2019s Turn Better Restaurant Economics into Faster Growth?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-turn-better-restaurant-economics-184950771.html",
-                "score": 0
             },
             {
                 "symbol": "IONQ",
@@ -52,10 +38,10 @@
                 "score": 0
             },
             {
-                "symbol": "PLTR",
-                "headline": "Palantir Just Got a Major Vote of Confidence From the FAA",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/palantir-just-got-major-vote-164923767.html",
+                "symbol": "FSLY",
+                "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trim-add-blackberry-position-now-172819341.html",
                 "score": 0
             },
             {
@@ -66,31 +52,10 @@
                 "score": 0
             },
             {
-                "symbol": "TLT",
-                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
-                "score": 0
-            },
-            {
                 "symbol": "GOOG",
                 "headline": "Google Is Helping Upgrade Southern\u2019s Nuclear Plants. Can 96 MW Ease Its AI Power Bottleneck?",
                 "publisher": "Insider Monkey",
                 "link": "https://finance.yahoo.com/energy/articles/google-helping-upgrade-southern-nuclear-184432017.html",
-                "score": 0
-            },
-            {
-                "symbol": "WHLR",
-                "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
-                "score": 0
-            },
-            {
-                "symbol": "JAGX",
-                "headline": "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/two-biotechs-beaten-down-jaguar-150244696.html",
                 "score": 0
             },
             {
@@ -101,24 +66,10 @@
                 "score": 0
             },
             {
-                "symbol": "^TYX",
-                "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
-                "score": 0
-            },
-            {
-                "symbol": "NLST",
-                "headline": "Can Netlist Sustain Q2 Momentum After 163% Revenue Growth?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/netlist-sustain-q2-momentum-163-120900209.html",
-                "score": 0
-            },
-            {
-                "symbol": "CRWD",
-                "headline": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html",
+                "symbol": "WHLR",
+                "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
                 "score": 0
             },
             {
@@ -129,17 +80,45 @@
                 "score": 0
             },
             {
-                "symbol": "EXK",
-                "headline": "Endeavour Silver Downgraded to Neutral at CIBC",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/endeavour-silver-downgraded-neutral-cibc-113935809.html",
+                "symbol": "TLT",
+                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
                 "score": 0
             },
             {
-                "symbol": "SPY",
-                "headline": "Sensitive Sector: Why Are Upstart, Affirm, and SoFi Dropping Faster Than the Broader Equities Market?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-lending-stocks-slide-while-180733903.html",
+                "symbol": "CRWD",
+                "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "2 Space Stocks That Could Double in 2027 (Hint: Neither of Them Is SpaceX)",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/2-space-stocks-could-double-182000503.html",
+                "score": 0
+            },
+            {
+                "symbol": "MSS",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+                "score": 0
+            },
+            {
+                "symbol": "VOYG",
+                "headline": "Top Midday Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-174539338.html",
+                "score": 0
+            },
+            {
+                "symbol": "U",
+                "headline": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
                 "score": 0
             }
         ]
