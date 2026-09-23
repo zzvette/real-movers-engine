@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T11:53:39.743775+00:00",
+    "timestamp": "2026-09-23T12:05:11.554007+00:00",
     "catalysts": [
         {
             "symbol": "IONQ",
@@ -30,6 +30,13 @@
             "score": 0
         },
         {
+            "symbol": "GIS",
+            "headline": "General Mills' Fiscal Q1 Adjusted Earnings, Net Sales Decline; Fiscal 2027 Adjusted EPS Guidance Reiterated",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-apos-fiscal-q1-113616279.html",
+            "score": 0
+        },
+        {
             "symbol": "QBTS",
             "headline": "CGI, D-Wave Partner to Further Advance Quantum Adoption",
             "publisher": "MT Newswires",
@@ -41,6 +48,13 @@
             "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
             "publisher": "Simply Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
+            "score": 0
+        },
+        {
+            "symbol": "WHLR",
+            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
             "score": 0
         },
         {
@@ -65,13 +79,6 @@
             "score": 0
         },
         {
-            "symbol": "WHLR",
-            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
-            "score": 0
-        },
-        {
             "symbol": "DCOY",
             "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
             "publisher": "PR Newswire",
@@ -83,6 +90,34 @@
             "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
             "publisher": "Simply Wall St.",
             "link": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
+            "score": 0
+        },
+        {
+            "symbol": "QUBT",
+            "headline": "RGTI's 108-Qubit Performance Hurdle Highlights Scaling Challenge Ahead",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/ai/articles/rgtis-108-qubit-performance-hurdle-173200159.html",
+            "score": 0
+        },
+        {
+            "symbol": "CBRL",
+            "headline": "Cracker Barrel's Fiscal Q4 Adjusted Earnings Rise, Revenue Falls",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-apos-fiscal-q4-113705518.html",
+            "score": 0
+        },
+        {
+            "symbol": "SRFM",
+            "headline": "Surf Air Mobility Signs OperatorOS Contract with SkyDance Air",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/articles/surf-air-mobility-signs-operatoros-104500728.html",
+            "score": 0
+        },
+        {
+            "symbol": "BFRG",
+            "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/small-business/articles/iaccess-alpha-virtual-best-ideas-120000991.html",
             "score": 0
         },
         {
@@ -100,38 +135,10 @@
             "score": 0
         },
         {
-            "symbol": "QUBT",
-            "headline": "RGTI's 108-Qubit Performance Hurdle Highlights Scaling Challenge Ahead",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/ai/articles/rgtis-108-qubit-performance-hurdle-173200159.html",
-            "score": 0
-        },
-        {
-            "symbol": "BFRG",
-            "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/iaccess-alpha-virtual-best-ideas-120000991.html",
-            "score": 0
-        },
-        {
-            "symbol": "LHSW",
-            "headline": "Top Premarket Decliners",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114214925.html",
-            "score": 0
-        },
-        {
             "symbol": "SCHW",
             "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
             "publisher": "Pitchbook",
             "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-48-million-reasons-083500492.html",
-            "score": 0
-        },
-        {
-            "symbol": "SLS",
-            "headline": "Cancer Vaccines Market Anticipates Impressive Growth Trajectory at a CAGR of 36% During the Forecast Period (2026-2036) | DelveInsight",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/cancer-vaccines-market-anticipates-impressive-143100937.html",
             "score": 0
         }
     ]
