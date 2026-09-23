@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-23T04:41:45.793664+00:00",
+    "timestamp": "2026-09-23T09:09:14.448366+00:00",
     "catalysts": [
-        {
-            "symbol": "JAGX",
-            "headline": "Top Midday Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-183934042.html",
-            "score": 3
-        },
         {
             "symbol": "BFLY",
             "headline": "Butterfly Network (BFLY) Gets New \u2018Buy\u2019 Reco, Climbs 22%; Hedge Fund Holdings More-Than-Double",
@@ -16,38 +9,17 @@
             "score": 3
         },
         {
-            "symbol": "CYPH",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111349678.html",
-            "score": 3
-        },
-        {
-            "symbol": "ONON",
-            "headline": "On Holding (ONON) Outlines Ambitious Goals and $1B Buyback, Jumps 7.6%",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-outlines-ambitious-goals-025141918.html",
-            "score": 3
-        },
-        {
-            "symbol": "RCL",
-            "headline": "RCL Stock Drops To Worst Day In Six Months \u2014 Royal Caribbean Reportedly Nears $6B Deal For Sandals Resorts",
+            "symbol": "JAGX",
+            "headline": "JAGX Stock Soars Over 10% Premarket After Best Day In Over 8 Years: What\u2019s Driving The Surge?",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/m/4884749d-4cce-39d9-94f3-9b31060946e8/rcl-stock-drops-to-worst-day.html",
-            "score": 2
+            "link": "https://finance.yahoo.com/m/54303962-5ddb-3b90-b518-2f55a6db1982/jagx-stock-soars-over-10%25.html",
+            "score": 0
         },
         {
             "symbol": "IONQ",
             "headline": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/m/60673d6a-899f-3cd3-bd98-c563f4d571c9/dow%2C-s%26p-500%2C-nasdaq-futures.html",
-            "score": 0
-        },
-        {
-            "symbol": "VKTX",
-            "headline": "Why Viking Therapeutics Stock Skyrocketed on Tuesday",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/m/097ed16b-55d6-395e-b79f-136a6968f73d/why-viking-therapeutics-stock.html",
             "score": 0
         },
         {
@@ -58,24 +30,10 @@
             "score": 0
         },
         {
-            "symbol": "XNDU",
-            "headline": "Xanadu Appoints Tara Deakin as Chief People Officer to Lead Next Phase of Global Growth",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-appoints-tara-deakin-chief-210100177.html",
-            "score": 0
-        },
-        {
-            "symbol": "IBRX",
-            "headline": "ImmunityBio (IBRX) Meeting With Turkish President Fuels Expansion Hopes, Shares Climb 10%",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-ibrx-meeting-turkish-president-002653592.html",
-            "score": 0
-        },
-        {
-            "symbol": "RGTI",
-            "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
+            "symbol": "RCL",
+            "headline": "Royal Caribbean to Buy 50% Stake in Sandals Resorts for $3 Billion",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buy-50-stake-072902962.html",
             "score": 0
         },
         {
@@ -86,45 +44,45 @@
             "score": 0
         },
         {
-            "symbol": "JPM",
-            "headline": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan\u2019s Card Empire",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/34446297-c69b-389e-900f-15a2becab9d2/private-credit-firms-are.html",
+            "symbol": "DCOY",
+            "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-issues-correction-221400537.html",
             "score": 0
         },
         {
-            "symbol": "LEN",
-            "headline": "KB Home Q3 2026 Earnings: Recap of $KBH Earnings Call, Housing Market Forecast",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/m/83a55987-9d2f-3eae-ad42-2e534e17c671/kb-home-q3-2026-earnings%3A.html",
+            "symbol": "RGTI",
+            "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
             "score": 0
         },
         {
-            "symbol": "ZEC-USD",
-            "headline": "SK Hynix Is Eyeing Intel\u2019s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+            "symbol": "VKTX",
+            "headline": "These \u2018Moonshot\u2019 Biotech Stocks Could Break Out, Morgan Stanley Says. What Must Go Right.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/f0ec4ae1-7dce-38f8-8f6a-48da376fdccc/these-%E2%80%98moonshot%E2%80%99-biotech.html",
             "score": 0
         },
         {
-            "symbol": "CSCO",
-            "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html",
+            "symbol": "IPDN",
+            "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
             "score": 0
         },
         {
-            "symbol": "ADBE",
-            "headline": "How Far Could CRM Stock Swing In A Year?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/m/1d047526-c9b0-3c51-8436-1dd2e9751e7a/how-far-could-crm-stock-swing.html",
+            "symbol": "259960.KS",
+            "headline": "Is Chime Stock a Buy, Sell, or Hold After Nearly Doubling From Its 52-Week Low?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/babfd697-5746-392b-b9ac-ae061be153ee/is-chime-stock-a-buy%2C-sell%2C.html",
             "score": 0
         },
         {
-            "symbol": "QUBT",
-            "headline": "Netflix downgraded, SanDisk initiated: Wall Street's top analyst calls",
-            "publisher": "The Fly",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-sandisk-initiated-wall-134453114.html",
+            "symbol": "SOFI",
+            "headline": "SoFi's Stablecoin Goes Live Across Mastercard's Network",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/sofis-stablecoin-goes-live-across-220507943.html",
             "score": 0
         },
         {
@@ -135,10 +93,52 @@
             "score": 0
         },
         {
-            "symbol": "INTU",
-            "headline": "How Will Paychex Stock React To Its Upcoming Earnings?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/m/d4f5c8e3-b107-30ca-912e-29545a91d0b4/how-will-paychex-stock-react.html",
+            "symbol": "XNDU",
+            "headline": "Xanadu Appoints Tara Deakin as Chief People Officer to Lead Next Phase of Global Growth",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-appoints-tara-deakin-chief-210100177.html",
+            "score": 0
+        },
+        {
+            "symbol": "SCHW",
+            "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
+            "publisher": "Pitchbook",
+            "link": "https://finance.yahoo.com/m/10d255c1-22c5-3707-ad12-4d8a0370b684/charles-schwab-has-48-million.html",
+            "score": 0
+        },
+        {
+            "symbol": "IBRX",
+            "headline": "ImmunityBio (IBRX) Meeting With Turkish President Fuels Expansion Hopes, Shares Climb 10%",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-ibrx-meeting-turkish-president-002653592.html",
+            "score": 0
+        },
+        {
+            "symbol": "XRP-USD",
+            "headline": "Is Chime Stock a Buy, Sell, or Hold After Nearly Doubling From Its 52-Week Low?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/babfd697-5746-392b-b9ac-ae061be153ee/is-chime-stock-a-buy%2C-sell%2C.html",
+            "score": 0
+        },
+        {
+            "symbol": "QUBT",
+            "headline": "Netflix downgraded, SanDisk initiated: Wall Street's top analyst calls",
+            "publisher": "The Fly",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-sandisk-initiated-wall-134453114.html",
+            "score": 0
+        },
+        {
+            "symbol": "MU",
+            "headline": "Should You Buy Micron Before Sept. 30?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/44f65f1a-c1e2-39c2-80d7-58fec319a38f/should-you-buy-micron-before.html",
+            "score": 0
+        },
+        {
+            "symbol": "BB",
+            "headline": "BB Stock Nears 1-Month High: Daimler-Volvo Venture Hands BlackBerry Its Biggest QNX Win Ahead Of Earnings",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/e15fa533-cf82-361a-aa5f-ecfba369c7d6/bb-stock-nears-1-month-high%3A.html",
             "score": 0
         }
     ]
