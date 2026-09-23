@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T00:44:19.654375+00:00",
+    "timestamp": "2026-09-23T01:11:12.934046+00:00",
     "signals": {
         "catalysts": [
             {
@@ -31,20 +31,6 @@
                 "score": 2
             },
             {
-                "symbol": "GRAB",
-                "headline": "Innate Pharma (IPHA) Closes Sobi Deal. Can the New Funding Keep Drug Trials on Track?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/innate-pharma-ipha-closes-sobi-004020490.html",
-                "score": 2
-            },
-            {
-                "symbol": "ZEC-USD",
-                "headline": "Innate Pharma (IPHA) Closes Sobi Deal. Can the New Funding Keep Drug Trials on Track?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/innate-pharma-ipha-closes-sobi-004020490.html",
-                "score": 2
-            },
-            {
                 "symbol": "JPM",
                 "headline": "JPMorgan Drops 3.8% as $2.6 Billion AI Deal Meets Geopolitics",
                 "publisher": "GuruFocus.com",
@@ -70,6 +56,13 @@
                 "headline": "INOD Stock Rallies After Hunterbrook Ties Firm To Meta\u2019s Muse, Reveals Long Position",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/m/91489256-68ae-3f54-8110-d59cfb4ba0b8/inod-stock-rallies-after.html",
+                "score": 0
+            },
+            {
+                "symbol": "GRAB",
+                "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/623c5c3f-6913-3d1b-8c72-02d83d4b68cc/grab%27s-chief-operating.html",
                 "score": 0
             },
             {
@@ -112,6 +105,13 @@
                 "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html",
+                "score": 0
+            },
+            {
+                "symbol": "ZEC-USD",
+                "headline": "Australia PM says draft social media rules about taking back control",
+                "publisher": "AFP",
+                "link": "https://finance.yahoo.com/m/5e74bbb2-8708-3a4e-b4ce-63848fdcf7c0/australia-pm-says-draft.html",
                 "score": 0
             },
             {
