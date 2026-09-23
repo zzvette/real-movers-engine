@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-23T18:57:30.176990+00:00",
+    "timestamp": "2026-09-23T19:03:38.500745+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "^TNX",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+                "score": 3
+            },
             {
                 "symbol": "BENF",
                 "headline": "Top Midday Gainers",
@@ -24,10 +31,17 @@
                 "score": 3
             },
             {
+                "symbol": "RCL",
+                "headline": "Royal Caribbean-Sandals Deal Accretive in Year One, Truist Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-sandals-deal-accretive-185020471.html",
+                "score": 2
+            },
+            {
                 "symbol": "MCD",
-                "headline": "Why McDonald's (MCD) Shares Are Plunging Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-mcdonalds-mcd-shares-plunging-184916847.html",
+                "headline": "Can McDonald\u2019s Turn Better Restaurant Economics into Faster Growth?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-turn-better-restaurant-economics-184950771.html",
                 "score": 0
             },
             {
@@ -77,13 +91,6 @@
                 "headline": "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/healthcare/articles/two-biotechs-beaten-down-jaguar-150244696.html",
-                "score": 0
-            },
-            {
-                "symbol": "RCL",
-                "headline": "Why Royal Caribbean (RCL) Stock Is Down Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-royal-caribbean-rcl-stock-180116037.html",
                 "score": 0
             },
             {
