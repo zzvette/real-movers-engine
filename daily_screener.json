@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-23T18:50:01.380068+00:00",
+    "timestamp": "2026-09-23T18:57:30.176990+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "^TNX",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-                "score": 3
-            },
             {
                 "symbol": "BENF",
                 "headline": "Top Midday Gainers",
@@ -32,9 +25,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "Inside McDonald\u2019s new marketing model as it enters media network fray",
-                "publisher": "Marketing Dive",
-                "link": "https://finance.yahoo.com/media-advertising/articles/inside-mcdonald-marketing-model-enters-183000503.html",
+                "headline": "Why McDonald's (MCD) Shares Are Plunging Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-mcdonalds-mcd-shares-plunging-184916847.html",
                 "score": 0
             },
             {
@@ -137,7 +130,7 @@
             },
             {
                 "symbol": "SPY",
-                "headline": "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+                "headline": "Sensitive Sector: Why Are Upstart, Affirm, and SoFi Dropping Faster Than the Broader Equities Market?",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-lending-stocks-slide-while-180733903.html",
                 "score": 0
