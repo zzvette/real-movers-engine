@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-23T21:00:30.645057+00:00",
+    "timestamp": "2026-09-23T21:16:11.297936+00:00",
     "catalysts": [
-        {
-            "symbol": "ONCO",
-            "headline": "CORRECTED: Onconetix Provides Strategic Bridge Financing to Realbotix LLC in Support of Pending Acquisition",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/corrected-onconetix-provides-strategic-bridge-165000489.html",
-            "score": 4
-        },
         {
             "symbol": "^TNX",
             "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
@@ -30,20 +23,6 @@
             "score": 0
         },
         {
-            "symbol": "IONQ",
-            "headline": "Palantir, IonQ, Royal Caribbean, Paychex, McDonald\u2019s, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/0425a4bd-b145-34b7-ab74-ac10f40500b3/palantir%2C-ionq%2C-royal.html",
-            "score": 0
-        },
-        {
-            "symbol": "BENF",
-            "headline": "Beneficient Seeks to Eliminate Debt, Equity Linked to Former CEO",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-eliminate-debt-equity-192027909.html",
-            "score": 0
-        },
-        {
             "symbol": "PLTR",
             "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir Flashes Buy Signal",
             "publisher": "Investor's Business Daily",
@@ -59,51 +38,9 @@
         },
         {
             "symbol": "GOOG",
-            "headline": "Debt-Financed AI Investment Boom Risks Equity Market Selloff, IMF Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/debt-financed-ai-investment-boom-203703821.html",
-            "score": 0
-        },
-        {
-            "symbol": "ARTL",
-            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPCX",
-            "headline": "Fantastic News for SpaceX Stock Investors!",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fantastic-news-spacex-stock-investors-205201668.html",
-            "score": 0
-        },
-        {
-            "symbol": "WHLR",
-            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
-            "score": 0
-        },
-        {
-            "symbol": "BFRG",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRWD",
-            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
-            "score": 0
-        },
-        {
-            "symbol": "GOOGL",
-            "headline": "Alphabet vs. Amazon: Which Anthropic Backer Will Benefit More From the $2 Trillion IPO?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-amazon-anthropic-backer-205200427.html",
+            "headline": "Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html",
             "score": 0
         },
         {
@@ -114,6 +51,41 @@
             "score": 0
         },
         {
+            "symbol": "ARTL",
+            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+            "score": 0
+        },
+        {
+            "symbol": "WHLR",
+            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOGL",
+            "headline": "Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRWD",
+            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+            "score": 0
+        },
+        {
+            "symbol": "SFIX",
+            "headline": "Stitch Fix Fiscal Q4 Loss Narrows, Revenue Rises; Fiscal 2027 Revenue Guidance Set",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stitch-fix-fiscal-q4-loss-202521594.html",
+            "score": 0
+        },
+        {
             "symbol": "TLT",
             "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
             "publisher": "etf.com",
@@ -121,10 +93,17 @@
             "score": 0
         },
         {
-            "symbol": "^TYX",
-            "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
+            "symbol": "GCTK",
+            "headline": "L\u014dkahi Therapeutics\u2122 Advances its Proprietary ai\u00b2 PIPELINE (formerly ai\u00b2 Futures Lab) Process from Internal Asset Engine to Revenue-Generating Platform",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/healthcare/articles/l-kahi-therapeutics-advances-proprietary-203000826.html",
+            "score": 0
+        },
+        {
+            "symbol": "BFRG",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
             "score": 0
         },
         {
@@ -135,10 +114,24 @@
             "score": 0
         },
         {
-            "symbol": "JPY=X",
-            "headline": "Japan's steep yield curve opens 'reverse carry' trade opportunity, Eastspring says",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/currencies/articles/japans-steep-yield-curve-opens-153834100.html",
+            "symbol": "DBGI",
+            "headline": "Digital Brands Group Investor Update: U.S. Program & Go-Private Process and Timeline",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/digital-brands-group-investor-u-131200046.html",
+            "score": 0
+        },
+        {
+            "symbol": "FUL",
+            "headline": "H.B. Fuller Fiscal Q3 Adjusted Earnings, Revenue Rise",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/h-b-fuller-fiscal-q3-201410307.html",
+            "score": 0
+        },
+        {
+            "symbol": "KOSS",
+            "headline": "KOSS Posts Q4 Earnings as DTC Growth and Tariff Refunds Aid",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/koss-posts-q4-earnings-dtc-163800457.html",
             "score": 0
         }
     ]
