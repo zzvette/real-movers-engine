@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T13:48:25.606441+00:00",
+    "timestamp": "2026-09-23T13:57:59.360417+00:00",
     "signals": {
         "catalysts": [
             {
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "IONQ",
-                "headline": "IONQ Stock On Track To Hit Over 1-Month High On Nvidia Superion 256 Deployment, Quantum Error Decoder Breakthrough",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-track-hit-over-132204557.html",
+                "headline": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
                 "score": 0
             },
             {
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "GIS",
-                "headline": "Compared to Estimates, General Mills (GIS) Q1 Earnings: A Look at Key Metrics",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-general-mills-gis-133004278.html",
+                "headline": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
                 "score": 0
             },
             {
@@ -95,9 +95,9 @@
             },
             {
                 "symbol": "CTAS",
-                "headline": "Cintas beats estimates but stock edges lower",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cintas-beats-estimates-stock-edges-132327934.html",
+                "headline": "Cintas (CTAS) Q1 Earnings and Revenues Surpass Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cintas-ctas-q1-earnings-revenues-134501500.html",
                 "score": 0
             },
             {
@@ -109,23 +109,16 @@
             },
             {
                 "symbol": "CBRL",
-                "headline": "Cracker Barrel (CBRL) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-cbrl-q4-earnings-133003773.html",
-                "score": 0
-            },
-            {
-                "symbol": "INFQ",
-                "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
+                "headline": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-nasdaq.html",
                 "score": 0
             },
             {
                 "symbol": "PAYX",
-                "headline": "Intuit Crashed Over Agentic AI Fears in 2026: One Wall Street Analyst Says Nope, Near 50% Gains on the Way",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-crashed-over-agentic-ai-132427512.html",
+                "headline": "Paychex (PAYX) Q1 Earnings and Revenues Beat Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-payx-q1-earnings-revenues-134002801.html",
                 "score": 0
             },
             {
