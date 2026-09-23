@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-23T17:10:27.882756+00:00",
+    "timestamp": "2026-09-23T17:22:39.058235+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "BENF",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-171133599.html",
+                "score": 3
+            },
             {
                 "symbol": "^TNX",
                 "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
@@ -18,9 +25,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "Sector Update: Consumer",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-170018323.html",
+                "headline": "McDonald\u2019s CEO Says \u2018Sticky\u2019 Inflation Is The New Operating Reality \u2014 Doesn\u2019t Expect Industry To See Robust Traffic Growth \u2018All Of A Sudden\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-ceo-says-sticky-inflation-171127026.html",
                 "score": 0
             },
             {
@@ -28,13 +35,6 @@
                 "headline": "Quantum Stocks: IonQ Claims Key Advance, Sets Nvidia Research Pact",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/25f8f839-8f60-3941-929e-351162a21eb0/quantum-stocks%3A-ionq-claims.html",
-                "score": 0
-            },
-            {
-                "symbol": "BENF",
-                "headline": "Beneficient Seeks Resolution to Eliminate About $130 Million of Disputed Debt Linked to Former CEO",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-resolution-eliminate-130-121152396.html",
                 "score": 0
             },
             {
@@ -52,6 +52,13 @@
                 "score": 0
             },
             {
+                "symbol": "ARTL",
+                "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+                "score": 0
+            },
+            {
                 "symbol": "WHLR",
                 "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
                 "publisher": "Associated Press",
@@ -66,31 +73,17 @@
                 "score": 0
             },
             {
-                "symbol": "ARTL",
-                "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
-                "score": 0
-            },
-            {
-                "symbol": "GIS",
-                "headline": "General Mills Q1 Earnings Beat Estimates on Pricing and Mix Benefits",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-q1-earnings-beat-160200844.html",
-                "score": 0
-            },
-            {
-                "symbol": "MSS",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
-                "score": 0
-            },
-            {
                 "symbol": "RCL",
                 "headline": "Iran \u201cOffered\u201d to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/iran-offered-reopen-strait-hormuz-160757064.html",
+                "score": 0
+            },
+            {
+                "symbol": "BFRG",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
                 "score": 0
             },
             {
@@ -101,24 +94,38 @@
                 "score": 0
             },
             {
-                "symbol": "APP",
-                "headline": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
+                "symbol": "MSS",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
                 "score": 0
             },
             {
-                "symbol": "QBTS",
-                "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
+                "symbol": "FTAI",
+                "headline": "FTAI Aviation Expands Engine Maintenance Partnership With GMF in Asia-Pacific",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-expands-engine-maintenance-104629808.html",
                 "score": 0
             },
             {
-                "symbol": "PANW",
-                "headline": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html",
+                "symbol": "SECZ",
+                "headline": "Cantor Fitzgerald Sees Big Upside in Securitize (SECZ): Is It Time to Buy?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-sees-big-upside-052416150.html",
+                "score": 0
+            },
+            {
+                "symbol": "EXK",
+                "headline": "Endeavour Silver Downgraded to Neutral at CIBC",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/endeavour-silver-downgraded-neutral-cibc-113935809.html",
+                "score": 0
+            },
+            {
+                "symbol": "TLT",
+                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
                 "score": 0
             },
             {
@@ -126,13 +133,6 @@
                 "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
-                "score": 0
-            },
-            {
-                "symbol": "PAYX",
-                "headline": "Why Paychex Stock Dropped Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-paychex-stock-dropped-today-165630735.html",
                 "score": 0
             },
             {
