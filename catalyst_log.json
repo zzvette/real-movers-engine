@@ -1,11 +1,11 @@
 {
-    "timestamp": "2026-09-23T09:51:58.011789+00:00",
+    "timestamp": "2026-09-23T10:00:43.604983+00:00",
     "catalysts": [
         {
             "symbol": "BFLY",
-            "headline": "Butterfly Network (BFLY) Gets New \u2018Buy\u2019 Reco, Climbs 22%; Hedge Fund Holdings More-Than-Double",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/healthcare/articles/butterfly-network-bfly-gets-buy-231418577.html",
+            "headline": "Butterfly Network (BFLY) Surges 22.0%: Is This an Indication of Further Gains?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/butterfly-network-bfly-surges-22-095300692.html",
             "score": 3
         },
         {
@@ -37,10 +37,17 @@
             "score": 0
         },
         {
+            "symbol": "QBTS",
+            "headline": "What Is Drawing Fresh Attention To D Wave Quantum (QBTS)?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/drawing-fresh-attention-d-wave-091633522.html",
+            "score": 0
+        },
+        {
             "symbol": "RCL",
-            "headline": "Royal Caribbean to Buy 50% Stake in Sandals Resorts for $3 Billion",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buy-50-stake-072902962.html",
+            "headline": "Royal Caribbean Buys 50% Stake in Sandals Resorts for $3 Billion",
+            "publisher": "Bloomberg",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buys-50-stake-082908054.html",
             "score": 0
         },
         {
