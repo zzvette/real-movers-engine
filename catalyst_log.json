@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T01:11:12.934046+00:00",
+    "timestamp": "2026-09-23T01:39:40.913810+00:00",
     "catalysts": [
         {
             "symbol": "JAGX",
@@ -16,6 +16,13 @@
             "score": 3
         },
         {
+            "symbol": "CYPH",
+            "headline": "Top Premarket Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111349678.html",
+            "score": 3
+        },
+        {
             "symbol": "RCL",
             "headline": "RCL Stock Drops To Worst Day In Six Months \u2014 Royal Caribbean Reportedly Nears $6B Deal For Sandals Resorts",
             "publisher": "Stocktwits",
@@ -27,13 +34,6 @@
             "headline": "QBTS vs. QNT: Buy, Hold or Sell as Quantum Valuations Reset?",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/qbts-vs-qnt-buy-hold-190000861.html",
-            "score": 2
-        },
-        {
-            "symbol": "JPM",
-            "headline": "JPMorgan Drops 3.8% as $2.6 Billion AI Deal Meets Geopolitics",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-drops-3-8-2-223204369.html",
             "score": 2
         },
         {
@@ -58,24 +58,10 @@
             "score": 0
         },
         {
-            "symbol": "GRAB",
-            "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/m/623c5c3f-6913-3d1b-8c72-02d83d4b68cc/grab%27s-chief-operating.html",
-            "score": 0
-        },
-        {
             "symbol": "RGTI",
-            "headline": "B. Riley Sees Major Catalyst for Quantum Stocks",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/economy/policy/articles/b-riley-sees-major-catalyst-174329611.html",
-            "score": 0
-        },
-        {
-            "symbol": "XNDU",
-            "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
+            "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
             "score": 0
         },
         {
@@ -86,17 +72,24 @@
             "score": 0
         },
         {
+            "symbol": "XNDU",
+            "headline": "Xanadu, AMD Launch Open-Source Platform for Quantum-Classical Computing",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-amd-launch-open-source-114453163.html",
+            "score": 0
+        },
+        {
+            "symbol": "GRAB",
+            "headline": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/623c5c3f-6913-3d1b-8c72-02d83d4b68cc/grab%27s-chief-operating.html",
+            "score": 0
+        },
+        {
             "symbol": "IPDN",
             "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
-            "score": 0
-        },
-        {
-            "symbol": "KBH",
-            "headline": "KB Home Q3 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/m/3b9a16cb-2749-33d0-a62f-16b3913c5f49/kb-home-q3-earnings-call.html",
             "score": 0
         },
         {
@@ -107,38 +100,45 @@
             "score": 0
         },
         {
-            "symbol": "ZEC-USD",
-            "headline": "Australia PM says draft social media rules about taking back control",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/5e74bbb2-8708-3a4e-b4ce-63848fdcf7c0/australia-pm-says-draft.html",
-            "score": 0
-        },
-        {
-            "symbol": "BFRG",
-            "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/iaccess-alpha-virtual-best-ideas-120000991.html",
-            "score": 0
-        },
-        {
-            "symbol": "WHLR",
-            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
-            "score": 0
-        },
-        {
-            "symbol": "MU",
-            "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html",
-            "score": 0
-        },
-        {
             "symbol": "IBRX",
             "headline": "ImmunityBio (IBRX) Meeting With Turkish President Fuels Expansion Hopes, Shares Climb 10%",
             "publisher": "Insider Monkey",
             "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-ibrx-meeting-turkish-president-002653592.html",
+            "score": 0
+        },
+        {
+            "symbol": "SCHW",
+            "headline": "ETF League Tables: Schwab Sheds Almost $15B",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/m/01737f8b-9145-35a3-8a2e-11b3e1edbed1/etf-league-tables%3A-schwab.html",
+            "score": 0
+        },
+        {
+            "symbol": "KBH",
+            "headline": "KB Home Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/m/3b9a16cb-2749-33d0-a62f-16b3913c5f49/kb-home-q3-earnings-call.html",
+            "score": 0
+        },
+        {
+            "symbol": "LEN",
+            "headline": "KB Home Q3 2026 Earnings: Live Updates of $KBH Earnings Call, Stock Forecast",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/m/83a55987-9d2f-3eae-ad42-2e534e17c671/kb-home-q3-2026-earnings%3A.html",
+            "score": 0
+        },
+        {
+            "symbol": "JPM",
+            "headline": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan\u2019s Card Empire",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/34446297-c69b-389e-900f-15a2becab9d2/private-credit-firms-are.html",
+            "score": 0
+        },
+        {
+            "symbol": "QUBT",
+            "headline": "Netflix downgraded, SanDisk initiated: Wall Street's top analyst calls",
+            "publisher": "The Fly",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-sandisk-initiated-wall-134453114.html",
             "score": 0
         }
     ]
