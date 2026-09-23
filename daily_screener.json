@@ -1,10 +1,10 @@
 {
-    "timestamp": "2026-09-23T16:23:34.494660+00:00",
+    "timestamp": "2026-09-23T16:35:30.623695+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "^TNX",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
                 "score": 3
@@ -17,24 +17,17 @@
                 "score": 3
             },
             {
-                "symbol": "IONQ",
-                "headline": "IonQ is in 'the beginning of an exciting era,' CEO says as Nvidia deal lifts stock",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/ionq-is-in-the-beginning-of-an-exciting-era-ceo-says-as-nvidia-deal-lifts-stock-154055369.html",
-                "score": 2
-            },
-            {
-                "symbol": "QBTS",
-                "headline": "Here's How QBTS Deepens Quantum Push With Funding and New Deals",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/heres-qbts-deepens-quantum-push-151300692.html",
-                "score": 2
-            },
-            {
                 "symbol": "MCD",
                 "headline": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
+                "score": 0
+            },
+            {
+                "symbol": "IONQ",
+                "headline": "Quantum Stocks: IonQ Claims Key Advance, Sets Nvidia Research Pact",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/25f8f839-8f60-3941-929e-351162a21eb0/quantum-stocks%3A-ionq-claims.html",
                 "score": 0
             },
             {
@@ -46,9 +39,9 @@
             },
             {
                 "symbol": "PLTR",
-                "headline": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a7a5530e-0e96-3ee8-8e45-c97bbf8a8aa2/palantir%2C-ibd-stock-of-the.html",
+                "headline": "Palantir Could Be Big Winner as Air Traffic Control Goes AI. The Stock Is Rising.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f5ec8191-e112-3e18-8fd9-e31fa9d673be/palantir-could-be-big-winner.html",
                 "score": 0
             },
             {
@@ -115,6 +108,13 @@
                 "score": 0
             },
             {
+                "symbol": "QBTS",
+                "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
+                "score": 0
+            },
+            {
                 "symbol": "PANW",
                 "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
                 "publisher": "24/7 Wall St.",
@@ -130,9 +130,9 @@
             },
             {
                 "symbol": "PAYX",
-                "headline": "Paychex Q1 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-q1-earnings-call-highlights-160334773.html",
+                "headline": "Paychex (PAYX) Brings WISE Hire To Recruiting As AI Push Reaches Hiring",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/paychex-payx-brings-wise-hire-161748039.html",
                 "score": 0
             },
             {
