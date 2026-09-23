@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T13:57:59.360417+00:00",
+    "timestamp": "2026-09-23T14:01:43.401200+00:00",
     "signals": {
         "catalysts": [
             {
@@ -95,9 +95,9 @@
             },
             {
                 "symbol": "CTAS",
-                "headline": "Cintas (CTAS) Q1 Earnings and Revenues Surpass Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cintas-ctas-q1-earnings-revenues-134501500.html",
+                "headline": "Stock Market Today (Sept. 23, 2026): Nasdaq futures edge higher as U.S.-Iran talks continue",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-23-134802225.html",
                 "score": 0
             },
             {
@@ -109,9 +109,16 @@
             },
             {
                 "symbol": "CBRL",
-                "headline": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-nasdaq.html",
+                "headline": "Stock Market Today (Sept. 23, 2026): Nasdaq futures edge higher as U.S.-Iran talks continue",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-23-134802225.html",
+                "score": 0
+            },
+            {
+                "symbol": "INFQ",
+                "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
                 "score": 0
             },
             {
@@ -123,9 +130,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "MCD vs. SBUX: Which Payout Will Still Be Growing in 20 Years?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mcd-vs-sbux-payout-still-132737788.html",
+                "headline": "McDonald\u2019s to invest $8.5B as part of Next strategy",
+                "publisher": "Restaurant Dive",
+                "link": "https://finance.yahoo.com/small-business/articles/mcdonald-invest-8-5b-part-135400601.html",
                 "score": 0
             },
             {
