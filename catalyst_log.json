@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T15:20:41.420234+00:00",
+    "timestamp": "2026-09-23T15:32:53.444266+00:00",
     "catalysts": [
         {
             "symbol": "HCTI",
@@ -16,13 +16,6 @@
             "score": 4
         },
         {
-            "symbol": "^TNX",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-            "score": 3
-        },
-        {
             "symbol": "VTGN",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
@@ -30,17 +23,24 @@
             "score": 3
         },
         {
+            "symbol": "QBTS",
+            "headline": "Here's How QBTS Deepens Quantum Push With Funding and New Deals",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/ai/articles/heres-qbts-deepens-quantum-push-151300692.html",
+            "score": 2
+        },
+        {
             "symbol": "IONQ",
-            "headline": "IonQ (IONQ) Will Deploy Superion 256 On Premise At A Major AI Research Center",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/ionq-ionq-deploy-superion-256-141753036.html",
+            "headline": "IonQ shares rise on NVIDIA quantum computing deployment",
+            "publisher": "Proactive",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ionq-shares-rise-nvidia-quantum-143600941.html",
             "score": 0
         },
         {
             "symbol": "MCD",
-            "headline": "McDonald's Unveils NEXT Strategy with New Financial Targets, Market Share Gains",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-apos-unveils-next-strategy-151049251.html",
+            "headline": "McDonald's plans $8.5 billion modernization by 2036",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/small-business/articles/mcdonalds-plans-8-5-billion-151911049.html",
             "score": 0
         },
         {
@@ -59,9 +59,9 @@
         },
         {
             "symbol": "PLTR",
-            "headline": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
+            "headline": "Michael Burry Shorts Micron, Palantir; Famed Investor Expects Chip 'Down Cycle'",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/a7a5530e-0e96-3ee8-8e45-c97bbf8a8aa2/palantir%2C-ibd-stock-of-the.html",
+            "link": "https://finance.yahoo.com/m/076a0931-404b-3d27-987a-133088648502/michael-burry-shorts-micron%2C.html",
             "score": 0
         },
         {
@@ -76,6 +76,13 @@
             "headline": "Pre-Markets Take a Breather from AI-Trade Resurgence",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-breather-ai-trade-142200210.html",
+            "score": 0
+        },
+        {
+            "symbol": "^TNX",
+            "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
             "score": 0
         },
         {
@@ -111,13 +118,6 @@
             "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
-            "score": 0
-        },
-        {
-            "symbol": "QBTS",
-            "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
             "score": 0
         },
         {
