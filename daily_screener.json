@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T17:00:21.610568+00:00",
+    "timestamp": "2026-09-23T17:10:27.882756+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-dow-off.html",
+                "headline": "Sector Update: Consumer",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-170018323.html",
                 "score": 0
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "CRWD",
-                "headline": "Stocks Slump as Wall Street Shifts Risk-Off",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f5272d73-a59d-3183-95a6-b29eb3c33f44/stocks-slump-as-wall-street.html",
+                "headline": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "PANW",
-                "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-while-large-154102562.html",
+                "headline": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html",
                 "score": 0
             },
             {
@@ -130,9 +130,9 @@
             },
             {
                 "symbol": "PAYX",
-                "headline": "Paychex (PAYX) Brings WISE Hire To Recruiting As AI Push Reaches Hiring",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/paychex-payx-brings-wise-hire-161748039.html",
+                "headline": "Why Paychex Stock Dropped Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-paychex-stock-dropped-today-165630735.html",
                 "score": 0
             },
             {
