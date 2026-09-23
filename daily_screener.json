@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T11:42:04.908256+00:00",
+    "timestamp": "2026-09-23T11:53:39.743775+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,13 +17,6 @@
                 "score": 3
             },
             {
-                "symbol": "LHSW",
-                "headline": "Lianhe Sowell International Group Ltd. Signs Strategic Cooperation Agreement with Subsidiary of Chery Group Holding Company to Advance Intelligent Equipment in China\u2019s Automotive Aftermarket",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/lianhe-sowell-international-group-ltd-120000363.html",
-                "score": 2
-            },
-            {
                 "symbol": "QNT",
                 "headline": "QBTS vs. QNT: Buy, Hold or Sell as Quantum Valuations Reset?",
                 "publisher": "Zacks",
@@ -32,9 +25,9 @@
             },
             {
                 "symbol": "JAGX",
-                "headline": "JAGX Stock Soars Over 10% Premarket After Best Day In Over 8 Years: What\u2019s Driving The Surge?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/jagx-stock-soars-over-10-080540914.html",
+                "headline": "Top Premarket Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114214925.html",
                 "score": 0
             },
             {
@@ -119,6 +112,13 @@
                 "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
                 "publisher": "ACCESS Newswire",
                 "link": "https://finance.yahoo.com/small-business/articles/iaccess-alpha-virtual-best-ideas-120000991.html",
+                "score": 0
+            },
+            {
+                "symbol": "LHSW",
+                "headline": "Top Premarket Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114214925.html",
                 "score": 0
             },
             {
