@@ -1,7 +1,21 @@
 {
-    "timestamp": "2026-09-23T11:12:53.483538+00:00",
+    "timestamp": "2026-09-23T11:28:05.071724+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "IONQ",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
+                "score": 3
+            },
+            {
+                "symbol": "VTGN",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
+                "score": 3
+            },
             {
                 "symbol": "BFLY",
                 "headline": "Butterfly Network (BFLY) Surges 22.0%: Is This an Indication of Further Gains?",
@@ -10,17 +24,24 @@
                 "score": 3
             },
             {
+                "symbol": "LHSW",
+                "headline": "Lianhe Sowell International Group Ltd. Signs Strategic Cooperation Agreement with Subsidiary of Chery Group Holding Company to Advance Intelligent Equipment in China\u2019s Automotive Aftermarket",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/lianhe-sowell-international-group-ltd-120000363.html",
+                "score": 2
+            },
+            {
+                "symbol": "QNT",
+                "headline": "QBTS vs. QNT: Buy, Hold or Sell as Quantum Valuations Reset?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/qbts-vs-qnt-buy-hold-190000861.html",
+                "score": 2
+            },
+            {
                 "symbol": "JAGX",
                 "headline": "JAGX Stock Soars Over 10% Premarket After Best Day In Over 8 Years: What\u2019s Driving The Surge?",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/healthcare/articles/jagx-stock-soars-over-10-080540914.html",
-                "score": 0
-            },
-            {
-                "symbol": "IONQ",
-                "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/energy/articles/classiq-israel-natural-gas-lines-110000652.html",
                 "score": 0
             },
             {
@@ -45,13 +66,6 @@
                 "score": 0
             },
             {
-                "symbol": "WHLR",
-                "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
-                "score": 0
-            },
-            {
                 "symbol": "IPDN",
                 "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
                 "publisher": "GlobeNewswire",
@@ -66,17 +80,17 @@
                 "score": 0
             },
             {
+                "symbol": "WHLR",
+                "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
+                "score": 0
+            },
+            {
                 "symbol": "DCOY",
                 "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
                 "publisher": "PR Newswire",
                 "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-issues-correction-221400537.html",
-                "score": 0
-            },
-            {
-                "symbol": "VTGN",
-                "headline": "Vistagen Announces Preliminary Positive Data from Open-Label Extension Portion of PALISADE-4 Phase 3 Study of Fasedienol for the Acute Treatment of Social Anxiety Disorder",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/vistagen-announces-preliminary-positive-data-123000034.html",
                 "score": 0
             },
             {
@@ -101,17 +115,10 @@
                 "score": 0
             },
             {
-                "symbol": "ACB",
-                "headline": "Bull of the Day: Aurora Cannabis (ACB)",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-aurora-cannabis-acb-083000253.html",
-                "score": 0
-            },
-            {
-                "symbol": "JPM",
-                "headline": "Market Chatter: JPMorgan Mulled Partnerships for Underwriting Rejected Applications for Some Co-Branded Credit Cards",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-mulled-partnerships-084409628.html",
+                "symbol": "BFRG",
+                "headline": "iAccess Alpha Virtual Best Ideas Fall Investment Conference Begins Today with Updated Presentation Schedule",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/small-business/articles/iaccess-alpha-virtual-best-ideas-120000991.html",
                 "score": 0
             },
             {
@@ -126,13 +133,6 @@
                 "headline": "Cancer Vaccines Market Anticipates Impressive Growth Trajectory at a CAGR of 36% During the Forecast Period (2026-2036) | DelveInsight",
                 "publisher": "PR Newswire",
                 "link": "https://finance.yahoo.com/healthcare/articles/cancer-vaccines-market-anticipates-impressive-143100937.html",
-                "score": 0
-            },
-            {
-                "symbol": "SMCI",
-                "headline": "Super Micro Computer (SMCI) Stock Moves 1.07%: What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-214507281.html",
                 "score": 0
             }
         ]
