@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T20:05:27.983769+00:00",
+    "timestamp": "2026-09-23T20:12:39.053383+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,6 +8,27 @@
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
                 "score": 3
+            },
+            {
+                "symbol": "VTGN",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
+                "score": 3
+            },
+            {
+                "symbol": "PLTR",
+                "headline": "Palantir Stock Rises 3% Despite Losing $875 Million FAA AI Deal: Here\u2019s Why",
+                "publisher": "Benzinga Prediction Markets",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-rises-3-despite-200529861.html",
+                "score": 2
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "SpaceX Drops 4% Amid Share Supply and Valuation Concerns; AST SpaceMobile Falls 6%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-drops-4-amid-share-200258181.html",
+                "score": 2
             },
             {
                 "symbol": "MCD",
@@ -28,13 +49,6 @@
                 "headline": "Beneficient Seeks to Eliminate Debt, Equity Linked to Former CEO",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-eliminate-debt-equity-192027909.html",
-                "score": 0
-            },
-            {
-                "symbol": "PLTR",
-                "headline": "Palantir Could Be Big Winner as Air Traffic Control Goes AI. The Stock Is Rising.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f5ec8191-e112-3e18-8fd9-e31fa9d673be/palantir-could-be-big-winner.html",
                 "score": 0
             },
             {
@@ -91,13 +105,6 @@
                 "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
                 "publisher": "StockStory",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
-                "score": 0
-            },
-            {
-                "symbol": "SPCX",
-                "headline": "Trump Disclosure Reveals Surprise SpaceX Stock Trades",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-disclosure-reveals-surprise-spacex-191836730.html",
                 "score": 0
             },
             {
