@@ -1,21 +1,7 @@
 {
-    "timestamp": "2026-09-23T14:39:22.416446+00:00",
+    "timestamp": "2026-09-23T14:50:46.405118+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "QBTS",
-                "headline": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html",
-                "score": 8
-            },
-            {
-                "symbol": "RGTI",
-                "headline": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html",
-                "score": 8
-            },
             {
                 "symbol": "QUBT",
                 "headline": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
@@ -52,10 +38,17 @@
                 "score": 0
             },
             {
-                "symbol": "BENF",
-                "headline": "Beneficient Seeks Resolution to Eliminate About $130 Million of Disputed Debt Linked to Former CEO",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-resolution-eliminate-130-121152396.html",
+                "symbol": "QBTS",
+                "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
+                "score": 0
+            },
+            {
+                "symbol": "GIS",
+                "headline": "Pre-Markets Take a Breather from AI-Trade Resurgence",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-breather-ai-trade-142200210.html",
                 "score": 0
             },
             {
@@ -88,9 +81,9 @@
             },
             {
                 "symbol": "CBRL",
-                "headline": "Pre-Markets Take a Breather from AI-Trade Resurgence",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-breather-ai-trade-142200210.html",
+                "headline": "Cracker Barrel Stock Rises After Earnings as Traffic Trends Improve",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/4b4f446a-ec4a-3898-8cd2-610f83522955/cracker-barrel-stock-rises.html",
                 "score": 0
             },
             {
@@ -102,9 +95,9 @@
             },
             {
                 "symbol": "PAYX",
-                "headline": "Compared to Estimates, Paychex (PAYX) Q1 Earnings: A Look at Key Metrics",
+                "headline": "Paychex Q1 Earnings & Revenues Surpass Estimates, Increase Y/Y",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-paychex-payx-q1-140001644.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-q1-earnings-revenues-surpass-143800573.html",
                 "score": 0
             },
             {
@@ -126,6 +119,13 @@
                 "headline": "Compared to Estimates, Cintas (CTAS) Q1 Earnings: A Look at Key Metrics",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-cintas-ctas-q1-140002455.html",
+                "score": 0
+            },
+            {
+                "symbol": "RGTI",
+                "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
                 "score": 0
             },
             {
