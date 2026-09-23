@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T16:46:51.776498+00:00",
+    "timestamp": "2026-09-23T16:54:45.856817+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "Update: McDonald's Shares Fall After $8.5 Billion Franchisee Support Plan",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-apos-shares-fall-8-164208596.html",
+                "headline": "McDonald's Just Put $8.5 Billion Behind Its Next Big Comeback",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-just-put-8-5-164839394.html",
                 "score": 0
             },
             {
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "PLTR",
-                "headline": "Palantir Could Be Big Winner as Air Traffic Control Goes AI. The Stock Is Rising.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f5ec8191-e112-3e18-8fd9-e31fa9d673be/palantir-could-be-big-winner.html",
+                "headline": "Palantir Just Got a Major Vote of Confidence From the FAA",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/palantir-just-got-major-vote-164923767.html",
                 "score": 0
             },
             {
