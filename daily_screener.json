@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T12:59:24.153149+00:00",
+    "timestamp": "2026-09-23T13:18:40.232029+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,17 +10,17 @@
                 "score": 3
             },
             {
-                "symbol": "QNT",
-                "headline": "QBTS vs. QNT: Buy, Hold or Sell as Quantum Valuations Reset?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/qbts-vs-qnt-buy-hold-190000861.html",
+                "symbol": "IMCC",
+                "headline": "IM Cannabis Announces Pricing of US$1.31 Million Registered Direct Offering of Common Shares",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/im-cannabis-announces-pricing-us-123700346.html",
                 "score": 2
             },
             {
                 "symbol": "IONQ",
-                "headline": "Sector Update: Tech",
+                "headline": "Sector Update: Tech Stocks Decline Premarket Wednesday",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/articles/sector-tech-125300294.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-premarket-130915053.html",
                 "score": 0
             },
             {
@@ -31,17 +31,17 @@
                 "score": 0
             },
             {
-                "symbol": "GIS",
-                "headline": "General Mills Q1 Earnings Beat Estimates as Revenue Reaches $4.4 Billion",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-q1-earnings-beat-121356542.html",
+                "symbol": "QBTS",
+                "headline": "Sector Update: Tech Stocks Decline Premarket Wednesday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-premarket-130915053.html",
                 "score": 0
             },
             {
-                "symbol": "QBTS",
-                "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
+                "symbol": "GIS",
+                "headline": "General Mills Bets on New Products, Marketing to Drive Turnaround",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-profit-sales-slip-113700951.html",
                 "score": 0
             },
             {
@@ -52,17 +52,17 @@
                 "score": 0
             },
             {
+                "symbol": "BENF",
+                "headline": "Beneficient Seeks Resolution to Eliminate About $130 Million of Disputed Debt Linked to Former CEO",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-resolution-eliminate-130-121152396.html",
+                "score": 0
+            },
+            {
                 "symbol": "WHLR",
                 "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
-                "score": 0
-            },
-            {
-                "symbol": "RCL",
-                "headline": "Royal Caribbean buys 50% stake in Sandals Resorts for $3 billion",
-                "publisher": "Quartz",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buys-50-stake-122620175.html",
                 "score": 0
             },
             {
@@ -73,45 +73,24 @@
                 "score": 0
             },
             {
+                "symbol": "RCL",
+                "headline": "Royal Caribbean buys 50% stake in Sandals Resorts for $3 billion",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buys-50-stake-122620175.html",
+                "score": 0
+            },
+            {
+                "symbol": "CTAS",
+                "headline": "Cintas Fiscal Q1 Adjusted Earnings, Revenue Rise; Raises Fiscal 2027 Guidance",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cintas-fiscal-q1-adjusted-earnings-125725596.html",
+                "score": 0
+            },
+            {
                 "symbol": "RGTI",
-                "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
-                "score": 0
-            },
-            {
-                "symbol": "DCOY",
-                "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-issues-correction-221400537.html",
-                "score": 0
-            },
-            {
-                "symbol": "INFQ",
-                "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
-                "score": 0
-            },
-            {
-                "symbol": "QUBT",
-                "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
-                "score": 0
-            },
-            {
-                "symbol": "CBRL",
-                "headline": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-nasdaq.html",
-                "score": 0
-            },
-            {
-                "symbol": "SRFM",
-                "headline": "Surf Air Mobility Signs OperatorOS Contract with SkyDance Air",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/articles/surf-air-mobility-signs-operatoros-104500728.html",
+                "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
                 "score": 0
             },
             {
@@ -122,24 +101,45 @@
                 "score": 0
             },
             {
-                "symbol": "XNDU",
-                "headline": "Xanadu Appoints Tara Deakin as Chief People Officer to Lead Next Phase of Global Growth",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-appoints-tara-deakin-chief-210100177.html",
+                "symbol": "CBRL",
+                "headline": "Sector Update: Consumer Stocks Mixed Pre-Bell Wednesday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-pre-131118457.html",
                 "score": 0
             },
             {
-                "symbol": "BFLY",
-                "headline": "Top 3 AI Healthcare Stocks With Revenue Growth Up To 24%",
+                "symbol": "INFQ",
+                "headline": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/top-3-ai-healthcare-stocks-111400178.html",
+                "link": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
                 "score": 0
             },
             {
-                "symbol": "SCHW",
-                "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
-                "publisher": "Pitchbook",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-48-million-reasons-083500492.html",
+                "symbol": "PAYX",
+                "headline": "Sector Update: Financial",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-130257544.html",
+                "score": 0
+            },
+            {
+                "symbol": "QUBT",
+                "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
+                "score": 0
+            },
+            {
+                "symbol": "MCD",
+                "headline": "McDonald's Plans $8.5 Billion in Franchisee Support Under New Growth Strategy",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/small-business/articles/mcdonald-apos-plans-8-5-130209613.html",
+                "score": 0
+            },
+            {
+                "symbol": "QNT",
+                "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
                 "score": 0
             }
         ]
