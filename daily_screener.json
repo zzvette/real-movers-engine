@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T15:44:53.021655+00:00",
+    "timestamp": "2026-09-23T15:53:24.832391+00:00",
     "signals": {
         "catalysts": [
             {
@@ -31,18 +31,25 @@
                 "score": 2
             },
             {
+                "symbol": "MCD",
+                "headline": "Top Midday Stories: McDonald's Plans $8.5 Billion in Franchisee Support; Morgan Stanley Staffer Accidentally Leaks Investment-Bank Deal List",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-mcdonald-apos-153952086.html",
+                "score": 2
+            },
+            {
+                "symbol": "RCL",
+                "headline": "Royal Caribbean Stock Fell 6% on the Sandals Report. Now It\u2019s a Signed $3 Billion Deal. Was the Selloff Justified?",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-stock-fell-6-151456608.html",
+                "score": 2
+            },
+            {
                 "symbol": "QBTS",
                 "headline": "Here's How QBTS Deepens Quantum Push With Funding and New Deals",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/technology/ai/articles/heres-qbts-deepens-quantum-push-151300692.html",
                 "score": 2
-            },
-            {
-                "symbol": "MCD",
-                "headline": "Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-small.html",
-                "score": 0
             },
             {
                 "symbol": "JAGX",
@@ -60,9 +67,9 @@
             },
             {
                 "symbol": "PLTR",
-                "headline": "Michael Burry Doubles Down Against Micron Stock",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-against-153431481.html",
+                "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-while-large-154102562.html",
                 "score": 0
             },
             {
@@ -74,16 +81,9 @@
             },
             {
                 "symbol": "GIS",
-                "headline": "Pre-Markets Take a Breather from AI-Trade Resurgence",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-breather-ai-trade-142200210.html",
-                "score": 0
-            },
-            {
-                "symbol": "RCL",
-                "headline": "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-group-falls-5-141638827.html",
+                "headline": "General Mills Confronts the AI Grocery Era",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/794ff3e5-88fd-3a25-b7db-6bda07da58c9/general-mills-confronts-the.html",
                 "score": 0
             },
             {
