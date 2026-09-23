@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-23T20:12:39.053383+00:00",
+    "timestamp": "2026-09-23T20:20:23.603525+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "ONCO",
+                "headline": "CORRECTED: Onconetix Provides Strategic Bridge Financing to Realbotix LLC in Support of Pending Acquisition",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/corrected-onconetix-provides-strategic-bridge-165000489.html",
+                "score": 4
+            },
             {
                 "symbol": "^TNX",
                 "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
@@ -59,13 +66,6 @@
                 "score": 0
             },
             {
-                "symbol": "ARTL",
-                "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
-                "score": 0
-            },
-            {
                 "symbol": "GOOG",
                 "headline": "Wall Street ends down as oil prices, Treasury yields rise",
                 "publisher": "Reuters",
@@ -73,10 +73,10 @@
                 "score": 0
             },
             {
-                "symbol": "BFRG",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+                "symbol": "ARTL",
+                "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
                 "score": 0
             },
             {
@@ -87,17 +87,10 @@
                 "score": 0
             },
             {
-                "symbol": "GOOGL",
-                "headline": "Wall Street ends down as oil prices, Treasury yields rise",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-muted-mideast-114116425.html",
-                "score": 0
-            },
-            {
-                "symbol": "TLT",
-                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+                "symbol": "BFRG",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
                 "score": 0
             },
             {
@@ -108,17 +101,31 @@
                 "score": 0
             },
             {
-                "symbol": "MSS",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+                "symbol": "GOOGL",
+                "headline": "Wall Street ends down as oil prices, Treasury yields rise",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-muted-mideast-114116425.html",
                 "score": 0
             },
             {
-                "symbol": "VOYG",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-174539338.html",
+                "symbol": "PANW",
+                "headline": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-looks-expensive-until-191655537.html",
+                "score": 0
+            },
+            {
+                "symbol": "TLT",
+                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+                "score": 0
+            },
+            {
+                "symbol": "^TYX",
+                "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
                 "score": 0
             },
             {
@@ -129,10 +136,10 @@
                 "score": 0
             },
             {
-                "symbol": "NLST",
-                "headline": "Can Netlist Sustain Q2 Momentum After 163% Revenue Growth?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/netlist-sustain-q2-momentum-163-120900209.html",
+                "symbol": "JPY=X",
+                "headline": "Japan's steep yield curve opens 'reverse carry' trade opportunity, Eastspring says",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/currencies/articles/japans-steep-yield-curve-opens-153834100.html",
                 "score": 0
             }
         ]
