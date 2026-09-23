@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T15:59:11.880672+00:00",
+    "timestamp": "2026-09-23T16:08:25.437678+00:00",
     "signals": {
         "catalysts": [
             {
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "PLTR",
-                "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-while-large-154102562.html",
+                "headline": "Why Palantir Stock Popped Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-popped-today-154949369.html",
                 "score": 0
             },
             {
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "GIS",
-                "headline": "General Mills Confronts the AI Grocery Era",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/794ff3e5-88fd-3a25-b7db-6bda07da58c9/general-mills-confronts-the.html",
+                "headline": "General Mills Q1 Earnings Beat Estimates on Pricing and Mix Benefits",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-q1-earnings-beat-160200844.html",
                 "score": 0
             },
             {
@@ -91,6 +91,13 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+                "score": 0
+            },
+            {
+                "symbol": "APP",
+                "headline": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
                 "score": 0
             },
             {
