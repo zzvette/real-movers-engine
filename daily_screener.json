@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T09:09:14.448366+00:00",
+    "timestamp": "2026-09-23T09:25:05.387053+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,10 +10,17 @@
                 "score": 3
             },
             {
+                "symbol": "CYPH",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111349678.html",
+                "score": 3
+            },
+            {
                 "symbol": "JAGX",
                 "headline": "JAGX Stock Soars Over 10% Premarket After Best Day In Over 8 Years: What\u2019s Driving The Surge?",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/m/54303962-5ddb-3b90-b518-2f55a6db1982/jagx-stock-soars-over-10%25.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/jagx-stock-soars-over-10-080540914.html",
                 "score": 0
             },
             {
@@ -31,13 +38,6 @@
                 "score": 0
             },
             {
-                "symbol": "RCL",
-                "headline": "Royal Caribbean to Buy 50% Stake in Sandals Resorts for $3 Billion",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buy-50-stake-072902962.html",
-                "score": 0
-            },
-            {
                 "symbol": "QBTS",
                 "headline": "D Wave Quantum (QBTS) Stock Looks Pricey Following Its Huge Three Year Run",
                 "publisher": "Simply Wall St.",
@@ -45,24 +45,17 @@
                 "score": 0
             },
             {
-                "symbol": "DCOY",
-                "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-issues-correction-221400537.html",
+                "symbol": "RCL",
+                "headline": "Royal Caribbean to Buy 50% Stake in Sandals Resorts for $3 Billion",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buy-50-stake-072902962.html",
                 "score": 0
             },
             {
-                "symbol": "RGTI",
-                "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
-                "score": 0
-            },
-            {
-                "symbol": "VKTX",
-                "headline": "These \u2018Moonshot\u2019 Biotech Stocks Could Break Out, Morgan Stanley Says. What Must Go Right.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f0ec4ae1-7dce-38f8-8f6a-48da376fdccc/these-%E2%80%98moonshot%E2%80%99-biotech.html",
+                "symbol": "WHLR",
+                "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
                 "score": 0
             },
             {
@@ -73,17 +66,10 @@
                 "score": 0
             },
             {
-                "symbol": "259960.KS",
-                "headline": "Is Chime Stock a Buy, Sell, or Hold After Nearly Doubling From Its 52-Week Low?",
+                "symbol": "RGTI",
+                "headline": "3 Reasons Rigetti Computing Stock Could Be a Trap, Not a Bargain",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/babfd697-5746-392b-b9ac-ae061be153ee/is-chime-stock-a-buy%2C-sell%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOFI",
-                "headline": "SoFi's Stablecoin Goes Live Across Mastercard's Network",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/sofis-stablecoin-goes-live-across-220507943.html",
+                "link": "https://finance.yahoo.com/m/35ed1275-1092-34eb-940e-fe551fc3a5fe/3-reasons-rigetti-computing.html",
                 "score": 0
             },
             {
@@ -94,6 +80,13 @@
                 "score": 0
             },
             {
+                "symbol": "DCOY",
+                "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-issues-correction-221400537.html",
+                "score": 0
+            },
+            {
                 "symbol": "XNDU",
                 "headline": "Xanadu Appoints Tara Deakin as Chief People Officer to Lead Next Phase of Global Growth",
                 "publisher": "GlobeNewswire",
@@ -101,24 +94,24 @@
                 "score": 0
             },
             {
-                "symbol": "SCHW",
-                "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
-                "publisher": "Pitchbook",
-                "link": "https://finance.yahoo.com/m/10d255c1-22c5-3707-ad12-4d8a0370b684/charles-schwab-has-48-million.html",
+                "symbol": "259960.KS",
+                "headline": "EIL secures $450m EPCM role for Dangote\u2019s refinery in Kenya",
+                "publisher": "Offshore Technology",
+                "link": "https://finance.yahoo.com/m/d406620b-7ba8-3234-9635-98a37b6a731b/eil-secures-%24450m-epcm-role.html",
                 "score": 0
             },
             {
-                "symbol": "IBRX",
-                "headline": "ImmunityBio (IBRX) Meeting With Turkish President Fuels Expansion Hopes, Shares Climb 10%",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-ibrx-meeting-turkish-president-002653592.html",
+                "symbol": "BB",
+                "headline": "BB Stock Nears 1-Month High: Daimler-Volvo Venture Hands BlackBerry Its Biggest QNX Win Ahead Of Earnings",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-nears-1-month-041445086.html",
                 "score": 0
             },
             {
-                "symbol": "XRP-USD",
-                "headline": "Is Chime Stock a Buy, Sell, or Hold After Nearly Doubling From Its 52-Week Low?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/babfd697-5746-392b-b9ac-ae061be153ee/is-chime-stock-a-buy%2C-sell%2C.html",
+                "symbol": "VTGN",
+                "headline": "Vistagen Announces Preliminary Positive Data from Open-Label Extension Portion of PALISADE-4 Phase 3 Study of Fasedienol for the Acute Treatment of Social Anxiety Disorder",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/vistagen-announces-preliminary-positive-data-123000034.html",
                 "score": 0
             },
             {
@@ -129,17 +122,24 @@
                 "score": 0
             },
             {
-                "symbol": "MU",
-                "headline": "Should You Buy Micron Before Sept. 30?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/44f65f1a-c1e2-39c2-80d7-58fec319a38f/should-you-buy-micron-before.html",
+                "symbol": "SCHW",
+                "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
+                "publisher": "Pitchbook",
+                "link": "https://finance.yahoo.com/m/10d255c1-22c5-3707-ad12-4d8a0370b684/charles-schwab-has-48-million.html",
                 "score": 0
             },
             {
-                "symbol": "BB",
-                "headline": "BB Stock Nears 1-Month High: Daimler-Volvo Venture Hands BlackBerry Its Biggest QNX Win Ahead Of Earnings",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/m/e15fa533-cf82-361a-aa5f-ecfba369c7d6/bb-stock-nears-1-month-high%3A.html",
+                "symbol": "JPM",
+                "headline": "Market Chatter: JPMorgan Mulled Partnerships For Underwriting Rejected Applications for Some Co-Branded Credit Cards",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-mulled-partnerships-084409628.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACB",
+                "headline": "Bull of the Day: Aurora Cannabis (ACB)",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-aurora-cannabis-acb-083000253.html",
                 "score": 0
             }
         ]
