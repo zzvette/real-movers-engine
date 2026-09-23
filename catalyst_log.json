@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-23T10:00:43.604983+00:00",
+    "timestamp": "2026-09-23T10:19:43.769494+00:00",
     "catalysts": [
         {
             "symbol": "BFLY",
             "headline": "Butterfly Network (BFLY) Surges 22.0%: Is This an Indication of Further Gains?",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/butterfly-network-bfly-surges-22-095300692.html",
-            "score": 3
-        },
-        {
-            "symbol": "CYPH",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111349678.html",
             "score": 3
         },
         {
@@ -30,17 +23,17 @@
             "score": 0
         },
         {
+            "symbol": "QBTS",
+            "headline": "D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-just-got-100501220.html",
+            "score": 0
+        },
+        {
             "symbol": "INOD",
             "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
             "publisher": "Simply Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
-            "score": 0
-        },
-        {
-            "symbol": "QBTS",
-            "headline": "What Is Drawing Fresh Attention To D Wave Quantum (QBTS)?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/drawing-fresh-attention-d-wave-091633522.html",
             "score": 0
         },
         {
@@ -72,31 +65,10 @@
             "score": 0
         },
         {
-            "symbol": "INFQ",
-            "headline": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/c5feeeb9-c2aa-3bc3-8339-4bf20dac6409/will-this-major-industry.html",
-            "score": 0
-        },
-        {
             "symbol": "DCOY",
             "headline": "Decoy Therapeutics, Inc. Issues Correction to Warrant Inducement Transaction Press Release",
             "publisher": "PR Newswire",
             "link": "https://finance.yahoo.com/healthcare/articles/decoy-therapeutics-inc-issues-correction-221400537.html",
-            "score": 0
-        },
-        {
-            "symbol": "XNDU",
-            "headline": "Xanadu Appoints Tara Deakin as Chief People Officer to Lead Next Phase of Global Growth",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-appoints-tara-deakin-chief-210100177.html",
-            "score": 0
-        },
-        {
-            "symbol": "BB",
-            "headline": "BB Stock Nears 1-Month High: Daimler-Volvo Venture Hands BlackBerry Its Biggest QNX Win Ahead Of Earnings",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-nears-1-month-041445086.html",
             "score": 0
         },
         {
@@ -107,6 +79,20 @@
             "score": 0
         },
         {
+            "symbol": "INFQ",
+            "headline": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/c5feeeb9-c2aa-3bc3-8339-4bf20dac6409/will-this-major-industry.html",
+            "score": 0
+        },
+        {
+            "symbol": "XNDU",
+            "headline": "Xanadu Appoints Tara Deakin as Chief People Officer to Lead Next Phase of Global Growth",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-appoints-tara-deakin-chief-210100177.html",
+            "score": 0
+        },
+        {
             "symbol": "QUBT",
             "headline": "RGTI's 108-Qubit Performance Hurdle Highlights Scaling Challenge Ahead",
             "publisher": "Zacks",
@@ -114,10 +100,10 @@
             "score": 0
         },
         {
-            "symbol": "SCHW",
-            "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
-            "publisher": "Pitchbook",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-48-million-reasons-083500492.html",
+            "symbol": "ACB",
+            "headline": "Bull of the Day: Aurora Cannabis (ACB)",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-aurora-cannabis-acb-083000253.html",
             "score": 0
         },
         {
@@ -128,10 +114,24 @@
             "score": 0
         },
         {
-            "symbol": "ACB",
-            "headline": "Bull of the Day: Aurora Cannabis (ACB)",
+            "symbol": "SCHW",
+            "headline": "Charles Schwab has 48 million reasons to think it can crack private markets",
+            "publisher": "Pitchbook",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-48-million-reasons-083500492.html",
+            "score": 0
+        },
+        {
+            "symbol": "SLS",
+            "headline": "Cancer Vaccines Market Anticipates Impressive Growth Trajectory at a CAGR of 36% During the Forecast Period (2026-2036) | DelveInsight",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/cancer-vaccines-market-anticipates-impressive-143100937.html",
+            "score": 0
+        },
+        {
+            "symbol": "SMCI",
+            "headline": "Super Micro Computer (SMCI) Stock Moves 1.07%: What You Should Know",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-aurora-cannabis-acb-083000253.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-214507281.html",
             "score": 0
         }
     ]
