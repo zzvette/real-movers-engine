@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-23T12:05:11.554007+00:00",
+    "timestamp": "2026-09-23T12:27:10.345982+00:00",
     "catalysts": [
-        {
-            "symbol": "IONQ",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
-            "score": 3
-        },
         {
             "symbol": "VTGN",
             "headline": "Top Premarket Gainers",
@@ -23,6 +16,13 @@
             "score": 2
         },
         {
+            "symbol": "IONQ",
+            "headline": "IonQ to Advance Quantum Supercomputing by Bringing First QPU to NVIDIA Accelerated Quantum Research Center",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ionq-advance-quantum-supercomputing-bringing-120000822.html",
+            "score": 0
+        },
+        {
             "symbol": "JAGX",
             "headline": "Top Premarket Decliners",
             "publisher": "MT Newswires",
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "GIS",
-            "headline": "General Mills' Fiscal Q1 Adjusted Earnings, Net Sales Decline; Fiscal 2027 Adjusted EPS Guidance Reiterated",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-apos-fiscal-q1-113616279.html",
+            "headline": "General Mills Q1 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-q1-earnings-call-120248549.html",
             "score": 0
         },
         {
@@ -101,9 +101,9 @@
         },
         {
             "symbol": "CBRL",
-            "headline": "Cracker Barrel's Fiscal Q4 Adjusted Earnings Rise, Revenue Falls",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-apos-fiscal-q4-113705518.html",
+            "headline": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-nasdaq.html",
             "score": 0
         },
         {
