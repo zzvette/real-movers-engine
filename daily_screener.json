@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T09:38:58.456665+00:00",
+    "timestamp": "2026-09-23T09:51:58.011789+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,6 +17,13 @@
                 "score": 3
             },
             {
+                "symbol": "JAGX",
+                "headline": "JAGX Stock Soars Over 10% Premarket After Best Day In Over 8 Years: What\u2019s Driving The Surge?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/jagx-stock-soars-over-10-080540914.html",
+                "score": 0
+            },
+            {
                 "symbol": "IONQ",
                 "headline": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
                 "publisher": "Stocktwits",
@@ -28,13 +35,6 @@
                 "headline": "Innodata (INOD) Stock Looks Expensive Relative To Current Earnings",
                 "publisher": "Simply Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-expensive-032039372.html",
-                "score": 0
-            },
-            {
-                "symbol": "QBTS",
-                "headline": "What Is Drawing Fresh Attention To D Wave Quantum (QBTS)?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/drawing-fresh-attention-d-wave-091633522.html",
                 "score": 0
             },
             {
@@ -87,17 +87,10 @@
                 "score": 0
             },
             {
-                "symbol": "259960.KS",
-                "headline": "Packsize names Eric Fisher as CTO",
-                "publisher": "Packaging Gateway",
-                "link": "https://finance.yahoo.com/m/a5cb5470-2f83-380d-a157-88ff670e1095/packsize-names-eric-fisher-as.html",
-                "score": 0
-            },
-            {
                 "symbol": "BB",
                 "headline": "BB Stock Nears 1-Month High: Daimler-Volvo Venture Hands BlackBerry Its Biggest QNX Win Ahead Of Earnings",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/m/e15fa533-cf82-361a-aa5f-ecfba369c7d6/bb-stock-nears-1-month-high%3A.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-nears-1-month-041445086.html",
                 "score": 0
             },
             {
