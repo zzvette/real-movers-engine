@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T17:59:35.202580+00:00",
+    "timestamp": "2026-09-23T18:11:01.615794+00:00",
     "catalysts": [
         {
             "symbol": "BENF",
@@ -24,9 +24,9 @@
         },
         {
             "symbol": "MCD",
-            "headline": "McDonald's to boost franchisees as inflation weighs on consumers",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/small-business/articles/mcdonalds-boost-franchisees-inflation-weighs-174412997.html",
+            "headline": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
             "score": 0
         },
         {
@@ -65,10 +65,17 @@
             "score": 0
         },
         {
+            "symbol": "CRWD",
+            "headline": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html",
+            "score": 0
+        },
+        {
             "symbol": "RCL",
-            "headline": "Iran \u201cOffered\u201d to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/iran-offered-reopen-strait-hormuz-160757064.html",
+            "headline": "Why Royal Caribbean (RCL) Stock Is Down Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-royal-caribbean-rcl-stock-180116037.html",
             "score": 0
         },
         {
