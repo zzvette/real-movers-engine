@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-23T16:08:25.437678+00:00",
+    "timestamp": "2026-09-23T16:23:34.494660+00:00",
     "catalysts": [
-        {
-            "symbol": "RDDT",
-            "headline": "I'm 52 And Make $207K A Year But Hate My Job\u2014 They\u2019re Offering Me $150K Plus Salary To Quit. Do I Take The Buyout?",
-            "publisher": "Benzinga",
-            "link": "https://finance.yahoo.com/markets/articles/im-52-207k-hate-job-120010532.html",
-            "score": 4
-        },
         {
             "symbol": "^TNX",
             "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting",
@@ -30,13 +23,6 @@
             "score": 2
         },
         {
-            "symbol": "RCL",
-            "headline": "Royal Caribbean Stock Fell 6% on the Sandals Report. Now It\u2019s a Signed $3 Billion Deal. Was the Selloff Justified?",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-stock-fell-6-151456608.html",
-            "score": 2
-        },
-        {
             "symbol": "QBTS",
             "headline": "Here's How QBTS Deepens Quantum Push With Funding and New Deals",
             "publisher": "Zacks",
@@ -45,16 +31,9 @@
         },
         {
             "symbol": "MCD",
-            "headline": "SBUX's Digital Menu Rollout Nears 90%: Can It Lift Afternoon Sales?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sbuxs-digital-menu-rollout-nears-154600868.html",
-            "score": 0
-        },
-        {
-            "symbol": "JAGX",
-            "headline": "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/two-biotechs-beaten-down-jaguar-150244696.html",
+            "headline": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
             "score": 0
         },
         {
@@ -66,9 +45,16 @@
         },
         {
             "symbol": "PLTR",
-            "headline": "Why Palantir Stock Popped Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-popped-today-154949369.html",
+            "headline": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/a7a5530e-0e96-3ee8-8e45-c97bbf8a8aa2/palantir%2C-ibd-stock-of-the.html",
+            "score": 0
+        },
+        {
+            "symbol": "JAGX",
+            "headline": "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/two-biotechs-beaten-down-jaguar-150244696.html",
             "score": 0
         },
         {
@@ -79,10 +65,38 @@
             "score": 0
         },
         {
+            "symbol": "CRWD",
+            "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-while-large-154102562.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARTL",
+            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+            "score": 0
+        },
+        {
             "symbol": "GIS",
             "headline": "General Mills Q1 Earnings Beat Estimates on Pricing and Mix Benefits",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-q1-earnings-beat-160200844.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSS",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+            "score": 0
+        },
+        {
+            "symbol": "RCL",
+            "headline": "Iran \u201cOffered\u201d to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/iran-offered-reopen-strait-hormuz-160757064.html",
             "score": 0
         },
         {
@@ -100,17 +114,10 @@
             "score": 0
         },
         {
-            "symbol": "PAYX",
-            "headline": "Paychex Q1 Earnings & Revenues Surpass Estimates, Increase Y/Y",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-q1-earnings-revenues-surpass-143800573.html",
-            "score": 0
-        },
-        {
-            "symbol": "PGY",
-            "headline": "Value Investing Legend Seth Klarman\u2019s New Non-AI Picks",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-seth-klarman-143834392.html",
+            "symbol": "PANW",
+            "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-while-large-154102562.html",
             "score": 0
         },
         {
@@ -121,24 +128,17 @@
             "score": 0
         },
         {
-            "symbol": "SRFM",
-            "headline": "Surf Air Mobility Signs OperatorOS Contract with SkyDance Air",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/articles/surf-air-mobility-signs-operatoros-104500728.html",
+            "symbol": "PAYX",
+            "headline": "Paychex Q1 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-q1-earnings-call-highlights-160334773.html",
             "score": 0
         },
         {
-            "symbol": "GCDT",
-            "headline": "Green Circle Decarbonize Technology Limited Announces 1-for-6 Share Consolidation to Become Effective on October 7, 2026",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/green-circle-decarbonize-technology-limited-125500714.html",
-            "score": 0
-        },
-        {
-            "symbol": "INOD",
-            "headline": "Strength Seen in Innodata Inc (INOD): Can Its 14.6% Jump Turn into More Strength?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-innodata-inc-inod-153700356.html",
+            "symbol": "PGY",
+            "headline": "Value Investing Legend Seth Klarman\u2019s New Non-AI Picks",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-seth-klarman-143834392.html",
             "score": 0
         }
     ]
