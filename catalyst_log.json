@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T23:09:44.887662+00:00",
+    "timestamp": "2026-09-23T23:23:01.069016+00:00",
     "catalysts": [
         {
             "symbol": "^TNX",
@@ -80,9 +80,9 @@
         },
         {
             "symbol": "SFIX",
-            "headline": "Stitch Fix, Inc. Q4 2026 Earnings: Live Updates of $SFIX Earnings Call, Stock Forecast",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stitch-fix-inc-q4-2026-223512193.html",
+            "headline": "Stitch Fix Q4 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stitch-fix-q4-earnings-call-230229875.html",
             "score": 0
         },
         {
@@ -115,9 +115,9 @@
         },
         {
             "symbol": "NEOV",
-            "headline": "NeoVolta Files $200 Million Mixed Shelf",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/neovolta-files-200-million-mixed-212640183.html",
+            "headline": "NeoVolta Q4 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/energy/articles/neovolta-q4-earnings-call-highlights-230228784.html",
             "score": 0
         },
         {
