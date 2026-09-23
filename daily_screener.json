@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-09-23T18:11:01.615794+00:00",
+    "timestamp": "2026-09-23T18:26:37.806989+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "BENF",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-171133599.html",
-                "score": 3
-            },
             {
                 "symbol": "^TNX",
                 "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+                "score": 3
+            },
+            {
+                "symbol": "BENF",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-171133599.html",
                 "score": 3
             },
             {
@@ -24,17 +24,24 @@
                 "score": 3
             },
             {
+                "symbol": "SECZ",
+                "headline": "Securitize Stock Jumps 12% as Cantor Bets on a Tokenization Boom",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/4d277d66-8801-3298-9a87-aa7d091e8669/securitize-stock-jumps-12%25-as.html",
+                "score": 3
+            },
+            {
                 "symbol": "MCD",
-                "headline": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
+                "headline": "McDonald\u2019s CEO says low traffic and high inflation are here to stay",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/economy/articles/mcdonald-ceo-says-low-traffic-181005730.html",
                 "score": 0
             },
             {
                 "symbol": "IONQ",
-                "headline": "Why IonQ (IONQ) Stock Is Trading Up Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-stock-trading-171702930.html",
+                "headline": "The Quantum Industry\u2019s Biggest Event Kicks Off Today. What It Means for Stocks.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/2b5b972d-9a3c-3dd0-8fa6-fee81ecd2ae6/the-quantum-industry%E2%80%99s.html",
                 "score": 0
             },
             {
@@ -45,17 +52,24 @@
                 "score": 0
             },
             {
-                "symbol": "JAGX",
-                "headline": "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/two-biotechs-beaten-down-jaguar-150244696.html",
-                "score": 0
-            },
-            {
                 "symbol": "ARTL",
                 "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+                "score": 0
+            },
+            {
+                "symbol": "TLT",
+                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+                "score": 0
+            },
+            {
+                "symbol": "GOOG",
+                "headline": "Dell Gains 1.4% as $999 Googlebook Tests Consumer AI Margins",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/dell-gains-1-4-999-182436587.html",
                 "score": 0
             },
             {
@@ -66,10 +80,10 @@
                 "score": 0
             },
             {
-                "symbol": "CRWD",
-                "headline": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html",
+                "symbol": "JAGX",
+                "headline": "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/two-biotechs-beaten-down-jaguar-150244696.html",
                 "score": 0
             },
             {
@@ -87,31 +101,31 @@
                 "score": 0
             },
             {
-                "symbol": "HCTI",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+                "symbol": "^TYX",
+                "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
                 "score": 0
             },
             {
-                "symbol": "MSS",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039174.html",
+                "symbol": "NLST",
+                "headline": "Can Netlist Sustain Q2 Momentum After 163% Revenue Growth?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/netlist-sustain-q2-momentum-163-120900209.html",
                 "score": 0
             },
             {
-                "symbol": "FTAI",
-                "headline": "FTAI Aviation Expands Engine Maintenance Partnership With GMF in Asia-Pacific",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-expands-engine-maintenance-104629808.html",
+                "symbol": "CRWD",
+                "headline": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html",
                 "score": 0
             },
             {
-                "symbol": "SECZ",
-                "headline": "Cantor Fitzgerald Sees Big Upside in Securitize (SECZ): Is It Time to Buy?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-sees-big-upside-052416150.html",
+                "symbol": "GOOGL",
+                "headline": "Dell Gains 1.4% as $999 Googlebook Tests Consumer AI Margins",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/dell-gains-1-4-999-182436587.html",
                 "score": 0
             },
             {
@@ -122,24 +136,10 @@
                 "score": 0
             },
             {
-                "symbol": "TLT",
-                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
-                "score": 0
-            },
-            {
-                "symbol": "IPDN",
-                "headline": "Professional Diversity Network Launches PDN Intelligence to Advance GPU-Powered AI Infrastructure",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/professional-diversity-network-launches-pdn-111800727.html",
-                "score": 0
-            },
-            {
-                "symbol": "PGY",
-                "headline": "Value Investing Legend Seth Klarman\u2019s New Non-AI Picks",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-seth-klarman-143834392.html",
+                "symbol": "SPY",
+                "headline": "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-lending-stocks-slide-while-180733903.html",
                 "score": 0
             }
         ]
