@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T12:27:10.345982+00:00",
+    "timestamp": "2026-09-23T12:46:55.559727+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "IONQ",
-                "headline": "IonQ to Advance Quantum Supercomputing by Bringing First QPU to NVIDIA Accelerated Quantum Research Center",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/ionq-advance-quantum-supercomputing-bringing-120000822.html",
+                "headline": "Intel CEO Just Got a Real-World Test of His Quantum Vision",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-just-got-real-124138918.html",
                 "score": 0
             },
             {
@@ -32,16 +32,16 @@
             },
             {
                 "symbol": "GIS",
-                "headline": "General Mills Q1 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-q1-earnings-call-120248549.html",
+                "headline": "General Mills Q1 Earnings Beat Estimates as Revenue Reaches $4.4 Billion",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-q1-earnings-beat-121356542.html",
                 "score": 0
             },
             {
                 "symbol": "QBTS",
-                "headline": "CGI, D-Wave Partner to Further Advance Quantum Adoption",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cgi-d-wave-partner-further-105507167.html",
+                "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
                 "score": 0
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "RCL",
-                "headline": "Royal Caribbean to Acquire 50% Stake in Sandals and Beaches Resorts for About $3 Billion",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-acquire-50-stake-101143838.html",
+                "headline": "Royal Caribbean buys 50% stake in Sandals Resorts for $3 billion",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-buys-50-stake-122620175.html",
                 "score": 0
             },
             {
@@ -74,9 +74,9 @@
             },
             {
                 "symbol": "RGTI",
-                "headline": "Rigetti Computing (RGTI) Stock Looks Fully Valued Next To Its Book Value",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-rgti-stock-looks-101651072.html",
+                "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
                 "score": 0
             },
             {
@@ -95,16 +95,16 @@
             },
             {
                 "symbol": "QUBT",
-                "headline": "RGTI's 108-Qubit Performance Hurdle Highlights Scaling Challenge Ahead",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/rgtis-108-qubit-performance-hurdle-173200159.html",
+                "headline": "IonQ Soars 10% After Breakthrough Sends Quantum Stocks Higher",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-soars-10-breakthrough-sends-122924771.html",
                 "score": 0
             },
             {
                 "symbol": "CBRL",
-                "headline": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-nasdaq.html",
+                "headline": "Cracker Barrel Old Country Store (CBRL) Q4 Earnings and Revenues Surpass Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-123012332.html",
                 "score": 0
             },
             {
