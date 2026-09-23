@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T02:41:07.323715+00:00",
+    "timestamp": "2026-09-23T03:11:37.461415+00:00",
     "signals": {
         "catalysts": [
             {
@@ -21,6 +21,13 @@
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111349678.html",
+                "score": 3
+            },
+            {
+                "symbol": "ONON",
+                "headline": "On Holding (ONON) Outlines Ambitious Goals and $1B Buyback, Jumps 7.6%",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-outlines-ambitious-goals-025141918.html",
                 "score": 3
             },
             {
@@ -94,6 +101,13 @@
                 "score": 0
             },
             {
+                "symbol": "ZEC-USD",
+                "headline": "Mongolian herders enlist new tech against harsher, drier climate",
+                "publisher": "AFP",
+                "link": "https://finance.yahoo.com/m/9d1191d7-37c1-3894-bbe3-b885dec3e259/mongolian-herders-enlist-new.html",
+                "score": 0
+            },
+            {
                 "symbol": "CSCO",
                 "headline": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
                 "publisher": "Investor's Business Daily",
@@ -119,13 +133,6 @@
                 "headline": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/c5feeeb9-c2aa-3bc3-8339-4bf20dac6409/will-this-major-industry.html",
-                "score": 0
-            },
-            {
-                "symbol": "ONON",
-                "headline": "On Holding (ONON) Approves a $1 Billion Buyback Alongside its 2029 Targets",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-approves-1-billion-223549769.html",
                 "score": 0
             },
             {
