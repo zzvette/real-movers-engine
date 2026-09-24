@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T01:11:14.420617+00:00",
+    "timestamp": "2026-09-24T01:40:46.620129+00:00",
     "catalysts": [
         {
             "symbol": "^TNX",
@@ -7,13 +7,6 @@
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
             "score": 3
-        },
-        {
-            "symbol": "GRML",
-            "headline": "Greenland Mines (GRML) Applauds Signing of U.S.-Denmark-Greenland Security Agreement",
-            "publisher": "NewMediaWire",
-            "link": "https://finance.yahoo.com/energy/articles/greenland-mines-grml-applauds-signing-190000542.html",
-            "score": 2
         },
         {
             "symbol": "MCD",
@@ -37,13 +30,6 @@
             "score": 0
         },
         {
-            "symbol": "PLTR",
-            "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
-            "score": 0
-        },
-        {
             "symbol": "U",
             "headline": "How Much Should One Number Worry AppLovin Stock Holders?",
             "publisher": "Trefis",
@@ -51,10 +37,10 @@
             "score": 0
         },
         {
-            "symbol": "FSLY",
-            "headline": "Fastly (FSLY) Outlines 14-21% Growth Target, Shares Climb 14%",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-outlines-14-21-232122435.html",
+            "symbol": "PLTR",
+            "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
             "score": 0
         },
         {
@@ -72,21 +58,14 @@
             "score": 0
         },
         {
+            "symbol": "FSLY",
+            "headline": "Fastly (FSLY) Outlines 14-21% Growth Target, Shares Climb 14%",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-outlines-14-21-232122435.html",
+            "score": 0
+        },
+        {
             "symbol": "GRAL",
-            "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
-            "score": 0
-        },
-        {
-            "symbol": "P",
-            "headline": "Everpure Unveils Data-First AI Strategy, Targets $21B Intelligence Market",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-unveils-data-first-ai-010219573.html",
-            "score": 0
-        },
-        {
-            "symbol": "PANW",
             "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
@@ -100,24 +79,17 @@
             "score": 0
         },
         {
-            "symbol": "CRWD",
-            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+            "symbol": "PANW",
+            "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
             "score": 0
         },
         {
-            "symbol": "GOOG",
-            "headline": "Alphabet Inc. (GOOG) Dips More Than Broader Market: What You Should Know",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-dips-more-214504286.html",
-            "score": 0
-        },
-        {
-            "symbol": "^TYX",
-            "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
+            "symbol": "P",
+            "headline": "Everpure Unveils Data-First AI Strategy, Targets $21B Intelligence Market",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-unveils-data-first-ai-010219573.html",
             "score": 0
         },
         {
@@ -128,17 +100,45 @@
             "score": 0
         },
         {
-            "symbol": "MSFT",
-            "headline": "AI expert reveals the jobs most likely to survive automation",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/ai/articles/ai-expert-reveals-jobs-most-000600402.html",
-            "score": 0
-        },
-        {
             "symbol": "GOOGL",
             "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-outlook-remains-upbeat-closer-220500751.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOG",
+            "headline": "Alphabet Inc. (GOOG) Dips More Than Broader Market: What You Should Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-dips-more-214504286.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRWD",
+            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+            "score": 0
+        },
+        {
+            "symbol": "JPY=X",
+            "headline": "AI Rally, Weaker Yen Set the Stage for Japan\u2019s Market Return",
+            "publisher": "Bloomberg",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ai-rally-weaker-yen-set-224438925.html",
+            "score": 0
+        },
+        {
+            "symbol": "APP",
+            "headline": "AppLovin (APP) Dips More Than Broader Market: What You Should Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-dips-more-broader-214503655.html",
+            "score": 0
+        },
+        {
+            "symbol": "SPY",
+            "headline": "Netflix Is Down 42% in a Year and the Investor Who Exited in June Just Bought Back In",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-down-42-investor-exited-000825050.html",
             "score": 0
         }
     ]
