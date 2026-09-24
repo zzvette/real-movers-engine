@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T11:14:52.082091+00:00",
+    "timestamp": "2026-09-24T11:30:00.273573+00:00",
     "catalysts": [
         {
             "symbol": "^TNX",
@@ -13,13 +13,6 @@
             "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-surges-nearly-031444891.html",
-            "score": 3
-        },
-        {
-            "symbol": "ATYR",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
             "score": 3
         },
         {
@@ -72,15 +65,8 @@
             "score": 0
         },
         {
-            "symbol": "TLT",
-            "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "publisher": "etf.com",
-            "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
-            "score": 0
-        },
-        {
             "symbol": "META",
-            "headline": "Dow Jones Futures Fall As Treasury Yields Keep Rising Ahead Of Trump-Xi Summit",
+            "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Trump-Xi Summit On Tap.",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
             "score": 0
@@ -94,16 +80,16 @@
         },
         {
             "symbol": "^TYX",
-            "headline": "Wall St futures fall on Middle East uncertainties ahead of Trump-Xi talks",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
+            "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Trump-Xi Summit On Tap.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
             "score": 0
         },
         {
             "symbol": "P",
-            "headline": "Citigroup Adjusts Price Target on Everpure to $160 From $130, Keeps Buy Rating",
+            "headline": "Northland Securities Adjusts Everpure Price Target to $167 From $128, Maintains Outperform Rating",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-everpure-094023398.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/northland-securities-adjusts-everpure-price-112345678.html",
             "score": 0
         },
         {
