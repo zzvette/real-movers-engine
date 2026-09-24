@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T18:00:57.996297+00:00",
+    "timestamp": "2026-09-24T18:13:47.668467+00:00",
     "signals": {
         "catalysts": [
             {
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "NBIS",
-                "headline": "AI ETFs to Buy Now as Neocloud Reshapes Cloud Infrastructure",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/ai-etfs-buy-now-neocloud-154700136.html",
+                "headline": "Nebius Stock Soars 8% as BNP Paribas Delivers Massive Price Target Hike",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-soars-8-bnp-180550903.html",
                 "score": 0
             },
             {
@@ -137,9 +137,9 @@
             },
             {
                 "symbol": "SBUX",
-                "headline": "Starbucks store closings. 250 Starbucks closing by end of the week",
-                "publisher": "App.com | Asbury Park Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-store-closings-250-starbucks-162715514.html",
+                "headline": "Starbucks to close 250 more cafes in North America",
+                "publisher": "AFP",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-close-250-more-cafes-175330462.html",
                 "score": 0
             }
         ]
