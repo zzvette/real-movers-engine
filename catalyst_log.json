@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T00:15:15.795638+00:00",
+    "timestamp": "2026-09-24T00:45:09.801520+00:00",
     "catalysts": [
         {
             "symbol": "^TNX",
@@ -9,11 +9,11 @@
             "score": 3
         },
         {
-            "symbol": "VTGN",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110722353.html",
-            "score": 3
+            "symbol": "GRML",
+            "headline": "Greenland Mines (GRML) Applauds Signing of U.S.-Denmark-Greenland Security Agreement",
+            "publisher": "NewMediaWire",
+            "link": "https://finance.yahoo.com/energy/articles/greenland-mines-grml-applauds-signing-190000542.html",
+            "score": 2
         },
         {
             "symbol": "MCD",
@@ -30,6 +30,13 @@
             "score": 0
         },
         {
+            "symbol": "META",
+            "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
+            "score": 0
+        },
+        {
             "symbol": "PLTR",
             "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
             "publisher": "Investor's Business Daily",
@@ -37,10 +44,10 @@
             "score": 0
         },
         {
-            "symbol": "MSFT",
-            "headline": "AI expert reveals the jobs most likely to survive automation",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/ai/articles/ai-expert-reveals-jobs-most-000600402.html",
+            "symbol": "U",
+            "headline": "How Much Should One Number Worry AppLovin Stock Holders?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-one-number-worry-applovin-212121304.html",
             "score": 0
         },
         {
@@ -58,10 +65,24 @@
             "score": 0
         },
         {
-            "symbol": "ARTL",
-            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+            "symbol": "WETO",
+            "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/technology/ai/articles/wetour-robotics-launches-vantrapower-enter-142215237.html",
+            "score": 0
+        },
+        {
+            "symbol": "GRAL",
+            "headline": "Dow Jones Futures: Stocks Fall As Yields Soar, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html",
+            "score": 0
+        },
+        {
+            "symbol": "P",
+            "headline": "Everpure Maps AI, Hyperscale Push as It Targets $7B in Fiscal 2028 Revenue",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-maps-ai-hyperscale-push-000201991.html",
             "score": 0
         },
         {
@@ -79,10 +100,10 @@
             "score": 0
         },
         {
-            "symbol": "SFIX",
-            "headline": "Stitch Fix Q4 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stitch-fix-q4-earnings-call-230229875.html",
+            "symbol": "CRWD",
+            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
             "score": 0
         },
         {
@@ -93,52 +114,31 @@
             "score": 0
         },
         {
-            "symbol": "NCPL",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "symbol": "^TYX",
+            "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
             "score": 0
         },
         {
-            "symbol": "P",
-            "headline": "Everpure Maps AI, Hyperscale Push as It Targets $7B in Fiscal 2028 Revenue",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-maps-ai-hyperscale-push-000201991.html",
-            "score": 0
-        },
-        {
-            "symbol": "U",
-            "headline": "How Much Should One Number Worry AppLovin Stock Holders?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/much-one-number-worry-applovin-212121304.html",
-            "score": 0
-        },
-        {
-            "symbol": "NEOV",
-            "headline": "NeoVolta Q4 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/energy/articles/neovolta-q4-earnings-call-highlights-230228784.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRWD",
-            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
+            "symbol": "ABNB",
+            "headline": "Why LendingTree (TREE) Shares Are Sliding Today",
             "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-lendingtree-tree-shares-sliding-205005493.html",
             "score": 0
         },
         {
-            "symbol": "WHLR",
-            "headline": "Wheeler Real Estate: Q2 Earnings Snapshot",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/real-estate/articles/wheeler-real-estate-q2-earnings-203712621.html",
+            "symbol": "MSFT",
+            "headline": "AI expert reveals the jobs most likely to survive automation",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ai-expert-reveals-jobs-most-000600402.html",
             "score": 0
         },
         {
-            "symbol": "FUL",
-            "headline": "Here's What Key Metrics Tell Us About H. B. Fuller (FUL) Q3 Earnings",
+            "symbol": "GOOGL",
+            "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-213001894.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-outlook-remains-upbeat-closer-220500751.html",
             "score": 0
         }
     ]
