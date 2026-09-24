@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T19:00:38.755833+00:00",
+    "timestamp": "2026-09-24T19:10:15.164891+00:00",
     "catalysts": [
         {
             "symbol": "UTWO",
@@ -20,6 +20,13 @@
             "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-rally-buying-spreads-175256864.html",
+            "score": 3
+        },
+        {
+            "symbol": "BB",
+            "headline": "BlackBerry Ltd (BB) (Q2 2027) Earnings Call Highlights: Record QNX Revenue and Raised Full-Year ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-ltd-bb-q2-2027-190036252.html",
             "score": 3
         },
         {
@@ -73,9 +80,9 @@
         },
         {
             "symbol": "CRWV",
-            "headline": "CoreWeave and Nebius Score Upgrades",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/5313e83c-952a-3c4c-9bb3-c6ce8ad606e5/coreweave-and-nebius-score.html",
+            "headline": "Most Investors Are Chasing Flashy IPOs. CoreWeave Is the One I Predict Will Outperform by 2028.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/most-investors-chasing-flashy-ipos-185400435.html",
             "score": 0
         },
         {
@@ -90,13 +97,6 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
-            "score": 0
-        },
-        {
-            "symbol": "BB",
-            "headline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html",
             "score": 0
         },
         {
