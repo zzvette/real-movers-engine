@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T15:12:55.681155+00:00",
+    "timestamp": "2026-09-24T15:27:15.579323+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,16 +25,16 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Why Oracle Stock Just Dropped",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-just-dropped-150629247.html",
+                "headline": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle-seeks-%E2%80%98force-majeure%E2%80%99.html",
                 "score": 0
             },
             {
                 "symbol": "P",
-                "headline": "Everpure Stock Soars To Record High \u2014 Top Street Target Sees 64% Upside On Stronger Growth Outlook",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-stock-soars-record-high-150453290.html",
+                "headline": "Why Everpure Stock Is Surging To Record Highs",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0b0e6748-fd56-3711-aa2b-2a62187fa54f/why-everpure-stock-is-surging.html",
                 "score": 0
             },
             {
@@ -74,16 +74,16 @@
             },
             {
                 "symbol": "BE",
-                "headline": "Bloom Energy Corporation (BE): A Critical Player in AI Buildout",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-corporation-critical-player-144259726.html",
+                "headline": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle-seeks-%E2%80%98force-majeure%E2%80%99.html",
                 "score": 0
             },
             {
                 "symbol": "PFSA",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
+                "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "FRVO",
-                "headline": "Fervo Starts Power Generation at Utah Geothermal Flagship",
-                "publisher": "Oilprice.com",
-                "link": "https://finance.yahoo.com/energy/articles/fervo-starts-power-generation-utah-140404103.html",
+                "headline": "Fervo Energy Stock Rises. The Google Partner Hits a Geothermal Milestone.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/80cfe11a-2fab-3fb9-a7e9-d5bbc01d7fe4/fervo-energy-stock-rises.-the.html",
                 "score": 0
             },
             {
