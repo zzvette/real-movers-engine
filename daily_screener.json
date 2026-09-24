@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T21:46:45.135709+00:00",
+    "timestamp": "2026-09-24T21:56:57.553836+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,13 +8,6 @@
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
                 "score": 3
-            },
-            {
-                "symbol": "AKAM",
-                "headline": "Akamai Technologies Signs $11.6 Billion, Seven-Year Cloud Deal With Anthropic",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/articles/akamai-technologies-signs-11-6-211515171.html",
-                "score": 2
             },
             {
                 "symbol": "ORCL",
@@ -45,6 +38,13 @@
                 "score": 0
             },
             {
+                "symbol": "AKAM",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
+                "score": 0
+            },
+            {
                 "symbol": "MRNA",
                 "headline": "Why Did META, MRNA, OKTA Stocks Surge To 52-Week Highs Today?",
                 "publisher": "Stocktwits",
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "P",
-                "headline": "Why Everpure Stock Popped Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-everpure-stock-popped-today-212737151.html",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
                 "score": 0
             },
             {
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "FSLR",
-                "headline": "FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh \u2014 Peers Enphase, SolarEdge Also Down",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-hits-fresh-52-201312995.html",
+                "headline": "First Solar (FSLR) Suffers a Larger Drop Than the General Market: Key Insights",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-suffers-larger-204503545.html",
                 "score": 0
             },
             {
@@ -109,9 +109,9 @@
             },
             {
                 "symbol": "MGM",
-                "headline": "Barry Diller Drops His $18.8 Billion Bid for MGM Resorts",
-                "publisher": "Moby",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/barry-diller-drops-18-8-194752861.html",
+                "headline": "MGM Resorts Eyeing Bid for Barry Diller\u2019s People Incorporated",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/cf5216c6-18c4-39b4-859d-939c9539cbbb/mgm-resorts-eyeing-bid-for.html",
                 "score": 0
             },
             {
