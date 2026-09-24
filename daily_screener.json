@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T17:33:26.833362+00:00",
+    "timestamp": "2026-09-24T17:43:03.333061+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Sector Update: Tech",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-171435416.html",
+                "headline": "Oracle Stock Plunges After Project Jupiter Warning Threatens 2028 AI Data Center Target",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-plunges-project-jupiter-174218276.html",
                 "score": 0
             },
             {
@@ -66,13 +66,6 @@
                 "score": 0
             },
             {
-                "symbol": "GLND",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
-                "score": 0
-            },
-            {
                 "symbol": "BB",
                 "headline": "BlackBerry Limited Q2 2027 Earnings Call Summary",
                 "publisher": "Moby",
@@ -88,9 +81,9 @@
             },
             {
                 "symbol": "ARM",
-                "headline": "Bank of America Just Told Investors to Sell UPS, and the Reason Has Nothing to Do With Package Volume",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-just-told-investors-154930863.html",
+                "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/arm-drops-3-3-more-173604154.html",
                 "score": 0
             },
             {
