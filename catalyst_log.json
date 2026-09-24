@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T12:31:00.081275+00:00",
+    "timestamp": "2026-09-24T12:50:36.665499+00:00",
     "catalysts": [
         {
             "symbol": "U",
@@ -30,6 +30,20 @@
             "score": 3
         },
         {
+            "symbol": "GCTK",
+            "headline": "Glucotrack, Inc. Announces Pricing of $3 Million Public Offering",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/glucotrack-inc-announces-pricing-3-124500880.html",
+            "score": 2
+        },
+        {
+            "symbol": "META",
+            "headline": "PayPal Strikes Major Meta AI Shopping Deal",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/paypal-strikes-major-meta-ai-124807933.html",
+            "score": 2
+        },
+        {
             "symbol": "BB",
             "headline": "BlackBerry: Fiscal Q2 Earnings Snapshot",
             "publisher": "Associated Press",
@@ -44,17 +58,10 @@
             "score": 0
         },
         {
-            "symbol": "GCTK",
-            "headline": "L\u014dkahi Therapeutics\u2122 Advances its Proprietary ai\u00b2 PIPELINE (formerly ai\u00b2 Futures Lab) Process from Internal Asset Engine to Revenue-Generating Platform",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/healthcare/articles/l-kahi-therapeutics-advances-proprietary-203000826.html",
-            "score": 0
-        },
-        {
             "symbol": "^TNX",
-            "headline": "The runaway 10-year yield is triggering a bad memory for investors",
+            "headline": "30-year Treasury yield hits highest level since 2004 \u2014what it means for stocks: Chart of the Day",
             "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/economy/article/the-runaway-10-year-yield-is-triggering-a-bad-memory-for-investors-094923324.html",
+            "link": "https://finance.yahoo.com/markets/article/30-year-treasury-yield-hits-highest-level-since-2004-what-it-means-for-stocks-chart-of-the-day-123701823.html",
             "score": 0
         },
         {
@@ -107,13 +114,6 @@
             "score": 0
         },
         {
-            "symbol": "META",
-            "headline": "Wall Street sees Muse as Meta\u2019s next big catalyst after Connect event",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-muse-meta-121602569.html",
-            "score": 0
-        },
-        {
             "symbol": "YMAT",
             "headline": "J-Star Holding Co., Ltd Regains Compliance with Nasdaq Minimum Bid Price Requirement",
             "publisher": "GlobeNewswire",
@@ -122,16 +122,16 @@
         },
         {
             "symbol": "P",
-            "headline": "Lake Street Adjusts Price Target on Everpure to $130 From $120, Maintains Buy Rating",
+            "headline": "BofA Securities Adjusts Everpure Price Target to $180 From $150",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/lake-street-adjusts-price-target-120925656.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-everpure-price-123612244.html",
             "score": 0
         },
         {
             "symbol": "^TYX",
-            "headline": "Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rising-treasury-yields-oil-prices-120541848.html",
+            "headline": "30-year Treasury yield hits highest level since 2004 \u2014what it means for stocks: Chart of the Day",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/30-year-treasury-yield-hits-highest-level-since-2004-what-it-means-for-stocks-chart-of-the-day-123701823.html",
             "score": 0
         }
     ]
