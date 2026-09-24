@@ -1,18 +1,39 @@
 {
-    "timestamp": "2026-09-24T17:50:47.060491+00:00",
+    "timestamp": "2026-09-24T17:56:11.678755+00:00",
     "catalysts": [
+        {
+            "symbol": "P",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
+            "score": 3
+        },
+        {
+            "symbol": "APUS",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
+            "score": 3
+        },
+        {
+            "symbol": "RKLB",
+            "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-rally-buying-spreads-175256864.html",
+            "score": 3
+        },
+        {
+            "symbol": "PL",
+            "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-rally-buying-spreads-175256864.html",
+            "score": 3
+        },
         {
             "symbol": "FSLR",
             "headline": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/energy/articles/solar-stocks-slide-high-borrowing-155516536.html",
-            "score": 2
-        },
-        {
-            "symbol": "KGC",
-            "headline": "Kinross Gold (TSX:K) Lifts Return Of Capital Target To 50% Of Free Cash Flow",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-tsx-k-lifts-141455631.html",
             "score": 2
         },
         {
@@ -27,20 +48,6 @@
             "headline": "AI ETFs to Buy Now as Neocloud Reshapes Cloud Infrastructure",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/technology/ai/articles/ai-etfs-buy-now-neocloud-154700136.html",
-            "score": 0
-        },
-        {
-            "symbol": "P",
-            "headline": "\ud83d\udd0e Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/45c45c79-5508-3823-be06-e04400a82ae9/%F0%9F%94%8E-under-the-radar%3A-s%26p.html",
-            "score": 0
-        },
-        {
-            "symbol": "RKLB",
-            "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/trump-bought-spacex-stock-weeks-132022132.html",
             "score": 0
         },
         {
@@ -59,9 +66,9 @@
         },
         {
             "symbol": "MGM",
-            "headline": "Why MGM Resorts (MGM) Shares Are Falling Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-mgm-resorts-mgm-shares-173658407.html",
+            "headline": "Sector Update: Consumer Stocks Decline Thursday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-thursday-175046941.html",
             "score": 0
         },
         {
@@ -90,13 +97,6 @@
             "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
             "publisher": "GuruFocus.com",
             "link": "https://finance.yahoo.com/technology/ai/articles/arm-drops-3-3-more-173604154.html",
-            "score": 0
-        },
-        {
-            "symbol": "PL",
-            "headline": "RDW vs. PL: Which Satellite Stock Has the Stronger Investment Case?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-vs-pl-satellite-stock-133400879.html",
             "score": 0
         },
         {
