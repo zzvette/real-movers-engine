@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T04:41:52.391173+00:00",
+    "timestamp": "2026-09-24T09:09:37.460648+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "MCD Stock Heads For Worst Month Since Pandemic \u2014 CFO Warns Even A September US Sales Rebound May Not Save Q3",
+                "headline": "MCD Stock Rises Premarket: Retail Turns 'McGreedy' Even As This Analyst Cuts Target Price",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mcd-stock-heads-worst-month-040748529.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mcd-stock-rises-premarket-retail-080243148.html",
                 "score": 0
             },
             {
@@ -45,13 +45,6 @@
                 "score": 0
             },
             {
-                "symbol": "META",
-                "headline": "Why Did META, MRNA, OKTA Stocks Surge To 52-Week Highs Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-meta-mrna-okta-035246629.html",
-                "score": 0
-            },
-            {
                 "symbol": "GCTK",
                 "headline": "L\u014dkahi Therapeutics\u2122 Advances its Proprietary ai\u00b2 PIPELINE (formerly ai\u00b2 Futures Lab) Process from Internal Asset Engine to Revenue-Generating Platform",
                 "publisher": "Business Wire",
@@ -59,10 +52,10 @@
                 "score": 0
             },
             {
-                "symbol": "TSSI",
-                "headline": "Strength Seen in Innodata Inc (INOD): Can Its 14.6% Jump Turn into More Strength?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-innodata-inc-inod-153700356.html",
+                "symbol": "META",
+                "headline": "Meta Plans Spring 2027 VR Glasses Release, Expands Smart-Glasses Lineup",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/meta-plans-spring-2027-vr-085903001.html",
                 "score": 0
             },
             {
@@ -73,66 +66,80 @@
                 "score": 0
             },
             {
-                "symbol": "GOOG",
-                "headline": "Australia says OpenAI agent hacked government website, checks for more breaches",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/news/australia-pm-albanese-says-openai-204422718.html",
-                "score": 0
-            },
-            {
-                "symbol": "PANW",
-                "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-after.html",
-                "score": 0
-            },
-            {
-                "symbol": "GRAL",
-                "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-after.html",
+                "symbol": "NQ=F",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
                 "score": 0
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Australia says OpenAI agent hacked government website, checks for more breaches",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/news/australia-pm-albanese-says-openai-204422718.html",
+                "headline": "Global Digital Transformation (DX) Market to Reach US$7.3 Trillion by 2034 | Industry Analysis Featuring Profiles of Accenture, IBM, Microsoft, Google, Amazon Web Services, Oracle, SAP and More",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/global-digital-transformation-dx-market-085000122.html",
                 "score": 0
             },
             {
-                "symbol": "ABNB",
-                "headline": "Why LendingTree (TREE) Shares Are Sliding Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-lendingtree-tree-shares-sliding-205005493.html",
-                "score": 0
-            },
-            {
-                "symbol": "P",
-                "headline": "Everpure Unveils Data-First AI Strategy, Targets $21B Intelligence Market",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/technology/ai/articles/everpure-unveils-data-first-ai-010219573.html",
-                "score": 0
-            },
-            {
-                "symbol": "EXPE",
-                "headline": "Meta's Zuckerberg says Muse AI agent will take a small fee from transactions",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/technology/article/metas-zuckerberg-says-muse-ai-agent-will-take-a-small-fee-from-transactions-234639802.html",
+                "symbol": "GOOG",
+                "headline": "Global Digital Transformation (DX) Market to Reach US$7.3 Trillion by 2034 | Industry Analysis Featuring Profiles of Accenture, IBM, Microsoft, Google, Amazon Web Services, Oracle, SAP and More",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/global-digital-transformation-dx-market-085000122.html",
                 "score": 0
             },
             {
                 "symbol": "CRWD",
-                "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+                "headline": "US Stock Market Today: S&P 500 Futures Edge Higher On Strong Eurozone Activity Data",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080757247.html",
                 "score": 0
             },
             {
-                "symbol": "TLT",
-                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+                "symbol": "RETO",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+                "score": 0
+            },
+            {
+                "symbol": "PANW",
+                "headline": "US Stock Market Today: S&P 500 Futures Edge Higher On Strong Eurozone Activity Data",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080757247.html",
+                "score": 0
+            },
+            {
+                "symbol": "ABNB",
+                "headline": "Airbnb (ABNB) Stock Looks Fairly Valued After A 22% Gain",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-stock-looks-fairly-051436689.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOXS",
+                "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
+                "score": 0
+            },
+            {
+                "symbol": "^NSEI",
+                "headline": "NSE IPO Explained: Understanding the Offer for Sale (OFS) and Shareholders",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nse-ipo-explained-understanding-offer-091000369.html",
+                "score": 0
+            },
+            {
+                "symbol": "ES=F",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+                "score": 0
+            },
+            {
+                "symbol": "^TYX",
+                "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
                 "score": 0
             }
         ]
