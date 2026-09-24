@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T21:00:19.784103+00:00",
+    "timestamp": "2026-09-24T21:18:22.550257+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,10 +17,24 @@
                 "score": 2
             },
             {
+                "symbol": "COST",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
+                "score": 0
+            },
+            {
                 "symbol": "META",
-                "headline": "Shopify Opens Its Doors to Muse, Here\u2019s Why Amazon Won\u2019t",
+                "headline": "Is Meta\u2019s (META) Stock Still Cheap After Its AI-Fueled Rally?",
                 "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/shopify-opens-doors-muse-why-204347730.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-still-cheap-205714667.html",
+                "score": 0
+            },
+            {
+                "symbol": "AKAM",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
                 "score": 0
             },
             {
@@ -31,31 +45,10 @@
                 "score": 0
             },
             {
-                "symbol": "NBIS",
-                "headline": "CoreWeave and Nebius Score Upgrades",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/5313e83c-952a-3c4c-9bb3-c6ce8ad606e5/coreweave-and-nebius-score.html",
-                "score": 0
-            },
-            {
                 "symbol": "P",
-                "headline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "ORCL",
-                "headline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "FSLR",
-                "headline": "FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh \u2014 Peers Enphase, SolarEdge Also Down",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-hits-fresh-52-201312995.html",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
                 "score": 0
             },
             {
@@ -66,17 +59,17 @@
                 "score": 0
             },
             {
-                "symbol": "UPS",
-                "headline": "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-24-164423138.html",
+                "symbol": "NBIS",
+                "headline": "CoreWeave and Nebius Score Upgrades",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/5313e83c-952a-3c4c-9bb3-c6ce8ad606e5/coreweave-and-nebius-score.html",
                 "score": 0
             },
             {
-                "symbol": "AMD",
-                "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
+                "symbol": "ORCL",
+                "headline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html",
                 "score": 0
             },
             {
@@ -84,6 +77,27 @@
                 "headline": "Tempus AI Chief Accounting Officer Sells $529,650 of Stock",
                 "publisher": "Motley Fool",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-chief-accounting-officer-130001110.html",
+                "score": 0
+            },
+            {
+                "symbol": "FSLR",
+                "headline": "FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh \u2014 Peers Enphase, SolarEdge Also Down",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-hits-fresh-52-201312995.html",
+                "score": 0
+            },
+            {
+                "symbol": "TWST",
+                "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
                 "score": 0
             },
             {
@@ -101,24 +115,10 @@
                 "score": 0
             },
             {
-                "symbol": "TWST",
-                "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
-                "score": 0
-            },
-            {
-                "symbol": "GCTK",
+                "symbol": "PMAX",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
                 "score": 0
             },
             {
@@ -129,17 +129,17 @@
                 "score": 0
             },
             {
-                "symbol": "HPE",
-                "headline": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/micron-supermicro-hpe-face-itc-153020557.html",
+                "symbol": "OFAL",
+                "headline": "OFA Group Unveils Vision for Japan's Next Premier Oceanfront Cultural Destination in Choshi City",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/real-estate/articles/ofa-group-unveils-vision-japans-200000148.html",
                 "score": 0
             },
             {
-                "symbol": "U",
-                "headline": "Gaming stocks fall after Meta unveils AI game-building tools",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gaming-stocks-fall-meta-unveils-190933194.html",
+                "symbol": "INTC",
+                "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
                 "score": 0
             }
         ]
