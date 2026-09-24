@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-24T16:56:25.959964+00:00",
+    "timestamp": "2026-09-24T17:02:31.633136+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "NBIS",
-                "headline": "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-surges-6-coreweave-treads-152956064.html",
-                "score": 3
-            },
             {
                 "symbol": "FSLR",
                 "headline": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
@@ -25,9 +18,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-24-164423138.html",
+                "headline": "Surescripts, Oracle Health Partner to Help Clear Prescription Barriers for Patients Nationwide",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/healthcare/articles/surescripts-oracle-health-partner-help-164900090.html",
                 "score": 0
             },
             {
@@ -35,6 +28,13 @@
                 "headline": "\ud83d\udd0e Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
                 "publisher": "The Wall Street Journal",
                 "link": "https://finance.yahoo.com/m/45c45c79-5508-3823-be06-e04400a82ae9/%F0%9F%94%8E-under-the-radar%3A-s%26p.html",
+                "score": 0
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "AI ETFs to Buy Now as Neocloud Reshapes Cloud Infrastructure",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/technology/ai/articles/ai-etfs-buy-now-neocloud-154700136.html",
                 "score": 0
             },
             {
