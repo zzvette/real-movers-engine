@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T16:04:19.899377+00:00",
+    "timestamp": "2026-09-24T16:12:34.548045+00:00",
     "catalysts": [
         {
             "symbol": "NBIS",
@@ -122,9 +122,9 @@
         },
         {
             "symbol": "OWL",
-            "headline": "Oracle shares fall as company invokes 'force majeure' over New Mexico data center project",
-            "publisher": "Proactive",
-            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-shares-fall-company-invokes-143100253.html",
+            "headline": "Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-oracle-apos-160611263.html",
             "score": 0
         }
     ]
