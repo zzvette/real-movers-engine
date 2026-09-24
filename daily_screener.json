@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T13:22:12.801011+00:00",
+    "timestamp": "2026-09-24T13:36:12.141653+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "MGM",
-                "headline": "MGM Stock Falls 9% as Diller Walks Away From Buyout",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-stock-falls-9-diller-125023079.html",
+                "headline": "MGM Resorts International Sinks 10% as Barry Diller Withdraws $48.30-a-Share Buyout Offer; Caesars Entertainment Barely Moves",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-resorts-international-sinks-10-132514357.html",
                 "score": 2
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Oracle Health, ID.me to Collaborate on Controlled-Substance Provider Credentialing",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/oracle-health-id-collaborate-controlled-130811066.html",
+                "headline": "Oracle stock drops as the company moves to shield itself from controversial data center costs",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/oracle-stock-drops-as-the-company-moves-to-shield-itself-from-controversial-data-center-costs-133351264.html",
                 "score": 0
             },
             {
@@ -95,16 +95,16 @@
             },
             {
                 "symbol": "BE",
-                "headline": "Bloom Energy COO Chitoori Satish Sells Shares for $775,072",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-coo-chitoori-satish-124501770.html",
+                "headline": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle-seeks-%E2%80%98force-majeure%E2%80%99.html",
                 "score": 0
             },
             {
                 "symbol": "DRI",
-                "headline": "Stock Market Today: Dow Falls On High Treasury Yields; Jobless Claims Come In Below Forecasts (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a54a90ad-a14d-3ff8-9f09-e455a0eca8cf/stock-market-today%3A-dow-falls.html",
+                "headline": "Sector Update: Consumer Stocks Mixed Premarket Thursday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-premarket-131623592.html",
                 "score": 0
             },
             {
