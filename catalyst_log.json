@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T23:44:02.184907+00:00",
+    "timestamp": "2026-09-24T23:56:11.963468+00:00",
     "catalysts": [
         {
             "symbol": "APUS",
@@ -7,13 +7,6 @@
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
             "score": 3
-        },
-        {
-            "symbol": "ORCL",
-            "headline": "Analysis-Oracle, Blue Owl project delay\u00a0sends ripples through AI financing, sources say",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/technology/ai/articles/analysis-oracle-blue-owl-project-225500245.html",
-            "score": 2
         },
         {
             "symbol": "WRBY",
@@ -51,6 +44,13 @@
             "score": 0
         },
         {
+            "symbol": "P",
+            "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
+            "score": 0
+        },
+        {
             "symbol": "GLND",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
@@ -62,6 +62,13 @@
             "headline": "Could Palantir (PLTR)\u2019s Partnership with Nebius Group (NBIS) Accelerate its AI Growth?",
             "publisher": "Insider Monkey",
             "link": "https://finance.yahoo.com/technology/ai/articles/could-palantir-pltr-partnership-nebius-220317492.html",
+            "score": 0
+        },
+        {
+            "symbol": "ORCL",
+            "headline": "Oracle Wants Protection If Its AI Data Center Is Delayed. Here's What That Changes for Investors.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-wants-protection-ai-data-233701926.html",
             "score": 0
         },
         {
@@ -101,9 +108,9 @@
         },
         {
             "symbol": "MGM",
-            "headline": "Market Chatter: MGM Resorts Discussing Bid for People Inc",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-mgm-resorts-discussing-231516036.html",
+            "headline": "Tables Turn In Las Vegas: Casino Giant MGM Resorts Considers Buying The Publisher That Tried To Buy It",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tables-turn-las-vegas-casino-234141700.html",
             "score": 0
         },
         {
