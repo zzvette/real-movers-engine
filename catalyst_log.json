@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T15:56:02.831474+00:00",
+    "timestamp": "2026-09-24T16:04:19.899377+00:00",
     "catalysts": [
         {
             "symbol": "NBIS",
@@ -7,6 +7,13 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-surges-6-coreweave-treads-152956064.html",
             "score": 3
+        },
+        {
+            "symbol": "FSLR",
+            "headline": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/energy/articles/solar-stocks-slide-high-borrowing-155516536.html",
+            "score": 2
         },
         {
             "symbol": "KGC",
@@ -48,13 +55,6 @@
             "headline": "Dodge and Cox\u2019s Bullish Stance on Thermo Fisher Scientific (TMO)",
             "publisher": "Insider Monkey",
             "link": "https://finance.yahoo.com/markets/stocks/articles/dodge-cox-bullish-stance-thermo-141927878.html",
-            "score": 0
-        },
-        {
-            "symbol": "FSLR",
-            "headline": "Why First Solar (FSLR) Dipped More Than Broader Market Today",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-first-solar-fslr-dipped-215004875.html",
             "score": 0
         },
         {
