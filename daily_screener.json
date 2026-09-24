@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T10:21:52.343194+00:00",
+    "timestamp": "2026-09-24T10:35:33.944382+00:00",
     "signals": {
         "catalysts": [
             {
@@ -60,7 +60,7 @@
             },
             {
                 "symbol": "META",
-                "headline": "Dow Jones Futures Fall As Yields Extend Huge Gains Ahead Of Trump-Xi Summit",
+                "headline": "Dow Jones Futures Fall As Treasury Yields Keep Rising Ahead Of Trump-Xi Summit",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
                 "score": 0
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "QQQ",
-                "headline": "Nasdaq, S&P 500 Futures Slide As Treasury Yields, Trump-Xi Summit Keep Traders On Edge: META, GOOGL, SPCX, VKTX, SNAP, MCD, BB Stocks In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-slide-082555072.html",
+                "headline": "History Says This 1 Investment Could Set You Up for Life. Here's the Math.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-1-investment-could-103000775.html",
                 "score": 0
             },
             {
@@ -102,9 +102,9 @@
             },
             {
                 "symbol": "^TYX",
-                "headline": "10-Year Treasury Yield Reaches 5.142% as Markets Reassess Fed Rate Outlook",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/economy/policy/articles/10-treasury-yield-reaches-5-095033695.html",
+                "headline": "Wall St futures fall on Middle East uncertainties ahead of Trump-Xi talks",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
                 "score": 0
             },
             {
