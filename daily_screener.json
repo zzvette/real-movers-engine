@@ -1,13 +1,13 @@
 {
-    "timestamp": "2026-09-24T15:40:41.300294+00:00",
+    "timestamp": "2026-09-24T15:47:52.942435+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "BE",
-                "headline": "Fuel Cell Stocks Slide as High Treasury Yields Pressure Clean Energy Financing: FuelCell Drops 6%, Plug Power Falls 4%, Bloom Energy Sinks 8%",
+                "symbol": "NBIS",
+                "headline": "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/fuel-cell-stocks-slide-high-152034081.html",
-                "score": 2
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-surges-6-coreweave-treads-152956064.html",
+                "score": 3
             },
             {
                 "symbol": "KGC",
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle-seeks-%E2%80%98force-majeure%E2%80%99.html",
+                "headline": "Bloom Energy\u2019s Single Largest Fuel Cell Deployment Is In Trouble",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/energy/articles/bloom-energy-single-largest-fuel-152932412.html",
                 "score": 0
             },
             {
@@ -28,13 +28,6 @@
                 "headline": "AI Stock NetApp Hits Early Buy Trigger After Big Support At A Key Level",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/cb6b8edd-275f-3dcf-bbe5-445108bec337/ai-stock-netapp-hits-early.html",
-                "score": 0
-            },
-            {
-                "symbol": "NBIS",
-                "headline": "CoreWeave Wins JPMorgan Upgrade on Premium Compute Pricing",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-wins-jpmorgan-upgrade-premium-141948746.html",
                 "score": 0
             },
             {
@@ -80,10 +73,24 @@
                 "score": 0
             },
             {
+                "symbol": "BE",
+                "headline": "We Said Bloom Energy and Plug Power Had Different Fates. The Gap Has Grown.",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/said-bloom-energy-plug-power-153553504.html",
+                "score": 0
+            },
+            {
                 "symbol": "PFSA",
                 "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
                 "publisher": "InvestorsHub",
                 "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
+                "score": 0
+            },
+            {
+                "symbol": "LLY",
+                "headline": "Eli Lilly outlays $3.35bn for secretive drug discovery pact with China\u2019s InnoCare",
+                "publisher": "Pharmaceutical Technology",
+                "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-outlays-3-35bn-145740810.html",
                 "score": 0
             },
             {
