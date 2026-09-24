@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T16:12:34.548045+00:00",
+    "timestamp": "2026-09-24T16:27:09.903372+00:00",
     "catalysts": [
         {
             "symbol": "NBIS",
@@ -24,16 +24,16 @@
         },
         {
             "symbol": "ORCL",
-            "headline": "Bloom Energy\u2019s Single Largest Fuel Cell Deployment Is In Trouble",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/bloom-energy-single-largest-fuel-152932412.html",
+            "headline": "Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-oracle-apos-160611263.html",
             "score": 0
         },
         {
             "symbol": "P",
-            "headline": "AI Stock NetApp Hits Early Buy Trigger After Big Support At A Key Level",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/cb6b8edd-275f-3dcf-bbe5-445108bec337/ai-stock-netapp-hits-early.html",
+            "headline": "Everpure Stock is Already Up 18% Today. Here\u2019s Why Wall Street Sees More Upside.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-stock-already-18-today-154637775.html",
             "score": 0
         },
         {
@@ -44,20 +44,6 @@
             "score": 0
         },
         {
-            "symbol": "BB",
-            "headline": "BlackBerry Q2 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-q2-earnings-call-highlights-140258309.html",
-            "score": 0
-        },
-        {
-            "symbol": "TMO",
-            "headline": "Dodge and Cox\u2019s Bullish Stance on Thermo Fisher Scientific (TMO)",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/dodge-cox-bullish-stance-thermo-141927878.html",
-            "score": 0
-        },
-        {
             "symbol": "GLND",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
@@ -65,31 +51,17 @@
             "score": 0
         },
         {
-            "symbol": "MGM",
-            "headline": "MGM Resorts' Near-Term Core Trends Could Remain Pressured, BofA Securities Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-resorts-apos-near-term-151949436.html",
-            "score": 0
-        },
-        {
             "symbol": "BE",
-            "headline": "We Said Bloom Energy and Plug Power Had Different Fates. The Gap Has Grown.",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/said-bloom-energy-plug-power-153553504.html",
+            "headline": "A Delayed Pipeline Just Put Bloom Energy's Role in a $165 Billion AI Project in Question",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/delayed-pipeline-just-put-bloom-160501513.html",
             "score": 0
         },
         {
-            "symbol": "PFSA",
-            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
-            "score": 0
-        },
-        {
-            "symbol": "LLY",
-            "headline": "Eli Lilly outlays $3.35bn for secretive drug discovery pact with China\u2019s InnoCare",
-            "publisher": "Pharmaceutical Technology",
-            "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-outlays-3-35bn-145740810.html",
+            "symbol": "MGM",
+            "headline": "Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-oracle-apos-160611263.html",
             "score": 0
         },
         {
@@ -100,10 +72,17 @@
             "score": 0
         },
         {
-            "symbol": "TWST",
-            "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
+            "symbol": "SKYQ",
+            "headline": "West Coast Refinery Closures Put Nevada's Fuel Supply Under Pressure",
+            "publisher": "CNW Group",
+            "link": "https://finance.yahoo.com/energy/articles/west-coast-refinery-closures-put-160300520.html",
+            "score": 0
+        },
+        {
+            "symbol": "PFSA",
+            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
             "score": 0
         },
         {
@@ -114,17 +93,38 @@
             "score": 0
         },
         {
-            "symbol": "FRVO",
-            "headline": "Fervo Energy Stock Rises. The Google Partner Hits a Geothermal Milestone.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/80cfe11a-2fab-3fb9-a7e9-d5bbc01d7fe4/fervo-energy-stock-rises.-the.html",
+            "symbol": "BB",
+            "headline": "BlackBerry Lifts Full-Year Outlook as Software Solutions Unit Drives Second-Quarter Growth",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-lifts-full-outlook-software-160906344.html",
             "score": 0
         },
         {
-            "symbol": "OWL",
-            "headline": "Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-oracle-apos-160611263.html",
+            "symbol": "TWST",
+            "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
+            "score": 0
+        },
+        {
+            "symbol": "GDDY",
+            "headline": "GoDaddy Shares Surge On Gen Digital's Reported Takeover Bid \u2014 GEN Stock Falls As Talks in Early Stages",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/godaddy-shares-surge-gen-digitals-160257804.html",
+            "score": 0
+        },
+        {
+            "symbol": "LLY",
+            "headline": "Eli Lilly outlays $3.35bn for secretive drug discovery pact with China\u2019s InnoCare",
+            "publisher": "Pharmaceutical Technology",
+            "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-outlays-3-35bn-145740810.html",
+            "score": 0
+        },
+        {
+            "symbol": "QURE",
+            "headline": "Trump Administration Shift Puts This Corner of Biotech Back in Favor",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/7778adcc-7395-3f5d-ad3d-e9650937e3b8/trump-administration-shift.html",
             "score": 0
         }
     ]
