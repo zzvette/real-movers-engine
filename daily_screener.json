@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T18:42:15.549509+00:00",
+    "timestamp": "2026-09-24T18:53:03.209811+00:00",
     "signals": {
         "catalysts": [
             {
@@ -42,13 +42,6 @@
                 "headline": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/energy/articles/solar-stocks-slide-high-borrowing-155516536.html",
-                "score": 2
-            },
-            {
-                "symbol": "KGC",
-                "headline": "Kinross Gold (TSX:K) Lifts Return Of Capital Target To 50% Of Free Cash Flow",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-tsx-k-lifts-141455631.html",
                 "score": 2
             },
             {
@@ -105,6 +98,13 @@
                 "headline": "BlackBerry Limited Q2 2027 Earnings Call Summary",
                 "publisher": "Moby",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-limited-q2-2027-earnings-164646474.html",
+                "score": 0
+            },
+            {
+                "symbol": "KGC",
+                "headline": "Kinross Gold Shares Fall After Lowering Production Guidance",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-shares-fall-lowering-183422036.html",
                 "score": 0
             },
             {
