@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T17:13:47.915164+00:00",
+    "timestamp": "2026-09-24T17:25:13.657441+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Why Oracle's force majeure notice is freaking out AI bulls",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/why-oracles-force-majeure-notice-is-freaking-out-ai-bulls-170304487.html",
+                "headline": "Sector Update: Tech",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-171435416.html",
                 "score": 0
             },
             {
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "BE",
-                "headline": "A Delayed Pipeline Just Put Bloom Energy's Role in a $165 Billion AI Project in Question",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/delayed-pipeline-just-put-bloom-160501513.html",
+                "headline": "Why Oracle\u2019s Data Center Issue Is a Problem for GE Vernova",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/2e11ad92-e530-3cc5-880b-13f9c5ae3aec/why-oracle%E2%80%99s-data-center.html",
                 "score": 0
             },
             {
