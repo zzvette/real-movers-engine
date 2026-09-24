@@ -1,11 +1,25 @@
 {
-    "timestamp": "2026-09-24T03:11:28.751438+00:00",
+    "timestamp": "2026-09-24T03:42:18.725675+00:00",
     "catalysts": [
+        {
+            "symbol": "U",
+            "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-surges-nearly-031444891.html",
+            "score": 3
+        },
         {
             "symbol": "^TNX",
             "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+            "score": 3
+        },
+        {
+            "symbol": "META",
+            "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-surges-nearly-031444891.html",
             "score": 3
         },
         {
@@ -23,24 +37,10 @@
             "score": 0
         },
         {
-            "symbol": "META",
-            "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-after.html",
-            "score": 0
-        },
-        {
-            "symbol": "U",
-            "headline": "How Much Should One Number Worry AppLovin Stock Holders?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/much-one-number-worry-applovin-212121304.html",
-            "score": 0
-        },
-        {
-            "symbol": "PLTR",
-            "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-after.html",
+            "symbol": "TSSI",
+            "headline": "Strength Seen in Innodata Inc (INOD): Can Its 14.6% Jump Turn into More Strength?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-innodata-inc-inod-153700356.html",
             "score": 0
         },
         {
@@ -51,6 +51,20 @@
             "score": 0
         },
         {
+            "symbol": "FSLY",
+            "headline": "Can Fastly\u2019s New AI Firewall Recast Its Edge Security Ambitions for Investors (FSLY)?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/fastly-ai-firewall-recast-edge-032352594.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOGL",
+            "headline": "Dow, S&P 500, Nasdaq Futures Dip As Bond Yields Bite And Trump-Xi Meet Grabs Spotlight: Why META, MCD, GOOG, U Stocks Are Trending",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-030515525.html",
+            "score": 0
+        },
+        {
             "symbol": "WETO",
             "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
             "publisher": "InvestorsHub",
@@ -58,10 +72,24 @@
             "score": 0
         },
         {
-            "symbol": "FSLY",
-            "headline": "Fastly (FSLY) Outlines 14-21% Growth Target, Shares Climb 14%",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-outlines-14-21-232122435.html",
+            "symbol": "PLTR",
+            "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-after.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOG",
+            "headline": "Dow, S&P 500, Nasdaq Futures Dip As Bond Yields Bite And Trump-Xi Meet Grabs Spotlight: Why META, MCD, GOOG, U Stocks Are Trending",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-030515525.html",
+            "score": 0
+        },
+        {
+            "symbol": "P",
+            "headline": "Everpure Unveils Data-First AI Strategy, Targets $21B Intelligence Market",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-unveils-data-first-ai-010219573.html",
             "score": 0
         },
         {
@@ -69,6 +97,13 @@
             "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-after.html",
+            "score": 0
+        },
+        {
+            "symbol": "ABNB",
+            "headline": "Why LendingTree (TREE) Shares Are Sliding Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-lendingtree-tree-shares-sliding-205005493.html",
             "score": 0
         },
         {
@@ -86,59 +121,10 @@
             "score": 0
         },
         {
-            "symbol": "P",
-            "headline": "Everpure Unveils Data-First AI Strategy, Targets $21B Intelligence Market",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-unveils-data-first-ai-010219573.html",
-            "score": 0
-        },
-        {
-            "symbol": "ABNB",
-            "headline": "Why LendingTree (TREE) Shares Are Sliding Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-lendingtree-tree-shares-sliding-205005493.html",
-            "score": 0
-        },
-        {
-            "symbol": "GOOGL",
-            "headline": "HSBC sends blunt message to Netflix stock investors",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-sends-blunt-message-netflix-024700601.html",
-            "score": 0
-        },
-        {
-            "symbol": "GOOG",
-            "headline": "HSBC sends blunt message to Netflix stock investors",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-sends-blunt-message-netflix-024700601.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRWD",
-            "headline": "Why CrowdStrike (CRWD) Stock Is Up Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
-            "score": 0
-        },
-        {
             "symbol": "JPY=X",
             "headline": "AI Rally, Weaker Yen Set the Stage for Japan\u2019s Market Return",
             "publisher": "Bloomberg",
             "link": "https://finance.yahoo.com/markets/stocks/articles/ai-rally-weaker-yen-set-224438925.html",
-            "score": 0
-        },
-        {
-            "symbol": "APP",
-            "headline": "AppLovin (APP) Dips More Than Broader Market: What You Should Know",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-dips-more-broader-214503655.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPY",
-            "headline": "Netflix Is Down 42% in a Year and the Investor Who Exited in June Just Bought Back In",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-down-42-investor-exited-000825050.html",
             "score": 0
         }
     ]
