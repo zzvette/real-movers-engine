@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T03:42:18.725675+00:00",
+    "timestamp": "2026-09-24T04:11:58.312125+00:00",
     "catalysts": [
         {
             "symbol": "U",
@@ -16,13 +16,6 @@
             "score": 3
         },
         {
-            "symbol": "META",
-            "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-surges-nearly-031444891.html",
-            "score": 3
-        },
-        {
             "symbol": "MCD",
             "headline": "McDonald\u2019s Unveils 10-Year Growth Plan to Drive Market Share Gains and Efficiency. Should Investors Be Concerned About the $8.5 Billion Price Tag?",
             "publisher": "Motley Fool",
@@ -34,6 +27,13 @@
             "headline": "Beneficient Seeks to Eliminate Debt, Equity Linked to Former CEO",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-eliminate-debt-equity-192027909.html",
+            "score": 0
+        },
+        {
+            "symbol": "META",
+            "headline": "Why Did META, MRNA, OKTA Stocks Surge To 52-Week Highs Today?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-meta-mrna-okta-035246629.html",
             "score": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "symbol": "PLTR",
-            "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-after.html",
+            "headline": "Palantir faces a $330 million test U.S. investors should watch closely",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-faces-330-million-test-040300056.html",
             "score": 0
         },
         {
