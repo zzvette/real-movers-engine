@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T11:30:00.273573+00:00",
+    "timestamp": "2026-09-24T11:44:46.615988+00:00",
     "signals": {
         "catalysts": [
             {
@@ -14,6 +14,13 @@
                 "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-surges-nearly-031444891.html",
+                "score": 3
+            },
+            {
+                "symbol": "ATYR",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
                 "score": 3
             },
             {
@@ -63,6 +70,13 @@
                 "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
                 "publisher": "InvestorsHub",
                 "link": "https://finance.yahoo.com/technology/ai/articles/wetour-robotics-launches-vantrapower-enter-142215237.html",
+                "score": 0
+            },
+            {
+                "symbol": "TLT",
+                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
                 "score": 0
             },
             {
