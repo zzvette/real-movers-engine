@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T09:41:11.246530+00:00",
+    "timestamp": "2026-09-24T09:53:25.695660+00:00",
     "catalysts": [
         {
             "symbol": "U",
@@ -41,6 +41,13 @@
             "headline": "L\u014dkahi Therapeutics\u2122 Advances its Proprietary ai\u00b2 PIPELINE (formerly ai\u00b2 Futures Lab) Process from Internal Asset Engine to Revenue-Generating Platform",
             "publisher": "Business Wire",
             "link": "https://finance.yahoo.com/healthcare/articles/l-kahi-therapeutics-advances-proprietary-203000826.html",
+            "score": 0
+        },
+        {
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
             "score": 0
         },
         {
