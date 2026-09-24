@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T20:12:19.571306+00:00",
+    "timestamp": "2026-09-24T20:23:24.853582+00:00",
     "catalysts": [
         {
             "symbol": "APUS",
@@ -7,20 +7,6 @@
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
             "score": 3
-        },
-        {
-            "symbol": "RKLB",
-            "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-rally-buying-spreads-175256864.html",
-            "score": 3
-        },
-        {
-            "symbol": "FSLR",
-            "headline": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/solar-stocks-slide-high-borrowing-155516536.html",
-            "score": 2
         },
         {
             "symbol": "WRBY",
@@ -31,9 +17,16 @@
         },
         {
             "symbol": "META",
-            "headline": "Sector Update: Tech",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-193706593.html",
+            "headline": "Amazon Opens Seller Data to Claude Days After Blocking Meta\u2019s Muse",
+            "publisher": "Benzinga Prediction Markets",
+            "link": "https://finance.yahoo.com/technology/ai/articles/amazon-opens-seller-data-claude-201212143.html",
+            "score": 0
+        },
+        {
+            "symbol": "MRNA",
+            "headline": "Why Did META, MRNA, OKTA Stocks Surge To 52-Week Highs Today?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-meta-mrna-okta-035246629.html",
             "score": 0
         },
         {
@@ -44,6 +37,13 @@
             "score": 0
         },
         {
+            "symbol": "P",
+            "headline": "Everpure's Growth Outlook Supported by AI Data Management Demand, UBS Says",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-apos-growth-outlook-supported-185607311.html",
+            "score": 0
+        },
+        {
             "symbol": "ORCL",
             "headline": "Oracle Flags Fresh Risk for Massive AI Project",
             "publisher": "GuruFocus.com",
@@ -51,10 +51,10 @@
             "score": 0
         },
         {
-            "symbol": "P",
-            "headline": "Everpure's Growth Outlook Supported by AI Data Management Demand, UBS Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-apos-growth-outlook-supported-185607311.html",
+            "symbol": "FSLR",
+            "headline": "FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh \u2014 Peers Enphase, SolarEdge Also Down",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-hits-fresh-52-201312995.html",
             "score": 0
         },
         {
@@ -72,10 +72,17 @@
             "score": 0
         },
         {
-            "symbol": "MGM",
-            "headline": "Sector Update: Consumer Stocks Decline Late Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-195131056.html",
+            "symbol": "AMD",
+            "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
+            "score": 0
+        },
+        {
+            "symbol": "TEM",
+            "headline": "Tempus AI Chief Accounting Officer Sells $529,650 of Stock",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-chief-accounting-officer-130001110.html",
             "score": 0
         },
         {
@@ -86,24 +93,17 @@
             "score": 0
         },
         {
-            "symbol": "PL",
-            "headline": "Update: Planet Labs Shares Rise After Amazon Biodiversity Initiative Launched",
+            "symbol": "MGM",
+            "headline": "Sector Update: Consumer Stocks Decline Late Afternoon",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-shares-rise-amazon-181342042.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-195131056.html",
             "score": 0
         },
         {
-            "symbol": "HPE",
-            "headline": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-supermicro-hpe-face-itc-153020557.html",
-            "score": 0
-        },
-        {
-            "symbol": "PFSA",
-            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
+            "symbol": "TWST",
+            "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
             "score": 0
         },
         {
@@ -114,31 +114,31 @@
             "score": 0
         },
         {
-            "symbol": "CDNA",
-            "headline": "CareDx +14% on Fresh $74 Analyst Price Target",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/caredx-14-fresh-74-analyst-180225699.html",
+            "symbol": "INTC",
+            "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
             "score": 0
         },
         {
-            "symbol": "SBUX",
-            "headline": "Starbucks Just Dropped 13% in a Month. Is It Time to Sell, or Should You Buy Now?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-just-dropped-13-month-190130857.html",
-            "score": 0
-        },
-        {
-            "symbol": "WETO",
-            "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
+            "symbol": "PFSA",
+            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
             "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/technology/ai/articles/wetour-robotics-launches-vantrapower-enter-142215237.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
             "score": 0
         },
         {
-            "symbol": "BE",
-            "headline": "Oracle Flags Fresh Risk for Massive AI Project",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-flags-fresh-risk-massive-200306604.html",
+            "symbol": "HPE",
+            "headline": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-supermicro-hpe-face-itc-153020557.html",
+            "score": 0
+        },
+        {
+            "symbol": "U",
+            "headline": "Gaming stocks fall after Meta unveils AI game-building tools",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/gaming-stocks-fall-meta-unveils-190933194.html",
             "score": 0
         }
     ]
