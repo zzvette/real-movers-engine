@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T09:27:01.678318+00:00",
+    "timestamp": "2026-09-24T09:41:11.246530+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,9 +25,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "MCD Stock Rises Premarket: Retail Turns 'McGreedy' Even As This Analyst Cuts Target Price",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mcd-stock-rises-premarket-retail-080243148.html",
+                "headline": "BMO Capital Adjusts PT on McDonald's to $310 From $335, Maintains Outperform Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-adjusts-pt-mcdonald-093334158.html",
                 "score": 0
             },
             {
@@ -42,13 +42,6 @@
                 "headline": "L\u014dkahi Therapeutics\u2122 Advances its Proprietary ai\u00b2 PIPELINE (formerly ai\u00b2 Futures Lab) Process from Internal Asset Engine to Revenue-Generating Platform",
                 "publisher": "Business Wire",
                 "link": "https://finance.yahoo.com/healthcare/articles/l-kahi-therapeutics-advances-proprietary-203000826.html",
-                "score": 0
-            },
-            {
-                "symbol": "NQ=F",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
                 "score": 0
             },
             {
