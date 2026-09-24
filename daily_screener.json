@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T09:09:37.460648+00:00",
+    "timestamp": "2026-09-24T09:27:01.678318+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,13 +24,6 @@
                 "score": 3
             },
             {
-                "symbol": "PLTR",
-                "headline": "ONDS Stock Set To Snap 4-Week Slide \u2014 Retail Bulls See Palantir-Style Play In Fresh Defense Deals",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/onds-stock-set-snap-4-043811571.html",
-                "score": 2
-            },
-            {
                 "symbol": "MCD",
                 "headline": "MCD Stock Rises Premarket: Retail Turns 'McGreedy' Even As This Analyst Cuts Target Price",
                 "publisher": "Stocktwits",
@@ -52,10 +45,10 @@
                 "score": 0
             },
             {
-                "symbol": "META",
-                "headline": "Meta Plans Spring 2027 VR Glasses Release, Expands Smart-Glasses Lineup",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/meta-plans-spring-2027-vr-085903001.html",
+                "symbol": "NQ=F",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
                 "score": 0
             },
             {
@@ -66,31 +59,45 @@
                 "score": 0
             },
             {
-                "symbol": "NQ=F",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+                "symbol": "META",
+                "headline": "Loop Capital Adjusts Price Target on Meta Platforms to $955 From $740, Maintains Buy Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/loop-capital-adjusts-price-target-091541331.html",
                 "score": 0
             },
             {
-                "symbol": "GOOGL",
-                "headline": "Global Digital Transformation (DX) Market to Reach US$7.3 Trillion by 2034 | Industry Analysis Featuring Profiles of Accenture, IBM, Microsoft, Google, Amazon Web Services, Oracle, SAP and More",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/global-digital-transformation-dx-market-085000122.html",
+                "symbol": "TLT",
+                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOXS",
+                "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
+                "score": 0
+            },
+            {
+                "symbol": "DCX",
+                "headline": "Top Premarket Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114324970.html",
+                "score": 0
+            },
+            {
+                "symbol": "^VIX",
+                "headline": "Stock Market News for Sep 23, 2026",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-23-132700528.html",
                 "score": 0
             },
             {
                 "symbol": "GOOG",
-                "headline": "Global Digital Transformation (DX) Market to Reach US$7.3 Trillion by 2034 | Industry Analysis Featuring Profiles of Accenture, IBM, Microsoft, Google, Amazon Web Services, Oracle, SAP and More",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/global-digital-transformation-dx-market-085000122.html",
-                "score": 0
-            },
-            {
-                "symbol": "CRWD",
-                "headline": "US Stock Market Today: S&P 500 Futures Edge Higher On Strong Eurozone Activity Data",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080757247.html",
+                "headline": "Market Chatter: Google's Gemini 4 Close to Release, Official Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-google-apos-gemini-091119054.html",
                 "score": 0
             },
             {
@@ -101,24 +108,10 @@
                 "score": 0
             },
             {
-                "symbol": "PANW",
-                "headline": "US Stock Market Today: S&P 500 Futures Edge Higher On Strong Eurozone Activity Data",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080757247.html",
-                "score": 0
-            },
-            {
-                "symbol": "ABNB",
-                "headline": "Airbnb (ABNB) Stock Looks Fairly Valued After A 22% Gain",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-stock-looks-fairly-051436689.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOXS",
-                "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
+                "symbol": "TWG",
+                "headline": "TOP WEALTH GROUP HOLDING LIMITED ISSUES POSITIVE PROFIT ALERT",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-wealth-group-holding-limited-120000412.html",
                 "score": 0
             },
             {
@@ -136,10 +129,10 @@
                 "score": 0
             },
             {
-                "symbol": "^TYX",
-                "headline": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
+                "symbol": "ARTL",
+                "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
                 "score": 0
             }
         ]
