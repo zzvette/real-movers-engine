@@ -1,19 +1,12 @@
 {
-    "timestamp": "2026-09-24T15:27:15.579323+00:00",
+    "timestamp": "2026-09-24T15:40:41.300294+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "GCTK",
-                "headline": "Glucotrack, Inc. Announces Pricing of $3 Million Public Offering",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/glucotrack-inc-announces-pricing-3-124500880.html",
-                "score": 2
-            },
-            {
-                "symbol": "MGM",
-                "headline": "MGM shares tumble as Barry Diller withdraws $18B buyout proposal",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-shares-tumble-barry-diller-143600836.html",
+                "symbol": "BE",
+                "headline": "Fuel Cell Stocks Slide as High Treasury Yields Pressure Clean Energy Financing: FuelCell Drops 6%, Plug Power Falls 4%, Bloom Energy Sinks 8%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/energy/articles/fuel-cell-stocks-slide-high-152034081.html",
                 "score": 2
             },
             {
@@ -32,9 +25,9 @@
             },
             {
                 "symbol": "P",
-                "headline": "Why Everpure Stock Is Surging To Record Highs",
+                "headline": "AI Stock NetApp Hits Early Buy Trigger After Big Support At A Key Level",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0b0e6748-fd56-3711-aa2b-2a62187fa54f/why-everpure-stock-is-surging.html",
+                "link": "https://finance.yahoo.com/m/cb6b8edd-275f-3dcf-bbe5-445108bec337/ai-stock-netapp-hits-early.html",
                 "score": 0
             },
             {
@@ -42,6 +35,13 @@
                 "headline": "CoreWeave Wins JPMorgan Upgrade on Premium Compute Pricing",
                 "publisher": "GuruFocus.com",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-wins-jpmorgan-upgrade-premium-141948746.html",
+                "score": 0
+            },
+            {
+                "symbol": "GCTK",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
                 "score": 0
             },
             {
@@ -73,10 +73,10 @@
                 "score": 0
             },
             {
-                "symbol": "BE",
-                "headline": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle-seeks-%E2%80%98force-majeure%E2%80%99.html",
+                "symbol": "MGM",
+                "headline": "MGM Resorts' Near-Term Core Trends Could Remain Pressured, BofA Securities Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-resorts-apos-near-term-151949436.html",
                 "score": 0
             },
             {
@@ -87,17 +87,10 @@
                 "score": 0
             },
             {
-                "symbol": "LLY",
-                "headline": "Eli Lilly outlays $3.35bn for secretive drug discovery pact with China\u2019s InnoCare",
-                "publisher": "Pharmaceutical Technology",
-                "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-outlays-3-35bn-145740810.html",
-                "score": 0
-            },
-            {
                 "symbol": "PMAX",
-                "headline": "Powell Max Files $200 Million Mixed Shelf",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/powell-max-files-200-million-172939543.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
                 "score": 0
             },
             {
