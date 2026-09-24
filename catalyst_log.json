@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T18:53:03.209811+00:00",
+    "timestamp": "2026-09-24T19:00:38.755833+00:00",
     "catalysts": [
         {
             "symbol": "UTWO",
@@ -7,20 +7,6 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/options/articles/two-treasury-income-etfs-retirees-171156550.html",
             "score": 5
-        },
-        {
-            "symbol": "NBIS",
-            "headline": "Why Nebius Stock Surged Higher Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-nebius-stock-surged-higher-181612755.html",
-            "score": 3
-        },
-        {
-            "symbol": "P",
-            "headline": "Top Midday Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
-            "score": 3
         },
         {
             "symbol": "APUS",
@@ -51,17 +37,31 @@
             "score": 2
         },
         {
+            "symbol": "NBIS",
+            "headline": "CoreWeave and Nebius Score Upgrades",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/5313e83c-952a-3c4c-9bb3-c6ce8ad606e5/coreweave-and-nebius-score.html",
+            "score": 0
+        },
+        {
             "symbol": "META",
-            "headline": "Meta is banking its future on its Muse AI agent \u2014 and winning user trust",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/technology/article/meta-is-banking-its-future-on-its-muse-ai-agent--and-winning-user-trust-182927585.html",
+            "headline": "Unity Software Provides Day-One Support for Meta VR Glasses",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/articles/unity-software-provides-day-one-185204951.html",
             "score": 0
         },
         {
             "symbol": "ORCL",
-            "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-            "publisher": "TechCrunch",
-            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-sends-force-majeure-notice-181144687.html",
+            "headline": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle-seeks-%E2%80%98force-majeure%E2%80%99.html",
+            "score": 0
+        },
+        {
+            "symbol": "P",
+            "headline": "Everpure's Growth Outlook Supported by AI Data Management Demand, UBS Says",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/everpure-apos-growth-outlook-supported-185607311.html",
             "score": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "symbol": "CRWV",
-            "headline": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy in 2026?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-vs-iren-technology-182220452.html",
+            "headline": "CoreWeave and Nebius Score Upgrades",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/5313e83c-952a-3c4c-9bb3-c6ce8ad606e5/coreweave-and-nebius-score.html",
             "score": 0
         },
         {
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "BB",
-            "headline": "BlackBerry Limited Q2 2027 Earnings Call Summary",
-            "publisher": "Moby",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-limited-q2-2027-earnings-164646474.html",
+            "headline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html",
             "score": 0
         },
         {
