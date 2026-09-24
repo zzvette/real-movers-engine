@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T17:56:11.678755+00:00",
+    "timestamp": "2026-09-24T18:00:57.996297+00:00",
     "catalysts": [
         {
             "symbol": "P",
@@ -37,10 +37,17 @@
             "score": 2
         },
         {
+            "symbol": "KGC",
+            "headline": "Kinross Gold (TSX:K) Lifts Return Of Capital Target To 50% Of Free Cash Flow",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-tsx-k-lifts-141455631.html",
+            "score": 2
+        },
+        {
             "symbol": "ORCL",
-            "headline": "Oracle Stock Plunges After Project Jupiter Warning Threatens 2028 AI Data Center Target",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-plunges-project-jupiter-174218276.html",
+            "headline": "Oracle Stock Slides As 'Force Majeure' Report Brings Concern About Key AI Data Center",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/010c4832-6fbc-3ba8-9853-c66228ef49aa/oracle-stock-slides-as-%27force.html",
             "score": 0
         },
         {
