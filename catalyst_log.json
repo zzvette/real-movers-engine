@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T17:43:03.333061+00:00",
+    "timestamp": "2026-09-24T17:50:47.060491+00:00",
     "catalysts": [
         {
             "symbol": "FSLR",
@@ -59,9 +59,16 @@
         },
         {
             "symbol": "MGM",
-            "headline": "Barry Diller's People Inc. withdraws $18 billion MGM Resorts bid",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/barry-dillers-people-inc-withdraws-172418050.html",
+            "headline": "Why MGM Resorts (MGM) Shares Are Falling Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-mgm-resorts-mgm-shares-173658407.html",
+            "score": 0
+        },
+        {
+            "symbol": "GLND",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
             "score": 0
         },
         {
