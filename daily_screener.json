@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T19:39:28.749999+00:00",
+    "timestamp": "2026-09-24T19:46:39.975777+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "META",
-                "headline": "Constellation Says Meta Cracked Consumer AI Formula",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/constellation-says-meta-cracked-consumer-193236199.html",
+                "headline": "Sector Update: Tech",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-193706593.html",
                 "score": 0
             },
             {
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "P",
-                "headline": "\ud83d\udd0e Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/45c45c79-5508-3823-be06-e04400a82ae9/%F0%9F%94%8E-under-the-radar%3A-s%26p.html",
+                "headline": "Everpure's Growth Outlook Supported by AI Data Management Demand, UBS Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/everpure-apos-growth-outlook-supported-185607311.html",
                 "score": 0
             },
             {
