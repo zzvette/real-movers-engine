@@ -1,18 +1,18 @@
 {
-    "timestamp": "2026-09-24T10:03:58.160282+00:00",
+    "timestamp": "2026-09-24T10:21:52.343194+00:00",
     "catalysts": [
-        {
-            "symbol": "U",
-            "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-surges-nearly-031444891.html",
-            "score": 3
-        },
         {
             "symbol": "^TNX",
             "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+            "score": 3
+        },
+        {
+            "symbol": "U",
+            "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-surges-nearly-031444891.html",
             "score": 3
         },
         {
@@ -59,9 +59,9 @@
         },
         {
             "symbol": "META",
-            "headline": "Update: Meta Plans Spring 2027 VR Glasses Release, Expands Smart-Glasses Lineup",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/meta-plans-spring-2027-vr-095032026.html",
+            "headline": "Dow Jones Futures Fall As Yields Extend Huge Gains Ahead Of Trump-Xi Summit",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
             "score": 0
         },
         {
@@ -72,13 +72,6 @@
             "score": 0
         },
         {
-            "symbol": "SOXS",
-            "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
-            "score": 0
-        },
-        {
             "symbol": "DCX",
             "headline": "Top Premarket Decliners",
             "publisher": "MT Newswires",
@@ -86,24 +79,38 @@
             "score": 0
         },
         {
-            "symbol": "^VIX",
-            "headline": "Stock Market News for Sep 23, 2026",
+            "symbol": "QQQ",
+            "headline": "Nasdaq, S&P 500 Futures Slide As Treasury Yields, Trump-Xi Summit Keep Traders On Edge: META, GOOGL, SPCX, VKTX, SNAP, MCD, BB Stocks In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-slide-082555072.html",
+            "score": 0
+        },
+        {
+            "symbol": "SPY",
+            "headline": "Nasdaq, S&P 500 Futures Slide As Treasury Yields, Trump-Xi Summit Keep Traders On Edge: META, GOOGL, SPCX, VKTX, SNAP, MCD, BB Stocks In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-slide-082555072.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOXS",
+            "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-23-132700528.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
             "score": 0
         },
         {
-            "symbol": "GOOG",
-            "headline": "Market Chatter: Google's Gemini 4 Close to Release, Official Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-google-apos-gemini-091119054.html",
+            "symbol": "^TYX",
+            "headline": "10-Year Treasury Yield Reaches 5.142% as Markets Reassess Fed Rate Outlook",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/economy/policy/articles/10-treasury-yield-reaches-5-095033695.html",
             "score": 0
         },
         {
-            "symbol": "RETO",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+            "symbol": "ABNB",
+            "headline": "Airbnb (ABNB) Stock Looks Fairly Valued After A 22% Gain",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-stock-looks-fairly-051436689.html",
             "score": 0
         },
         {
@@ -114,24 +121,24 @@
             "score": 0
         },
         {
-            "symbol": "^NSEI",
-            "headline": "NSE IPO Explained: Understanding the Offer for Sale (OFS) and Shareholders",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nse-ipo-explained-understanding-offer-091000369.html",
+            "symbol": "RETO",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
             "score": 0
         },
         {
-            "symbol": "ES=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "^VIX",
+            "headline": "Stock Market News for Sep 23, 2026",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-23-132700528.html",
             "score": 0
         },
         {
-            "symbol": "ARTL",
-            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
+            "symbol": "P",
+            "headline": "Citigroup Adjusts Price Target on Everpure to $160 From $130, Keeps Buy Rating",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-everpure-094023398.html",
             "score": 0
         }
     ]
