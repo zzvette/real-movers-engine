@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T17:02:31.633136+00:00",
+    "timestamp": "2026-09-24T17:13:47.915164+00:00",
     "catalysts": [
         {
             "symbol": "FSLR",
@@ -17,16 +17,9 @@
         },
         {
             "symbol": "ORCL",
-            "headline": "Surescripts, Oracle Health Partner to Help Clear Prescription Barriers for Patients Nationwide",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/healthcare/articles/surescripts-oracle-health-partner-help-164900090.html",
-            "score": 0
-        },
-        {
-            "symbol": "P",
-            "headline": "\ud83d\udd0e Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/45c45c79-5508-3823-be06-e04400a82ae9/%F0%9F%94%8E-under-the-radar%3A-s%26p.html",
+            "headline": "Why Oracle's force majeure notice is freaking out AI bulls",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/why-oracles-force-majeure-notice-is-freaking-out-ai-bulls-170304487.html",
             "score": 0
         },
         {
@@ -37,14 +30,21 @@
             "score": 0
         },
         {
-            "symbol": "GCTK",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
+            "symbol": "P",
+            "headline": "\ud83d\udd0e Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/45c45c79-5508-3823-be06-e04400a82ae9/%F0%9F%94%8E-under-the-radar%3A-s%26p.html",
             "score": 0
         },
         {
-            "symbol": "GLND",
+            "symbol": "RKLB",
+            "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/trump-bought-spacex-stock-weeks-132022132.html",
+            "score": 0
+        },
+        {
+            "symbol": "GCTK",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
@@ -59,37 +59,16 @@
         },
         {
             "symbol": "MGM",
-            "headline": "MGM Stock Tumbles After Barry Diller\u2019s People Scraps Takeover Bid \u2013 Mizuho Says Withdrawal Was \u2018Not Terribly Surprising\u2019",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-stock-tumbles-barry-diller-162524837.html",
+            "headline": "Sector Update: Consumer",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-170523628.html",
             "score": 0
         },
         {
-            "symbol": "PMAX",
+            "symbol": "GLND",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
-            "score": 0
-        },
-        {
-            "symbol": "SKYQ",
-            "headline": "West Coast Refinery Closures Put Nevada's Fuel Supply Under Pressure",
-            "publisher": "CNW Group",
-            "link": "https://finance.yahoo.com/energy/articles/west-coast-refinery-closures-put-160300520.html",
-            "score": 0
-        },
-        {
-            "symbol": "PFSA",
-            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
-            "score": 0
-        },
-        {
-            "symbol": "WETO",
-            "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/technology/ai/articles/wetour-robotics-launches-vantrapower-enter-142215237.html",
             "score": 0
         },
         {
@@ -100,31 +79,59 @@
             "score": 0
         },
         {
-            "symbol": "TWST",
-            "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
+            "symbol": "PFSA",
+            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
             "score": 0
         },
         {
-            "symbol": "GDDY",
-            "headline": "GoDaddy Shares Surge On Gen Digital's Reported Takeover Bid \u2014 GEN Stock Falls As Talks in Early Stages",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/godaddy-shares-surge-gen-digitals-160257804.html",
+            "symbol": "ARM",
+            "headline": "Bank of America Just Told Investors to Sell UPS, and the Reason Has Nothing to Do With Package Volume",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-just-told-investors-154930863.html",
             "score": 0
         },
         {
-            "symbol": "LLY",
-            "headline": "Eli Lilly outlays $3.35bn for secretive drug discovery pact with China\u2019s InnoCare",
-            "publisher": "Pharmaceutical Technology",
-            "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-outlays-3-35bn-145740810.html",
+            "symbol": "PL",
+            "headline": "RDW vs. PL: Which Satellite Stock Has the Stronger Investment Case?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-vs-pl-satellite-stock-133400879.html",
             "score": 0
         },
         {
-            "symbol": "QURE",
-            "headline": "Trump Administration Shift Puts This Corner of Biotech Back in Favor",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/7778adcc-7395-3f5d-ad3d-e9650937e3b8/trump-administration-shift.html",
+            "symbol": "LITE",
+            "headline": "Applied Optoelectronics Rides on AI Boom: Can It Beat LITE and FN?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/ai/articles/applied-optoelectronics-rides-ai-boom-152300951.html",
+            "score": 0
+        },
+        {
+            "symbol": "SKYQ",
+            "headline": "West Coast Refinery Closures Put Nevada's Fuel Supply Under Pressure",
+            "publisher": "CNW Group",
+            "link": "https://finance.yahoo.com/energy/articles/west-coast-refinery-closures-put-160300520.html",
+            "score": 0
+        },
+        {
+            "symbol": "PMAX",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
+            "score": 0
+        },
+        {
+            "symbol": "STAK",
+            "headline": "STAK to Hold Class A Meeting and Extraordinary General Meeting",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stak-hold-class-meeting-extraordinary-200500895.html",
+            "score": 0
+        },
+        {
+            "symbol": "SBUX",
+            "headline": "Starbucks store closings. 250 Starbucks closing by end of the week",
+            "publisher": "App.com | Asbury Park Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-store-closings-250-starbucks-162715514.html",
             "score": 0
         }
     ]
