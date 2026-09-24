@@ -1,22 +1,8 @@
 {
-    "timestamp": "2026-09-24T14:02:10.924449+00:00",
+    "timestamp": "2026-09-24T14:15:09.682053+00:00",
     "catalysts": [
         {
-            "symbol": "FSLY",
-            "headline": "Why Fastly Stock Jumped Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-fastly-stock-jumped-today-040934263.html",
-            "score": 3
-        },
-        {
             "symbol": "ATYR",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
-            "score": 3
-        },
-        {
-            "symbol": "DCX",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
@@ -30,27 +16,6 @@
             "score": 2
         },
         {
-            "symbol": "BB",
-            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
-            "score": 0
-        },
-        {
-            "symbol": "MCD",
-            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
-            "score": 0
-        },
-        {
-            "symbol": "^TNX",
-            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
-            "score": 0
-        },
-        {
             "symbol": "ORCL",
             "headline": "Barron's 400 ETF (BFOR) Adds Energy and Materials, Reduces Utilities and Consumer Discretionary in Fall Rebalance",
             "publisher": "Business Wire",
@@ -58,31 +23,17 @@
             "score": 0
         },
         {
-            "symbol": "U",
-            "headline": "The Engine Behind Unity Stock Has Real Parts",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-unity-stock-real-123839277.html",
+            "symbol": "BB",
+            "headline": "BlackBerry Q2 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-q2-earnings-call-highlights-140258309.html",
             "score": 0
         },
         {
-            "symbol": "PFSA",
-            "headline": "Profusa Announces Significant Progress Towards Lumee\u00ae Oxygen Platform CE Mark with ISO 13485 Certification Expected in Early October",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/profusa-announces-significant-progress-towards-113000967.html",
-            "score": 0
-        },
-        {
-            "symbol": "WETO",
-            "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/technology/ai/articles/wetour-robotics-launches-vantrapower-enter-142215237.html",
-            "score": 0
-        },
-        {
-            "symbol": "SRZN",
-            "headline": "Surrozen Files Investigational New Drug Application for SZN-8141 in Diabetic Macular Edema",
+            "symbol": "P",
+            "headline": "Barclays Adjusts Everpure Price Target to $132 From $110, Maintains Equal Weight Rating",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/surrozen-files-investigational-drug-application-144044802.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-everpure-price-target-132757280.html",
             "score": 0
         },
         {
@@ -93,31 +44,38 @@
             "score": 0
         },
         {
-            "symbol": "DRI",
-            "headline": "Darden Restaurants Q1 2027 earnings: profit falls, Olive Garden slows",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-q1-2027-earnings-135234871.html",
+            "symbol": "PFSA",
+            "headline": "Profusa Announces Significant Progress Towards Lumee\u00ae Oxygen Platform CE Mark with ISO 13485 Certification Expected in Early October",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/profusa-announces-significant-progress-towards-113000967.html",
             "score": 0
         },
         {
-            "symbol": "SNX",
-            "headline": "Sector Update: Tech Stocks Fall Premarket Thursday",
+            "symbol": "^TNX",
+            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
+            "score": 0
+        },
+        {
+            "symbol": "SRZN",
+            "headline": "Surrozen Files Investigational New Drug Application for SZN-8141 in Diabetic Macular Edema",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-131251065.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/surrozen-files-investigational-drug-application-144044802.html",
             "score": 0
         },
         {
-            "symbol": "TLT",
-            "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "publisher": "etf.com",
-            "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+            "symbol": "U",
+            "headline": "The Engine Behind Unity Stock Has Real Parts",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-unity-stock-real-123839277.html",
             "score": 0
         },
         {
-            "symbol": "FRVO",
-            "headline": "Fervo Energy Reaches First Power at Utah Geothermal Project",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/energy/articles/fervo-energy-reaches-first-power-103916750.html",
+            "symbol": "WETO",
+            "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/technology/ai/articles/wetour-robotics-launches-vantrapower-enter-142215237.html",
             "score": 0
         },
         {
@@ -125,6 +83,48 @@
             "headline": "CoreWeave upgraded, Etsy downgraded: Wall Street's top analyst calls",
             "publisher": "The Fly",
             "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-reinstated-ralph-lauren-upgraded-133648092.html",
+            "score": 0
+        },
+        {
+            "symbol": "NBIS",
+            "headline": "BigBear.ai vs. Nebius Group: Which Specialized AI Stock Is a Better Buy in 2026?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-vs-nebius-group-132114761.html",
+            "score": 0
+        },
+        {
+            "symbol": "FRVO",
+            "headline": "Fervo Starts Power Generation at Utah Geothermal Flagship",
+            "publisher": "Oilprice.com",
+            "link": "https://finance.yahoo.com/energy/articles/fervo-starts-power-generation-utah-140404103.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNX",
+            "headline": "TD SYNNEX Shares Fall Premarket Despite Q3 Revenue and Earnings Above Estimates",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-shares-fall-premarket-135414140.html",
+            "score": 0
+        },
+        {
+            "symbol": "FSLY",
+            "headline": "Fastly\u2019s 14% AI spike was a mirage; Here\u2019s the edge stock Citi says you should own",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-14-ai-spike-mirage-140702246.html",
+            "score": 0
+        },
+        {
+            "symbol": "KGC",
+            "headline": "Kinross Gold Updates Production Outlook, Raises Capital Return Target",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/kinross-gold-updates-production-outlook-124100550.html",
+            "score": 0
+        },
+        {
+            "symbol": "NCPL",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
             "score": 0
         },
         {
