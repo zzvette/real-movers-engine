@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T23:14:32.432837+00:00",
+    "timestamp": "2026-09-24T23:30:48.687454+00:00",
     "catalysts": [
         {
             "symbol": "APUS",
@@ -7,13 +7,6 @@
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
             "score": 3
-        },
-        {
-            "symbol": "AKAM",
-            "headline": "Akamai Lands Record $11.6B Anthropic AI Cloud Deal, Eyes $20B Potential",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/ai/articles/akamai-lands-record-11-6b-230217068.html",
-            "score": 2
         },
         {
             "symbol": "ORCL",
@@ -31,16 +24,23 @@
         },
         {
             "symbol": "COST",
-            "headline": "Costco Wholesale Q4 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-q4-earnings-call-230217494.html",
+            "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
             "score": 0
         },
         {
             "symbol": "META",
-            "headline": "META Stock Hits One-Year High \u2014 Meta Launches Tool To Let Users Build Games Through AI",
+            "headline": "META Stock Is Set For Its Best Month In Over 13 Years \u2014 It\u2019s Inches Away From $2 Trillion Market Cap",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-stock-hits-one-high-211853967.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-set-best-month-231620061.html",
+            "score": 0
+        },
+        {
+            "symbol": "AKAM",
+            "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
             "score": 0
         },
         {
@@ -108,9 +108,9 @@
         },
         {
             "symbol": "MGM",
-            "headline": "MGM Resorts weighs potential takeover bid for Barry Diller\u2019s People Inc., WSJ says",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-resorts-weighs-potential-takeover-222637423.html",
+            "headline": "Market Chatter: MGM Resorts Discussing Bid for People Inc",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-mgm-resorts-discussing-231516036.html",
             "score": 0
         },
         {
