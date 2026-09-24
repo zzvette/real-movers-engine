@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T14:15:09.682053+00:00",
+    "timestamp": "2026-09-24T14:41:21.433429+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,10 +17,17 @@
                 "score": 2
             },
             {
+                "symbol": "KGC",
+                "headline": "Kinross Gold (TSX:K) Lifts Return Of Capital Target To 50% Of Free Cash Flow",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-tsx-k-lifts-141455631.html",
+                "score": 2
+            },
+            {
                 "symbol": "ORCL",
-                "headline": "Barron's 400 ETF (BFOR) Adds Energy and Materials, Reduces Utilities and Consumer Discretionary in Fall Rebalance",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/barrons-400-etf-bfor-adds-134500664.html",
+                "headline": "ORCL Stock Slides To Early August Levels \u2013 $165B New Mexico Project In Focus After Company Reportedly Cites \u2018Force Majeure\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-slides-early-august-143024123.html",
                 "score": 0
             },
             {
@@ -39,9 +46,9 @@
             },
             {
                 "symbol": "BE",
-                "headline": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle-seeks-%E2%80%98force-majeure%E2%80%99.html",
+                "headline": "ORCL Stock Slides To Early August Levels \u2013 $165B New Mexico Project In Focus After Company Reportedly Cites \u2018Force Majeure\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-slides-early-august-143024123.html",
                 "score": 0
             },
             {
@@ -88,9 +95,9 @@
             },
             {
                 "symbol": "NBIS",
-                "headline": "BigBear.ai vs. Nebius Group: Which Specialized AI Stock Is a Better Buy in 2026?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-vs-nebius-group-132114761.html",
+                "headline": "CoreWeave Wins JPMorgan Upgrade on Premium Compute Pricing",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-wins-jpmorgan-upgrade-premium-141948746.html",
                 "score": 0
             },
             {
@@ -102,9 +109,9 @@
             },
             {
                 "symbol": "SNX",
-                "headline": "TD SYNNEX Shares Fall Premarket Despite Q3 Revenue and Earnings Above Estimates",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-shares-fall-premarket-135414140.html",
+                "headline": "Update: TD Synnex Shares Fall After Fiscal Q3 Results",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-shares-fall-fiscal-141155827.html",
                 "score": 0
             },
             {
@@ -112,13 +119,6 @@
                 "headline": "Fastly\u2019s 14% AI spike was a mirage; Here\u2019s the edge stock Citi says you should own",
                 "publisher": "Investing.com",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-14-ai-spike-mirage-140702246.html",
-                "score": 0
-            },
-            {
-                "symbol": "KGC",
-                "headline": "Kinross Gold Updates Production Outlook, Raises Capital Return Target",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/kinross-gold-updates-production-outlook-124100550.html",
                 "score": 0
             },
             {
