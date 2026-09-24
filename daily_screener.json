@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T16:27:09.903372+00:00",
+    "timestamp": "2026-09-24T16:37:44.374692+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,9 +32,9 @@
             },
             {
                 "symbol": "P",
-                "headline": "Everpure Stock is Already Up 18% Today. Here\u2019s Why Wall Street Sees More Upside.",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-stock-already-18-today-154637775.html",
+                "headline": "\ud83d\udd0e Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/45c45c79-5508-3823-be06-e04400a82ae9/%F0%9F%94%8E-under-the-radar%3A-s%26p.html",
                 "score": 0
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "MGM",
-                "headline": "Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-oracle-apos-160611263.html",
+                "headline": "MGM Stock Tumbles After Barry Diller\u2019s People Scraps Takeover Bid \u2013 Mizuho Says Withdrawal Was \u2018Not Terribly Surprising\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-stock-tumbles-barry-diller-162524837.html",
                 "score": 0
             },
             {
@@ -87,17 +87,10 @@
                 "score": 0
             },
             {
-                "symbol": "WETO",
-                "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/technology/ai/articles/wetour-robotics-launches-vantrapower-enter-142215237.html",
-                "score": 0
-            },
-            {
                 "symbol": "BB",
-                "headline": "BlackBerry Lifts Full-Year Outlook as Software Solutions Unit Drives Second-Quarter Growth",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-lifts-full-outlook-software-160906344.html",
+                "headline": "Tech, Media & Telecom Roundup: Market Talk",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/eebd2110-c95e-3826-a941-0c6c80f47338/tech%2C-media-%26-telecom.html",
                 "score": 0
             },
             {
