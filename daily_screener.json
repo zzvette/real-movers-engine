@@ -1,7 +1,21 @@
 {
-    "timestamp": "2026-09-24T18:13:47.668467+00:00",
+    "timestamp": "2026-09-24T18:29:13.071469+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "UTWO",
+                "headline": "Two Treasury Income ETFs Retirees Are Quietly Loading Up On as the 2 Year Yield Climbs Above 4 Percent",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/options/articles/two-treasury-income-etfs-retirees-171156550.html",
+                "score": 5
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "Why Nebius Stock Surged Higher Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nebius-stock-surged-higher-181612755.html",
+                "score": 3
+            },
             {
                 "symbol": "P",
                 "headline": "Top Midday Gainers",
@@ -24,13 +38,6 @@
                 "score": 3
             },
             {
-                "symbol": "PL",
-                "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-rally-buying-spreads-175256864.html",
-                "score": 3
-            },
-            {
                 "symbol": "FSLR",
                 "headline": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
                 "publisher": "24/7 Wall St.",
@@ -45,42 +52,49 @@
                 "score": 2
             },
             {
+                "symbol": "WRBY",
+                "headline": "Warby Parker\u2019s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
+                "publisher": "Barchart",
+                "link": "https://finance.yahoo.com/markets/options/articles/warby-parker-unusual-options-activity-173002493.html",
+                "score": 2
+            },
+            {
+                "symbol": "META",
+                "headline": "Unity Delivers Day-One Support for Meta VR Glasses - Empowering Developers to Reach a New Audience in VR",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/articles/unity-delivers-day-one-support-181000662.html",
+                "score": 0
+            },
+            {
                 "symbol": "ORCL",
-                "headline": "Oracle Stock Slides As 'Force Majeure' Report Brings Concern About Key AI Data Center",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/010c4832-6fbc-3ba8-9853-c66228ef49aa/oracle-stock-slides-as-%27force.html",
+                "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+                "publisher": "TechCrunch",
+                "link": "https://finance.yahoo.com/technology/ai/articles/oracle-sends-force-majeure-notice-181144687.html",
                 "score": 0
             },
             {
-                "symbol": "NBIS",
-                "headline": "Nebius Stock Soars 8% as BNP Paribas Delivers Massive Price Target Hike",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-soars-8-bnp-180550903.html",
-                "score": 0
-            },
-            {
-                "symbol": "GCTK",
+                "symbol": "GLND",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
                 "score": 0
             },
             {
-                "symbol": "BE",
-                "headline": "This Energy Stock Helped Patient Investors Get Rich. Here's Why I Recently Bought It.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/energy/articles/energy-stock-helped-patient-investors-172002709.html",
+                "symbol": "CRWV",
+                "headline": "JPMorgan Resets CoreWeave Stock Price Target for 2026",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-resets-coreweave-stock-price-162956150.html",
                 "score": 0
             },
             {
                 "symbol": "MGM",
-                "headline": "Sector Update: Consumer Stocks Decline Thursday Afternoon",
+                "headline": "Top Midday Decliners",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-thursday-175046941.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180723608.html",
                 "score": 0
             },
             {
-                "symbol": "GLND",
+                "symbol": "GCTK",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
@@ -94,6 +108,13 @@
                 "score": 0
             },
             {
+                "symbol": "UPS",
+                "headline": "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-24-164423138.html",
+                "score": 0
+            },
+            {
                 "symbol": "PFSA",
                 "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
                 "publisher": "InvestorsHub",
@@ -101,24 +122,10 @@
                 "score": 0
             },
             {
-                "symbol": "ARM",
-                "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/arm-drops-3-3-more-173604154.html",
-                "score": 0
-            },
-            {
-                "symbol": "LITE",
-                "headline": "Applied Optoelectronics Rides on AI Boom: Can It Beat LITE and FN?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/applied-optoelectronics-rides-ai-boom-152300951.html",
-                "score": 0
-            },
-            {
-                "symbol": "SKYQ",
-                "headline": "West Coast Refinery Closures Put Nevada's Fuel Supply Under Pressure",
-                "publisher": "CNW Group",
-                "link": "https://finance.yahoo.com/energy/articles/west-coast-refinery-closures-put-160300520.html",
+                "symbol": "PL",
+                "headline": "Update: Planet Labs Shares Rise After Amazon Biodiversity Initiative Launched",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-shares-rise-amazon-181342042.html",
                 "score": 0
             },
             {
@@ -126,20 +133,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
-                "score": 0
-            },
-            {
-                "symbol": "STAK",
-                "headline": "STAK to Hold Class A Meeting and Extraordinary General Meeting",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stak-hold-class-meeting-extraordinary-200500895.html",
-                "score": 0
-            },
-            {
-                "symbol": "SBUX",
-                "headline": "Starbucks to close 250 more cafes in North America",
-                "publisher": "AFP",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-close-250-more-cafes-175330462.html",
                 "score": 0
             }
         ]
