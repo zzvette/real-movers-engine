@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T13:36:12.141653+00:00",
+    "timestamp": "2026-09-24T13:50:50.793659+00:00",
     "catalysts": [
         {
             "symbol": "FSLY",
@@ -30,38 +30,31 @@
             "score": 2
         },
         {
-            "symbol": "MGM",
-            "headline": "MGM Resorts International Sinks 10% as Barry Diller Withdraws $48.30-a-Share Buyout Offer; Caesars Entertainment Barely Moves",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-resorts-international-sinks-10-132514357.html",
-            "score": 2
-        },
-        {
             "symbol": "BB",
-            "headline": "Sector Update: Tech Stocks Fall Premarket Thursday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-131251065.html",
+            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
             "score": 0
         },
         {
             "symbol": "MCD",
-            "headline": "Street Trims McDonald's Targets After Investor Day Selloff",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/street-trims-mcdonalds-targets-investor-120720263.html",
+            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
             "score": 0
         },
         {
             "symbol": "^TNX",
-            "headline": "30-year Treasury yield hits highest level since 2004 \u2014 what it means for stocks: Chart of the Day",
+            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
             "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/30-year-treasury-yield-hits-highest-level-since-2004--what-it-means-for-stocks-chart-of-the-day-123701823.html",
+            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
             "score": 0
         },
         {
             "symbol": "ORCL",
-            "headline": "Oracle stock drops as the company moves to shield itself from controversial data center costs",
+            "headline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
             "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/oracle-stock-drops-as-the-company-moves-to-shield-itself-from-controversial-data-center-costs-133351264.html",
+            "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
             "score": 0
         },
         {
@@ -101,9 +94,9 @@
         },
         {
             "symbol": "DRI",
-            "headline": "Sector Update: Consumer Stocks Mixed Premarket Thursday",
+            "headline": "Darden Misses First-Quarter Revenue Views, Maintains Full-Year Outlook",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-premarket-131623592.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/darden-misses-first-quarter-revenue-134216981.html",
             "score": 0
         },
         {
@@ -125,6 +118,13 @@
             "headline": "Fervo Energy Reaches First Power at Utah Geothermal Project",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/energy/articles/fervo-energy-reaches-first-power-103916750.html",
+            "score": 0
+        },
+        {
+            "symbol": "MGM",
+            "headline": "CoreWeave upgraded, Etsy downgraded: Wall Street's top analyst calls",
+            "publisher": "The Fly",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-reinstated-ralph-lauren-upgraded-133648092.html",
             "score": 0
         },
         {
