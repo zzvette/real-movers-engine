@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T11:44:46.615988+00:00",
+    "timestamp": "2026-09-24T11:55:33.819305+00:00",
     "signals": {
         "catalysts": [
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "BENF",
-                "headline": "Beneficient Seeks to Eliminate Debt, Equity Linked to Former CEO",
+                "headline": "Top Premarket Decliners",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/beneficient-seeks-eliminate-debt-equity-192027909.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114006961.html",
                 "score": 0
             },
             {
@@ -81,7 +81,7 @@
             },
             {
                 "symbol": "META",
-                "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Trump-Xi Summit On Tap.",
+                "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
                 "score": 0
@@ -95,7 +95,7 @@
             },
             {
                 "symbol": "^TYX",
-                "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Trump-Xi Summit On Tap.",
+                "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
                 "score": 0
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "^VIX",
-                "headline": "Stock Market News for Sep 23, 2026",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-23-132700528.html",
+                "headline": "With Bond Market Yields at Multi-Decade Highs, \u2018This Is Hit the Wall Stuff\u2019",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/48ee167a-43c3-3b1d-ba0f-25b97024a6e7/with-bond-market-yields-at.html",
                 "score": 0
             },
             {
