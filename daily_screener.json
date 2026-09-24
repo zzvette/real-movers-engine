@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-24T11:55:33.819305+00:00",
+    "timestamp": "2026-09-24T12:09:57.656988+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "^TNX",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-                "score": 3
-            },
             {
                 "symbol": "U",
                 "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta\u2019s New VR, AI Hardware Push",
@@ -39,9 +32,16 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "RBC Trims Price Target on McDonald's to $285 From $290, Keeps Sector Perform Rating",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-trims-price-target-mcdonald-105852433.html",
+                "headline": "Street Trims McDonald's Targets After Investor Day Selloff",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/street-trims-mcdonalds-targets-investor-120720263.html",
+                "score": 0
+            },
+            {
+                "symbol": "^TNX",
+                "headline": "The runaway 10-year yield is triggering a bad memory for investors",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/economy/article/the-runaway-10-year-yield-is-triggering-a-bad-memory-for-investors-094923324.html",
                 "score": 0
             },
             {
@@ -73,13 +73,6 @@
                 "score": 0
             },
             {
-                "symbol": "TLT",
-                "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
-                "score": 0
-            },
-            {
                 "symbol": "META",
                 "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
                 "publisher": "Investor's Business Daily",
@@ -95,9 +88,9 @@
             },
             {
                 "symbol": "^TYX",
-                "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
+                "headline": "Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rising-treasury-yields-oil-prices-120541848.html",
                 "score": 0
             },
             {
