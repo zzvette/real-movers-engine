@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T12:09:57.656988+00:00",
+    "timestamp": "2026-09-24T12:31:00.081275+00:00",
     "catalysts": [
         {
             "symbol": "U",
@@ -16,13 +16,6 @@
             "score": 3
         },
         {
-            "symbol": "DCX",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
-            "score": 3
-        },
-        {
             "symbol": "FSLY",
             "headline": "Why Fastly Stock Jumped Today",
             "publisher": "Motley Fool",
@@ -30,10 +23,31 @@
             "score": 3
         },
         {
+            "symbol": "DCX",
+            "headline": "Top Premarket Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
+            "score": 3
+        },
+        {
+            "symbol": "BB",
+            "headline": "BlackBerry: Fiscal Q2 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-fiscal-q2-earnings-snapshot-120801682.html",
+            "score": 0
+        },
+        {
             "symbol": "MCD",
             "headline": "Street Trims McDonald's Targets After Investor Day Selloff",
             "publisher": "GuruFocus.com",
             "link": "https://finance.yahoo.com/markets/stocks/articles/street-trims-mcdonalds-targets-investor-120720263.html",
+            "score": 0
+        },
+        {
+            "symbol": "GCTK",
+            "headline": "L\u014dkahi Therapeutics\u2122 Advances its Proprietary ai\u00b2 PIPELINE (formerly ai\u00b2 Futures Lab) Process from Internal Asset Engine to Revenue-Generating Platform",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/healthcare/articles/l-kahi-therapeutics-advances-proprietary-203000826.html",
             "score": 0
         },
         {
@@ -51,20 +65,6 @@
             "score": 0
         },
         {
-            "symbol": "GCTK",
-            "headline": "L\u014dkahi Therapeutics\u2122 Advances its Proprietary ai\u00b2 PIPELINE (formerly ai\u00b2 Futures Lab) Process from Internal Asset Engine to Revenue-Generating Platform",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/healthcare/articles/l-kahi-therapeutics-advances-proprietary-203000826.html",
-            "score": 0
-        },
-        {
-            "symbol": "NQ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
-            "score": 0
-        },
-        {
             "symbol": "WETO",
             "headline": "Wetour Robotics Launches Vantrapower to Enter Texas AI Power Infrastructure Market",
             "publisher": "InvestorsHub",
@@ -72,17 +72,59 @@
             "score": 0
         },
         {
-            "symbol": "META",
+            "symbol": "DRI",
+            "headline": "Darden Restaurants: Fiscal Q1 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-fiscal-q1-earnings-120713909.html",
+            "score": 0
+        },
+        {
+            "symbol": "PFSA",
+            "headline": "Profusa Announces Significant Progress Towards Lumee\u00ae Oxygen Platform CE Mark with ISO 13485 Certification Expected in Early October",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/profusa-announces-significant-progress-towards-113000967.html",
+            "score": 0
+        },
+        {
+            "symbol": "TLT",
+            "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNX",
+            "headline": "TD SYNNEX: Fiscal Q3 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-fiscal-q3-earnings-120712073.html",
+            "score": 0
+        },
+        {
+            "symbol": "GRAL",
             "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
             "score": 0
         },
         {
-            "symbol": "QQQ",
-            "headline": "History Says This 1 Investment Could Set You Up for Life. Here's the Math.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-1-investment-could-103000775.html",
+            "symbol": "META",
+            "headline": "Wall Street sees Muse as Meta\u2019s next big catalyst after Connect event",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-muse-meta-121602569.html",
+            "score": 0
+        },
+        {
+            "symbol": "YMAT",
+            "headline": "J-Star Holding Co., Ltd Regains Compliance with Nasdaq Minimum Bid Price Requirement",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/j-star-holding-co-ltd-114700960.html",
+            "score": 0
+        },
+        {
+            "symbol": "P",
+            "headline": "Lake Street Adjusts Price Target on Everpure to $130 From $120, Maintains Buy Rating",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/lake-street-adjusts-price-target-120925656.html",
             "score": 0
         },
         {
@@ -90,48 +132,6 @@
             "headline": "Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/rising-treasury-yields-oil-prices-120541848.html",
-            "score": 0
-        },
-        {
-            "symbol": "P",
-            "headline": "Northland Securities Adjusts Everpure Price Target to $167 From $128, Maintains Outperform Rating",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/northland-securities-adjusts-everpure-price-112345678.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPY",
-            "headline": "Nasdaq, S&P 500 Futures Slide As Treasury Yields, Trump-Xi Summit Keep Traders On Edge: META, GOOGL, SPCX, VKTX, SNAP, MCD, BB Stocks In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-slide-082555072.html",
-            "score": 0
-        },
-        {
-            "symbol": "^VIX",
-            "headline": "With Bond Market Yields at Multi-Decade Highs, \u2018This Is Hit the Wall Stuff\u2019",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/48ee167a-43c3-3b1d-ba0f-25b97024a6e7/with-bond-market-yields-at.html",
-            "score": 0
-        },
-        {
-            "symbol": "ARTL",
-            "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
-            "score": 0
-        },
-        {
-            "symbol": "ABNB",
-            "headline": "Airbnb (ABNB) Stock Looks Fairly Valued After A 22% Gain",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-stock-looks-fairly-051436689.html",
-            "score": 0
-        },
-        {
-            "symbol": "TWG",
-            "headline": "TOP WEALTH GROUP HOLDING LIMITED ISSUES POSITIVE PROFIT ALERT",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-wealth-group-holding-limited-120000412.html",
             "score": 0
         }
     ]
