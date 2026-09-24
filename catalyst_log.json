@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T21:56:57.553836+00:00",
+    "timestamp": "2026-09-24T22:13:26.524430+00:00",
     "catalysts": [
         {
             "symbol": "APUS",
@@ -7,13 +7,6 @@
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
             "score": 3
-        },
-        {
-            "symbol": "ORCL",
-            "headline": "webAI Lands $30 Million AI Deal With Forge as Enterprise AI Services Race Accelerates",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/webai-lands-30-million-ai-212600291.html",
-            "score": 2
         },
         {
             "symbol": "WRBY",
@@ -66,9 +59,16 @@
         },
         {
             "symbol": "NBIS",
-            "headline": "CoreWeave and Nebius Score Upgrades",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/5313e83c-952a-3c4c-9bb3-c6ce8ad606e5/coreweave-and-nebius-score.html",
+            "headline": "Could Palantir (PLTR)\u2019s Partnership with Nebius Group (NBIS) Accelerate its AI Growth?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/ai/articles/could-palantir-pltr-partnership-nebius-220317492.html",
+            "score": 0
+        },
+        {
+            "symbol": "ORCL",
+            "headline": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-24-215348297.html",
             "score": 0
         },
         {
