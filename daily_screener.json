@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T10:59:05.542569+00:00",
+    "timestamp": "2026-09-24T11:14:52.082091+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,6 +17,20 @@
                 "score": 3
             },
             {
+                "symbol": "ATYR",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
+                "score": 3
+            },
+            {
+                "symbol": "DCX",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619823.html",
+                "score": 3
+            },
+            {
                 "symbol": "FSLY",
                 "headline": "Why Fastly Stock Jumped Today",
                 "publisher": "Motley Fool",
@@ -25,9 +39,9 @@
             },
             {
                 "symbol": "MCD",
-                "headline": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Thursday; Sandisk, Micron Technology to Decline",
+                "headline": "RBC Trims Price Target on McDonald's to $285 From $290, Keeps Sector Perform Rating",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103546917.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-trims-price-target-mcdonald-105852433.html",
                 "score": 0
             },
             {
@@ -59,13 +73,6 @@
                 "score": 0
             },
             {
-                "symbol": "META",
-                "headline": "Meta\u2019s Muse, AI Hardware Push Could Drive New Revenue Streams, Says Citizens  \u2014 Sees Nearly 19% Upside",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/technology/ai/articles/meta-muse-ai-hardware-push-104358177.html",
-                "score": 0
-            },
-            {
                 "symbol": "TLT",
                 "headline": "ETF Zoo: 6 Pundits Walk Into a Bar",
                 "publisher": "etf.com",
@@ -73,10 +80,10 @@
                 "score": 0
             },
             {
-                "symbol": "DCX",
-                "headline": "Top Premarket Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114324970.html",
+                "symbol": "META",
+                "headline": "Dow Jones Futures Fall As Treasury Yields Keep Rising Ahead Of Trump-Xi Summit",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html",
                 "score": 0
             },
             {
@@ -87,6 +94,20 @@
                 "score": 0
             },
             {
+                "symbol": "^TYX",
+                "headline": "Wall St futures fall on Middle East uncertainties ahead of Trump-Xi talks",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
+                "score": 0
+            },
+            {
+                "symbol": "P",
+                "headline": "Citigroup Adjusts Price Target on Everpure to $160 From $130, Keeps Buy Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-everpure-094023398.html",
+                "score": 0
+            },
+            {
                 "symbol": "SPY",
                 "headline": "Nasdaq, S&P 500 Futures Slide As Treasury Yields, Trump-Xi Summit Keep Traders On Edge: META, GOOGL, SPCX, VKTX, SNAP, MCD, BB Stocks In Focus",
                 "publisher": "Stocktwits",
@@ -94,17 +115,17 @@
                 "score": 0
             },
             {
-                "symbol": "SOXS",
-                "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
+                "symbol": "^VIX",
+                "headline": "Stock Market News for Sep 23, 2026",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-23-132700528.html",
                 "score": 0
             },
             {
-                "symbol": "^TYX",
-                "headline": "Wall St futures fall on Middle East uncertainties ahead of Trump-Xi talks",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
+                "symbol": "ARTL",
+                "headline": "Artelo Biosciences Files New Provisional Patent Application Covering ART27.13 for Obesity, Alone and in Combination with GLP-1 Receptor Agonists, Following Unexpected Nonclinical Findings",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/artelo-biosciences-files-provisional-patent-113300323.html",
                 "score": 0
             },
             {
@@ -119,27 +140,6 @@
                 "headline": "TOP WEALTH GROUP HOLDING LIMITED ISSUES POSITIVE PROFIT ALERT",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-wealth-group-holding-limited-120000412.html",
-                "score": 0
-            },
-            {
-                "symbol": "RETO",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
-                "score": 0
-            },
-            {
-                "symbol": "^VIX",
-                "headline": "Stock Market News for Sep 23, 2026",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-23-132700528.html",
-                "score": 0
-            },
-            {
-                "symbol": "P",
-                "headline": "Citigroup Adjusts Price Target on Everpure to $160 From $130, Keeps Buy Rating",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-everpure-094023398.html",
                 "score": 0
             }
         ]
