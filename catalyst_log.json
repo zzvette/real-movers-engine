@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T19:14:48.486264+00:00",
+    "timestamp": "2026-09-25T19:25:07.155102+00:00",
     "catalysts": [
         {
             "symbol": "TWST",
@@ -7,6 +7,13 @@
             "publisher": "TIKR",
             "link": "https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-stock-jumped-16-043645132.html",
             "score": 3
+        },
+        {
+            "symbol": "AKAM",
+            "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+            "publisher": "TechCrunch",
+            "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-pay-akamai-11-6-191338501.html",
+            "score": 2
         },
         {
             "symbol": "COST",
@@ -27,13 +34,6 @@
             "headline": "MRNA, PGEN Stocks Hit Multi-Year Highs \u2013 What\u2019s Driving The Momentum Today?",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/healthcare/articles/mrna-pgen-stocks-hit-multi-183714623.html",
-            "score": 0
-        },
-        {
-            "symbol": "AKAM",
-            "headline": "Investing.com\u2019s stocks of the week",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-183046002.html",
             "score": 0
         },
         {
