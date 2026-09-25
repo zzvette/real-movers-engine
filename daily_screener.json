@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-25T17:35:01.862682+00:00",
+    "timestamp": "2026-09-25T17:46:38.373809+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "ORCL",
-                "headline": "Bloom Energy Jumps 8% as Oracle Reaffirms 2.4 GW Fuel Cell Contract After Force Majeure Notice",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/bloom-energy-jumps-8-oracle-165523316.html",
-                "score": 3
-            },
             {
                 "symbol": "TWST",
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
@@ -66,6 +59,13 @@
                 "score": 0
             },
             {
+                "symbol": "ORCL",
+                "headline": "Sector Update: Financial",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-173607385.html",
+                "score": 0
+            },
+            {
                 "symbol": "NBIS",
                 "headline": "Nebius Stock Falls 2.5% While $399 Target Tests AI Expectations",
                 "publisher": "GuruFocus.com",
@@ -77,13 +77,6 @@
                 "headline": "Tempus AI Chief Accounting Officer Sells $529,650 of Stock",
                 "publisher": "Motley Fool",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-chief-accounting-officer-130001110.html",
-                "score": 0
-            },
-            {
-                "symbol": "FSLR",
-                "headline": "Solar Stocks Tumble After 30-Year Treasury Yield Hits 2004 High",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/energy/articles/solar-stocks-tumble-30-treasury-125942781.html",
                 "score": 0
             },
             {
@@ -130,9 +123,9 @@
             },
             {
                 "symbol": "AVGO",
-                "headline": "What Is The Case For Waiting On Intel Stock?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/case-waiting-intel-stock-130201764.html",
+                "headline": "Marvell\u2019s 203% YTD Surge Sets High Bar but We See More Runway Ahead",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-203-ytd-surge-sets-173012562.html",
                 "score": 0
             }
         ]
