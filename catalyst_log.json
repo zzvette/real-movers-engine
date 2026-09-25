@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T03:11:20.181738+00:00",
+    "timestamp": "2026-09-25T03:41:39.478659+00:00",
     "catalysts": [
         {
             "symbol": "APUS",
@@ -23,10 +23,17 @@
             "score": 0
         },
         {
+            "symbol": "GLND",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
+            "score": 0
+        },
+        {
             "symbol": "MRNA",
-            "headline": "Moderna Inc. (MRNA) Holds High-Level Investment Talks With UAE, Soars to 4-Year Peak",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/healthcare/articles/moderna-inc-mrna-holds-high-004659122.html",
+            "headline": "MRNA On Track To Be September's No. 2 S&P 500 Stock \u2014 But These 5 Smaller Health Care Names Did Even Better",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/mrna-track-septembers-no-2-032336566.html",
             "score": 0
         },
         {
@@ -37,24 +44,17 @@
             "score": 0
         },
         {
-            "symbol": "GLND",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
-            "score": 0
-        },
-        {
             "symbol": "AMD",
-            "headline": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/options/articles/options-marvell-stock-could-halve-235026468.html",
+            "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intc-stocks-extend-rally-033005684.html",
             "score": 0
         },
         {
             "symbol": "INTC",
-            "headline": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/options/articles/options-marvell-stock-could-halve-235026468.html",
+            "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intc-stocks-extend-rally-033005684.html",
             "score": 0
         },
         {
@@ -72,17 +72,17 @@
             "score": 0
         },
         {
-            "symbol": "INLF",
-            "headline": "INLIF LIMITED Reports First Half of Fiscal Year 2026 Financial Results",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/inlif-limited-reports-first-half-203000866.html",
+            "symbol": "TWST",
+            "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
             "score": 0
         },
         {
-            "symbol": "ARM",
-            "headline": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-stock-gains-231156551.html",
+            "symbol": "PL",
+            "headline": "Update: Planet Labs Shares Rise After Amazon Biodiversity Initiative Launched",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-shares-rise-amazon-181342042.html",
             "score": 0
         },
         {
@@ -100,24 +100,38 @@
             "score": 0
         },
         {
-            "symbol": "PL",
-            "headline": "Update: Planet Labs Shares Rise After Amazon Biodiversity Initiative Launched",
+            "symbol": "SBUX",
+            "headline": "Once-trendy drink chain closes 130 locations",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/small-business/articles/popular-drink-chain-closes-more-182016941.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARM",
+            "headline": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-stock-gains-231156551.html",
+            "score": 0
+        },
+        {
+            "symbol": "PFSA",
+            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
+            "score": 0
+        },
+        {
+            "symbol": "BE",
+            "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRDO",
+            "headline": "Credo Technology Group Holding Insider Sold Shares Worth $925,000, According to a Recent SEC Filing",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-shares-rise-amazon-181342042.html",
-            "score": 0
-        },
-        {
-            "symbol": "TWST",
-            "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
-            "score": 0
-        },
-        {
-            "symbol": "KGC",
-            "headline": "Why Kinross Gold Stock Is Crashing Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-kinross-gold-stock-crashing-200913504.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-insider-202508681.html",
             "score": 0
         }
     ]
