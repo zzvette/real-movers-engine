@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T11:15:02.347617+00:00",
+    "timestamp": "2026-09-25T11:30:29.309411+00:00",
     "catalysts": [
         {
             "symbol": "GLND",
@@ -38,9 +38,9 @@
         },
         {
             "symbol": "AMD",
-            "headline": "Social Buzz: Wallstreetbets Stocks Advance Pre-Bell Friday; Sandisk, AMD to Open Higher",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-104020684.html",
+            "headline": "AMD Just Joined Nvidia in the $1 Trillion Club. At $614, Wall Street Is Paying Too Much for a Distant No. 2.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-joined-nvidia-1-112300775.html",
             "score": 0
         },
         {
@@ -100,6 +100,13 @@
             "score": 0
         },
         {
+            "symbol": "ARM",
+            "headline": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html",
+            "score": 0
+        },
+        {
             "symbol": "KGC",
             "headline": "Why Kinross Gold Stock Is Crashing Today",
             "publisher": "Motley Fool",
@@ -115,16 +122,9 @@
         },
         {
             "symbol": "BE",
-            "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "AVGO",
-            "headline": "Broadcom And 2 Other High Growth Stocks To Own",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-high-growth-071202759.html",
+            "headline": "3 Industrials Stocks to Consider Right Now",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-consider-now-112037076.html",
             "score": 0
         }
     ]
