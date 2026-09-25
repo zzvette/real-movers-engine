@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T20:01:31.488681+00:00",
+    "timestamp": "2026-09-25T20:10:30.565177+00:00",
     "catalysts": [
         {
             "symbol": "TWST",
@@ -38,9 +38,9 @@
         },
         {
             "symbol": "AMD",
-            "headline": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html",
+            "headline": "Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/b8eae4aa-f7ed-33bb-9966-deffb558b2ed/nvidia%2C-amd-love-this.html",
             "score": 0
         },
         {
@@ -90,6 +90,13 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
+            "score": 0
+        },
+        {
+            "symbol": "PL",
+            "headline": "Google Plans To Launch Mini Data Center Into Space Next Week As Part Of Project Suncatcher\u2019s Bid For A Market Projected To Hit $28.16 Billion",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/google-plans-launch-mini-data-163243317.html",
             "score": 0
         },
         {
