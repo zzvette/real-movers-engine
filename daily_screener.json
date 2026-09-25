@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T22:59:11.043395+00:00",
+    "timestamp": "2026-09-25T23:15:43.848632+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,13 +8,6 @@
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rose-week-202553968.html",
                 "score": 3
-            },
-            {
-                "symbol": "ORCL",
-                "headline": "Bloom Energy (BE) Is Up 8.7% After Oracle Reaffirms 2.4 GW AI Fuel Cell Deal Commitment \u2013 Has The Bull Case Changed?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-8-7-oracle-220801648.html",
-                "score": 2
             },
             {
                 "symbol": "BE",
@@ -46,9 +39,9 @@
             },
             {
                 "symbol": "AKAM",
-                "headline": "Why Akamai Stock Is Up Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-akamai-stock-today-220232853.html",
+                "headline": "Akamai (AKAM) Stock Trades Up, Here Is Why",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-akam-stock-trades-why-231237646.html",
                 "score": 0
             },
             {
@@ -63,6 +56,13 @@
                 "headline": "Is Now the Time to Bet on Intel\u2019s (INTC) Server CPU Comeback and AI Ambitions?",
                 "publisher": "Insider Monkey",
                 "link": "https://finance.yahoo.com/technology/ai/articles/now-time-bet-intel-intc-221124800.html",
+                "score": 0
+            },
+            {
+                "symbol": "ORCL",
+                "headline": "Ellison Pledges $9.2 Billion More in Oracle Shares as Collateral",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ellison-pledges-9-2-billion-225907530.html",
                 "score": 0
             },
             {
