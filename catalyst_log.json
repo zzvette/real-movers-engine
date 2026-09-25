@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-25T10:04:36.953060+00:00",
+    "timestamp": "2026-09-25T10:22:15.028789+00:00",
     "catalysts": [
-        {
-            "symbol": "MRNA",
-            "headline": "Moderna Stock Jumped 7% Thursday. The Real Test Comes at ESMO on October 24.",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-stock-jumped-7-thursday-050704260.html",
-            "score": 3
-        },
         {
             "symbol": "NBIS",
             "headline": "Nebius Stock Surges: BNP Paribas Upgrades, Sees $22B ARR By 2027",
@@ -23,17 +16,10 @@
             "score": 3
         },
         {
-            "symbol": "BE",
-            "headline": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-eyes-best-month-since-072641462.html",
-            "score": 2
-        },
-        {
             "symbol": "COST",
-            "headline": "Costco posts 14.9% net income rise in fiscal Q4",
-            "publisher": "Retail Insight Network",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/costco-posts-14-9-net-092829698.html",
+            "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
             "score": 0
         },
         {
@@ -44,31 +30,38 @@
             "score": 0
         },
         {
+            "symbol": "MRNA",
+            "headline": "Moderna CEO\u2019s Realistic Approach to Innovation",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/9a01b36d-9faa-3ca2-b65c-d57352b4e7f2/moderna-ceo%E2%80%99s-realistic.html",
+            "score": 0
+        },
+        {
             "symbol": "AKAM",
-            "headline": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+            "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
             "score": 0
         },
         {
             "symbol": "AMD",
-            "headline": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+            "headline": "Meet the Super Semiconductor ETF With 34.7% of Its Assets Parked in Intel, AMD, Micron, and Nvidia",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meet-super-semiconductor-etf-34-100500263.html",
             "score": 0
         },
         {
             "symbol": "INTC",
-            "headline": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+            "headline": "Meet the Super Semiconductor ETF With 34.7% of Its Assets Parked in Intel, AMD, Micron, and Nvidia",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meet-super-semiconductor-etf-34-100500263.html",
             "score": 0
         },
         {
             "symbol": "ORCL",
-            "headline": "Private 5G Market Forecasts Growth from $5.35B (2026) to $24.84B by 2032, Profiling Ericsson, Huawei, Nokia, Samsung & Cisco Systems",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/articles/private-5g-market-forecasts-growth-082900638.html",
+            "headline": "Cracks in Oracle\u2019s AI Data-Center Build-Out Appear in Massive New Mexico Project",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/444f5350-dfff-3c8f-a827-4c4942b0a838/cracks-in-oracle%E2%80%99s-ai.html",
             "score": 0
         },
         {
@@ -125,6 +118,13 @@
             "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
             "publisher": "Motley Fool",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
+            "score": 0
+        },
+        {
+            "symbol": "BE",
+            "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
             "score": 0
         },
         {
