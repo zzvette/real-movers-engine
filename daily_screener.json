@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T02:40:50.598608+00:00",
+    "timestamp": "2026-09-25T03:11:20.181738+00:00",
     "signals": {
         "catalysts": [
             {
@@ -7,6 +7,13 @@
                 "headline": "Top Midday Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
+                "score": 3
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "Nebius Stock Surges: BNP Paribas Upgrades, Sees $22B ARR By 2027",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-surges-bnp-paribas-023856743.html",
                 "score": 3
             },
             {
@@ -56,13 +63,6 @@
                 "headline": "Why Oracle (ORCL) Stock Is Down Today",
                 "publisher": "StockStory",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-orcl-stock-down-010458176.html",
-                "score": 0
-            },
-            {
-                "symbol": "NBIS",
-                "headline": "Nebius Group (NBIS) to Hike Prices Next Week, Shares Rocket",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-hike-prices-015714845.html",
                 "score": 0
             },
             {
