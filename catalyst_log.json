@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T11:30:29.309411+00:00",
+    "timestamp": "2026-09-25T11:44:49.441464+00:00",
     "catalysts": [
         {
             "symbol": "GLND",
@@ -17,9 +17,9 @@
         },
         {
             "symbol": "COST",
-            "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+            "headline": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-signal.html",
             "score": 0
         },
         {
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "AKAM",
-            "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+            "headline": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-signal.html",
             "score": 0
         },
         {
@@ -122,9 +122,16 @@
         },
         {
             "symbol": "BE",
-            "headline": "3 Industrials Stocks to Consider Right Now",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-consider-now-112037076.html",
+            "headline": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-signal.html",
+            "score": 0
+        },
+        {
+            "symbol": "AVGO",
+            "headline": "This Week In AI Chips - Secure AI Integration Advances with VAST DataEnclave Launch",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-secure-ai-113717596.html",
             "score": 0
         }
     ]
