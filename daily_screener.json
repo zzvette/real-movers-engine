@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T14:01:56.489054+00:00",
+    "timestamp": "2026-09-25T14:15:58.206162+00:00",
     "signals": {
         "catalysts": [
             {
@@ -46,16 +46,16 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "AMD CEO Lisa Su is having a September to remember",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html",
+                "headline": "AMD's $1 Trillion Milestone Comes With a New AI Bet",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/amds-1-trillion-milestone-comes-140759683.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally, But Meta Shares Dip (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
+                "headline": "AMD's $1 Trillion Milestone Comes With a New AI Bet",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/amds-1-trillion-milestone-comes-140759683.html",
                 "score": 0
             },
             {
@@ -130,9 +130,9 @@
             },
             {
                 "symbol": "AVGO",
-                "headline": "189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/189-date-number-pushed-amd-130027058.html",
+                "headline": "What Is The Case For Waiting On Intel Stock?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/case-waiting-intel-stock-130201764.html",
                 "score": 0
             }
         ]
