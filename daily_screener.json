@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T17:46:38.373809+00:00",
+    "timestamp": "2026-09-25T17:54:42.509671+00:00",
     "signals": {
         "catalysts": [
             {
@@ -7,13 +7,6 @@
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
                 "publisher": "TIKR",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-stock-jumped-16-043645132.html",
-                "score": 3
-            },
-            {
-                "symbol": "ARM",
-                "headline": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-climbs-5-buyers-return-130537961.html",
                 "score": 3
             },
             {
@@ -46,9 +39,9 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "5-Star Analyst Drops Stunning New Price Target on AMD Stock",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-drops-stunning-165406447.html",
+                "headline": "Marvell\u2019s 203% YTD Surge Sets High Bar but We See More Runway Ahead",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-203-ytd-surge-sets-173012562.html",
                 "score": 0
             },
             {
@@ -80,6 +73,13 @@
                 "score": 0
             },
             {
+                "symbol": "FSLR",
+                "headline": "FSLR Stock Heads For Its Worst Week In Over A Month \u2014 Roth Says US Polysilicon Crackdown Could Provide A Tailwind",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-heads-worst-week-173105007.html",
+                "score": 0
+            },
+            {
                 "symbol": "RKLB",
                 "headline": "Rocket Lab Crashed Back Toward Earth for 3 Months: This Analyst Says It\u2019s About to Double",
                 "publisher": "24/7 Wall St.",
@@ -98,6 +98,13 @@
                 "headline": "Google Plans To Launch Mini Data Center Into Space Next Week As Part Of Project Suncatcher\u2019s Bid For A Market Projected To Hit $28.16 Billion",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/technology/ai/articles/google-plans-launch-mini-data-163243317.html",
+                "score": 0
+            },
+            {
+                "symbol": "ARM",
+                "headline": "Arm Stocks Surge as Muse Makes CPUs Matter Again",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/articles/arm-stocks-surge-muse-makes-175223313.html",
                 "score": 0
             },
             {
