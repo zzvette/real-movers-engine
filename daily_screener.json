@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T19:42:02.528505+00:00",
+    "timestamp": "2026-09-25T19:49:20.507041+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,17 +10,10 @@
                 "score": 3
             },
             {
-                "symbol": "AKAM",
-                "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-                "publisher": "TechCrunch",
-                "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-pay-akamai-11-6-191338501.html",
-                "score": 2
-            },
-            {
                 "symbol": "COST",
-                "headline": "Costco Wholesale's Growth Story Is Evolving, Not Ending, UBS Says",
+                "headline": "Sector Update: Consumer Stocks Advance Late Afternoon",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-apos-growth-story-191840538.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-afternoon-193943724.html",
                 "score": 0
             },
             {
@@ -38,6 +31,13 @@
                 "score": 0
             },
             {
+                "symbol": "AKAM",
+                "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-194210638.html",
+                "score": 0
+            },
+            {
                 "symbol": "AMD",
                 "headline": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
                 "publisher": "Yahoo Finance",
@@ -46,16 +46,16 @@
             },
             {
                 "symbol": "INTC",
-                "headline": "Is AMD Stock Priced Right Against Its Chip Peers?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-priced-against-chip-183430014.html",
+                "headline": "ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-intel-revenue-growth-193412195.html",
                 "score": 0
             },
             {
                 "symbol": "ORCL",
-                "headline": "Investing.com\u2019s stocks of the week",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-183046002.html",
+                "headline": "Oracle\u2019s \u2018Force Majeure\u2019 Move Adds to Bondholders\u2019 Worries",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/d8e6ab10-0c0b-311b-b06c-13558e81112d/oracle%E2%80%99s-%E2%80%98force-majeure%E2%80%99-move.html",
                 "score": 0
             },
             {
@@ -123,9 +123,9 @@
             },
             {
                 "symbol": "BE",
-                "headline": "Prediction: These 4 Stocks Will 4x in the Next 10 Years",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-4-stocks-4x-next-172500851.html",
+                "headline": "Bloom Energy Stock Is Today\u2019s Top S&P 500 Performer. It Has a Lot to Do With Oracle.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/300e83da-4c7f-39d5-aebf-8b7500e7087e/bloom-energy-stock-is-today%E2%80%99s.html",
                 "score": 0
             },
             {
