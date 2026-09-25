@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T21:13:43.502169+00:00",
+    "timestamp": "2026-09-25T21:31:18.288857+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,30 +32,30 @@
             },
             {
                 "symbol": "AKAM",
-                "headline": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+                "headline": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/microsoft%2C-meta%2C-akamai%2C.html",
                 "score": 0
             },
             {
                 "symbol": "AMD",
-                "headline": "How Much Track Is Left For MRVL Stock?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-mrvl-stock-203433066.html",
+                "headline": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/microsoft%2C-meta%2C-akamai%2C.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "How Much Track Is Left For MRVL Stock?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-mrvl-stock-203433066.html",
+                "headline": "What Is Intel (INTC) Doing In Edge AI And Brain Inspired Computing?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-doing-edge-ai-210701740.html",
                 "score": 0
             },
             {
                 "symbol": "ORCL",
-                "headline": "Oracle\u2019s \u2018Force Majeure\u2019 Move Adds to Bondholders\u2019 Worries",
+                "headline": "Bloom Energy Stock Is Today\u2019s Top S&P 500 Performer. It Has a Lot to Do With Oracle.",
                 "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/d8e6ab10-0c0b-311b-b06c-13558e81112d/oracle%E2%80%99s-%E2%80%98force-majeure%E2%80%99-move.html",
+                "link": "https://finance.yahoo.com/m/300e83da-4c7f-39d5-aebf-8b7500e7087e/bloom-energy-stock-is-today%E2%80%99s.html",
                 "score": 0
             },
             {
@@ -88,9 +88,9 @@
             },
             {
                 "symbol": "RKLB",
-                "headline": "Rocket Lab Crashed Back Toward Earth for 3 Months: This Analyst Says It\u2019s About to Double",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-crashed-back-toward-133739779.html",
+                "headline": "SpaceX\u2019s Falcon 9 Wind Down: Rocket Lab Is Set To Gain, Here\u2019s How",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-falcon-9-wind-down-211841411.html",
                 "score": 0
             },
             {
@@ -102,9 +102,9 @@
             },
             {
                 "symbol": "PL",
-                "headline": "Google Plans To Launch Mini Data Center Into Space Next Week As Part Of Project Suncatcher\u2019s Bid For A Market Projected To Hit $28.16 Billion",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/google-plans-launch-mini-data-163243317.html",
+                "headline": "How Much Higher Can Planet Labs Stock Go From Here?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
                 "score": 0
             },
             {
