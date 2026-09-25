@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-25T13:36:20.344718+00:00",
+    "timestamp": "2026-09-25T13:50:57.868837+00:00",
     "catalysts": [
         {
             "symbol": "GLND",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110219728.html",
-            "score": 3
-        },
-        {
-            "symbol": "INTC",
-            "headline": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-climbs-5-buyers-return-130537961.html",
             "score": 3
         },
         {
@@ -31,9 +24,9 @@
         },
         {
             "symbol": "COST",
-            "headline": "Sector Update: Consumer Stocks Mixed Pre-Bell Friday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-pre-131512901.html",
+            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally, But Meta Shares Dip (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
             "score": 0
         },
         {
@@ -52,9 +45,16 @@
         },
         {
             "symbol": "AMD",
-            "headline": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-130301446.html",
+            "headline": "Over 30 CEOs scored an invite to the US-China state dinner \u2014 and these 4 got a spot at the head table",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/over-30-ceos-scored-an-invite-to-the-us-china-state-dinner--and-these-4-got-a-spot-at-the-head-table-134400923.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally, But Meta Shares Dip (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
             "score": 0
         },
         {
@@ -87,9 +87,9 @@
         },
         {
             "symbol": "RKLB",
-            "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+            "headline": "Rocket Lab Crashed Back Toward Earth for 3 Months: This Analyst Says It\u2019s About to Double",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-crashed-back-toward-133739779.html",
             "score": 0
         },
         {
