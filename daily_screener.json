@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T19:55:34.252953+00:00",
+    "timestamp": "2026-09-25T20:01:31.488681+00:00",
     "signals": {
         "catalysts": [
             {
@@ -91,13 +91,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
-                "score": 0
-            },
-            {
-                "symbol": "PL",
-                "headline": "Google Plans To Launch Mini Data Center Into Space Next Week As Part Of Project Suncatcher\u2019s Bid For A Market Projected To Hit $28.16 Billion",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/google-plans-launch-mini-data-163243317.html",
                 "score": 0
             },
             {
