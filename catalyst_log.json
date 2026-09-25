@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T14:15:58.206162+00:00",
+    "timestamp": "2026-09-25T14:29:53.742079+00:00",
     "catalysts": [
         {
             "symbol": "GLND",
@@ -24,23 +24,23 @@
         },
         {
             "symbol": "COST",
-            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally, But Meta Shares Dip (Live Coverage)",
+            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Software Name Soars On Anthropic Deal (Live Coverage)",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
-            "score": 0
+            "score": 2
+        },
+        {
+            "symbol": "AKAM",
+            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Software Name Soars On Anthropic Deal (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
+            "score": 2
         },
         {
             "symbol": "MRNA",
             "headline": "Moderna CEO\u2019s Realistic Approach to Innovation",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/9a01b36d-9faa-3ca2-b65c-d57352b4e7f2/moderna-ceo%E2%80%99s-realistic.html",
-            "score": 0
-        },
-        {
-            "symbol": "AKAM",
-            "headline": "UBS Adjusts Price Target on Akamai Technologies to $148 From $143, Keeps Neutral Rating",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-akamai-132742143.html",
             "score": 0
         },
         {
