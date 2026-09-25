@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-25T10:36:05.438622+00:00",
+    "timestamp": "2026-09-25T10:49:20.899134+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "NBIS",
-                "headline": "Nebius Stock Surges: BNP Paribas Upgrades, Sees $22B ARR By 2027",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-surges-bnp-paribas-023856743.html",
-                "score": 3
-            },
             {
                 "symbol": "TWST",
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
@@ -38,17 +31,10 @@
                 "score": 0
             },
             {
-                "symbol": "AKAM",
-                "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
-                "score": 0
-            },
-            {
                 "symbol": "AMD",
-                "headline": "Meet the Super Semiconductor ETF With 34.7% of Its Assets Parked in Intel, AMD, Micron, and Nvidia",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meet-super-semiconductor-etf-34-100500263.html",
+                "headline": "Social Buzz: Wallstreetbets Stocks Advance Pre-Bell Friday; Sandisk, AMD to Open Higher",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-104020684.html",
                 "score": 0
             },
             {
@@ -60,9 +46,16 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Cracks in Oracle\u2019s AI Data-Center Build-Out Appear in Massive New Mexico Project",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/444f5350-dfff-3c8f-a827-4c4942b0a838/cracks-in-oracle%E2%80%99s-ai.html",
+                "headline": "Social Buzz: Wallstreetbets Stocks Advance Pre-Bell Friday; Sandisk, AMD to Open Higher",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-104020684.html",
+                "score": 0
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "Social Buzz: Wallstreetbets Stocks Advance Pre-Bell Friday; Sandisk, AMD to Open Higher",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-104020684.html",
                 "score": 0
             },
             {
