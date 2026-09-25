@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-25T14:59:48.795171+00:00",
+    "timestamp": "2026-09-25T15:10:14.766400+00:00",
     "catalysts": [
-        {
-            "symbol": "GLND",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110219728.html",
-            "score": 3
-        },
         {
             "symbol": "TWST",
             "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
@@ -31,10 +24,17 @@
         },
         {
             "symbol": "AKAM",
-            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Software Name Soars On Anthropic Deal (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
+            "headline": "Anthropic Deal Likely Expands Akamai's Addressable Market, RBC Says",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-deal-likely-expands-akamai-143635418.html",
             "score": 2
+        },
+        {
+            "symbol": "GLND",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
+            "score": 0
         },
         {
             "symbol": "MRNA",
@@ -45,16 +45,16 @@
         },
         {
             "symbol": "AMD",
-            "headline": "AMD's $1 Trillion Milestone Comes With a New AI Bet",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/amds-1-trillion-milestone-comes-140759683.html",
+            "headline": "BofA Securities Adjusts Advanced Micro Devices Price Target to $720 From $620, Maintains Buy Rating",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-advanced-micro-143424950.html",
             "score": 0
         },
         {
             "symbol": "INTC",
-            "headline": "AMD's $1 Trillion Milestone Comes With a New AI Bet",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/amds-1-trillion-milestone-comes-140759683.html",
+            "headline": "What Could Go Wrong At Micron From Here?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-micron-142007045.html",
             "score": 0
         },
         {
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "INLF",
-            "headline": "INLIF LIMITED Reports First Half of Fiscal Year 2026 Financial Results",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/inlif-limited-reports-first-half-203000866.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
             "score": 0
         },
         {
