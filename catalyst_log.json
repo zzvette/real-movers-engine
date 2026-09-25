@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T15:45:44.639151+00:00",
+    "timestamp": "2026-09-25T15:53:35.752152+00:00",
     "catalysts": [
         {
             "symbol": "TWST",
@@ -16,18 +16,18 @@
             "score": 3
         },
         {
-            "symbol": "COST",
-            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Software Name Soars On Anthropic Deal (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
-            "score": 2
-        },
-        {
             "symbol": "AKAM",
             "headline": "Anthropic Deal Likely Expands Akamai's Addressable Market, RBC Says",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-deal-likely-expands-akamai-143635418.html",
             "score": 2
+        },
+        {
+            "symbol": "COST",
+            "headline": "Costco Wholesale Fundamentals Remain Stable After Fiscal Q4, RBC Says",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-fundamentals-remain-stable-153839142.html",
+            "score": 0
         },
         {
             "symbol": "GLND",
@@ -45,9 +45,9 @@
         },
         {
             "symbol": "AMD",
-            "headline": "AMD Shares Are About to Become Even More Valuable And That Keeps Me Buying",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-shares-become-even-more-144521707.html",
+            "headline": "BofA raises AMD target to $720, sees server CPU TAM tripling to $211B by 2030",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-raises-amd-target-720-151401054.html",
             "score": 0
         },
         {
