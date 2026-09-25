@@ -1,12 +1,19 @@
 {
-    "timestamp": "2026-09-25T23:15:43.848632+00:00",
+    "timestamp": "2026-09-25T23:29:26.113418+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "ARM",
-                "headline": "US Equity Indexes Rose This Week as Mega-Cap Tech Jumps While Iran Proposes Conditional Reopening of Hormuz Chokepoint",
+                "symbol": "PYPL",
+                "headline": "PYPL Stock Climbs On West Coast Takeover Rumors After Stripe Walk-Away Leaves Room For A New Bidder",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pypl-stock-climbs-west-coast-221435508.html",
+                "score": 3
+            },
+            {
+                "symbol": "TDIC",
+                "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rose-week-202553968.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110720910.html",
                 "score": 3
             },
             {
@@ -17,122 +24,122 @@
                 "score": 2
             },
             {
-                "symbol": "COST",
-                "headline": "Stocks to Watch Recap: Costco, Akamai Technologies, People",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/e0fa3b68-b362-3416-8f16-f134804b4a11/stocks-to-watch-recap%3A.html",
+                "symbol": "MSFT",
+                "headline": "Azure\u2019s Inflection Point: Can Microsoft (MSFT) Balance AI Growth With Capex Risk?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/azure-inflection-point-microsoft-msft-231347500.html",
                 "score": 0
             },
             {
-                "symbol": "GLND",
+                "symbol": "ZS",
+                "headline": "Palo Alto Networks (PANW): Can Platformization Keep Driving Growth?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/articles/palo-alto-networks-panw-platformization-215609637.html",
+                "score": 0
+            },
+            {
+                "symbol": "AIFF",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
                 "score": 0
             },
             {
-                "symbol": "MRNA",
-                "headline": "Moderna (MRNA) Surpasses Market Returns: Some Facts Worth Knowing",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-surpasses-market-returns-205003234.html",
+                "symbol": "AAPL",
+                "headline": "$58 Million Multifamily Asset Sale Closed by Institutional Property Advisors in North Phoenix",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/real-estate/articles/58-million-multifamily-asset-sale-223200532.html",
                 "score": 0
             },
             {
-                "symbol": "AKAM",
-                "headline": "Akamai (AKAM) Stock Trades Up, Here Is Why",
+                "symbol": "MSGY",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRCL",
+                "headline": "Circle stock dips as CFO Fox-Geen steps down and co-founder leaves board",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/circle-stock-dips-cfo-fox-210152847.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRDO",
+                "headline": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/e8d77e14-816c-34fc-b096-d352c43da62e/chip-stocks-rise-after.html",
+                "score": 0
+            },
+            {
+                "symbol": "CVS",
+                "headline": "Gift card scam hits Walmart, CVS, and Walgreens",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/media-advertising/articles/walmart-hit-retail-theft-gift-164435299.html",
+                "score": 0
+            },
+            {
+                "symbol": "SMCI",
+                "headline": "Is Super Micro Computer a Buy?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-buy-232000757.html",
+                "score": 0
+            },
+            {
+                "symbol": "SHMD",
+                "headline": "SCHMID (SHMD) Nearly Tripled Revenue but Cut its Adjusted EBITDA Margin Outlook. Is China Growth Too Low-Margin?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/schmid-shmd-nearly-tripled-revenue-224914917.html",
+                "score": 0
+            },
+            {
+                "symbol": "PPLI",
+                "headline": "Why Is People (PPLI) Stock Soaring Today",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-akam-stock-trades-why-231237646.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-people-ppli-stock-soaring-232037360.html",
                 "score": 0
             },
             {
-                "symbol": "AMD",
-                "headline": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/microsoft%2C-meta%2C-akamai%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Is Now the Time to Bet on Intel\u2019s (INTC) Server CPU Comeback and AI Ambitions?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/now-time-bet-intel-intc-221124800.html",
-                "score": 0
-            },
-            {
-                "symbol": "ORCL",
-                "headline": "Ellison Pledges $9.2 Billion More in Oracle Shares as Collateral",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ellison-pledges-9-2-billion-225907530.html",
-                "score": 0
-            },
-            {
-                "symbol": "NBIS",
-                "headline": "Is IREN (IREN) Cheap As Sector Selling And Mixed Views Test Its AI Buildout?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-cheap-sector-selling-201202280.html",
-                "score": 0
-            },
-            {
-                "symbol": "TEM",
-                "headline": "Tempus AI Chief Accounting Officer Sells $529,650 of Stock",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-chief-accounting-officer-130001110.html",
-                "score": 0
-            },
-            {
-                "symbol": "TWST",
-                "headline": "What Needs To Be True To Buy Twist Bioscience Stock Now?",
+                "symbol": "GYGY",
+                "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
                 "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-twist-bioscience-222937720.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trim-add-blackberry-position-now-172819341.html",
                 "score": 0
             },
             {
-                "symbol": "FSLR",
-                "headline": "FSLR Stock Heads For Its Worst Week In Over A Month \u2014 Roth Says US Polysilicon Crackdown Could Provide A Tailwind",
+                "symbol": "MXL",
+                "headline": "What Makes Credo Technology Stock A Buy Today?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/makes-credo-technology-stock-buy-181834189.html",
+                "score": 0
+            },
+            {
+                "symbol": "MIMI",
+                "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACET",
+                "headline": "Adicet Bio to Host Webcast to Present Prula-cel (formerly ADI-001) Clinical Data in Patients with Systemic Lupus Erythematosus with or without Lupus Nephritis",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/healthcare/articles/adicet-bio-host-webcast-present-200000988.html",
+                "score": 0
+            },
+            {
+                "symbol": "^DJI",
+                "headline": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict \u2014 META, COST, MSFT, CRWD, SKHY In Focus",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-heads-worst-week-173105007.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225148025.html",
                 "score": 0
             },
             {
-                "symbol": "RKLB",
-                "headline": "SpaceX\u2019s Falcon 9 Wind Down: Rocket Lab Is Set To Gain, Here\u2019s How",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-falcon-9-wind-down-211841411.html",
-                "score": 0
-            },
-            {
-                "symbol": "INLF",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
-                "score": 0
-            },
-            {
-                "symbol": "PL",
-                "headline": "How Much Higher Can Planet Labs Stock Go From Here?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
-                "score": 0
-            },
-            {
-                "symbol": "KGC",
-                "headline": "Are You Sure You Understand Kinross Gold Stock's Risk?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sure-understand-kinross-gold-stocks-214531319.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOXL",
-                "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-                "score": 0
-            },
-            {
-                "symbol": "AVGO",
-                "headline": "How Much Track Is Left For MRVL Stock?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-mrvl-stock-203433066.html",
+                "symbol": "QCOM",
+                "headline": "$58 Million Multifamily Asset Sale Closed by Institutional Property Advisors in North Phoenix",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/real-estate/articles/58-million-multifamily-asset-sale-223200532.html",
                 "score": 0
             }
         ]
