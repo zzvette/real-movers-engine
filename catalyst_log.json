@@ -1,25 +1,11 @@
 {
-    "timestamp": "2026-09-25T20:53:29.339941+00:00",
+    "timestamp": "2026-09-25T20:57:16.019724+00:00",
     "catalysts": [
         {
             "symbol": "COST",
             "headline": "Stock Market Today: Dow Surges 450 Points On U.S.-Iran Peace Hopes; Micron Rises",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow.html",
-            "score": 3
-        },
-        {
-            "symbol": "INTC",
-            "headline": "US Equity Indexes Rose This Week as Mega-Cap Tech Jumps While Iran Proposes Conditional Reopening of Hormuz Chokepoint",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rose-week-202553968.html",
-            "score": 3
-        },
-        {
-            "symbol": "TWST",
-            "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-stock-jumped-16-043645132.html",
             "score": 3
         },
         {
@@ -52,9 +38,16 @@
         },
         {
             "symbol": "AMD",
-            "headline": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/e8d77e14-816c-34fc-b096-d352c43da62e/chip-stocks-rise-after.html",
+            "headline": "How Much Track Is Left For MRVL Stock?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-mrvl-stock-203433066.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "How Much Track Is Left For MRVL Stock?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-mrvl-stock-203433066.html",
             "score": 0
         },
         {
@@ -76,6 +69,13 @@
             "headline": "Tempus AI Chief Accounting Officer Sells $529,650 of Stock",
             "publisher": "Motley Fool",
             "link": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-chief-accounting-officer-130001110.html",
+            "score": 0
+        },
+        {
+            "symbol": "TWST",
+            "headline": "Twist Bioscience Insider Sold Shares Worth $922,907, According to a Recent SEC Filing",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-insider-sold-shares-204123493.html",
             "score": 0
         },
         {
@@ -129,9 +129,9 @@
         },
         {
             "symbol": "AVGO",
-            "headline": "UiPath And 2 Other Undervalued Stocks",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/uipath-2-other-undervalued-stocks-201152084.html",
+            "headline": "How Much Track Is Left For MRVL Stock?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-mrvl-stock-203433066.html",
             "score": 0
         }
     ]
