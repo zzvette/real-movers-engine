@@ -1,7 +1,21 @@
 {
-    "timestamp": "2026-09-25T16:09:52.666591+00:00",
+    "timestamp": "2026-09-25T16:24:39.627766+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "COST",
+                "headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Supermicro Jumps (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-leads.html",
+                "score": 3
+            },
+            {
+                "symbol": "AKAM",
+                "headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Supermicro Jumps (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-leads.html",
+                "score": 3
+            },
             {
                 "symbol": "TWST",
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
@@ -17,20 +31,6 @@
                 "score": 3
             },
             {
-                "symbol": "AKAM",
-                "headline": "Top Midday Stories: Akamai's $11.6 Billion Anthropic Deal; Scholastic Q1 Loss Widens; Nektar Awarded $90 Million in Eli Lilly Case",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-akamai-apos-160532676.html",
-                "score": 2
-            },
-            {
-                "symbol": "COST",
-                "headline": "Costco Wholesale Fundamentals Remain Stable After Fiscal Q4, RBC Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-fundamentals-remain-stable-153839142.html",
-                "score": 0
-            },
-            {
                 "symbol": "GLND",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "MRNA",
-                "headline": "Moderna CEO\u2019s Realistic Approach to Innovation",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/9a01b36d-9faa-3ca2-b65c-d57352b4e7f2/moderna-ceo%E2%80%99s-realistic.html",
+                "headline": "Innovation Is Driving a New Bull Market in Biotech. 16 Ways to Play It, From Our Roundtable Experts.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/45dfb62b-5646-3065-96ce-d58914ca0354/innovation-is-driving-a-new.html",
                 "score": 0
             },
             {
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "NBIS",
-                "headline": "Social Buzz: Wallstreetbets Stocks Advance Pre-Bell Friday; Sandisk, AMD to Open Higher",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-104020684.html",
+                "headline": "Neocloud Stocks Fall as Selling Extends After a Week of Research Notes: IREN Drops 4%, CoreWeave Slides 3%, Nebius Eases",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/neocloud-stocks-fall-selling-extends-160408374.html",
                 "score": 0
             },
             {
@@ -102,9 +102,9 @@
             },
             {
                 "symbol": "PL",
-                "headline": "Planet Labs Ships Updated Pelican Satellite for SpaceX Launch",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/planet-labs-ships-updated-pelican-135303339.html",
+                "headline": "3 Stocks to Watch From the Satellite and Communication Industry",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-watch-satellite-communication-151100265.html",
                 "score": 0
             },
             {
