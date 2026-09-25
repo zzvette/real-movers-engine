@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T16:48:39.873207+00:00",
+    "timestamp": "2026-09-25T16:56:52.155350+00:00",
     "signals": {
         "catalysts": [
             {
@@ -14,13 +14,6 @@
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
                 "publisher": "TIKR",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-stock-jumped-16-043645132.html",
-                "score": 3
-            },
-            {
-                "symbol": "ARM",
-                "headline": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-climbs-5-buyers-return-130537961.html",
                 "score": 3
             },
             {
@@ -46,9 +39,9 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "AMD Stocks Move Higher as $1 Trillion Demands Full Systems",
+                "headline": "5-Star Analyst Drops Stunning New Price Target on AMD Stock",
                 "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-move-higher-1-155903297.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-drops-stunning-165406447.html",
                 "score": 0
             },
             {
@@ -60,9 +53,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Hyperscaler Stocks Could Rebound In This 2027 Scenario, Says Goldman Sachs",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2e54345b-15d3-3284-b7b1-fd32a4a78e9a/hyperscaler-stocks-could.html",
+                "headline": "Oracle Stock Falls Over 1% as AI Debt Demands a Premium",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-falls-over-1-165344477.html",
                 "score": 0
             },
             {
