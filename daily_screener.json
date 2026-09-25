@@ -1,7 +1,21 @@
 {
-    "timestamp": "2026-09-25T20:26:32.914946+00:00",
+    "timestamp": "2026-09-25T20:33:28.196548+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "COST",
+                "headline": "Stock Market Today: Dow Surges 450 Points On Iran Peace Hopes; Micron Rises (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow.html",
+                "score": 3
+            },
+            {
+                "symbol": "INTC",
+                "headline": "US Equity Indexes Rose This Week as Mega-Cap Tech Jumps While Iran Proposes Conditional Reopening of Hormuz Chokepoint",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rose-week-202553968.html",
+                "score": 3
+            },
             {
                 "symbol": "TWST",
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
@@ -10,11 +24,11 @@
                 "score": 3
             },
             {
-                "symbol": "COST",
-                "headline": "Sector Update: Consumer Stocks Advance Late Afternoon",
+                "symbol": "ARM",
+                "headline": "US Equity Indexes Rose This Week as Mega-Cap Tech Jumps While Iran Proposes Conditional Reopening of Hormuz Chokepoint",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-afternoon-193943724.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rose-week-202553968.html",
+                "score": 3
             },
             {
                 "symbol": "GLND",
@@ -39,16 +53,9 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street.",
+                "headline": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders.",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b8eae4aa-f7ed-33bb-9966-deffb558b2ed/nvidia%2C-amd-love-this.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-intel-revenue-growth-193412195.html",
+                "link": "https://finance.yahoo.com/m/e8d77e14-816c-34fc-b096-d352c43da62e/chip-stocks-rise-after.html",
                 "score": 0
             },
             {
@@ -98,13 +105,6 @@
                 "headline": "Google Plans To Launch Mini Data Center Into Space Next Week As Part Of Project Suncatcher\u2019s Bid For A Market Projected To Hit $28.16 Billion",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/technology/ai/articles/google-plans-launch-mini-data-163243317.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARM",
-                "headline": "ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-intel-revenue-growth-193412195.html",
                 "score": 0
             },
             {
