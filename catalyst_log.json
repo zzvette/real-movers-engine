@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-09-25T20:33:28.196548+00:00",
+    "timestamp": "2026-09-25T20:42:31.982005+00:00",
     "catalysts": [
         {
             "symbol": "COST",
-            "headline": "Stock Market Today: Dow Surges 450 Points On Iran Peace Hopes; Micron Rises (Live Coverage)",
+            "headline": "Stock Market Today: Dow Surges 450 Points On U.S.-Iran Peace Hopes; Micron Rises",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow.html",
             "score": 3
@@ -66,9 +66,9 @@
         },
         {
             "symbol": "NBIS",
-            "headline": "Nebius Stock Falls 2.5% While $399 Target Tests AI Expectations",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-falls-2-5-170037293.html",
+            "headline": "Is IREN (IREN) Cheap As Sector Selling And Mixed Views Test Its AI Buildout?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-cheap-sector-selling-201202280.html",
             "score": 0
         },
         {
@@ -129,9 +129,9 @@
         },
         {
             "symbol": "AVGO",
-            "headline": "Is AMD Stock Priced Right Against Its Chip Peers?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-priced-against-chip-183430014.html",
+            "headline": "UiPath And 2 Other Undervalued Stocks",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/uipath-2-other-undervalued-stocks-201152084.html",
             "score": 0
         }
     ]
