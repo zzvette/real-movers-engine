@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-09-25T22:32:02.629883+00:00",
+    "timestamp": "2026-09-25T22:48:27.097624+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "COST",
-                "headline": "Stock Market Today: Dow Surges 450 Points On U.S.-Iran Peace Hopes; Micron Rises",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow.html",
-                "score": 3
-            },
             {
                 "symbol": "ARM",
                 "headline": "US Equity Indexes Rose This Week as Mega-Cap Tech Jumps While Iran Proposes Conditional Reopening of Hormuz Chokepoint",
@@ -29,6 +22,13 @@
                 "publisher": "Simply Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-8-7-oracle-220801648.html",
                 "score": 2
+            },
+            {
+                "symbol": "COST",
+                "headline": "Stocks to Watch Recap: Costco, Akamai Technologies, People",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/e0fa3b68-b362-3416-8f16-f134804b4a11/stocks-to-watch-recap%3A.html",
+                "score": 0
             },
             {
                 "symbol": "GLND",
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "TWST",
-                "headline": "Twist Bioscience Insider Sold Shares Worth $922,907, According to a Recent SEC Filing",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-insider-sold-shares-204123493.html",
+                "headline": "What Needs To Be True To Buy Twist Bioscience Stock Now?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-twist-bioscience-222937720.html",
                 "score": 0
             },
             {
