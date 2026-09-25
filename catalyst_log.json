@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T12:52:03.985535+00:00",
+    "timestamp": "2026-09-25T13:03:21.464951+00:00",
     "catalysts": [
         {
             "symbol": "GLND",
@@ -16,13 +16,6 @@
             "score": 3
         },
         {
-            "symbol": "AKAM",
-            "headline": "Akamai-Anthropic Deal\u2019s Magnitude Is Impressive, Says Piper Sandler \u2013 Sees It Shift From Being A Value Asset To A Hypergrowth One",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-anthropic-deal-magnitude-impressive-123738801.html",
-            "score": 2
-        },
-        {
             "symbol": "COST",
             "headline": "Bernstein unveils top European medtech stock picks to buy for H2",
             "publisher": "Investing.com",
@@ -34,6 +27,13 @@
             "headline": "Moderna CEO\u2019s Realistic Approach to Innovation",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/9a01b36d-9faa-3ca2-b65c-d57352b4e7f2/moderna-ceo%E2%80%99s-realistic.html",
+            "score": 0
+        },
+        {
+            "symbol": "AKAM",
+            "headline": "Sector Update: Tech",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125532895.html",
             "score": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "symbol": "FSLR",
-            "headline": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html",
+            "headline": "Solar Stocks Tumble After 30-Year Treasury Yield Hits 2004 High",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/energy/articles/solar-stocks-tumble-30-treasury-125942781.html",
             "score": 0
         },
         {
