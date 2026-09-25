@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T16:56:52.155350+00:00",
+    "timestamp": "2026-09-25T17:02:24.152769+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,14 +17,14 @@
                 "score": 3
             },
             {
-                "symbol": "MRNA",
-                "headline": "Stock Market Midday, Sept. 25: AI Momentum Lifts Markets as Akamai Soars on Anthropic Deal",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-25-164018735.html",
-                "score": 2
+                "symbol": "ARM",
+                "headline": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-climbs-5-buyers-return-130537961.html",
+                "score": 3
             },
             {
-                "symbol": "AKAM",
+                "symbol": "MRNA",
                 "headline": "Stock Market Midday, Sept. 25: AI Momentum Lifts Markets as Akamai Soars on Anthropic Deal",
                 "publisher": "Motley Fool",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-25-164018735.html",
@@ -35,6 +35,13 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
+                "score": 0
+            },
+            {
+                "symbol": "AKAM",
+                "headline": "5-Star Analyst Drops Stunning New Price Target on AMD Stock",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-drops-stunning-165406447.html",
                 "score": 0
             },
             {
