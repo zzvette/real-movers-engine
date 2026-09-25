@@ -1,11 +1,11 @@
 {
-    "timestamp": "2026-09-25T04:43:01.998488+00:00",
+    "timestamp": "2026-09-25T09:09:10.083440+00:00",
     "catalysts": [
         {
-            "symbol": "APUS",
-            "headline": "Top Midday Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174642843.html",
+            "symbol": "MRNA",
+            "headline": "Moderna Stock Jumped 7% Thursday. The Real Test Comes at ESMO on October 24.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-stock-jumped-7-thursday-050704260.html",
             "score": 3
         },
         {
@@ -16,10 +16,31 @@
             "score": 3
         },
         {
+            "symbol": "TWST",
+            "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-stock-jumped-16-043645132.html",
+            "score": 3
+        },
+        {
+            "symbol": "AKAM",
+            "headline": "Akamai and Anthropic sign $11.6bn cloud infrastructure agreement",
+            "publisher": "Verdict",
+            "link": "https://finance.yahoo.com/technology/ai/articles/akamai-anthropic-sign-11-6bn-090211765.html",
+            "score": 2
+        },
+        {
+            "symbol": "BE",
+            "headline": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-eyes-best-month-since-072641462.html",
+            "score": 2
+        },
+        {
             "symbol": "COST",
-            "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
+            "headline": "Meet the 6 Categories That Drove Costco\u2019s 19.5% Digitally Enabled Sales Comps in Its Latest Quarter.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meet-6-categories-drove-costco-055428672.html",
             "score": 0
         },
         {
@@ -30,24 +51,10 @@
             "score": 0
         },
         {
-            "symbol": "MRNA",
-            "headline": "MRNA On Track To Be September's No. 2 S&P 500 Stock \u2014 But These 5 Smaller Health Care Names Did Even Better",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/mrna-track-septembers-no-2-032336566.html",
-            "score": 0
-        },
-        {
-            "symbol": "AKAM",
-            "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
-            "score": 0
-        },
-        {
             "symbol": "AMD",
-            "headline": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-ai-stock-035909345.html",
+            "headline": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-082910505.html",
             "score": 0
         },
         {
@@ -59,37 +66,9 @@
         },
         {
             "symbol": "ORCL",
-            "headline": "SoftBank shares fall as Oracle data-center warning fuels AI funding fears",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/softbank-shares-fall-oracle-data-034800958.html",
-            "score": 0
-        },
-        {
-            "symbol": "RKLB",
-            "headline": "Cathie Wood buys $25 million in tumbling tech stock",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-25-million-231700276.html",
-            "score": 0
-        },
-        {
-            "symbol": "TWST",
-            "headline": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
-            "score": 0
-        },
-        {
-            "symbol": "PL",
-            "headline": "Update: Planet Labs Shares Rise After Amazon Biodiversity Initiative Launched",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-shares-rise-amazon-181342042.html",
-            "score": 0
-        },
-        {
-            "symbol": "FSLR",
-            "headline": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-enphase-solaredge-alight-235258458.html",
+            "headline": "Private 5G Market Forecasts Growth from $5.35B (2026) to $24.84B by 2032, Profiling Ericsson, Huawei, Nokia, Samsung & Cisco Systems",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/articles/private-5g-market-forecasts-growth-082900638.html",
             "score": 0
         },
         {
@@ -100,31 +79,38 @@
             "score": 0
         },
         {
-            "symbol": "SBUX",
-            "headline": "Once-trendy drink chain closes 130 locations",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/small-business/articles/popular-drink-chain-closes-more-182016941.html",
+            "symbol": "FSLR",
+            "headline": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html",
+            "score": 0
+        },
+        {
+            "symbol": "RKLB",
+            "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+            "score": 0
+        },
+        {
+            "symbol": "INLF",
+            "headline": "INLIF LIMITED Reports First Half of Fiscal Year 2026 Financial Results",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/inlif-limited-reports-first-half-203000866.html",
+            "score": 0
+        },
+        {
+            "symbol": "PL",
+            "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
             "score": 0
         },
         {
             "symbol": "ARM",
-            "headline": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
+            "headline": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
             "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-stock-gains-231156551.html",
-            "score": 0
-        },
-        {
-            "symbol": "PFSA",
-            "headline": "Profusa ISO 13485 Certification Decision Advances Lumee Oxygen Platform Toward CE Mark",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/profusa-iso-13485-certification-decision-150102295.html",
-            "score": 0
-        },
-        {
-            "symbol": "BE",
-            "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html",
             "score": 0
         },
         {
@@ -135,10 +121,17 @@
             "score": 0
         },
         {
-            "symbol": "CRDO",
-            "headline": "Credo Technology Group Holding Insider Sold Shares Worth $925,000, According to a Recent SEC Filing",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-insider-202508681.html",
+            "symbol": "SOXL",
+            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
+            "score": 0
+        },
+        {
+            "symbol": "AVGO",
+            "headline": "Broadcom And 2 Other High Growth Stocks To Own",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-high-growth-071202759.html",
             "score": 0
         }
     ]
