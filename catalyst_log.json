@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T17:14:19.558903+00:00",
+    "timestamp": "2026-09-25T17:26:11.456427+00:00",
     "catalysts": [
         {
             "symbol": "ORCL",
@@ -23,13 +23,6 @@
             "score": 3
         },
         {
-            "symbol": "BE",
-            "headline": "Bloom Energy Jumps 8% as Oracle Reaffirms 2.4 GW Fuel Cell Contract After Force Majeure Notice",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/bloom-energy-jumps-8-oracle-165523316.html",
-            "score": 3
-        },
-        {
             "symbol": "MRNA",
             "headline": "Stock Market Midday, Sept. 25: AI Momentum Lifts Markets as Akamai Soars on Anthropic Deal",
             "publisher": "Motley Fool",
@@ -38,9 +31,9 @@
         },
         {
             "symbol": "COST",
-            "headline": "Costco Wholesale's Q4 Profit Delivery Better Than Feared, Oppenheimer Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-apos-q4-profit-170749115.html",
+            "headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-leads.html",
             "score": 0
         },
         {
@@ -66,9 +59,9 @@
         },
         {
             "symbol": "INTC",
-            "headline": "AMD Shares Are About to Become Even More Valuable And That Keeps Me Buying",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-shares-become-even-more-144521707.html",
+            "headline": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/microsoft-ceo-we-have-to-earn-that-permission-to-build-data-centers-from-communities-172505836.html",
             "score": 0
         },
         {
@@ -125,6 +118,13 @@
             "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
             "publisher": "Motley Fool",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
+            "score": 0
+        },
+        {
+            "symbol": "BE",
+            "headline": "Powering Community Resilience, Bloom Energy Supports First Responders in State College during ESPN College Campus Tour",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/energy/articles/powering-community-resilience-bloom-energy-172000713.html",
             "score": 0
         },
         {
