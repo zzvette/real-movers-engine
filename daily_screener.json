@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T01:10:59.374346+00:00",
+    "timestamp": "2026-09-25T01:39:21.117561+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,21 +18,21 @@
             },
             {
                 "symbol": "COST",
-                "headline": "Walmart takes on Costco with expanded gas savings",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/small-business/articles/walmart-takes-costco-expanded-gas-003700636.html",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
                 "score": 0
             },
             {
                 "symbol": "META",
-                "headline": "Why Etsy (ETSY) Stock Is Trading Lower Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-etsy-etsy-stock-trading-004058304.html",
+                "headline": "PayPal Holdings (PYPL), What Is Behind The Fresh Attention?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-pypl-behind-fresh-011437320.html",
                 "score": 0
             },
             {
                 "symbol": "AKAM",
-                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
                 "score": 0
@@ -46,7 +46,7 @@
             },
             {
                 "symbol": "P",
-                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
                 "score": 0
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike \u2014 ORCL, META, AKAM, GOOGL, MGM In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-futures-001254918.html",
+                "headline": "Why Oracle (ORCL) Stock Is Down Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-orcl-stock-down-010458176.html",
                 "score": 0
             },
             {
