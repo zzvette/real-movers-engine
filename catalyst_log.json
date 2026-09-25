@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T17:54:42.509671+00:00",
+    "timestamp": "2026-09-25T18:00:09.579817+00:00",
     "catalysts": [
         {
             "symbol": "TWST",
@@ -17,9 +17,9 @@
         },
         {
             "symbol": "COST",
-            "headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-leads.html",
+            "headline": "Sector Update: Consumer Stocks Advance Friday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-friday-175533590.html",
             "score": 0
         },
         {
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "AKAM",
-            "headline": "Sector Update: Tech",
+            "headline": "Sector Update: Tech Stocks Gain Friday Afternoon",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-165948872.html",
+            "link": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-gain-friday-174711203.html",
             "score": 0
         },
         {
@@ -52,9 +52,9 @@
         },
         {
             "symbol": "ORCL",
-            "headline": "Sector Update: Financial",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-173607385.html",
+            "headline": "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-making-portfolios-bad-174149466.html",
             "score": 0
         },
         {
@@ -72,45 +72,10 @@
             "score": 0
         },
         {
-            "symbol": "FSLR",
-            "headline": "FSLR Stock Heads For Its Worst Week In Over A Month \u2014 Roth Says US Polysilicon Crackdown Could Provide A Tailwind",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-heads-worst-week-173105007.html",
-            "score": 0
-        },
-        {
-            "symbol": "RKLB",
-            "headline": "Rocket Lab Crashed Back Toward Earth for 3 Months: This Analyst Says It\u2019s About to Double",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-crashed-back-toward-133739779.html",
-            "score": 0
-        },
-        {
             "symbol": "INLF",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
-            "score": 0
-        },
-        {
-            "symbol": "PL",
-            "headline": "Google Plans To Launch Mini Data Center Into Space Next Week As Part Of Project Suncatcher\u2019s Bid For A Market Projected To Hit $28.16 Billion",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/google-plans-launch-mini-data-163243317.html",
-            "score": 0
-        },
-        {
-            "symbol": "ARM",
-            "headline": "Arm Stocks Surge as Muse Makes CPUs Matter Again",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/articles/arm-stocks-surge-muse-makes-175223313.html",
-            "score": 0
-        },
-        {
-            "symbol": "KGC",
-            "headline": "Why Kinross Gold Stock Is Crashing Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-kinross-gold-stock-crashing-200913504.html",
             "score": 0
         },
         {
