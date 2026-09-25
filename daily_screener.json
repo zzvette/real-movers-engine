@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-25T10:58:43.562928+00:00",
+    "timestamp": "2026-09-25T11:15:02.347617+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "GLND",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110219728.html",
+                "score": 3
+            },
             {
                 "symbol": "TWST",
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
@@ -11,16 +18,9 @@
             },
             {
                 "symbol": "COST",
-                "headline": "Truist Lowers Price Target on Costco Wholesale to $955 From $1,011, Keeps Hold Rating",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/truist-lowers-price-target-costco-105025876.html",
-                "score": 0
-            },
-            {
-                "symbol": "GLND",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017758.html",
+                "headline": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-rise%2C.html",
                 "score": 0
             },
             {
@@ -98,13 +98,6 @@
                 "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARM",
-                "headline": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html",
                 "score": 0
             },
             {
