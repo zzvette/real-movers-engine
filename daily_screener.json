@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T00:44:40.185858+00:00",
+    "timestamp": "2026-09-25T01:10:59.374346+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,16 +18,16 @@
             },
             {
                 "symbol": "COST",
-                "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html",
+                "headline": "Walmart takes on Costco with expanded gas savings",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/small-business/articles/walmart-takes-costco-expanded-gas-003700636.html",
                 "score": 0
             },
             {
                 "symbol": "META",
-                "headline": "Meta (META) Stock Is Up, What You Need To Know",
+                "headline": "Why Etsy (ETSY) Stock Is Trading Lower Today",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-know-002458424.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-etsy-etsy-stock-trading-004058304.html",
                 "score": 0
             },
             {
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "MRNA",
-                "headline": "From $63 To $195: Moderna\u2019s Two-Month Rerating Isn\u2019t Done",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/63-195-moderna-two-month-224111566.html",
+                "headline": "Moderna Inc. (MRNA) Holds High-Level Investment Talks With UAE, Soars to 4-Year Peak",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/healthcare/articles/moderna-inc-mrna-holds-high-004659122.html",
                 "score": 0
             },
             {
