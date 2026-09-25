@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T15:59:34.148452+00:00",
+    "timestamp": "2026-09-25T16:09:52.666591+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,9 +18,9 @@
             },
             {
                 "symbol": "AKAM",
-                "headline": "Anthropic Deal Likely Expands Akamai's Addressable Market, RBC Says",
+                "headline": "Top Midday Stories: Akamai's $11.6 Billion Anthropic Deal; Scholastic Q1 Loss Widens; Nektar Awarded $90 Million in Eli Lilly Case",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-deal-likely-expands-akamai-143635418.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-akamai-apos-160532676.html",
                 "score": 2
             },
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "AMD",
-                "headline": "BofA raises AMD target to $720, sees server CPU TAM tripling to $211B by 2030",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-raises-amd-target-720-151401054.html",
+                "headline": "AMD Stocks Move Higher as $1 Trillion Demands Full Systems",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-move-higher-1-155903297.html",
                 "score": 0
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "Update: Market Chatter: Blue Owl's Stack Infrastructure to Delay Project Jupiter by a Year",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-blue-owl-apos-142156258.html",
+                "headline": "Hyperscaler Stocks Could Rebound In This 2027 Scenario, Says Goldman Sachs",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2e54345b-15d3-3284-b7b1-fd32a4a78e9a/hyperscaler-stocks-could.html",
                 "score": 0
             },
             {
