@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-09-25T18:26:03.783246+00:00",
+    "timestamp": "2026-09-25T18:36:55.616709+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "COST",
-                "headline": "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-gains.html",
+                "symbol": "AKAM",
+                "headline": "Wall Street climbs as investors buy AI stocks; Microsoft rallies",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
                 "score": 3
             },
             {
@@ -38,17 +38,17 @@
                 "score": 2
             },
             {
+                "symbol": "COST",
+                "headline": "Costco Shares Slip After 11% Jump in Quarterly Sales",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/costco-shares-slip-11-jump-183514381.html",
+                "score": 0
+            },
+            {
                 "symbol": "GLND",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
-                "score": 0
-            },
-            {
-                "symbol": "AKAM",
-                "headline": "Amazon Stocks Move Lower as Anthropic Commits $11.6 Billion Elsewhere",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-move-lower-anthropic-181534479.html",
                 "score": 0
             },
             {
