@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T09:53:32.496773+00:00",
+    "timestamp": "2026-09-25T10:04:36.953060+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,13 +24,6 @@
                 "score": 3
             },
             {
-                "symbol": "AKAM",
-                "headline": "Update: Akamai Signs $11.6 Billion Cloud Deal With Anthropic; Shares Up Pre-Bell",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-signs-11-6-billion-094624926.html",
-                "score": 2
-            },
-            {
                 "symbol": "BE",
                 "headline": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
                 "publisher": "Stocktwits",
@@ -52,17 +45,24 @@
                 "score": 0
             },
             {
+                "symbol": "AKAM",
+                "headline": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+                "score": 0
+            },
+            {
                 "symbol": "AMD",
-                "headline": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-082910505.html",
+                "headline": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intc-stocks-extend-rally-033005684.html",
+                "headline": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
                 "score": 0
             },
             {
