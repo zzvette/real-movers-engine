@@ -1,6 +1,20 @@
 {
-    "timestamp": "2026-09-25T18:11:42.784845+00:00",
+    "timestamp": "2026-09-25T18:26:03.783246+00:00",
     "catalysts": [
+        {
+            "symbol": "COST",
+            "headline": "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-gains.html",
+            "score": 3
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Why Intel Stock Jumped This Week",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-jumped-week-182009537.html",
+            "score": 3
+        },
         {
             "symbol": "ORCL",
             "headline": "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
@@ -23,13 +37,6 @@
             "score": 2
         },
         {
-            "symbol": "COST",
-            "headline": "Sector Update: Consumer Stocks Advance Friday Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-friday-175533590.html",
-            "score": 0
-        },
-        {
             "symbol": "GLND",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
@@ -38,9 +45,9 @@
         },
         {
             "symbol": "AKAM",
-            "headline": "Sector Update: Tech Stocks Gain Friday Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-gain-friday-174711203.html",
+            "headline": "Amazon Stocks Move Lower as Anthropic Commits $11.6 Billion Elsewhere",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-move-lower-anthropic-181534479.html",
             "score": 0
         },
         {
@@ -48,13 +55,6 @@
             "headline": "Marvell\u2019s 203% YTD Surge Sets High Bar but We See More Runway Ahead",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-203-ytd-surge-sets-173012562.html",
-            "score": 0
-        },
-        {
-            "symbol": "INTC",
-            "headline": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/microsoft-ceo-we-have-to-earn-that-permission-to-build-data-centers-from-communities-172505836.html",
             "score": 0
         },
         {
