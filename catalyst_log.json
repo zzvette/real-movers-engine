@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T20:12:15.343332+00:00",
+    "timestamp": "2026-09-25T20:22:52.521432+00:00",
     "catalysts": [
         {
             "symbol": "TWST",
@@ -41,6 +41,20 @@
             "headline": "Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street.",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/b8eae4aa-f7ed-33bb-9966-deffb558b2ed/nvidia%2C-amd-love-this.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-intel-revenue-growth-193412195.html",
+            "score": 0
+        },
+        {
+            "symbol": "ORCL",
+            "headline": "Oracle\u2019s \u2018Force Majeure\u2019 Move Adds to Bondholders\u2019 Worries",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/d8e6ab10-0c0b-311b-b06c-13558e81112d/oracle%E2%80%99s-%E2%80%98force-majeure%E2%80%99-move.html",
             "score": 0
         },
         {
