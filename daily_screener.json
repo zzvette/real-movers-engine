@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T13:03:21.464951+00:00",
+    "timestamp": "2026-09-25T13:22:25.222364+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,6 +10,13 @@
                 "score": 3
             },
             {
+                "symbol": "INTC",
+                "headline": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-climbs-5-buyers-return-130537961.html",
+                "score": 3
+            },
+            {
                 "symbol": "TWST",
                 "headline": "Twist Bioscience Stock Jumped 16% Thursday. Leerink Says Anthropic Made It Happen.",
                 "publisher": "TIKR",
@@ -17,10 +24,24 @@
                 "score": 3
             },
             {
+                "symbol": "ARM",
+                "headline": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-climbs-5-buyers-return-130537961.html",
+                "score": 3
+            },
+            {
+                "symbol": "AKAM",
+                "headline": "Akamai Stock Rises 22% on $11.6 Billion Anthropic Deal",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-stock-rises-22-11-131512885.html",
+                "score": 2
+            },
+            {
                 "symbol": "COST",
-                "headline": "Bernstein unveils top European medtech stock picks to buy for H2",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/healthcare/articles/bernstein-unveils-top-european-medtech-123559511.html",
+                "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
                 "score": 0
             },
             {
@@ -31,31 +52,17 @@
                 "score": 0
             },
             {
-                "symbol": "AKAM",
-                "headline": "Sector Update: Tech",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125532895.html",
-                "score": 0
-            },
-            {
                 "symbol": "AMD",
-                "headline": "Technology Stocks Are Back, Because Nothing Else Is",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6e83da33-e6c4-3c4b-909e-53a8a1eeff49/technology-stocks-are-back%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+                "headline": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-130301446.html",
                 "score": 0
             },
             {
                 "symbol": "ORCL",
-                "headline": "Michael Burry Warns Microsoft, Amazon and Oracle Could Face AI Write-Off Shock",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-warns-microsoft-amazon-124124800.html",
+                "headline": "Oracle\u2019s Collapse\u2013$200 Billion In Data Center Shut Downs",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/oracle-collapse-200-billion-data-131607272.html",
                 "score": 0
             },
             {
@@ -95,16 +102,9 @@
             },
             {
                 "symbol": "PL",
-                "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARM",
-                "headline": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html",
+                "headline": "Planet\u2019s Pelican-12 Satellite Arrives at Launch Site",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/articles/planet-pelican-12-satellite-arrives-130300742.html",
                 "score": 0
             },
             {
@@ -130,9 +130,9 @@
             },
             {
                 "symbol": "AVGO",
-                "headline": "This Week In AI Chips - Secure AI Integration Advances with VAST DataEnclave Launch",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-secure-ai-113717596.html",
+                "headline": "189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/189-date-number-pushed-amd-130027058.html",
                 "score": 0
             }
         ]
