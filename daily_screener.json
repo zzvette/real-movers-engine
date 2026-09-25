@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T21:59:16.818547+00:00",
+    "timestamp": "2026-09-25T22:17:09.182126+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,17 +24,10 @@
                 "score": 0
             },
             {
-                "symbol": "MRNA",
-                "headline": "Moderna (MRNA) Surpasses Market Returns: Some Facts Worth Knowing",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-surpasses-market-returns-205003234.html",
-                "score": 0
-            },
-            {
                 "symbol": "AKAM",
-                "headline": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/microsoft%2C-meta%2C-akamai%2C.html",
+                "headline": "Why Akamai Stock Is Up Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-akamai-stock-today-220232853.html",
                 "score": 0
             },
             {
@@ -46,9 +39,9 @@
             },
             {
                 "symbol": "INTC",
-                "headline": "What Is Intel (INTC) Doing In Edge AI And Brain Inspired Computing?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-doing-edge-ai-210701740.html",
+                "headline": "Is Now the Time to Bet on Intel\u2019s (INTC) Server CPU Comeback and AI Ambitions?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/now-time-bet-intel-intc-221124800.html",
                 "score": 0
             },
             {
@@ -109,9 +102,9 @@
             },
             {
                 "symbol": "KGC",
-                "headline": "Why Kinross Gold Stock Is Crashing Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-kinross-gold-stock-crashing-200913504.html",
+                "headline": "Are You Sure You Understand Kinross Gold Stock's Risk?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sure-understand-kinross-gold-stocks-214531319.html",
                 "score": 0
             },
             {
@@ -123,9 +116,9 @@
             },
             {
                 "symbol": "BE",
-                "headline": "Bloom Energy Stock Is Today\u2019s Top S&P 500 Performer. It Has a Lot to Do With Oracle.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/300e83da-4c7f-39d5-aebf-8b7500e7087e/bloom-energy-stock-is-today%E2%80%99s.html",
+                "headline": "Is Bloom Energy Stock's Drop A Chance To Buy?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stocks-drop-chance-215506654.html",
                 "score": 0
             },
             {
