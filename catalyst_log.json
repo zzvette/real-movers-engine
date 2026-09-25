@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T12:11:45.921049+00:00",
+    "timestamp": "2026-09-25T12:33:23.743833+00:00",
     "catalysts": [
         {
             "symbol": "GLND",
@@ -16,10 +16,17 @@
             "score": 3
         },
         {
+            "symbol": "AKAM",
+            "headline": "European AI-linked stocks rally After Anthropic\u2019s $11.6 bln computing deal",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/european-ai-linked-stocks-rally-121430083.html",
+            "score": 2
+        },
+        {
             "symbol": "COST",
-            "headline": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html",
+            "headline": "Costco Just Unveiled a Massive $7.5 Billion Expansion Plan",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/costco-just-unveiled-massive-7-121454833.html",
             "score": 0
         },
         {
@@ -27,13 +34,6 @@
             "headline": "Moderna CEO\u2019s Realistic Approach to Innovation",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/9a01b36d-9faa-3ca2-b65c-d57352b4e7f2/moderna-ceo%E2%80%99s-realistic.html",
-            "score": 0
-        },
-        {
-            "symbol": "AKAM",
-            "headline": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-signal.html",
             "score": 0
         },
         {
@@ -52,9 +52,9 @@
         },
         {
             "symbol": "ORCL",
-            "headline": "Social Buzz: Wallstreetbets Stocks Advance Pre-Bell Friday; Sandisk, AMD to Open Higher",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-104020684.html",
+            "headline": "Goldman Sachs just gave AI stock fans a cold, hard reality check",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/goldman-sachs-just-gave-ai-stock-fans-a-cold-hard-reality-check-121638833.html",
             "score": 0
         },
         {
