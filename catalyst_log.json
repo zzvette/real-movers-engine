@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T13:40:17.891492+00:00",
+    "timestamp": "2026-09-28T13:56:17.405174+00:00",
     "catalysts": [
         {
             "symbol": "AMPX",
@@ -10,16 +10,16 @@
         },
         {
             "symbol": "APP",
-            "headline": "AppLovin Jumps 4% as Buyers Return After Year-Long Slide; Trade Desk Nudges Higher, Digital Turbine Barely Budges",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-jumps-4-buyers-return-131531370.html",
-            "score": 3
+            "headline": "Stock Market Today: Dow Falls, Trump Rejects Iran Deal; Oil, Yields Jump As Nvidia Rises On Buyback (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow.html",
+            "score": 2
         },
         {
             "symbol": "NVDA",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as US-Iran tensions resurface, Treasury yields jump",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
+            "headline": "Prediction: This Will Be Micron Technology\u2019s Stock Price by the End of 2026",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-technology-stock-price-135201203.html",
             "score": 0
         },
         {
@@ -45,9 +45,9 @@
         },
         {
             "symbol": "MDB",
-            "headline": "MongoDB stock tanks after Meta poaches CEO",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/mongodb-stock-tanks-after-meta-poaches-ceo-132048225.html",
+            "headline": "Update: MongoDB Shares Fall After CEO Steps Down to Pursue Senior Role at Meta",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-shares-fall-ceo-steps-133923847.html",
             "score": 0
         },
         {
