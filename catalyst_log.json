@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T20:04:16.534987+00:00",
+    "timestamp": "2026-09-28T20:10:52.900014+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -23,17 +23,17 @@
             "score": 2
         },
         {
-            "symbol": "MDB",
-            "headline": "What Needs To Be True To Buy Twilio Stock Now?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-twilio-stock-194111318.html",
+            "symbol": "KOD",
+            "headline": "Sector Update: Healthcare Stocks Rise Late Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-195243721.html",
             "score": 0
         },
         {
-            "symbol": "NVDA",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
+            "symbol": "MDB",
+            "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195704336.html",
             "score": 0
         },
         {
@@ -66,16 +66,9 @@
         },
         {
             "symbol": "SPCX",
-            "headline": "A Historic Day For SpaceX Stock",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/historic-day-spacex-stock-193134774.html",
-            "score": 0
-        },
-        {
-            "symbol": "TEST",
-            "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500184.html",
+            "headline": "SpaceX Starship test reaches Earth orbit, 26 Starlink satellites deployed",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/spacex-starship-test-reaches-earth-orbit-26-starlink-satellites-deployed-141955092.html",
             "score": 0
         },
         {
@@ -94,9 +87,9 @@
         },
         {
             "symbol": "GC=F",
-            "headline": "Aura Minerals Targets 600,000 Ounces as Gold Slumps",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/aura-minerals-targets-600-000-194758261.html",
+            "headline": "Franco-Nevada Announces Appointment of Paul Brink as Chair of the World Gold Council",
+            "publisher": "CNW Group",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/franco-nevada-announces-appointment-paul-200000623.html",
             "score": 0
         },
         {
