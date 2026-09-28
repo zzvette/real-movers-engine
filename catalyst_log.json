@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T00:47:13.507750+00:00",
+    "timestamp": "2026-09-28T01:11:53.715973+00:00",
     "catalysts": [
         {
             "symbol": "^KS11",
@@ -38,9 +38,9 @@
         },
         {
             "symbol": "CL=F",
-            "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html",
+            "headline": "Stocks cautious in Asia as oil gains, yields rise",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/articles/stocks-cautious-asia-oil-gains-005009179.html",
             "score": 0
         },
         {
@@ -52,9 +52,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Elon Musk Just Gave Nvidia Investors More Good News. Is the Stock a Buy?",
+            "headline": "This Space Stock Could Make You Rich (Hint: It's Not SpaceX)",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-gave-nvidia-002000003.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/space-stock-could-rich-hint-005000251.html",
             "score": 0
         },
         {
