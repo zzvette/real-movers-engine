@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T02:43:18.658299+00:00",
+    "timestamp": "2026-09-28T03:12:34.561644+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,9 +25,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Should You Buy Sandisk Stock After Its $14 Billion Buyback Announcement?",
+                "headline": "X-Energy vs. GE Vernova: Is the New IPO the Better Buy?",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sandisk-stock-14-billion-022000856.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/x-energy-vs-ge-vernova-025000431.html",
                 "score": 0
             },
             {
@@ -98,13 +98,6 @@
                 "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
                 "publisher": "Motley Fool",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-                "score": 0
-            },
-            {
-                "symbol": "CL=F",
-                "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html",
                 "score": 0
             },
             {
