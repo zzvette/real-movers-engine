@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-28T14:52:41.454779+00:00",
+    "timestamp": "2026-09-28T15:03:44.421810+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "KOD",
+                "headline": "Kodiak Sciences Stock Surges 156% After Eye-Disease Drugs Pass Key Trial",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/160c2163-1a7b-34c8-a6d3-40211c7b53cb/kodiak-sciences-stock-surges.html",
+                "score": 3
+            },
             {
                 "symbol": "MX",
                 "headline": "Top Premarket Gainers",
@@ -18,23 +25,16 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Nvidia Stock Rises After $150 Billion Buyback Boost",
+                "headline": "IREN Just Got a Reality Check From Wall Street",
                 "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-rises-150-billion-144825265.html",
+                "link": "https://finance.yahoo.com/technology/ai/articles/iren-just-got-reality-check-145246343.html",
                 "score": 0
             },
             {
                 "symbol": "MDB",
-                "headline": "Meta and ServiceNow Drop 4% as Enterprise Platform Launch Reprices Software; MongoDB Tumbles 19%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-servicenow-drop-4-enterprise-144338703.html",
-                "score": 0
-            },
-            {
-                "symbol": "KOD",
-                "headline": "This Biotech Company Added Nearly $3B To Its Market Cap \u2013 Here\u2019s Why KOD Stock Is Ripping Today",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/biotech-company-added-nearly-3b-141419404.html",
+                "headline": "Meta enterprise AI platform: MongoDB CEO CJ Desai departure",
+                "publisher": "Quartz",
+                "link": "https://finance.yahoo.com/technology/ai/articles/meta-enterprise-ai-platform-mongodb-144812312.html",
                 "score": 0
             },
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "SpaceX Is About to Put Starship Through Its Biggest Test Yet",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/articles/spacex-put-starship-biggest-test-144555990.html",
+                "headline": "SpaceX Starship Reaches Orbit for First Time Despite Engine Failure",
+                "publisher": "Benzinga Prediction Markets",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starship-reaches-orbit-first-144810897.html",
                 "score": 0
             },
             {
