@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T09:12:09.767014+00:00",
+    "timestamp": "2026-09-28T09:32:12.468981+00:00",
     "catalysts": [
         {
             "symbol": "SRFM",
@@ -16,13 +16,6 @@
             "score": 3
         },
         {
-            "symbol": "^KS11",
-            "headline": "Goldman says KOSPI is ready for a \"tactical breakout\"",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/goldman-says-kospi-ready-tactical-135628900.html",
-            "score": 3
-        },
-        {
             "symbol": "NIO",
             "headline": "NIO, Geely Sign Deals for Battery Swapping, Charging Businesses",
             "publisher": "MT Newswires",
@@ -31,9 +24,9 @@
         },
         {
             "symbol": "GC=F",
-            "headline": "Gold Fields' $27 Billion Takeover Bid for Northern Star Resources Rejected",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/gold-fields-apos-27-billion-080824839.html",
+            "headline": "Montage Gold delivers first gold pour at Kon\u00e9 mine",
+            "publisher": "Mining Technology",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/montage-gold-delivers-first-gold-092113974.html",
             "score": 0
         },
         {
@@ -51,17 +44,17 @@
             "score": 0
         },
         {
-            "symbol": "MSFT",
-            "headline": "High Availability Cluster Solution Global Market Report 2026: Capitalize on the $2.49 Billion Revenue Surge to $8.84 Billion by 2030; Benchmark Microsoft, Dell, IBM, Cisco and Oracle as Hybrid Cloud and Zero-Downtime Strategies Disrupt the Market",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/articles/high-availability-cluster-solution-global-080500449.html",
+            "symbol": "CLRO",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
             "score": 0
         },
         {
-            "symbol": "SKHY",
-            "headline": "SKHY Stock Dips Overnight: SK Hynix\u2019s US Subsidiary Solidigm Reportedly Plans IPO",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-dips-overnight-sk-052655680.html",
+            "symbol": "MSFT",
+            "headline": "Information Technology Market Report 2026: Capture the $3.76 Trillion Revenue Shift Through 2030 as AI, Cloud and Cybersecurity Disrupt Enterprise Spend\u2014Benchmark Microsoft, Amazon, Alphabet, IBM and Oracle Before Competitors Seize the Advantage",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/articles/information-technology-market-report-2026-092200161.html",
             "score": 0
         },
         {
@@ -79,10 +72,38 @@
             "score": 0
         },
         {
-            "symbol": "MIMI",
-            "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
+            "symbol": "ARAY",
+            "headline": "Accuray partners with Samsung NeuroLogica on CyberKnife imaging",
+            "publisher": "Medical Device Network",
+            "link": "https://finance.yahoo.com/healthcare/articles/accuray-partners-samsung-neurologica-cyberknife-081013204.html",
+            "score": 0
+        },
+        {
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "score": 0
+        },
+        {
+            "symbol": "^VIX",
+            "headline": "FedWatch's Ben Emons Sees 10-Year Treasury Yield Hitting 6% By January 2027 \u2014 Warns It Could Put Housing \u2018In A Crunch\u2019 And Slow The Economy",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/economy/policy/articles/fedwatchs-ben-emons-sees-10-144952725.html",
+            "score": 0
+        },
+        {
+            "symbol": "SHMD",
+            "headline": "SCHMID (SHMD) Nearly Tripled Revenue but Cut its Adjusted EBITDA Margin Outlook. Is China Growth Too Low-Margin?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/schmid-shmd-nearly-tripled-revenue-224914917.html",
+            "score": 0
+        },
+        {
+            "symbol": "SKHY",
+            "headline": "SKHY Stock Dips Overnight: SK Hynix\u2019s US Subsidiary Solidigm Reportedly Plans IPO",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-dips-overnight-sk-052655680.html",
             "score": 0
         }
     ]
