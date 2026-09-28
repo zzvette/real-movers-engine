@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T21:01:43.958555+00:00",
+    "timestamp": "2026-09-28T21:20:20.091502+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,13 +24,6 @@
                 "score": 2
             },
             {
-                "symbol": "QNC",
-                "headline": "Quantum eMotion To Acquire Plurilock in CA$33.8 Million Deal",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-emotion-acquire-plurilock-ca-204627846.html",
-                "score": 2
-            },
-            {
                 "symbol": "KOD",
                 "headline": "Why This Regeneron Eye Rival Just Catapulted More Than 170%",
                 "publisher": "Investor's Business Daily",
@@ -45,6 +38,13 @@
                 "score": 0
             },
             {
+                "symbol": "NVTS",
+                "headline": "Navitas Awarded US Army Program to Develop 10 kV Silicon Carbide Technology",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/articles/navitas-awarded-us-army-program-204046665.html",
+                "score": 0
+            },
+            {
                 "symbol": "BA",
                 "headline": "Boeing Stock Falls On New 737 Issue, This One Affects Landings",
                 "publisher": "Investor's Business Daily",
@@ -53,16 +53,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Why BlackLine Stock Was Sliding Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-blackline-stock-sliding-today-205216771.html",
-                "score": 0
-            },
-            {
-                "symbol": "KNRX",
-                "headline": "KNOREX Ltd. Pursues Strategic Carve-Out of AscendX Publisher Monetization Business with External Growth Capital",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/media-advertising/articles/knorex-ltd-pursues-strategic-carve-175400340.html",
+                "headline": "What Nvidia's $150 billion stock buyback means for shareholders and potential investors",
+                "publisher": "Yahoo Personal Finance",
+                "link": "https://finance.yahoo.com/personal-finance/investing/article/what-nvidias-150-billion-stock-buyback-means-for-shareholders-and-potential-investors-211828747.html",
                 "score": 0
             },
             {
@@ -73,13 +66,6 @@
                 "score": 0
             },
             {
-                "symbol": "GYGY",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
-                "score": 0
-            },
-            {
                 "symbol": "SPCX",
                 "headline": "SpaceX Launches Starship Flight 14, Deploys Starlink Satellites.",
                 "publisher": "Investor's Business Daily",
@@ -87,17 +73,24 @@
                 "score": 0
             },
             {
-                "symbol": "AUR",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+                "symbol": "KNRX",
+                "headline": "KNOREX Ltd. Pursues Strategic Carve-Out of AscendX Publisher Monetization Business with External Growth Capital",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/media-advertising/articles/knorex-ltd-pursues-strategic-carve-175400340.html",
                 "score": 0
             },
             {
-                "symbol": "GC=F",
-                "headline": "Iamgold Eyes C\u00f4t\u00e9 Gold Optimization, Essakane Extension Over M&A",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/iamgold-eyes-c-t-gold-200208561.html",
+                "symbol": "RBLX",
+                "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195704336.html",
+                "score": 0
+            },
+            {
+                "symbol": "MTN",
+                "headline": "Vail Resorts Loss Widens After a Year of Tough Weather",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/e6307727-74cb-36b1-a146-9fd53a75322f/vail-resorts-loss-widens.html",
                 "score": 0
             },
             {
@@ -108,10 +101,24 @@
                 "score": 0
             },
             {
-                "symbol": "NFLX",
-                "headline": "How Has Alphabet Stock's Story Changed?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-story-changed-193107554.html",
+                "symbol": "AUR",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+                "score": 0
+            },
+            {
+                "symbol": "JEF",
+                "headline": "Jefferies Financial stock slips 3% as Fixed Income, Asset Management revenues fall",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-financial-stock-slips-3-210415210.html",
+                "score": 0
+            },
+            {
+                "symbol": "YMT",
+                "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
                 "score": 0
             },
             {
@@ -119,27 +126,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
-                "score": 0
-            },
-            {
-                "symbol": "CLF",
-                "headline": "Why Nucor and Other Steel Stocks Are Falling After Trump Unveils Massive Project",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/829f680d-5dc6-3a25-84f8-c72fee5cc360/why-nucor-and-other-steel.html",
-                "score": 0
-            },
-            {
-                "symbol": "MOD",
-                "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Growth",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-150905192.html",
-                "score": 0
-            },
-            {
-                "symbol": "GFI",
-                "headline": "Northern Star turns down Gold Fields\u2019 $27.2bn takeover proposal",
-                "publisher": "Mining Technology",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/northern-star-turns-down-gold-135447704.html",
                 "score": 0
             }
         ]
