@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T17:11:59.914612+00:00",
+    "timestamp": "2026-09-28T17:25:04.449783+00:00",
     "catalysts": [
         {
             "symbol": "KOD",
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html",
+            "headline": "Sector Update: Tech",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-171532237.html",
             "score": 0
         },
         {
@@ -45,9 +45,9 @@
         },
         {
             "symbol": "BA",
-            "headline": "Why Boeing Stock Just Dropped",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-boeing-stock-just-dropped-154452118.html",
+            "headline": "Stock Market Today: Dow Skids, Gold Stocks Melt; Nvidia Rises On This, Baseball Play Tests Entry (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow.html",
             "score": 0
         },
         {
@@ -58,14 +58,14 @@
             "score": 0
         },
         {
-            "symbol": "KNRX",
-            "headline": "KNOREX Expands AI-Driven Advertising Suite with the Launch of KAI Assist and XPO MCP Server Integration",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/knorex-expands-ai-driven-advertising-131500888.html",
+            "symbol": "GYGY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
             "score": 0
         },
         {
-            "symbol": "GYGY",
+            "symbol": "ARAY",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
@@ -80,23 +80,30 @@
         },
         {
             "symbol": "GC=F",
-            "headline": "First Majestic Silver Eyes Growth, Jerritt Canyon Restart as Silver Deficit Deepens",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/first-majestic-silver-eyes-growth-170230745.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPCX",
-            "headline": "SpaceX Launches Starship Flight 14, Deploys Starlink Satellites.",
+            "headline": "Stock Market Today: Dow Skids, Gold Stocks Melt; Nvidia Rises On This, Baseball Play Tests Entry (Live Coverage)",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/e44c9e24-e264-3488-afeb-fe18255add43/spacex-launches-starship.html",
+            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow.html",
             "score": 0
         },
         {
-            "symbol": "MOD",
-            "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Growth",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-150905192.html",
+            "symbol": "CMG",
+            "headline": "Chipotle vs. CAVA: Which Fast-Casual Stock Is the Better Buy Now?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-vs-cava-fast-casual-145000339.html",
+            "score": 0
+        },
+        {
+            "symbol": "CVNA",
+            "headline": "Is Carvana Stock Underperforming the S&P 500?",
+            "publisher": "Barchart",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/carvana-stock-underperforming-p-500-132609464.html",
+            "score": 0
+        },
+        {
+            "symbol": "TEST",
+            "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500184.html",
             "score": 0
         },
         {
@@ -107,24 +114,17 @@
             "score": 0
         },
         {
-            "symbol": "KNDI",
-            "headline": "Kandi Technologies Reports 57.4% First-Half Revenue Growth as Net Income Reaches $9.4 Million",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/kandi-technologies-reports-57-4-144925066.html",
+            "symbol": "MOD",
+            "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Growth",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-150905192.html",
             "score": 0
         },
         {
-            "symbol": "GLD",
-            "headline": "Toogood Gold Narrows Table Mountain Targets as Two Major Gold Corridors Take Shape",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/toogood-gold-narrows-table-mountain-153356492.html",
-            "score": 0
-        },
-        {
-            "symbol": "OCUL",
-            "headline": "Ocular Therapeutix and ANI Pharmaceuticals Stocks Trade Down, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/healthcare/articles/ocular-therapeutix-ani-pharmaceuticals-stocks-213805476.html",
+            "symbol": "XHLD",
+            "headline": "TEN Holdings Announces $2 Million Share Repurchase Program and Strategic Technology Relationship with GLSoft Corp.",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ten-holdings-announces-2-million-180000864.html",
             "score": 0
         },
         {
