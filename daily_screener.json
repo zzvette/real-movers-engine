@@ -1,12 +1,40 @@
 {
-    "timestamp": "2026-09-28T11:21:06.829899+00:00",
+    "timestamp": "2026-09-28T11:38:10.757084+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "AMPX",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+                "score": 3
+            },
+            {
+                "symbol": "KOD",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+                "score": 3
+            },
             {
                 "symbol": "GLD",
                 "headline": "Bitcoin Surges 36% Since August 18 While Gold and Stocks Remain Stagnant: A Shift in Correlation?",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-36-since-august-082538829.html",
+                "score": 3
+            },
+            {
+                "symbol": "SHMD",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+                "score": 3
+            },
+            {
+                "symbol": "MX",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
                 "score": 3
             },
             {
@@ -18,9 +46,9 @@
             },
             {
                 "symbol": "GC=F",
-                "headline": "Gold prices today, Monday, September 28, 2026: Gold prices slump as Iran tensions and oil prices rise",
-                "publisher": "Yahoo Personal Finance",
-                "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-28-2026-gold-prices-slump-as-iran-tensions-and-oil-prices-rise-110730952.html",
+                "headline": "A2GOLD COMMENCES RC DRILLING AT TARGET PENTE AT EASTSIDE GOLD-SILVER PROJECT",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/a2gold-commences-rc-drilling-target-113000924.html",
                 "score": 0
             },
             {
@@ -31,24 +59,10 @@
                 "score": 0
             },
             {
-                "symbol": "AMPX",
-                "headline": "Amprius Technologies Wins $75 Million Grant for Unmanned Aerial Systems' Battery Production",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/articles/amprius-technologies-wins-75-million-095739504.html",
-                "score": 0
-            },
-            {
-                "symbol": "KOD",
-                "headline": "Kodiak's Eye Drug Candidates Meet Primary Endpoints in Late-Stage Trial, Shares Rise",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/kodiak-apos-eye-drug-candidates-110557695.html",
-                "score": 0
-            },
-            {
                 "symbol": "CL=F",
-                "headline": "Silver prices today, Monday, September 28, 2026: Silver prices slump as oil prices and higher-rate expectations rise",
+                "headline": "Bitcoin and ethereum prices today, Monday, September 28, 2026: Bitcoin loses ground after Trump rejects Iran's 7-day plan",
                 "publisher": "Yahoo Personal Finance",
-                "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-28-2026-silver-prices-slump-as-oil-prices-and-higher-rate-expectations-rise-111836731.html",
+                "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-28-2026-bitcoin-loses-ground-after-trump-rejects-irans-7-day-plan-113444329.html",
                 "score": 0
             },
             {
@@ -91,20 +105,6 @@
                 "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
-                "score": 0
-            },
-            {
-                "symbol": "SHMD",
-                "headline": "SCHMID (SHMD) Nearly Tripled Revenue but Cut its Adjusted EBITDA Margin Outlook. Is China Growth Too Low-Margin?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/schmid-shmd-nearly-tripled-revenue-224914917.html",
-                "score": 0
-            },
-            {
-                "symbol": "MX",
-                "headline": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/technology/articles/magnachip-shares-rise-14-securing-124011700.html",
                 "score": 0
             },
             {
