@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T20:10:52.900014+00:00",
+    "timestamp": "2026-09-28T20:18:01.598512+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -44,31 +44,24 @@
             "score": 0
         },
         {
+            "symbol": "NVDA",
+            "headline": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/9d354324-7049-3304-a302-132d423b0a1b/nvidia%2C-apple-partner-tsmc.html",
+            "score": 0
+        },
+        {
+            "symbol": "KNRX",
+            "headline": "KNOREX Ltd. Pursues Strategic Carve-Out of AscendX Publisher Monetization Business with External Growth Capital",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/media-advertising/articles/knorex-ltd-pursues-strategic-carve-175400340.html",
+            "score": 0
+        },
+        {
             "symbol": "SOAR",
             "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
             "publisher": "Business Wire",
             "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
-            "score": 0
-        },
-        {
-            "symbol": "GGG",
-            "headline": "J.P. Morgan Taps Thunes to Streamline Global Payments: NYSE Content Update",
-            "publisher": "CNW Group",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-taps-thunes-125500061.html",
-            "score": 0
-        },
-        {
-            "symbol": "CLF",
-            "headline": "Market Chatter: Cleveland-Cliffs' Canadian Unit Plans to Idle Some Steel Operations Over Tariffs",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-cleveland-cliffs-apos-180853192.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPCX",
-            "headline": "SpaceX Starship test reaches Earth orbit, 26 Starlink satellites deployed",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/spacex-starship-test-reaches-earth-orbit-26-starlink-satellites-deployed-141955092.html",
             "score": 0
         },
         {
@@ -79,38 +72,24 @@
             "score": 0
         },
         {
-            "symbol": "ARAY",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+            "symbol": "SPCX",
+            "headline": "SpaceX Starship test reaches Earth orbit, 26 Starlink satellites deployed",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/spacex-starship-test-reaches-earth-orbit-26-starlink-satellites-deployed-141955092.html",
+            "score": 0
+        },
+        {
+            "symbol": "AUR",
+            "headline": "Aurora Innovation\u2019s Road to Profitability Runs Through Fleet Expansion",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/articles/aurora-innovation-road-profitability-runs-203723629.html",
             "score": 0
         },
         {
             "symbol": "GC=F",
-            "headline": "Franco-Nevada Announces Appointment of Paul Brink as Chair of the World Gold Council",
-            "publisher": "CNW Group",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/franco-nevada-announces-appointment-paul-200000623.html",
-            "score": 0
-        },
-        {
-            "symbol": "MSB",
-            "headline": "Mesabi: Fiscal Q2 Earnings Snapshot",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mesabi-fiscal-q2-earnings-snapshot-204219537.html",
-            "score": 0
-        },
-        {
-            "symbol": "VSXY",
-            "headline": "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secrets-fashion-show-drive-151000325.html",
-            "score": 0
-        },
-        {
-            "symbol": "CVNA",
-            "headline": "CarMax Likely Still Faces Tough Competition, Truist Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/carmax-likely-still-faces-tough-191135070.html",
+            "headline": "Iamgold Eyes C\u00f4t\u00e9 Gold Optimization, Essakane Extension Over M&A",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/iamgold-eyes-c-t-gold-200208561.html",
             "score": 0
         },
         {
@@ -118,6 +97,48 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
+            "score": 0
+        },
+        {
+            "symbol": "NFLX",
+            "headline": "How Has Alphabet Stock's Story Changed?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-story-changed-193107554.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARAY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+            "score": 0
+        },
+        {
+            "symbol": "QNC",
+            "headline": "Canadian Investment Regulatory Organization Trading Halt - QNC",
+            "publisher": "CNW Group",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-133600314.html",
+            "score": 0
+        },
+        {
+            "symbol": "CLF",
+            "headline": "Why Nucor and Other Steel Stocks Are Falling After Trump Unveils Massive Project",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/829f680d-5dc6-3a25-84f8-c72fee5cc360/why-nucor-and-other-steel.html",
+            "score": 0
+        },
+        {
+            "symbol": "MOD",
+            "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Growth",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-150905192.html",
+            "score": 0
+        },
+        {
+            "symbol": "GFI",
+            "headline": "Northern Star turns down Gold Fields\u2019 $27.2bn takeover proposal",
+            "publisher": "Mining Technology",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/northern-star-turns-down-gold-135447704.html",
             "score": 0
         }
     ]
