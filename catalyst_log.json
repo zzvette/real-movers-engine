@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T19:02:01.323745+00:00",
+    "timestamp": "2026-09-28T19:13:55.576209+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -9,11 +9,18 @@
             "score": 5
         },
         {
-            "symbol": "MEDS",
-            "headline": "Top Midday Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-170508454.html",
+            "symbol": "ABCL",
+            "headline": "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/abcl-stock-surges-121-3-141700425.html",
             "score": 3
+        },
+        {
+            "symbol": "NU",
+            "headline": "Market Chatter: Nu in Talks to Acquire Monzo in Multi-Billion Pound Deal",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nu-talks-acquire-185808856.html",
+            "score": 2
         },
         {
             "symbol": "KOD",
@@ -24,30 +31,23 @@
         },
         {
             "symbol": "MDB",
-            "headline": "Microsoft, Oracle Stocks Tumble After Meta Unveils New AI Enterprise Push",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-oracle-stocks-tumble-meta-185142672.html",
+            "headline": "Stocks to Watch: Intel, MongoDB, Nvidia, Meta",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/d7338c27-4413-3103-8f98-3dfc677ddccc/stocks-to-watch%3A-intel%2C.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "Stock market today: US-Iran tensions, rising Treasury yields put pressure on Dow, S&P 500, and Nasdaq",
+            "headline": "Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history",
             "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
-            "score": 0
-        },
-        {
-            "symbol": "NU",
-            "headline": "Monzo in talks over potential sale to Brazil\u2019s Nubank \u2013 report",
-            "publisher": "Retail Banker International",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/monzo-talks-over-potential-sale-115105179.html",
+            "link": "https://finance.yahoo.com/technology/article/nvidia-announces-jaw-dropping-150-billion-stock-buyback-largest-single-authorization-in-history-121342628.html",
             "score": 0
         },
         {
             "symbol": "BA",
-            "headline": "What Would A Stalled MAX Line Do To Boeing Stock?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stalled-max-line-boeing-stock-184227567.html",
+            "headline": "Boeing (BA) Finds a 737 MAX Software Glitch Affecting Automated Navigation",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-finds-737-max-185744441.html",
             "score": 0
         },
         {
@@ -58,17 +58,10 @@
             "score": 0
         },
         {
-            "symbol": "SPCX",
-            "headline": "Google, Meta, OpenAI, Anthropic Set to Testify at NYC Council AI Hearing",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/google-meta-openai-anthropic-set-183526057.html",
-            "score": 0
-        },
-        {
-            "symbol": "GYGY",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+            "symbol": "GGG",
+            "headline": "J.P. Morgan Taps Thunes to Streamline Global Payments: NYSE Content Update",
+            "publisher": "CNW Group",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-taps-thunes-125500061.html",
             "score": 0
         },
         {
@@ -79,10 +72,52 @@
             "score": 0
         },
         {
+            "symbol": "SPCX",
+            "headline": "Google, Meta, OpenAI, Anthropic Set to Testify at NYC Council AI Hearing",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/google-meta-openai-anthropic-set-183526057.html",
+            "score": 0
+        },
+        {
+            "symbol": "TEST",
+            "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500184.html",
+            "score": 0
+        },
+        {
+            "symbol": "GYGY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+            "score": 0
+        },
+        {
             "symbol": "ARAY",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+            "score": 0
+        },
+        {
+            "symbol": "GC=F",
+            "headline": "BC-Gold-Silver",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-silver-190014626.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSB",
+            "headline": "Mesabi: Fiscal Q2 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mesabi-fiscal-q2-earnings-snapshot-204219537.html",
+            "score": 0
+        },
+        {
+            "symbol": "VSXY",
+            "headline": "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secrets-fashion-show-drive-151000325.html",
             "score": 0
         },
         {
@@ -93,45 +128,10 @@
             "score": 0
         },
         {
-            "symbol": "IBRX",
-            "headline": "ImmunityBio (IBRX) Meeting With Turkish President Fuels Expansion Hopes, Shares Climb 10%",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-ibrx-meeting-turkish-president-002653592.html",
-            "score": 0
-        },
-        {
-            "symbol": "CMG",
-            "headline": "Chipotle vs. CAVA: Which Fast-Casual Stock Is the Better Buy Now?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-vs-cava-fast-casual-145000339.html",
-            "score": 0
-        },
-        {
-            "symbol": "GC=F",
-            "headline": "US Dollar Builds on Last Week's Gains Against The Loonie as Treasury Yields Continue to Rise",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-builds-last-week-174949708.html",
-            "score": 0
-        },
-        {
             "symbol": "CLRO",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
-            "score": 0
-        },
-        {
-            "symbol": "AUR",
-            "headline": "Aurora Innovation\u2019s Road to Profitability Runs Through Fleet Expansion",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/articles/aurora-innovation-road-profitability-runs-203723629.html",
-            "score": 0
-        },
-        {
-            "symbol": "VSXY",
-            "headline": "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secrets-fashion-show-drive-151000325.html",
             "score": 0
         }
     ]
