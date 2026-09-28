@@ -1,12 +1,124 @@
 {
-    "timestamp": "2026-09-28T12:28:51.268551+00:00",
+    "timestamp": "2026-09-28T12:50:26.189185+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "test",
+                "symbol": "KOD",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+                "score": 3
+            },
+            {
+                "symbol": "AMPX",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+                "score": 3
+            },
+            {
+                "symbol": "GLD",
+                "headline": "Bitcoin Surges 36% Since August 18 While Gold and Stocks Remain Stagnant: A Shift in Correlation?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-36-since-august-082538829.html",
+                "score": 3
+            },
+            {
+                "symbol": "SHMD",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+                "score": 3
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "Stock Market Today: Dow Falls, Trump Rejects Iran Deal; Oil, Yields Jump As Nvidia Rises On Buyback (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow.html",
+                "score": 2
+            },
+            {
+                "symbol": "SNOW",
+                "headline": "Snowflake shares slide as $3.5B debt offering sparks dilution jitters",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-shares-slide-3-5b-122443248.html",
+                "score": 2
+            },
+            {
+                "symbol": "GYGY",
+                "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trim-add-blackberry-position-now-172819341.html",
+                "score": 0
+            },
+            {
+                "symbol": "CLRO",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
+                "score": 0
+            },
+            {
+                "symbol": "ARAY",
+                "headline": "Accuray partners with Samsung NeuroLogica on CyberKnife imaging",
+                "publisher": "Medical Device Network",
+                "link": "https://finance.yahoo.com/healthcare/articles/accuray-partners-samsung-neurologica-cyberknife-081013204.html",
+                "score": 0
+            },
+            {
+                "symbol": "GC=F",
+                "headline": "A2Gold Begins RC Drilling at Target Pente at Eastside Gold-Silver Project",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/a2gold-begins-rc-drilling-target-123317641.html",
+                "score": 0
+            },
+            {
+                "symbol": "MEDS",
+                "headline": "DataMeds AI and Tollo Health Announce Launch of 'Health Lives Here' Mobile Application",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/datameds-ai-tollo-health-announce-100000976.html",
+                "score": 0
+            },
+            {
+                "symbol": "TEST",
                 "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500184.html",
+                "score": 0
+            },
+            {
+                "symbol": "VWAV",
+                "headline": "VisionWave Highlights STRATUM Autonomous Ground Systems Platform for Multi-Mission Defense Operations",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/visionwave-highlights-stratum-autonomous-ground-110000905.html",
+                "score": 0
+            },
+            {
+                "symbol": "MIMI",
+                "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
+                "score": 0
+            },
+            {
+                "symbol": "FFAI",
+                "headline": "Faraday Future Announces This Week\u2019s Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI \"Built in USA\" Upstream & Downstream Business Partner Conference Part Two to Be Held September 29",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-announces-week-investor-032700471.html",
+                "score": 0
+            },
+            {
+                "symbol": "NIO",
+                "headline": "NIO And 2 Other Penny Stocks To Watch",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nio-2-other-penny-stocks-120911292.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACET",
+                "headline": "Adicet Bio Reports Phase 1 Prula-cel Data in Lupus Patients",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/adicet-bio-reports-phase-1-121301005.html",
                 "score": 0
             }
         ]
