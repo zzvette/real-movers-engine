@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T03:12:34.561644+00:00",
+    "timestamp": "2026-09-28T03:44:35.175549+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,6 +8,13 @@
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-jumps-overnight-2-011916962.html",
                 "score": 5
+            },
+            {
+                "symbol": "CL=F",
+                "headline": "Energy Security Stocks With Long Term Cash Flow Support",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/energy/articles/energy-security-stocks-long-term-031116370.html",
+                "score": 2
             },
             {
                 "symbol": "MU",
@@ -25,9 +32,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "X-Energy vs. GE Vernova: Is the New IPO the Better Buy?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/x-energy-vs-ge-vernova-025000431.html",
+                "headline": "NVDA Stock In Focus: China Reportedly Weighs Letting ByteDance, Alibaba Buy Some Nvidia AI Chips",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-focus-china-reportedly-031358425.html",
                 "score": 0
             },
             {
@@ -67,16 +74,16 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html",
+                "headline": "Billionaire investor makes stunning $15 trillion Musk call",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-makes-stunning-15-031700980.html",
                 "score": 0
             },
             {
                 "symbol": "TSLA",
-                "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html",
+                "headline": "Billionaire investor makes stunning $15 trillion Musk call",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-makes-stunning-15-031700980.html",
                 "score": 0
             },
             {
