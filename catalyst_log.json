@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T20:44:44.776982+00:00",
+    "timestamp": "2026-09-28T20:53:46.443703+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -23,6 +23,13 @@
             "score": 2
         },
         {
+            "symbol": "QNC",
+            "headline": "Quantum eMotion To Acquire Plurilock in CA$33.8 Million Deal",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-emotion-acquire-plurilock-ca-204627846.html",
+            "score": 2
+        },
+        {
             "symbol": "KOD",
             "headline": "Why This Regeneron Eye Rival Just Catapulted More Than 170%",
             "publisher": "Investor's Business Daily",
@@ -31,9 +38,9 @@
         },
         {
             "symbol": "MDB",
-            "headline": "Stock Market Today: Dow Ends Lower But Nvidia Pops On This; Leisure Play Tests Entry, MongoDB Dives",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-ends.html",
+            "headline": "MongoDB Stock Crashes Nearly 20% After CEO Desai Leaves to Meta",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-stock-crashes-nearly-20-204547121.html",
             "score": 0
         },
         {
@@ -45,9 +52,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "SK Hynix Stock Falls 5.1% as Rubin Memory Moves Into View",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-falls-5-204223692.html",
+            "headline": "AMD\u2019s $8.2B bet on World Labs is a direct shot at Nvidia\u2019s AI dominance",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/amd-8-2b-bet-world-204722980.html",
             "score": 0
         },
         {
@@ -111,13 +118,6 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
-            "score": 0
-        },
-        {
-            "symbol": "QNC",
-            "headline": "Canadian Investment Regulatory Organization Trade Resumption - QNC",
-            "publisher": "CNW Group",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trade-202500964.html",
             "score": 0
         },
         {
