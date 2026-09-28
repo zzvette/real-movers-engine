@@ -1,7 +1,21 @@
 {
-    "timestamp": "2026-09-28T17:00:44.474267+00:00",
+    "timestamp": "2026-09-28T17:11:59.914612+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "KOD",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-170508454.html",
+                "score": 3
+            },
+            {
+                "symbol": "MEDS",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-170508454.html",
+                "score": 3
+            },
             {
                 "symbol": "AMC",
                 "headline": "AMC Entertainment (AMC) Plans $3.97 Billion Refinancing. Can It Buy More Time?",
@@ -11,23 +25,16 @@
             },
             {
                 "symbol": "MDB",
-                "headline": "Why MongoDB Stock Is Sinking 18% on a CEO Departure",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/10ce7948-c53f-3574-ac9f-0936808ef39b/why-mongodb-stock-is-sinking.html",
-                "score": 0
-            },
-            {
-                "symbol": "KOD",
-                "headline": "Inside the Eye-Drug Breakthrough That Sent Kodiak Sciences Up 172%",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/160c2163-1a7b-34c8-a6d3-40211c7b53cb/inside-the-eye-drug.html",
+                "headline": "Stock Market Midday, Sept. 28: Stocks Slide as Yields Rise, MongoDB Tumbles",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-28-165501477.html",
                 "score": 0
             },
             {
                 "symbol": "NVDA",
-                "headline": "Dell Stock Drops Nearly 2.9% as OpenShell Reaches the Entire AI Factory",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/dell-stock-drops-nearly-2-165147999.html",
+                "headline": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html",
                 "score": 0
             },
             {
@@ -59,21 +66,7 @@
                 "score": 0
             },
             {
-                "symbol": "MEDS",
-                "headline": "DataMeds AI Launches Health Lives Here App Focused on GLP-1 Telehealth and Pharmacy Services",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/healthcare/articles/datameds-ai-launches-health-lives-150201329.html",
-                "score": 0
-            },
-            {
                 "symbol": "GYGY",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARAY",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
@@ -88,9 +81,9 @@
             },
             {
                 "symbol": "GC=F",
-                "headline": "Why SSR Mining Stock Dropped Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-stock-dropped-164807103.html",
+                "headline": "First Majestic Silver Eyes Growth, Jerritt Canyon Restart as Silver Deficit Deepens",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/first-majestic-silver-eyes-growth-170230745.html",
                 "score": 0
             },
             {
