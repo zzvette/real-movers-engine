@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T20:29:57.345041+00:00",
+    "timestamp": "2026-09-28T20:42:22.751445+00:00",
     "signals": {
         "catalysts": [
             {
@@ -32,23 +32,23 @@
             },
             {
                 "symbol": "MDB",
-                "headline": "MongoDB stock tanks after Meta poaches CEO",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/mongodb-stock-tanks-after-meta-poaches-ceo-132048225.html",
+                "headline": "Stock Market Today: Dow Ends Lower But Nvidia Pops On This; Leisure Play Tests Entry, MongoDB Dives",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-ends.html",
                 "score": 0
             },
             {
                 "symbol": "BA",
-                "headline": "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+                "headline": "Stock Market Today: Dow Ends Lower But Nvidia Pops On This; Leisure Play Tests Entry, MongoDB Dives",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html",
+                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-ends.html",
                 "score": 0
             },
             {
                 "symbol": "NVDA",
-                "headline": "Trump-Iran Tensions Trigger Fresh Wall Street Selloff",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/articles/trump-iran-tensions-trigger-fresh-202442782.html",
+                "headline": "Bitcoin ETFs Are Seeing Their Biggest Inflows Since October 2025. Is Bitcoin Finally Back?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-seeing-biggest-inflows-203500505.html",
                 "score": 0
             },
             {
@@ -74,9 +74,9 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "SpaceX Starship test reaches Earth orbit, 26 Starlink satellites deployed",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/spacex-starship-test-reaches-earth-orbit-26-starlink-satellites-deployed-141955092.html",
+                "headline": "Stock Market Today: Dow Ends Lower But Nvidia Pops On This; Leisure Play Tests Entry, MongoDB Dives",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-ends.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "QNC",
-                "headline": "Quantum eMotion to Acquire Plurilock, Expanding Commercial Quantum and AI Cybersecurity Platform",
-                "publisher": "TMX Newsfile",
-                "link": "https://finance.yahoo.com/technology/ai/articles/quantum-emotion-acquire-plurilock-expanding-201000859.html",
+                "headline": "Canadian Investment Regulatory Organization Trade Resumption - QNC",
+                "publisher": "CNW Group",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trade-202500964.html",
                 "score": 0
             },
             {
