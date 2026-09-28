@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T22:48:56.940672+00:00",
+    "timestamp": "2026-09-28T22:59:41.962160+00:00",
     "signals": {
         "catalysts": [
             {
@@ -60,16 +60,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Nvidia\u2019s Latest $150 Billion Move Delivers a Clear Message to Investors About What\u2019s Next for the Stock.",
+                "headline": "1 Monster AI Stock Greg Abel and Warren Buffett Are Extremely Bullish On",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-latest-150-billion-move-223001513.html",
-                "score": 0
-            },
-            {
-                "symbol": "NU",
-                "headline": "Nu Holdings Ltd. (NU) Declines More Than Market: Some Information for Investors",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-declines-205003063.html",
+                "link": "https://finance.yahoo.com/technology/ai/articles/1-monster-ai-stock-greg-225000647.html",
                 "score": 0
             },
             {
@@ -81,16 +74,16 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "SpaceX's Starship Just Reached Orbit For The First Time. Is it Lift-Off Time For The Stock?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-starship-just-reached-orbit-220201134.html",
+                "headline": "Deepwater\u2019s Munster Waves Off SPCX Dip: Starship Orbit Is \u2018Double And Quadruple\u2019 News",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/deepwater-munster-waves-off-spcx-224801189.html",
                 "score": 0
             },
             {
                 "symbol": "GC=F",
-                "headline": "Sierra Madre Announces Guitarra Processing Plant Achieves Throughputs of up to 720 Tonnes per Day as Development at Nazareno and Guitarra Mines Accelerates",
+                "headline": "Stockworks Gold Commences Follow up of High-Grade Gold Stream Sediment Anomalies at the Pirenopolis Project, Brazil",
                 "publisher": "TMX Newsfile",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/sierra-madre-announces-guitarra-processing-210000876.html",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/stockworks-gold-commences-high-grade-224900630.html",
                 "score": 0
             },
             {
