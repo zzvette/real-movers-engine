@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T16:52:37.697534+00:00",
+    "timestamp": "2026-09-28T17:00:44.474267+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -24,9 +24,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Palo Alto Stock Gains 1.5% as Agent Security Adds Continuous Offense",
+            "headline": "Dell Stock Drops Nearly 2.9% as OpenShell Reaches the Entire AI Factory",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-stock-gains-1-165055884.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/dell-stock-drops-nearly-2-165147999.html",
             "score": 0
         },
         {
@@ -87,9 +87,9 @@
         },
         {
             "symbol": "GC=F",
-            "headline": "Stocks fall, squeezed by rising\u00a0oil prices and Treasury yields\u00a0",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/articles/stocks-cautious-asia-oil-gains-005009179.html",
+            "headline": "Why SSR Mining Stock Dropped Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-stock-dropped-164807103.html",
             "score": 0
         },
         {
