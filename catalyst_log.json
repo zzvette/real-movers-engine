@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-28T12:50:26.189185+00:00",
+    "timestamp": "2026-09-28T13:03:28.743501+00:00",
     "catalysts": [
         {
-            "symbol": "KOD",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
-            "score": 3
-        },
-        {
             "symbol": "AMPX",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+            "headline": "Amprius Technologies stock jumps on $75M defense grant",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-stock-jumps-75m-125049474.html",
             "score": 3
         },
         {
@@ -31,23 +24,23 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Stock Market Today: Dow Falls, Trump Rejects Iran Deal; Oil, Yields Jump As Nvidia Rises On Buyback (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow.html",
-            "score": 2
-        },
-        {
-            "symbol": "SNOW",
-            "headline": "Snowflake shares slide as $3.5B debt offering sparks dilution jitters",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-shares-slide-3-5b-122443248.html",
-            "score": 2
+            "headline": "Stock market today: Dow, S&P 500 and Nasdaq slip as AI safety concerns and US-Iran tensions resurface",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
+            "score": 0
         },
         {
             "symbol": "GYGY",
             "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
             "publisher": "Trefis",
             "link": "https://finance.yahoo.com/markets/stocks/articles/trim-add-blackberry-position-now-172819341.html",
+            "score": 0
+        },
+        {
+            "symbol": "KOD",
+            "headline": "Sector Update: Healthcare",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-130008930.html",
             "score": 0
         },
         {
@@ -66,9 +59,9 @@
         },
         {
             "symbol": "GC=F",
-            "headline": "A2Gold Begins RC Drilling at Target Pente at Eastside Gold-Silver Project",
+            "headline": "Talisker Resources Reports High-Grade Gold Discovery at Mustang Mine in British Columbia",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/a2gold-begins-rc-drilling-target-123317641.html",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/talisker-resources-reports-high-grade-124120247.html",
             "score": 0
         },
         {
@@ -83,6 +76,13 @@
             "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500184.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNOW",
+            "headline": "Sector Update: Tech",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125604964.html",
             "score": 0
         },
         {
