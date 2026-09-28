@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T13:23:11.103353+00:00",
+    "timestamp": "2026-09-28T13:40:17.891492+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,16 +18,16 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Prediction: This Lesser-Known ETF Will Be the Best Bear Market Buy",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-lesser-known-etf-best-132000116.html",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as US-Iran tensions resurface, Treasury yields jump",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
                 "score": 0
             },
             {
                 "symbol": "KOD",
-                "headline": "Why Regeneron Rival Kodiak Sciences Just Skyrocketed 90%-Plus",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/4d8802c9-5295-30c2-8c4c-ce1b1b0fc922/why-regeneron-rival-kodiak.html",
+                "headline": "Sector Update: Healthcare Stocks Lean Lower Premarket Monday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-lean-lower-131959488.html",
                 "score": 0
             },
             {
