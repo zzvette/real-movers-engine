@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T11:02:49.915686+00:00",
+    "timestamp": "2026-09-28T11:21:06.829899+00:00",
     "catalysts": [
         {
             "symbol": "GLD",
@@ -9,13 +9,6 @@
             "score": 3
         },
         {
-            "symbol": "GC=F",
-            "headline": "Hudbay Minerals Releases Updated Mine Plan for Snow Lake Operations",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/hudbay-minerals-releases-updated-mine-105307931.html",
-            "score": 0
-        },
-        {
             "symbol": "GYGY",
             "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
             "publisher": "Trefis",
@@ -23,17 +16,10 @@
             "score": 0
         },
         {
-            "symbol": "CLRO",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
-            "score": 0
-        },
-        {
-            "symbol": "SI=F",
-            "headline": "Blackrock Silver Acquires Tonopah East Project Increasing Landholdings by 45% in Tonopah Mining District",
-            "publisher": "TMX Newsfile",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/blackrock-silver-acquires-tonopah-east-100000963.html",
+            "symbol": "GC=F",
+            "headline": "Gold prices today, Monday, September 28, 2026: Gold prices slump as Iran tensions and oil prices rise",
+            "publisher": "Yahoo Personal Finance",
+            "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-28-2026-gold-prices-slump-as-iran-tensions-and-oil-prices-rise-110730952.html",
             "score": 0
         },
         {
@@ -41,34 +27,6 @@
             "headline": "Accuray partners with Samsung NeuroLogica on CyberKnife imaging",
             "publisher": "Medical Device Network",
             "link": "https://finance.yahoo.com/healthcare/articles/accuray-partners-samsung-neurologica-cyberknife-081013204.html",
-            "score": 0
-        },
-        {
-            "symbol": "NQ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
-            "score": 0
-        },
-        {
-            "symbol": "NIO",
-            "headline": "NIO agrees to sell 30% of battery swapping unit to Geely",
-            "publisher": "Just Auto",
-            "link": "https://finance.yahoo.com/technology/articles/nio-agrees-sell-30-battery-104743892.html",
-            "score": 0
-        },
-        {
-            "symbol": "FFAI",
-            "headline": "Faraday Future Announces This Week\u2019s Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI \"Built in USA\" Upstream & Downstream Business Partner Conference Part Two to Be Held September 29",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-announces-week-investor-032700471.html",
-            "score": 0
-        },
-        {
-            "symbol": "MIMI",
-            "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
             "score": 0
         },
         {
@@ -80,9 +38,58 @@
         },
         {
             "symbol": "KOD",
-            "headline": "Zenkuda and tabirafusp-ted Meet Primary Endpoints in Pivotal DAYBREAK Trial in wAMD, with Zenkuda Demonstrating a Potential New Standard-of-Care Profile with Strong Immediacy and Sustained Clinical Effect with Majority of Patients on 24-week Dosing Interval Using Strict Treat-to-Dryness Real World Retreatment Criteria.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/zenkuda-tabirafusp-ted-meet-primary-103000745.html",
+            "headline": "Kodiak's Eye Drug Candidates Meet Primary Endpoints in Late-Stage Trial, Shares Rise",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/kodiak-apos-eye-drug-candidates-110557695.html",
+            "score": 0
+        },
+        {
+            "symbol": "CL=F",
+            "headline": "Silver prices today, Monday, September 28, 2026: Silver prices slump as oil prices and higher-rate expectations rise",
+            "publisher": "Yahoo Personal Finance",
+            "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-28-2026-silver-prices-slump-as-oil-prices-and-higher-rate-expectations-rise-111836731.html",
+            "score": 0
+        },
+        {
+            "symbol": "NIO",
+            "headline": "NIO agrees to sell 30% of battery swapping unit to Geely",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/technology/articles/nio-agrees-sell-30-battery-104743892.html",
+            "score": 0
+        },
+        {
+            "symbol": "MEDS",
+            "headline": "DataMeds AI and Tollo Health Announce Launch of 'Health Lives Here' Mobile Application",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/datameds-ai-tollo-health-announce-100000976.html",
+            "score": 0
+        },
+        {
+            "symbol": "FFAI",
+            "headline": "Faraday Future Announces This Week\u2019s Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI \"Built in USA\" Upstream & Downstream Business Partner Conference Part Two to Be Held September 29",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-announces-week-investor-032700471.html",
+            "score": 0
+        },
+        {
+            "symbol": "TTD",
+            "headline": "Reddit vs. The Trade Desk: Here's the Better Media Stock to Buy in 2026",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/media-advertising/articles/reddit-vs-trade-desk-heres-220535585.html",
+            "score": 0
+        },
+        {
+            "symbol": "MIMI",
+            "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
+            "score": 0
+        },
+        {
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
             "score": 0
         },
         {
@@ -93,17 +100,24 @@
             "score": 0
         },
         {
-            "symbol": "^NSEI",
-            "headline": "Indian AI Stocks To Watch In September 2026",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/indian-ai-stocks-watch-september-090902535.html",
+            "symbol": "MX",
+            "headline": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/technology/articles/magnachip-shares-rise-14-securing-124011700.html",
             "score": 0
         },
         {
-            "symbol": "CL=F",
-            "headline": "Rising Oil Prices, Bond Yields, AI Uncertainty Roil Asian Stock Markets",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/rising-oil-prices-bond-yields-104440769.html",
+            "symbol": "SKHY",
+            "headline": "SKHY Stock Dips Overnight: SK Hynix\u2019s US Subsidiary Solidigm Reportedly Plans IPO",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-dips-overnight-sk-052655680.html",
+            "score": 0
+        },
+        {
+            "symbol": "^VIX",
+            "headline": "FedWatch's Ben Emons Sees 10-Year Treasury Yield Hitting 6% By January 2027 \u2014 Warns It Could Put Housing \u2018In A Crunch\u2019 And Slow The Economy",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/economy/policy/articles/fedwatchs-ben-emons-sees-10-144952725.html",
             "score": 0
         }
     ]
