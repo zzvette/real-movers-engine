@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T20:27:40.160384+00:00",
+    "timestamp": "2026-09-28T20:29:57.345041+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -31,9 +31,9 @@
         },
         {
             "symbol": "MDB",
-            "headline": "Why MongoDB Sank Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-mongodb-sank-today-202018704.html",
+            "headline": "MongoDB stock tanks after Meta poaches CEO",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/mongodb-stock-tanks-after-meta-poaches-ceo-132048225.html",
             "score": 0
         },
         {
