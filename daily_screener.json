@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T20:18:01.598512+00:00",
+    "timestamp": "2026-09-28T20:27:40.160384+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,16 +25,16 @@
             },
             {
                 "symbol": "KOD",
-                "headline": "Sector Update: Healthcare Stocks Rise Late Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-195243721.html",
+                "headline": "Why This Regeneron Eye Rival Just Catapulted More Than 170%",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/4d8802c9-5295-30c2-8c4c-ce1b1b0fc922/why-this-regeneron-eye-rival.html",
                 "score": 0
             },
             {
                 "symbol": "MDB",
-                "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195704336.html",
+                "headline": "Why MongoDB Sank Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-mongodb-sank-today-202018704.html",
                 "score": 0
             },
             {
@@ -46,9 +46,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/9d354324-7049-3304-a302-132d423b0a1b/nvidia%2C-apple-partner-tsmc.html",
+                "headline": "Trump-Iran Tensions Trigger Fresh Wall Street Selloff",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/articles/trump-iran-tensions-trigger-fresh-202442782.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "QNC",
-                "headline": "Canadian Investment Regulatory Organization Trading Halt - QNC",
-                "publisher": "CNW Group",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-133600314.html",
+                "headline": "Quantum eMotion to Acquire Plurilock, Expanding Commercial Quantum and AI Cybersecurity Platform",
+                "publisher": "TMX Newsfile",
+                "link": "https://finance.yahoo.com/technology/ai/articles/quantum-emotion-acquire-plurilock-expanding-201000859.html",
                 "score": 0
             },
             {
