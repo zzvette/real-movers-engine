@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T21:00:32.128610+00:00",
+    "timestamp": "2026-09-28T21:01:43.958555+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -52,9 +52,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html",
+            "headline": "Why BlackLine Stock Was Sliding Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-blackline-stock-sliding-today-205216771.html",
             "score": 0
         },
         {
@@ -132,6 +132,13 @@
             "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Growth",
             "publisher": "Simply Wall St.",
             "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-150905192.html",
+            "score": 0
+        },
+        {
+            "symbol": "GFI",
+            "headline": "Northern Star turns down Gold Fields\u2019 $27.2bn takeover proposal",
+            "publisher": "Mining Technology",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/northern-star-turns-down-gold-135447704.html",
             "score": 0
         }
     ]
