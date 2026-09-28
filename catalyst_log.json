@@ -1,11 +1,137 @@
 {
-    "timestamp": "2026-09-28T18:04:01.564566+00:00",
+    "timestamp": "2026-09-28T18:21:01.549288+00:00",
     "catalysts": [
         {
-            "symbol": "test",
-            "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500184.html",
+            "symbol": "AMC",
+            "headline": "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-13-refinancing-rally-174318002.html",
+            "score": 5
+        },
+        {
+            "symbol": "MEDS",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-170508454.html",
+            "score": 3
+        },
+        {
+            "symbol": "KOD",
+            "headline": "Sector Update: Healthcare Stocks Advance Monday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-monday-175233345.html",
+            "score": 0
+        },
+        {
+            "symbol": "MDB",
+            "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-monday-175300431.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVDA",
+            "headline": "The Bond Market Is Repeating a Pattern Last Observed Ahead of the Great Recession. Here's What History Says Comes Next.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bond-market-repeating-pattern-last-180500425.html",
+            "score": 0
+        },
+        {
+            "symbol": "NU",
+            "headline": "Monzo in talks over potential sale to Brazil\u2019s Nubank \u2013 report",
+            "publisher": "Retail Banker International",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/monzo-talks-over-potential-sale-115105179.html",
+            "score": 0
+        },
+        {
+            "symbol": "BA",
+            "headline": "Stock Market Today: Dow Skids, Gold Stocks Melt; Nvidia Rises On This, Baseball Play Tests Entry (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOAR",
+            "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
+            "score": 0
+        },
+        {
+            "symbol": "SPCX",
+            "headline": "Tesla Preps Roadster Unveil Ahead Of Q3 Delivery Release; Stock Drops",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/b16a9006-9b4e-3ac4-ba15-a43d8b3fc0fe/tesla-preps-roadster-unveil.html",
+            "score": 0
+        },
+        {
+            "symbol": "GYGY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+            "score": 0
+        },
+        {
+            "symbol": "CLF",
+            "headline": "Market Chatter: Cleveland-Cliffs' Canadian Unit Plans to Idle Some Steel Operations Over Tariffs",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-cleveland-cliffs-apos-180853192.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARAY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+            "score": 0
+        },
+        {
+            "symbol": "CVNA",
+            "headline": "Is Carvana Stock Underperforming the S&P 500?",
+            "publisher": "Barchart",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/carvana-stock-underperforming-p-500-132609464.html",
+            "score": 0
+        },
+        {
+            "symbol": "IBRX",
+            "headline": "ImmunityBio (IBRX) Meeting With Turkish President Fuels Expansion Hopes, Shares Climb 10%",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-ibrx-meeting-turkish-president-002653592.html",
+            "score": 0
+        },
+        {
+            "symbol": "CMG",
+            "headline": "Chipotle vs. CAVA: Which Fast-Casual Stock Is the Better Buy Now?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-vs-cava-fast-casual-145000339.html",
+            "score": 0
+        },
+        {
+            "symbol": "GC=F",
+            "headline": "US Dollar Builds on Last Week's Gains Against The Loonie as Treasury Yields Continue to Rise",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-builds-last-week-174949708.html",
+            "score": 0
+        },
+        {
+            "symbol": "CLRO",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
+            "score": 0
+        },
+        {
+            "symbol": "AUR",
+            "headline": "Aurora Innovation\u2019s Road to Profitability Runs Through Fleet Expansion",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/articles/aurora-innovation-road-profitability-runs-203723629.html",
+            "score": 0
+        },
+        {
+            "symbol": "VSXY",
+            "headline": "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secrets-fashion-show-drive-151000325.html",
             "score": 0
         }
     ]
