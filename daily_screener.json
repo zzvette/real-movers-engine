@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T23:49:19.311036+00:00",
+    "timestamp": "2026-09-28T23:59:40.104573+00:00",
     "signals": {
         "catalysts": [
             {
@@ -88,9 +88,9 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html",
+                "headline": "Factbox-From SpaceX to Saudi Aramco: World's biggest IPOs as Anthropic's blockbuster listing looms",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/factbox-elon-musks-spacex-kicks-194832790.html",
                 "score": 0
             },
             {
@@ -126,13 +126,6 @@
                 "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARAY",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
                 "score": 0
             }
         ]
