@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T15:03:44.421810+00:00",
+    "timestamp": "2026-09-28T15:19:26.999957+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,24 +17,24 @@
                 "score": 3
             },
             {
-                "symbol": "NAMI",
-                "headline": "Pearson, Namibox Sign Agreement to Collaborate on AI Smart Learning",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/pearson-namibox-sign-agreement-collaborate-135521712.html",
+                "symbol": "AMC",
+                "headline": "AMC Entertainment (AMC) Plans $3.97 Billion Refinancing. Can It Buy More Time?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-plans-3-063936886.html",
                 "score": 2
             },
             {
                 "symbol": "NVDA",
-                "headline": "IREN Just Got a Reality Check From Wall Street",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/iren-just-got-reality-check-145246343.html",
+                "headline": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html",
                 "score": 0
             },
             {
                 "symbol": "MDB",
-                "headline": "Meta enterprise AI platform: MongoDB CEO CJ Desai departure",
-                "publisher": "Quartz",
-                "link": "https://finance.yahoo.com/technology/ai/articles/meta-enterprise-ai-platform-mongodb-144812312.html",
+                "headline": "MongoDB Stock Falls 16% as CEO Leaves for Meta",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-stock-falls-16-ceo-150540820.html",
                 "score": 0
             },
             {
@@ -45,10 +45,17 @@
                 "score": 0
             },
             {
-                "symbol": "SPCX",
-                "headline": "SpaceX Starship Reaches Orbit for First Time Despite Engine Failure",
-                "publisher": "Benzinga Prediction Markets",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starship-reaches-orbit-first-144810897.html",
+                "symbol": "BA",
+                "headline": "Boeing Stock Falls On New 737 Issue, This One Affects Landings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a816b4dc-90a5-3456-9e9d-48c713638ea7/boeing-stock-falls-on-new-737.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOAR",
+                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
                 "score": 0
             },
             {
@@ -66,24 +73,10 @@
                 "score": 0
             },
             {
-                "symbol": "AMPX",
-                "headline": "Amprius Technologies Shares Rise 11% After Securing Up to $75 Million Defense Grant",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-shares-rise-11-135945470.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOAR",
-                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
+                "symbol": "KNRX",
+                "headline": "KNOREX Expands AI-Driven Advertising Suite with the Launch of KAI Assist and XPO MCP Server Integration",
                 "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARAY",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+                "link": "https://finance.yahoo.com/media-advertising/articles/knorex-expands-ai-driven-advertising-131500888.html",
                 "score": 0
             },
             {
@@ -94,6 +87,34 @@
                 "score": 0
             },
             {
+                "symbol": "AMPX",
+                "headline": "Amprius Technologies Shares Rise 11% After Securing Up to $75 Million Defense Grant",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-shares-rise-11-135945470.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "SpaceX Starship Reaches Orbit for First Time Despite Engine Failure",
+                "publisher": "Benzinga Prediction Markets",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starship-reaches-orbit-first-144810897.html",
+                "score": 0
+            },
+            {
+                "symbol": "ARAY",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+                "score": 0
+            },
+            {
+                "symbol": "OCUL",
+                "headline": "Ocular Therapeutix and ANI Pharmaceuticals Stocks Trade Down, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/healthcare/articles/ocular-therapeutix-ani-pharmaceuticals-stocks-213805476.html",
+                "score": 0
+            },
+            {
                 "symbol": "MEDS",
                 "headline": "DataMeds AI stock rises on health app launch",
                 "publisher": "Investing.com",
@@ -101,45 +122,24 @@
                 "score": 0
             },
             {
-                "symbol": "BA",
-                "headline": "Boeing Stock Falls On New 737 Issue, This One Affects Landings",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a816b4dc-90a5-3456-9e9d-48c713638ea7/boeing-stock-falls-on-new-737.html",
-                "score": 0
-            },
-            {
-                "symbol": "MIMI",
-                "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
-                "score": 0
-            },
-            {
-                "symbol": "CRM",
-                "headline": "Meta and ServiceNow Drop 4% as Enterprise Platform Launch Reprices Software; MongoDB Tumbles 19%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-servicenow-drop-4-enterprise-144338703.html",
-                "score": 0
-            },
-            {
-                "symbol": "LABT",
-                "headline": "Lakewood-Amedex Biotherapeutics Announces Positive Data Against Recent Clinical Isolates from Infected Diabetic Foot Ulcers",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/lakewood-amedex-biotherapeutics-announces-positive-120200296.html",
-                "score": 0
-            },
-            {
-                "symbol": "NOW",
-                "headline": "Meta and ServiceNow Drop 4% as Enterprise Platform Launch Reprices Software; MongoDB Tumbles 19%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-servicenow-drop-4-enterprise-144338703.html",
-                "score": 0
-            },
-            {
                 "symbol": "GFI",
                 "headline": "Northern Star turns down Gold Fields\u2019 $27.2bn takeover proposal",
                 "publisher": "Mining Technology",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/northern-star-turns-down-gold-135447704.html",
+                "score": 0
+            },
+            {
+                "symbol": "RBLX",
+                "headline": "E.l.f. jams to second music album under entertainment marketing arm",
+                "publisher": "Marketing Dive",
+                "link": "https://finance.yahoo.com/media-advertising/articles/e-l-f-jams-second-135500544.html",
+                "score": 0
+            },
+            {
+                "symbol": "VSXY",
+                "headline": "unspun Strengthens Leadership Team with New Chief Operating Officer and Chief Commercial Officer",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/technology/articles/unspun-strengthens-leadership-team-chief-130000125.html",
                 "score": 0
             }
         ]
