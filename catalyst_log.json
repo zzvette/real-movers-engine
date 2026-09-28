@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T19:26:33.136899+00:00",
+    "timestamp": "2026-09-28T19:37:45.798061+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -38,9 +38,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html",
+            "headline": "Nvidia Drops Massive Number on Anthropic AI Spending",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-drops-massive-number-anthropic-193644610.html",
             "score": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "symbol": "SPCX",
-            "headline": "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html",
+            "headline": "A Historic Day For SpaceX Stock",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/historic-day-spacex-stock-193134774.html",
             "score": 0
         },
         {
@@ -122,9 +122,9 @@
         },
         {
             "symbol": "CVNA",
-            "headline": "Is Carvana Stock Underperforming the S&P 500?",
-            "publisher": "Barchart",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/carvana-stock-underperforming-p-500-132609464.html",
+            "headline": "CarMax Likely Still Faces Tough Competition, Truist Says",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/carmax-likely-still-faces-tough-191135070.html",
             "score": 0
         },
         {
