@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T09:32:12.468981+00:00",
+    "timestamp": "2026-09-28T09:49:45.674975+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,9 +25,9 @@
             },
             {
                 "symbol": "GC=F",
-                "headline": "Montage Gold delivers first gold pour at Kon\u00e9 mine",
-                "publisher": "Mining Technology",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/montage-gold-delivers-first-gold-092113974.html",
+                "headline": "Gold Futures Down 3% on Fed Rate-Hike Bets",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/d8104324-5802-3d6a-a256-02ce1887ce31/gold-futures-down-3%25-on-fed.html",
                 "score": 0
             },
             {
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "SI=F",
-                "headline": "Gold and Silver Lose $1 Trillion in a Day as Fed Rate Hike Bets Rise",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/gold-silver-lose-1-trillion-075349963.html",
+                "headline": "Mining Stocks Slide as Metals Prices Fall",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/71dd3621-dbc7-3d8f-9c10-fc4df9746ed8/mining-stocks-slide-as-metals.html",
                 "score": 0
             },
             {
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "MSFT",
-                "headline": "Information Technology Market Report 2026: Capture the $3.76 Trillion Revenue Shift Through 2030 as AI, Cloud and Cybersecurity Disrupt Enterprise Spend\u2014Benchmark Microsoft, Amazon, Alphabet, IBM and Oracle Before Competitors Seize the Advantage",
+                "headline": "Computer Vision Global Market Report 2026: Secure Your Share of a $37.1 Billion Market Growing 15.9% Annually by 2030\u2014Benchmark Microsoft, Sony, Intel, Texas Instruments and MediaTek as AI, Edge Vision and Automation Disrupt Operations",
                 "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/information-technology-market-report-2026-092200161.html",
+                "link": "https://finance.yahoo.com/technology/ai/articles/computer-vision-global-market-report-092800425.html",
                 "score": 0
             },
             {
