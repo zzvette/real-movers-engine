@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-09-28T10:22:17.600054+00:00",
+    "timestamp": "2026-09-28T10:37:32.681820+00:00",
     "catalysts": [
         {
             "symbol": "GLD",
             "headline": "Bitcoin Surges 36% Since August 18 While Gold and Stocks Remain Stagnant: A Shift in Correlation?",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-36-since-august-082538829.html",
-            "score": 3
-        },
-        {
-            "symbol": "CL=F",
-            "headline": "Commerzbank Says Treasuries Weaker, US Equity Futures Decline as Oil Prices Rebounds",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-says-treasuries-weaker-us-100523827.html",
             "score": 3
         },
         {
@@ -104,6 +97,13 @@
             "headline": "Indian AI Stocks To Watch In September 2026",
             "publisher": "Simply Wall St.",
             "link": "https://finance.yahoo.com/technology/ai/articles/indian-ai-stocks-watch-september-090902535.html",
+            "score": 0
+        },
+        {
+            "symbol": "CL=F",
+            "headline": "Oil Markets Flash Shortage Warning",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/d69f6baa-6c9b-31e7-96aa-5ba613f20c9b/oil-markets-flash-shortage.html",
             "score": 0
         }
     ]
