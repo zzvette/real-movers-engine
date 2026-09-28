@@ -1,26 +1,12 @@
 {
-    "timestamp": "2026-09-28T01:11:53.715973+00:00",
+    "timestamp": "2026-09-28T01:42:02.606691+00:00",
     "catalysts": [
         {
-            "symbol": "^KS11",
-            "headline": "Goldman says KOSPI is ready for a \"tactical breakout\"",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/goldman-says-kospi-ready-tactical-135628900.html",
-            "score": 3
-        },
-        {
-            "symbol": "NQ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
-            "score": 0
-        },
-        {
-            "symbol": "ES=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
-            "score": 0
+            "symbol": "NIO",
+            "headline": "NIO Stock Jumps Overnight As $2.4B Nio Power Deal Brings Geely Into Its Battery Swap Business",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-jumps-overnight-2-011916962.html",
+            "score": 5
         },
         {
             "symbol": "MU",
@@ -30,45 +16,59 @@
             "score": 0
         },
         {
-            "symbol": "YM=F",
+            "symbol": "NQ=F",
             "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
             "score": 0
         },
         {
-            "symbol": "CL=F",
-            "headline": "Stocks cautious in Asia as oil gains, yields rise",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/articles/stocks-cautious-asia-oil-gains-005009179.html",
-            "score": 0
-        },
-        {
-            "symbol": "GC=F",
-            "headline": "Montage Gold achieves first gold pour at its Kon\u00e9 mine on budget and ahead of schedule",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/montage-gold-achieves-first-gold-221800961.html",
-            "score": 0
-        },
-        {
             "symbol": "NVDA",
-            "headline": "This Space Stock Could Make You Rich (Hint: It's Not SpaceX)",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/space-stock-could-rich-hint-005000251.html",
+            "headline": "META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-googl-nvda-bb-spcx-013812151.html",
             "score": 0
         },
         {
-            "symbol": "SI=F",
-            "headline": "UBS Forecasts Silver at $80 by September 2027 as Gold and Industrial Demand Provide Support",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-forecasts-silver-80-september-142821460.html",
+            "symbol": "SMCI",
+            "headline": "Western Digital Stock Is Just One Of 3 Top AI Infrastructure Picks",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/western-digital-stock-just-one-010948739.html",
             "score": 0
         },
         {
-            "symbol": "SOXL",
-            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
+            "symbol": "MRVL",
+            "headline": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-opportunity-investors-may-170041419.html",
+            "score": 0
+        },
+        {
+            "symbol": "QNT",
+            "headline": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSFT",
+            "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html",
+            "score": 0
+        },
+        {
+            "symbol": "GYGY",
+            "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/trim-add-blackberry-position-now-172819341.html",
+            "score": 0
+        },
+        {
+            "symbol": "SPCX",
+            "headline": "META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-googl-nvda-bb-spcx-013812151.html",
             "score": 0
         },
         {
@@ -79,13 +79,6 @@
             "score": 0
         },
         {
-            "symbol": "^TNX",
-            "headline": "The deeper reason behind the relentless rise in bond yields",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/the-deeper-reason-behind-the-relentless-rise-in-bond-yields-120000422.html",
-            "score": 0
-        },
-        {
             "symbol": "SNDK",
             "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
             "publisher": "Investor's Business Daily",
@@ -93,31 +86,38 @@
             "score": 0
         },
         {
-            "symbol": "^N225",
-            "headline": "BC-Nikkei 225 Futures",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-200120971.html",
+            "symbol": "MSTR",
+            "headline": "Strategy (MSTR) Proposes Daily Dividends On Four Preferred Shares",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-proposes-daily-dividends-221020022.html",
             "score": 0
         },
         {
-            "symbol": "NG=F",
-            "headline": "National Fuel\u2019s Latest Move Could Redefine its Utility and Gas Businesses",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/energy/articles/national-fuel-latest-move-could-201336180.html",
+            "symbol": "SOXL",
+            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
             "score": 0
         },
         {
-            "symbol": "SOXS",
-            "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
+            "symbol": "CL=F",
+            "headline": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-firms-us-iran-tensions-013542829.html",
             "score": 0
         },
         {
-            "symbol": "INTC",
-            "headline": "Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-corporation-intc-over-215722198.html",
+            "symbol": "IREN",
+            "headline": "JPMorgan Predicts IREN Will Generate $24 Billion in Annual Revenue by 2030",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-predicts-iren-generate-24-155944900.html",
+            "score": 0
+        },
+        {
+            "symbol": "SKHY",
+            "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html",
             "score": 0
         }
     ]
