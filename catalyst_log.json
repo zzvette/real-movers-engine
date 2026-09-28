@@ -1,18 +1,18 @@
 {
-    "timestamp": "2026-09-28T10:01:49.678642+00:00",
+    "timestamp": "2026-09-28T10:22:17.600054+00:00",
     "catalysts": [
-        {
-            "symbol": "SRFM",
-            "headline": "Surf Air Mobility Stock Jumps on a SkyDance Air Deal. How to Play SRFM Here.",
-            "publisher": "Barchart",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/surf-air-mobility-stock-jumps-183727186.html",
-            "score": 5
-        },
         {
             "symbol": "GLD",
             "headline": "Bitcoin Surges 36% Since August 18 While Gold and Stocks Remain Stagnant: A Shift in Correlation?",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-36-since-august-082538829.html",
+            "score": 3
+        },
+        {
+            "symbol": "CL=F",
+            "headline": "Commerzbank Says Treasuries Weaker, US Equity Futures Decline as Oil Prices Rebounds",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-says-treasuries-weaker-us-100523827.html",
             "score": 3
         },
         {
@@ -24,9 +24,9 @@
         },
         {
             "symbol": "GC=F",
-            "headline": "Gold Futures Down 3% on Fed Rate-Hike Bets",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/d8104324-5802-3d6a-a256-02ce1887ce31/gold-futures-down-3%25-on-fed.html",
+            "headline": "Hudbay Enhances Gold Production Profile at Snow Lake, Extends Reserve Mine Life to 18 Years and Identifies Further Growth Potential from Resource Conversion and the Britannia Gold Project",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/hudbay-enhances-gold-production-profile-100000757.html",
             "score": 0
         },
         {
@@ -37,13 +37,6 @@
             "score": 0
         },
         {
-            "symbol": "SI=F",
-            "headline": "Mining Stocks Slide as Metals Prices Fall",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/71dd3621-dbc7-3d8f-9c10-fc4df9746ed8/mining-stocks-slide-as-metals.html",
-            "score": 0
-        },
-        {
             "symbol": "CLRO",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
@@ -51,24 +44,10 @@
             "score": 0
         },
         {
-            "symbol": "MSFT",
-            "headline": "Computer Vision Global Market Report 2026: Secure Your Share of a $37.1 Billion Market Growing 15.9% Annually by 2030\u2014Benchmark Microsoft, Sony, Intel, Texas Instruments and MediaTek as AI, Edge Vision and Automation Disrupt Operations",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/computer-vision-global-market-report-092800425.html",
-            "score": 0
-        },
-        {
-            "symbol": "FFAI",
-            "headline": "Faraday Future Announces This Week\u2019s Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI \"Built in USA\" Upstream & Downstream Business Partner Conference Part Two to Be Held September 29",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-announces-week-investor-032700471.html",
-            "score": 0
-        },
-        {
-            "symbol": "SLV",
-            "headline": "Gold ETFs Just Had Their 2nd-Biggest Month Ever",
-            "publisher": "etf.com",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/gold-etfs-just-had-2nd-193240565.html",
+            "symbol": "SI=F",
+            "headline": "Blackrock Silver Acquires Tonopah East Project Increasing Landholdings by 45% in Tonopah Mining District",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/blackrock-silver-acquires-tonopah-east-100000963.html",
             "score": 0
         },
         {
@@ -86,10 +65,31 @@
             "score": 0
         },
         {
-            "symbol": "^VIX",
-            "headline": "FedWatch's Ben Emons Sees 10-Year Treasury Yield Hitting 6% By January 2027 \u2014 Warns It Could Put Housing \u2018In A Crunch\u2019 And Slow The Economy",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/economy/policy/articles/fedwatchs-ben-emons-sees-10-144952725.html",
+            "symbol": "FFAI",
+            "headline": "Faraday Future Announces This Week\u2019s Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI \"Built in USA\" Upstream & Downstream Business Partner Conference Part Two to Be Held September 29",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-announces-week-investor-032700471.html",
+            "score": 0
+        },
+        {
+            "symbol": "MIMI",
+            "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMPX",
+            "headline": "Amprius Technologies Wins $75 Million Grant for Unmanned Aerial Systems' Battery Production",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/articles/amprius-technologies-wins-75-million-095739504.html",
+            "score": 0
+        },
+        {
+            "symbol": "KOD",
+            "headline": "Kodiak Sciences to Present Topline Results on September 28, 2026 from DAYBREAK Pivotal Phase 3 Study of Zenkuda and KSI-501 in Patients with Wet Age-Related Macular Degeneration",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/kodiak-sciences-present-topline-results-220100426.html",
             "score": 0
         },
         {
@@ -100,10 +100,10 @@
             "score": 0
         },
         {
-            "symbol": "SKHY",
-            "headline": "SKHY Stock Dips Overnight: SK Hynix\u2019s US Subsidiary Solidigm Reportedly Plans IPO",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-dips-overnight-sk-052655680.html",
+            "symbol": "^NSEI",
+            "headline": "Indian AI Stocks To Watch In September 2026",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/indian-ai-stocks-watch-september-090902535.html",
             "score": 0
         }
     ]
