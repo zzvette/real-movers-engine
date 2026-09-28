@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T13:03:28.743501+00:00",
+    "timestamp": "2026-09-28T13:23:11.103353+00:00",
     "catalysts": [
         {
             "symbol": "AMPX",
@@ -9,24 +9,24 @@
             "score": 3
         },
         {
-            "symbol": "GLD",
-            "headline": "Bitcoin Surges 36% Since August 18 While Gold and Stocks Remain Stagnant: A Shift in Correlation?",
+            "symbol": "APP",
+            "headline": "AppLovin Jumps 4% as Buyers Return After Year-Long Slide; Trade Desk Nudges Higher, Digital Turbine Barely Budges",
             "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-36-since-august-082538829.html",
-            "score": 3
-        },
-        {
-            "symbol": "SHMD",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-jumps-4-buyers-return-131531370.html",
             "score": 3
         },
         {
             "symbol": "NVDA",
-            "headline": "Stock market today: Dow, S&P 500 and Nasdaq slip as AI safety concerns and US-Iran tensions resurface",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
+            "headline": "Prediction: This Lesser-Known ETF Will Be the Best Bear Market Buy",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-lesser-known-etf-best-132000116.html",
+            "score": 0
+        },
+        {
+            "symbol": "KOD",
+            "headline": "Why Regeneron Rival Kodiak Sciences Just Skyrocketed 90%-Plus",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/4d8802c9-5295-30c2-8c4c-ce1b1b0fc922/why-regeneron-rival-kodiak.html",
             "score": 0
         },
         {
@@ -37,17 +37,17 @@
             "score": 0
         },
         {
-            "symbol": "KOD",
-            "headline": "Sector Update: Healthcare",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-130008930.html",
-            "score": 0
-        },
-        {
             "symbol": "CLRO",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
+            "score": 0
+        },
+        {
+            "symbol": "MDB",
+            "headline": "MongoDB stock tanks after Meta poaches CEO",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/mongodb-stock-tanks-after-meta-poaches-ceo-132048225.html",
             "score": 0
         },
         {
@@ -65,10 +65,17 @@
             "score": 0
         },
         {
-            "symbol": "MEDS",
-            "headline": "DataMeds AI and Tollo Health Announce Launch of 'Health Lives Here' Mobile Application",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/datameds-ai-tollo-health-announce-100000976.html",
+            "symbol": "LABT",
+            "headline": "Lakewood-Amedex Biotherapeutics Announces Positive Data Against Recent Clinical Isolates from Infected Diabetic Foot Ulcers",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/lakewood-amedex-biotherapeutics-announces-positive-120200296.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOAR",
+            "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
             "score": 0
         },
         {
@@ -79,17 +86,31 @@
             "score": 0
         },
         {
-            "symbol": "SNOW",
-            "headline": "Sector Update: Tech",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-125604964.html",
+            "symbol": "NU",
+            "headline": "Monzo in talks over potential sale to Brazil\u2019s Nubank \u2013 report",
+            "publisher": "Retail Banker International",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/monzo-talks-over-potential-sale-115105179.html",
             "score": 0
         },
         {
-            "symbol": "VWAV",
-            "headline": "VisionWave Highlights STRATUM Autonomous Ground Systems Platform for Multi-Mission Defense Operations",
+            "symbol": "MEDS",
+            "headline": "DataMeds AI and Tollo Health Announce Launch of 'Health Lives Here' Mobile Application",
+            "publisher": "ACCESS Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/datameds-ai-tollo-health-announce-100000976.html",
+            "score": 0
+        },
+        {
+            "symbol": "MTEK",
+            "headline": "Maris-Tech Receives Record US$10 Million Order - Its Largest-Ever Contract - for Advanced Video Systems on Next-Generation Airborne Defense Platforms",
             "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/visionwave-highlights-stratum-autonomous-ground-110000905.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/maris-tech-receives-record-us-113500053.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSGY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021061.html",
             "score": 0
         },
         {
@@ -97,27 +118,6 @@
             "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
-            "score": 0
-        },
-        {
-            "symbol": "FFAI",
-            "headline": "Faraday Future Announces This Week\u2019s Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI \"Built in USA\" Upstream & Downstream Business Partner Conference Part Two to Be Held September 29",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-announces-week-investor-032700471.html",
-            "score": 0
-        },
-        {
-            "symbol": "NIO",
-            "headline": "NIO And 2 Other Penny Stocks To Watch",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nio-2-other-penny-stocks-120911292.html",
-            "score": 0
-        },
-        {
-            "symbol": "ACET",
-            "headline": "Adicet Bio Reports Phase 1 Prula-cel Data in Lupus Patients",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/adicet-bio-reports-phase-1-121301005.html",
             "score": 0
         }
     ]
