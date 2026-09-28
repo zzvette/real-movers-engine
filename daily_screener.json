@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T21:49:20.936690+00:00",
+    "timestamp": "2026-09-28T22:00:00.990861+00:00",
     "signals": {
         "catalysts": [
             {
@@ -31,6 +31,13 @@
                 "score": 2
             },
             {
+                "symbol": "NVDA",
+                "headline": "AMD Bolsters AI Vision With $8.2B Acquisition Of Fei-Fei Li\u2019s World Labs, Stock Drops 4%",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/technology/ai/articles/amd-bolsters-ai-vision-8-213731913.html",
+                "score": 2
+            },
+            {
                 "symbol": "KOD",
                 "headline": "Why This Regeneron Eye Rival Just Catapulted More Than 170%",
                 "publisher": "Investor's Business Daily",
@@ -46,16 +53,9 @@
             },
             {
                 "symbol": "BA",
-                "headline": "S&P 500's Newest Member Is Monday's Biggest Loser",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/3f09d80c-e3a1-3601-8dc0-2a8c1d4332af/s%26p-500%27s-newest-member-is.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVDA",
-                "headline": "Nvidia stock sends investors a $150 billion signal",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sends-investors-150-213212796.html",
+                "headline": "The Boeing Company (BA) is Showing Signs of a Space Comeback. Can It Close the Gap With Space Exploration (SPCX)?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-showing-signs-214424254.html",
                 "score": 0
             },
             {
@@ -74,9 +74,9 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "SpaceX Launches Starship Flight 14, Deploys Starlink Satellites.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/e44c9e24-e264-3488-afeb-fe18255add43/spacex-launches-starship.html",
+                "headline": "The Boeing Company (BA) is Showing Signs of a Space Comeback. Can It Close the Gap With Space Exploration (SPCX)?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-showing-signs-214424254.html",
                 "score": 0
             },
             {
