@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T10:37:32.681820+00:00",
+    "timestamp": "2026-09-28T10:52:25.189338+00:00",
     "catalysts": [
         {
             "symbol": "GLD",
@@ -9,17 +9,10 @@
             "score": 3
         },
         {
-            "symbol": "NIO",
-            "headline": "NIO, Geely Sign Deals for Battery Swapping, Charging Businesses",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/nio-geely-sign-deals-battery-074157987.html",
-            "score": 2
-        },
-        {
             "symbol": "GC=F",
-            "headline": "Hudbay Enhances Gold Production Profile at Snow Lake, Extends Reserve Mine Life to 18 Years and Identifies Further Growth Potential from Resource Conversion and the Britannia Gold Project",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/hudbay-enhances-gold-production-profile-100000757.html",
+            "headline": "U.S. GoldMining Expands Pipeline of High-Priority Targets With 2026 Surface Exploration Program at its Whistler Gold-Copper Project, Alaska",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/u-goldmining-expands-pipeline-high-103000550.html",
             "score": 0
         },
         {
@@ -58,6 +51,13 @@
             "score": 0
         },
         {
+            "symbol": "NIO",
+            "headline": "NIO agrees to sell 30% of battery swapping unit to Geely",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/technology/articles/nio-agrees-sell-30-battery-104743892.html",
+            "score": 0
+        },
+        {
             "symbol": "FFAI",
             "headline": "Faraday Future Announces This Week\u2019s Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI \"Built in USA\" Upstream & Downstream Business Partner Conference Part Two to Be Held September 29",
             "publisher": "Business Wire",
@@ -80,9 +80,9 @@
         },
         {
             "symbol": "KOD",
-            "headline": "Kodiak Sciences to Present Topline Results on September 28, 2026 from DAYBREAK Pivotal Phase 3 Study of Zenkuda and KSI-501 in Patients with Wet Age-Related Macular Degeneration",
+            "headline": "Zenkuda and tabirafusp-ted Meet Primary Endpoints in Pivotal DAYBREAK Trial in wAMD, with Zenkuda Demonstrating a Potential New Standard-of-Care Profile with Strong Immediacy and Sustained Clinical Effect with Majority of Patients on 24-week Dosing Interval Using Strict Treat-to-Dryness Real World Retreatment Criteria.",
             "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/kodiak-sciences-present-topline-results-220100426.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/zenkuda-tabirafusp-ted-meet-primary-103000745.html",
             "score": 0
         },
         {
@@ -101,9 +101,9 @@
         },
         {
             "symbol": "CL=F",
-            "headline": "Oil Markets Flash Shortage Warning",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/d69f6baa-6c9b-31e7-96aa-5ba613f20c9b/oil-markets-flash-shortage.html",
+            "headline": "Rising Oil Prices, Bond Yields, AI Uncertainty Roil Asian Stock Markets",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/rising-oil-prices-bond-yields-104440769.html",
             "score": 0
         }
     ]
