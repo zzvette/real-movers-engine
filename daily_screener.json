@@ -1,12 +1,145 @@
 {
-    "timestamp": "2026-09-28T14:37:39.606515+00:00",
+    "timestamp": "2026-09-28T14:52:41.454779+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "test",
+                "symbol": "MX",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112412017.html",
+                "score": 3
+            },
+            {
+                "symbol": "NAMI",
+                "headline": "Pearson, Namibox Sign Agreement to Collaborate on AI Smart Learning",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/pearson-namibox-sign-agreement-collaborate-135521712.html",
+                "score": 2
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "Nvidia Stock Rises After $150 Billion Buyback Boost",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-rises-150-billion-144825265.html",
+                "score": 0
+            },
+            {
+                "symbol": "MDB",
+                "headline": "Meta and ServiceNow Drop 4% as Enterprise Platform Launch Reprices Software; MongoDB Tumbles 19%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-servicenow-drop-4-enterprise-144338703.html",
+                "score": 0
+            },
+            {
+                "symbol": "KOD",
+                "headline": "This Biotech Company Added Nearly $3B To Its Market Cap \u2013 Here\u2019s Why KOD Stock Is Ripping Today",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/biotech-company-added-nearly-3b-141419404.html",
+                "score": 0
+            },
+            {
+                "symbol": "NU",
+                "headline": "Monzo in talks over potential sale to Brazil\u2019s Nubank \u2013 report",
+                "publisher": "Retail Banker International",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/monzo-talks-over-potential-sale-115105179.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "SpaceX Is About to Put Starship Through Its Biggest Test Yet",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/articles/spacex-put-starship-biggest-test-144555990.html",
+                "score": 0
+            },
+            {
+                "symbol": "GYGY",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+                "score": 0
+            },
+            {
+                "symbol": "CLRO",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMPX",
+                "headline": "Amprius Technologies Shares Rise 11% After Securing Up to $75 Million Defense Grant",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-shares-rise-11-135945470.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOAR",
+                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
+                "score": 0
+            },
+            {
+                "symbol": "ARAY",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+                "score": 0
+            },
+            {
+                "symbol": "TEST",
                 "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500184.html",
+                "score": 0
+            },
+            {
+                "symbol": "MEDS",
+                "headline": "DataMeds AI stock rises on health app launch",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/healthcare/articles/datameds-ai-stock-rises-health-142836864.html",
+                "score": 0
+            },
+            {
+                "symbol": "BA",
+                "headline": "Boeing Stock Falls On New 737 Issue, This One Affects Landings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a816b4dc-90a5-3456-9e9d-48c713638ea7/boeing-stock-falls-on-new-737.html",
+                "score": 0
+            },
+            {
+                "symbol": "MIMI",
+                "headline": "Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded \"Blue Pengu Minibot\"",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/mint-announces-rice-ais-licensing-123000863.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRM",
+                "headline": "Meta and ServiceNow Drop 4% as Enterprise Platform Launch Reprices Software; MongoDB Tumbles 19%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-servicenow-drop-4-enterprise-144338703.html",
+                "score": 0
+            },
+            {
+                "symbol": "LABT",
+                "headline": "Lakewood-Amedex Biotherapeutics Announces Positive Data Against Recent Clinical Isolates from Infected Diabetic Foot Ulcers",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/lakewood-amedex-biotherapeutics-announces-positive-120200296.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOW",
+                "headline": "Meta and ServiceNow Drop 4% as Enterprise Platform Launch Reprices Software; MongoDB Tumbles 19%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-servicenow-drop-4-enterprise-144338703.html",
+                "score": 0
+            },
+            {
+                "symbol": "GFI",
+                "headline": "Northern Star turns down Gold Fields\u2019 $27.2bn takeover proposal",
+                "publisher": "Mining Technology",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/northern-star-turns-down-gold-135447704.html",
                 "score": 0
             }
         ]
