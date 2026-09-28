@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T15:19:26.999957+00:00",
+    "timestamp": "2026-09-28T15:35:04.869091+00:00",
     "catalysts": [
         {
             "symbol": "KOD",
@@ -16,6 +16,13 @@
             "score": 3
         },
         {
+            "symbol": "NVDA",
+            "headline": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+            "publisher": "TechCrunch",
+            "link": "https://finance.yahoo.com/technology/ai/articles/physical-ai-chip-developer-sima-152921219.html",
+            "score": 2
+        },
+        {
             "symbol": "AMC",
             "headline": "AMC Entertainment (AMC) Plans $3.97 Billion Refinancing. Can It Buy More Time?",
             "publisher": "Insider Monkey",
@@ -23,17 +30,10 @@
             "score": 2
         },
         {
-            "symbol": "NVDA",
-            "headline": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html",
-            "score": 0
-        },
-        {
             "symbol": "MDB",
-            "headline": "MongoDB Stock Falls 16% as CEO Leaves for Meta",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-stock-falls-16-ceo-150540820.html",
+            "headline": "MongoDB CEO Chirantan Desai Steps Down to Join Meta as Chief Enterprise Platform Officer",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/mongodb-ceo-chirantan-desai-steps-151945480.html",
             "score": 0
         },
         {
@@ -68,7 +68,7 @@
             "symbol": "CLRO",
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021402.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
             "score": 0
         },
         {
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "SPCX",
-            "headline": "SpaceX Starship Reaches Orbit for First Time Despite Engine Failure",
-            "publisher": "Benzinga Prediction Markets",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starship-reaches-orbit-first-144810897.html",
+            "headline": "SpaceX vs. Tesla: Which Elon Musk Stock Is the Better Buy for the Next 5 Years?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-tesla-elon-musk-152500860.html",
             "score": 0
         },
         {
@@ -115,9 +115,9 @@
         },
         {
             "symbol": "MEDS",
-            "headline": "DataMeds AI stock rises on health app launch",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/healthcare/articles/datameds-ai-stock-rises-health-142836864.html",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
             "score": 0
         },
         {
