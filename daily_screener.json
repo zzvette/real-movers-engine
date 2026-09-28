@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T22:59:41.962160+00:00",
+    "timestamp": "2026-09-28T23:17:55.905517+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,11 +24,11 @@
                 "score": 3
             },
             {
-                "symbol": "FFAI",
-                "headline": "AIxCrypto to Buy Faraday Future's Robotics Business in $200 Million Stock Deal",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/aixcrypto-buy-faraday-future-apos-220318048.html",
-                "score": 2
+                "symbol": "KNDI",
+                "headline": "Kandi Technologies Group Inc (KNDI) (H1 2026) Earnings Call Highlights: Revenue Jumps 57. ...",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kandi-technologies-group-inc-kndi-230016246.html",
+                "score": 3
             },
             {
                 "symbol": "QNC",
@@ -60,9 +60,16 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "1 Monster AI Stock Greg Abel and Warren Buffett Are Extremely Bullish On",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/1-monster-ai-stock-greg-225000647.html",
+                "headline": "Samsung Commits $1 Billion to Helix Digital Infrastructure to Support Global AI Infrastructure Buildout",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/samsung-commits-1-billion-helix-230000907.html",
+                "score": 0
+            },
+            {
+                "symbol": "NU",
+                "headline": "Nu Holdings Ltd. (NU) Declines More Than Market: Some Information for Investors",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-declines-205003063.html",
                 "score": 0
             },
             {
@@ -95,9 +102,9 @@
             },
             {
                 "symbol": "MTN",
-                "headline": "Vail Resorts\u2019 Ski Pass Sales Tumble, Signaling Another Tough Winter Ahead",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/e6307727-74cb-36b1-a146-9fd53a75322f/vail-resorts%E2%80%99-ski-pass-sales.html",
+                "headline": "Vail Resorts Q4 Earnings Call Highlights",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/vail-resorts-q4-earnings-call-230309159.html",
                 "score": 0
             },
             {
@@ -119,13 +126,6 @@
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
-                "score": 0
-            },
-            {
-                "symbol": "KNDI",
-                "headline": "Kandi Technologies Reports 57.4% First-Half Revenue Growth as Net Income Reaches $9.4 Million",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/kandi-technologies-reports-57-4-144925066.html",
                 "score": 0
             }
         ]
