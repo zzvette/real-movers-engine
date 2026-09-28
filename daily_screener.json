@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T23:17:55.905517+00:00",
+    "timestamp": "2026-09-28T23:33:42.146620+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,6 +8,13 @@
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-13-refinancing-rally-174318002.html",
                 "score": 5
+            },
+            {
+                "symbol": "KOD",
+                "headline": "Kodiak Sciences (KOD) Climbs Nearly 3x on Promising Wet AMD Trial",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kodiak-sciences-kod-climbs-nearly-231435477.html",
+                "score": 3
             },
             {
                 "symbol": "NVTS",
@@ -31,18 +38,18 @@
                 "score": 3
             },
             {
+                "symbol": "FFAI",
+                "headline": "AIxCrypto to Buy Faraday Future's Robotics Business in $200 Million Stock Deal",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/aixcrypto-buy-faraday-future-apos-220318048.html",
+                "score": 2
+            },
+            {
                 "symbol": "QNC",
                 "headline": "Quantum eMotion To Acquire Plurilock in CA$33.8 Million Deal",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-emotion-acquire-plurilock-ca-204627846.html",
                 "score": 2
-            },
-            {
-                "symbol": "KOD",
-                "headline": "Nvidia, Micron, Meta, Kodiak Sciences, MongoDB, SpaceX, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/ba97269c-c17b-3431-8c63-dea920eefd66/nvidia%2C-micron%2C-meta%2C-kodiak.html",
-                "score": 0
             },
             {
                 "symbol": "MDB",
@@ -60,9 +67,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Samsung Commits $1 Billion to Helix Digital Infrastructure to Support Global AI Infrastructure Buildout",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/samsung-commits-1-billion-helix-230000907.html",
+                "headline": "3 Australian AI Stocks For September 2026",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/3-australian-ai-stocks-september-231606076.html",
                 "score": 0
             },
             {
@@ -81,16 +88,16 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "Deepwater\u2019s Munster Waves Off SPCX Dip: Starship Orbit Is \u2018Double And Quadruple\u2019 News",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/deepwater-munster-waves-off-spcx-224801189.html",
+                "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html",
                 "score": 0
             },
             {
                 "symbol": "GC=F",
-                "headline": "Stockworks Gold Commences Follow up of High-Grade Gold Stream Sediment Anomalies at the Pirenopolis Project, Brazil",
-                "publisher": "TMX Newsfile",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/stockworks-gold-commences-high-grade-224900630.html",
+                "headline": "Entr\u00e9e Resources Ltd. President and CEO Chris Adams Issues Letter to Shareholders",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/entr-e-resources-ltd-president-232400611.html",
                 "score": 0
             },
             {
