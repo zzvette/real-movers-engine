@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T18:37:50.424421+00:00",
+    "timestamp": "2026-09-28T18:52:59.132102+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,16 +25,16 @@
             },
             {
                 "symbol": "MDB",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182357644.html",
+                "headline": "Microsoft, Oracle Stocks Tumble After Meta Unveils New AI Enterprise Push",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-oracle-stocks-tumble-meta-185142672.html",
                 "score": 0
             },
             {
                 "symbol": "NVDA",
-                "headline": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html",
+                "headline": "Arm Stock Sinks 7.6% as Agent Security Expands Its Compute Role",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-sinks-7-6-184457268.html",
                 "score": 0
             },
             {
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html",
+                "headline": "Google, Meta, OpenAI, Anthropic Set to Testify at NYC Council AI Hearing",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/google-meta-openai-anthropic-set-183526057.html",
                 "score": 0
             },
             {
@@ -109,9 +109,9 @@
             },
             {
                 "symbol": "GC=F",
-                "headline": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html",
+                "headline": "US Dollar Builds on Last Week's Gains Against The Loonie as Treasury Yields Continue to Rise",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-builds-last-week-174949708.html",
                 "score": 0
             },
             {
