@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T21:34:13.838735+00:00",
+    "timestamp": "2026-09-28T21:49:20.936690+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -7,6 +7,13 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-13-refinancing-rally-174318002.html",
             "score": 5
+        },
+        {
+            "symbol": "NVTS",
+            "headline": "Why NVTS Stock Surged 20% After-Hours",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvts-stock-surged-20-213212401.html",
+            "score": 3
         },
         {
             "symbol": "ABCL",
@@ -37,24 +44,17 @@
             "score": 0
         },
         {
-            "symbol": "NVTS",
-            "headline": "Navitas Awarded US Army Program to Develop 10 kV Silicon Carbide Technology",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/navitas-awarded-us-army-program-204046665.html",
-            "score": 0
-        },
-        {
             "symbol": "BA",
-            "headline": "Boeing Stock Falls On New 737 Issue, This One Affects Landings",
+            "headline": "S&P 500's Newest Member Is Monday's Biggest Loser",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/a816b4dc-90a5-3456-9e9d-48c713638ea7/boeing-stock-falls-on-new-737.html",
+            "link": "https://finance.yahoo.com/m/3f09d80c-e3a1-3601-8dc0-2a8c1d4332af/s%26p-500%27s-newest-member-is.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "Why Lexicon Pharmaceuticals Stock Popped by Almost 6% Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-lexicon-pharmaceuticals-stock-popped-212557227.html",
+            "headline": "Nvidia stock sends investors a $150 billion signal",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sends-investors-150-213212796.html",
             "score": 0
         },
         {
