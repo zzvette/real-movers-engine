@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T04:12:37.554667+00:00",
+    "timestamp": "2026-09-28T04:45:20.300774+00:00",
     "catalysts": [
         {
             "symbol": "NIO",
@@ -9,24 +9,38 @@
             "score": 5
         },
         {
-            "symbol": "CL=F",
-            "headline": "Energy Security Stocks With Long Term Cash Flow Support",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/energy-security-stocks-long-term-031116370.html",
-            "score": 2
+            "symbol": "^KS11",
+            "headline": "Goldman says KOSPI is ready for a \"tactical breakout\"",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/goldman-says-kospi-ready-tactical-135628900.html",
+            "score": 3
+        },
+        {
+            "symbol": "GLD",
+            "headline": "Bitcoin Surges 36% Since August 18 While Gold and Stocks Remain Stagnant: A Shift in Correlation?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-36-since-august-082538829.html",
+            "score": 3
         },
         {
             "symbol": "MU",
-            "headline": "\u2018Big Short\u2019 Fame Michael Burry Says Trump \u2018Cannot Afford\u2019 To Let AI Boom Fall",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/technology/ai/articles/big-short-fame-michael-burry-035902084.html",
-            "score": 0
+            "headline": "Micron Technology (MU) is Printing Cash. Can its Memory Momentum Last?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-printing-cash-040058193.html",
+            "score": 2
         },
         {
             "symbol": "NQ=F",
             "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "score": 0
+        },
+        {
+            "symbol": "GC=F",
+            "headline": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/60074843-3f5a-33e9-b7d8-87c304522ed0/northern-star-rejects-%2427.html",
             "score": 0
         },
         {
@@ -37,17 +51,17 @@
             "score": 0
         },
         {
-            "symbol": "SMCI",
-            "headline": "Western Digital Stock Is Just One Of 3 Top AI Infrastructure Picks",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/western-digital-stock-just-one-010948739.html",
+            "symbol": "GYGY",
+            "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/trim-add-blackberry-position-now-172819341.html",
             "score": 0
         },
         {
-            "symbol": "MRVL",
-            "headline": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-opportunity-investors-may-170041419.html",
+            "symbol": "MSFT",
+            "headline": "Microsoft Corporation (MSFT) Wants AI to Do More. Can Customers Keep Up?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-corporation-msft-wants-ai-035156310.html",
             "score": 0
         },
         {
@@ -58,59 +72,52 @@
             "score": 0
         },
         {
-            "symbol": "GYGY",
-            "headline": "Should You Trim Or Add To Your BlackBerry Position Now?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/trim-add-blackberry-position-now-172819341.html",
+            "symbol": "SI=F",
+            "headline": "Gold falls below $4,300 as oil, Fed hike bets keep pressure on bullion",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-below-4-300-014352852.html",
             "score": 0
         },
         {
-            "symbol": "SPCX",
-            "headline": "Planet Labs (PL) vs. SpaceX: Can New Space Exploration (SPCX) Support Long-Term Growth?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-vs-spacex-035631653.html",
+            "symbol": "SOXS",
+            "headline": "The Zacks Analyst Blog Highlights SQQQ, PSQ, QID, TECS, BERZ and SOXS",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-sqqq-064200433.html",
             "score": 0
         },
         {
-            "symbol": "TSLA",
-            "headline": "Billionaire investor makes stunning $15 trillion Musk call",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-makes-stunning-15-031700980.html",
+            "symbol": "ES=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
             "score": 0
         },
         {
-            "symbol": "SNDK",
-            "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html",
+            "symbol": "SLV",
+            "headline": "Gold ETFs Just Had Their 2nd-Biggest Month Ever",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/gold-etfs-just-had-2nd-193240565.html",
             "score": 0
         },
         {
-            "symbol": "MSTR",
-            "headline": "Strategy (MSTR) Proposes Daily Dividends On Four Preferred Shares",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-proposes-daily-dividends-221020022.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOXL",
-            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-            "score": 0
-        },
-        {
-            "symbol": "IREN",
-            "headline": "JPMorgan Predicts IREN Will Generate $24 Billion in Annual Revenue by 2030",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-predicts-iren-generate-24-155944900.html",
+            "symbol": "SQQQ",
+            "headline": "AI Safety Concerns Surge: ETFs to Watch as Tech Faces New Risks",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ai-safety-concerns-surge-etfs-151500159.html",
             "score": 0
         },
         {
             "symbol": "SKHY",
-            "headline": "Asia chip stocks slide as OpenAI pause revives AI slowdown fears",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/asia-chip-stocks-slide-openai-034907224.html",
+            "headline": "SK Hynix (SKHY): Can Solidigm Become a Bigger Part of the Story?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-solidigm-become-041729365.html",
+            "score": 0
+        },
+        {
+            "symbol": "QQQ",
+            "headline": "Stocktwits Pharma Pulse: Lilly, Novo Lead A Busy Week \u2014 Here Are The Stocks And Readouts To Watch",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/stocktwits-pharma-pulse-lilly-novo-033120543.html",
             "score": 0
         }
     ]
