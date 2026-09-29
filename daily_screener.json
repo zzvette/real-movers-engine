@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T01:12:22.841081+00:00",
+    "timestamp": "2026-09-29T01:42:03.568705+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,6 +17,13 @@
                 "score": 3
             },
             {
+                "symbol": "MDB",
+                "headline": "MongoDB stock crashes 26% as its CEO jumps ship",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-stock-crashes-26-ceo-011700383.html",
+                "score": 3
+            },
+            {
                 "symbol": "NVTS",
                 "headline": "Why NVTS Stock Surged 20% After-Hours",
                 "publisher": "Stocktwits",
@@ -31,11 +38,11 @@
                 "score": 3
             },
             {
-                "symbol": "KNDI",
-                "headline": "Kandi Technologies Group Inc (KNDI) (H1 2026) Earnings Call Highlights: Revenue Jumps 57. ...",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/kandi-technologies-group-inc-kndi-230016246.html",
-                "score": 3
+                "symbol": "SMMT",
+                "headline": "SMMT Stock Soars After-Hours: Did AstraZeneca Just End Summit\u2019s Cash Scare?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/smmt-stock-soars-hours-did-233556237.html",
+                "score": 2
             },
             {
                 "symbol": "FFAI",
@@ -45,20 +52,6 @@
                 "score": 2
             },
             {
-                "symbol": "QNC",
-                "headline": "Quantum eMotion To Acquire Plurilock in CA$33.8 Million Deal",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-emotion-acquire-plurilock-ca-204627846.html",
-                "score": 2
-            },
-            {
-                "symbol": "MDB",
-                "headline": "Why Atlassian (TEAM) Stock Is Down Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-atlassian-team-stock-down-001436323.html",
-                "score": 0
-            },
-            {
                 "symbol": "BA",
                 "headline": "The Boeing Company (BA) is Showing Signs of a Space Comeback. Can It Close the Gap With Space Exploration (SPCX)?",
                 "publisher": "Insider Monkey",
@@ -66,10 +59,10 @@
                 "score": 0
             },
             {
-                "symbol": "NVDA",
-                "headline": "Samsung, affiliates to invest $1 billion in AI infrastructure firm Helix",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/samsung-affiliates-invest-1-billion-005118034.html",
+                "symbol": "SOAR",
+                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
                 "score": 0
             },
             {
@@ -87,34 +80,6 @@
                 "score": 0
             },
             {
-                "symbol": "SPCX",
-                "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html",
-                "score": 0
-            },
-            {
-                "symbol": "GC=F",
-                "headline": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/major-gold-holder-suffers-2-005000807.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOAR",
-                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
-                "score": 0
-            },
-            {
-                "symbol": "MTN",
-                "headline": "Vail Resorts\u2019 Ski Pass Sales Tumble, Signaling Another Tough Winter Ahead",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/e6307727-74cb-36b1-a146-9fd53a75322f/vail-resorts%E2%80%99-ski-pass-sales.html",
-                "score": 0
-            },
-            {
                 "symbol": "SLXN",
                 "headline": "Silexion Therapeutics Reports Positive Preclinical Findings for SIL204, Demonstrating Key Mechanism for Endogenous Systemic Uptake in KRAS-Driven Cancers",
                 "publisher": "GlobeNewswire",
@@ -122,17 +87,38 @@
                 "score": 0
             },
             {
-                "symbol": "YMT",
-                "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
+                "symbol": "^DJI",
+                "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html",
                 "score": 0
             },
             {
-                "symbol": "ARAY",
+                "symbol": "HHH",
+                "headline": "Does Howard Hughes Holdings (HHH) Have the Potential to Rally 31.04% as Wall Street Analysts Expect?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/does-howard-hughes-holdings-hhh-125502273.html",
+                "score": 0
+            },
+            {
+                "symbol": "AUR",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
+                "score": 0
+            },
+            {
+                "symbol": "MXN=X",
+                "headline": "Explainer-The super peso is back \u2014 and it's starting to hurt",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/currencies/articles/explainer-super-peso-back-starting-225352201.html",
+                "score": 0
+            },
+            {
+                "symbol": "RBLX",
+                "headline": "Roblox (RBLX) Dips More Than Broader Market: What You Should Know",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-dips-more-broader-205003374.html",
                 "score": 0
             }
         ]
