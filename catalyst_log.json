@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T09:49:05.837391+00:00",
+    "timestamp": "2026-09-29T10:01:12.761676+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -16,25 +16,11 @@
             "score": 3
         },
         {
-            "symbol": "ABCL",
-            "headline": "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/abcl-stock-surges-121-3-141700425.html",
-            "score": 3
-        },
-        {
             "symbol": "SMMT",
             "headline": "AstraZeneca invests $2 billion in Summit Therapeutics in cancer drug deal",
             "publisher": "Proactive",
             "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-invests-2-billion-summit-063200368.html",
             "score": 2
-        },
-        {
-            "symbol": "KOD",
-            "headline": "What Does Regeneron Pharmaceuticals (REGN) Need To Prove In Eye Disease Now?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/does-regeneron-pharmaceuticals-regn-prove-070805615.html",
-            "score": 0
         },
         {
             "symbol": "MDB",
@@ -45,9 +31,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Market Chatter: Nvidia, AMD Lobby Trump Administration to Stop China-Related Chip Export Restrictions",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/market-chatter-nvidia-amd-lobby-094351723.html",
+            "headline": "Teva Pharmaceutical: 3 Numbers That Explain This Generic-Drug Turnaround",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/healthcare/articles/teva-pharmaceutical-3-numbers-explain-095500359.html",
             "score": 0
         },
         {
@@ -80,9 +66,9 @@
         },
         {
             "symbol": "FICO",
-            "headline": "Goldman Sachs Adjusts Price Target on Fair Isaac to $1,322 From $1,548, Keeps Buy Rating",
+            "headline": "Rocket Mortgage Adopts VantageScore 4.0 as Preferred Credit Scoring Model for Certain Loan Products",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-092554135.html",
+            "link": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-adopts-vantagescore-4-095650115.html",
             "score": 0
         },
         {
@@ -90,6 +76,13 @@
             "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
+            "score": 0
+        },
+        {
+            "symbol": "ABCL",
+            "headline": "JPMorgan Initiates AbCellera Biologics at Overweight With $17 Price Target",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-initiates-abcellera-biologics-overweight-095356198.html",
             "score": 0
         },
         {
