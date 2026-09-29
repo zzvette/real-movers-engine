@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T02:42:11.146583+00:00",
+    "timestamp": "2026-09-29T03:12:47.262389+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,13 +8,6 @@
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-13-refinancing-rally-174318002.html",
                 "score": 5
-            },
-            {
-                "symbol": "KOD",
-                "headline": "KOD Stock Cracks September\u2019s Top 5 Biotech Gainers On Eye Drug Win \u2014 But \u2018Pharma Bro\u2019 Shkreli Says It \u2018Still Sucks\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/kod-stock-cracks-september-top-021300360.html",
-                "score": 3
             },
             {
                 "symbol": "NVTS",
@@ -43,6 +36,13 @@
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/smmt-stock-soars-hours-did-233556237.html",
                 "score": 2
+            },
+            {
+                "symbol": "KOD",
+                "headline": "Why Kodiak Sciences Skyrocketed Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/healthcare/articles/why-kodiak-sciences-skyrocketed-today-025849812.html",
+                "score": 0
             },
             {
                 "symbol": "MDB",
@@ -95,16 +95,16 @@
             },
             {
                 "symbol": "TTD",
-                "headline": "The Trade Desk (TTD) Declines More Than Market: Some Information for Investors",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-declines-more-204506678.html",
+                "headline": "Why Did TTD, OPEN, QS Stocks Tumble To 52-Week Lows Today?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ttd-open-qs-024417040.html",
                 "score": 0
             },
             {
                 "symbol": "QS",
-                "headline": "Is QuantumScape a Lost Cause?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-lost-cause-135000384.html",
+                "headline": "Why Did TTD, OPEN, QS Stocks Tumble To 52-Week Lows Today?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ttd-open-qs-024417040.html",
                 "score": 0
             },
             {
