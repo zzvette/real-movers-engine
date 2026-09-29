@@ -1,11 +1,11 @@
 {
-    "timestamp": "2026-09-29T15:59:31.682680+00:00",
+    "timestamp": "2026-09-29T16:11:29.610806+00:00",
     "catalysts": [
         {
-            "symbol": "CCL",
-            "headline": "Carnival Stock Surges After Earnings Show Record Revenue",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/d392c527-ff93-3787-b3cd-483f67a9acf9/carnival-stock-surges-after.html",
+            "symbol": "SMMT",
+            "headline": "Summit Stock Jumps 17% on $2 Billion AstraZeneca Investment",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/summit-stock-jumps-17-2-160737159.html",
             "score": 3
         },
         {
@@ -16,10 +16,24 @@
             "score": 3
         },
         {
-            "symbol": "SMMT",
-            "headline": "AstraZeneca Digs $2 Billion Out Of Its Coffers For Summit Deal, Taking On Bristol, Pfizer, Merck",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/98e08dd4-7f08-3d94-905c-70af001025d7/astrazeneca-digs-%242-billion.html",
+            "symbol": "RCL",
+            "headline": "Carnival Stock Surges After Earnings Show Record Revenue",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/d392c527-ff93-3787-b3cd-483f67a9acf9/carnival-stock-surges-after.html",
+            "score": 3
+        },
+        {
+            "symbol": "SDEV",
+            "headline": "Top Premarket Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110903421.html",
+            "score": 3
+        },
+        {
+            "symbol": "GLW",
+            "headline": "Corning wins more than $3B multi-year fiber supply deal with AT&T",
+            "publisher": "Proactive",
+            "link": "https://finance.yahoo.com/technology/articles/corning-wins-more-3b-multi-155500631.html",
             "score": 2
         },
         {
@@ -27,6 +41,13 @@
             "headline": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/9b17eb71-cd46-3ec2-b75f-c254685eb151/fair-isaac-tanks-after.html",
+            "score": 0
+        },
+        {
+            "symbol": "CCL",
+            "headline": "Stock Market Today: Dow Dips As Jobs, Consumer Reports Show This; Nvidia Shares Hit A Buy Point (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
             "score": 0
         },
         {
@@ -38,9 +59,9 @@
         },
         {
             "symbol": "ORCL",
-            "headline": "NetApp Expands Cloud Reach With Native Oracle OCI Storage \u2014 Full Roll-Out Planned Within 12 Months",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/technology/articles/netapp-expands-cloud-reach-native-153131848.html",
+            "headline": "Application Integration Market Report 2026: Capitalize on the $60.73 Billion Market by 2030 as iPaaS, Multi-Cloud and Cybersecurity Disrupt Enterprise IT\u2014Benchmark Microsoft, IBM, Oracle, SAP and Salesforce to Secure Share at 21.1% CAGR",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/articles/application-integration-market-report-2026-155900843.html",
             "score": 0
         },
         {
@@ -58,24 +79,10 @@
             "score": 0
         },
         {
-            "symbol": "BKYI",
-            "headline": "BIO-key Partners With Al Majlis Group to Expand Identity Security in UAE and Saudi Arabia",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/technology/ai/articles/bio-key-partners-al-majlis-145248769.html",
-            "score": 0
-        },
-        {
             "symbol": "QURE",
             "headline": "Why Is uniQure Stock Sinking on Tuesday?",
             "publisher": "Benzinga",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-uniqure-stock-sinking-tuesday-142831598.html",
-            "score": 0
-        },
-        {
-            "symbol": "DXST",
-            "headline": "Decent Holding Launches RMB 500 AI-Powered In-Home Senior Care Subscription Through SunCare",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/decent-holding-launches-rmb-500-145351011.html",
             "score": 0
         },
         {
@@ -87,16 +94,9 @@
         },
         {
             "symbol": "KMX",
-            "headline": "Stock Market Today: Dow Dips As Consumer Confidence Falls; Nvidia Shares Hit This Buy Point (Live Coverage)",
+            "headline": "Stock Market Today: Dow Dips As Jobs, Consumer Reports Show This; Nvidia Shares Hit A Buy Point (Live Coverage)",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
-            "score": 0
-        },
-        {
-            "symbol": "SLXN",
-            "headline": "Silexion Therapeutics Announces Exercise of Warrants",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/silexion-therapeutics-announces-exercise-warrants-120300008.html",
             "score": 0
         },
         {
@@ -121,24 +121,24 @@
             "score": 0
         },
         {
-            "symbol": "YMT",
-            "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
-            "score": 0
-        },
-        {
-            "symbol": "NCPL",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
-            "score": 0
-        },
-        {
             "symbol": "AIR",
             "headline": "AAR (NYSE:AIR) Reports Bullish Q3 CY2026 But Stock Drops",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/aar-nyse-air-reports-bullish-143226525.html",
+            "score": 0
+        },
+        {
+            "symbol": "AXTI",
+            "headline": "Amkor vs. AXT: Which Semiconductor Stock Is the Better Buy Now?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-vs-axt-semiconductor-stock-135800484.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMAT",
+            "headline": "Morgan Stanley resets AMAT stock price target by $79",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-amat-stock-150700469.html",
             "score": 0
         }
     ]
