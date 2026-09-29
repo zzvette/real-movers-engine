@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T12:27:01.000308+00:00",
+    "timestamp": "2026-09-29T12:49:04.825224+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -24,23 +24,23 @@
         },
         {
             "symbol": "MDB",
-            "headline": "Social Buzz: Wallstreetbets Stocks Advance Premarket Tuesday; MongoDB, Reddit to Open Higher",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-104301281.html",
+            "headline": "Cognition and MongoDB Partner to Modernize Enterprise Infrastructure In Months, Not Years",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cognition-mongodb-partner-modernize-enterprise-123000008.html",
             "score": 0
         },
         {
             "symbol": "SMMT",
-            "headline": "AstraZeneca Isn\u2019t Buying Summit Therapeutics. Its $2 Billion Investment Might Be Even Better.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/0bbe8da9-06b2-351f-82d1-49a1f1187b7c/astrazeneca-isn%E2%80%99t-buying.html",
+            "headline": "AstraZeneca\u2019s $2 billion Summit stake wins backing from UBS and Jefferies",
+            "publisher": "Proactive",
+            "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-2-billion-summit-stake-123000144.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "The Invesco QQQ Trust Recently Hit a New All-Time High. Is It Still a Good ETF to Buy Right Now?",
+            "headline": "Meet the 1 Stock I'd Buy With $5,000, Even If the Market Fell 10% Tomorrow",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-recently-hit-122002231.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meet-1-stock-id-buy-124300377.html",
             "score": 0
         },
         {
@@ -48,6 +48,13 @@
             "headline": "Top Premarket Decliners",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114036223.html",
+            "score": 0
+        },
+        {
+            "symbol": "NU",
+            "headline": "Nubank (NU): Monzo Talks Add a European Growth Option, but Credit Execution Remains Key",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nubank-nu-monzo-talks-add-015800028.html",
             "score": 0
         },
         {
@@ -59,9 +66,9 @@
         },
         {
             "symbol": "BA",
-            "headline": "Update: Ryanair Expects No Major Delivery Delays From Boeing's Software Snag",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ryanair-expects-no-major-delivery-105053163.html",
+            "headline": "What Is Driving The Move In Boeing Stock?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/driving-move-boeing-stock-123305824.html",
             "score": 0
         },
         {
