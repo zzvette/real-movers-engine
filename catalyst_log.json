@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T09:30:04.935641+00:00",
+    "timestamp": "2026-09-29T09:49:05.837391+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -30,13 +30,6 @@
             "score": 2
         },
         {
-            "symbol": "BA",
-            "headline": "Boeing (BA) Reaches Tentative Four Year Union Deal Covering 17,000 Engineers",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-reaches-tentative-four-070815432.html",
-            "score": 2
-        },
-        {
             "symbol": "KOD",
             "headline": "What Does Regeneron Pharmaceuticals (REGN) Need To Prove In Eye Disease Now?",
             "publisher": "Simply Wall St.",
@@ -45,16 +38,23 @@
         },
         {
             "symbol": "MDB",
-            "headline": "US Stock Market Today: S&P 500 Futures Slip On Renewed Inflation And Rate Jitters",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081026491.html",
+            "headline": "Meta is looking beyond consumers to turn its massive AI investment into profits.",
+            "publisher": "Axios",
+            "link": "https://finance.yahoo.com/small-business/articles/meta-looking-beyond-consumers-turn-093004690.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "Nvidia's $150B buyback could fuel next stock rally",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-150b-buyback-could-fuel-next-stock-rally-092454217.html",
+            "headline": "Market Chatter: Nvidia, AMD Lobby Trump Administration to Stop China-Related Chip Export Restrictions",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/articles/market-chatter-nvidia-amd-lobby-094351723.html",
+            "score": 0
+        },
+        {
+            "symbol": "BA",
+            "headline": "Update: Market Chatter: Boeing Discovers Software Glitch on 737 MAX Planes That Could Affect Landings",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/articles/market-chatter-boeing-discovers-software-093730242.html",
             "score": 0
         },
         {
@@ -80,9 +80,9 @@
         },
         {
             "symbol": "FICO",
-            "headline": "FICO stock tumbles as US moves to break mortgage scoring monopoly",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fico-stock-tumbles-us-moves-212713252.html",
+            "headline": "Goldman Sachs Adjusts Price Target on Fair Isaac to $1,322 From $1,548, Keeps Buy Rating",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-092554135.html",
             "score": 0
         },
         {
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "ASML",
-            "headline": "European Indexes Gain at the Open as AI-Related Stocks Rally",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/99879c2e-b8df-3eb0-8cd7-3231385b31d5/european-indexes-gain-at-the.html",
+            "headline": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/european-chip-stocks-rise-anthropic-094058464.html",
             "score": 0
         },
         {
