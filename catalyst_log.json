@@ -1,18 +1,18 @@
 {
-    "timestamp": "2026-09-29T21:24:13.711022+00:00",
+    "timestamp": "2026-09-29T23:47:23.711019+00:00",
     "catalysts": [
-        {
-            "symbol": "CCL",
-            "headline": "Stock Market Today, Sept. 29: Carnival Surges 13% on Record Bookings, Raised Guidance",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-29-210839178.html",
-            "score": 6
-        },
         {
             "symbol": "SDEV",
             "headline": "Top Premarket Gainers",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110903421.html",
+            "score": 3
+        },
+        {
+            "symbol": "CCL",
+            "headline": "Carnival Corporation Ltd (CCL) (Q3 2026) Earnings Call Highlights: Record Quarter, Raised ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/carnival-corporation-ltd-ccl-q3-230036848.html",
             "score": 3
         },
         {
@@ -24,9 +24,9 @@
         },
         {
             "symbol": "FICO",
-            "headline": "Update: Wall Street Drifts Lower Despite Retreat in Oil Prices",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-drifts-lower-despite-210422788.html",
+            "headline": "Why Fair Isaac Corporation (FICO) Stock Is Falling Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-fair-isaac-corporation-fico-220802714.html",
             "score": 0
         },
         {
@@ -38,23 +38,23 @@
         },
         {
             "symbol": "MU",
-            "headline": "Dow Jones Futures: Stocks Dip As Yields Rise But Bloom Energy Soars; Micron, Inflation Data Due",
+            "headline": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures%3A-stocks-dip.html",
+            "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html",
             "score": 0
         },
         {
             "symbol": "DKNG",
-            "headline": "Is It Worth Investing in DraftKings (DKNG) Based on Wall Street's Bullish Views?",
+            "headline": "Here's Why DraftKings (DKNG) Fell More Than Broader Market",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-draftkings-dkng-based-123003347.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-draftkings-dkng-fell-205002573.html",
             "score": 0
         },
         {
             "symbol": "AAPL",
-            "headline": "Apple, Meta, Iovance, Carnival, Fair Isaac, Bloom Energy, SpaceX, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/e4c63816-8d5f-3cc4-a06f-9cc7458d4a95/apple%2C-meta%2C-iovance%2C.html",
+            "headline": "Apple is betting $1,999 that consumers are ready for this shift",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/articles/apple-betting-1-999-consumers-233700549.html",
             "score": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "symbol": "CNXC",
-            "headline": "Concentrix Stock Falls as AI Transition Weighs on Revenue",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/2605435a-bfe7-332a-90fa-c78e25e1cbcc/concentrix-stock-falls-as-ai.html",
+            "headline": "Concentrix Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/concentrix-q3-earnings-call-highlights-220246724.html",
             "score": 0
         },
         {
@@ -87,16 +87,16 @@
         },
         {
             "symbol": "QURE",
-            "headline": "Uniqure Plummets 37% On Another Shocking Twist For Its Huntington's Drug",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/5dd8f0a3-9613-3560-8985-1e2c77796ea5/uniqure-plummets-37%25-on.html",
+            "headline": "QURE Stock Clocks Worst Day In Over 10 Months: Four-Year Huntington\u2019s Data Spooks Investors Despite Stronger Three-Year Filing Data",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/qure-stock-clocks-worst-day-220807103.html",
             "score": 0
         },
         {
             "symbol": "NKE",
-            "headline": "Silicon Valley's Leading CIOs, CISOs and Technology Executives to Gather October 6 for HMG Strategy's 18th Annual Silicon Valley C-Level Technology Leadership Summit; More Than 115 Technology Leaders Already Registered",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/articles/silicon-valleys-leading-cios-cisos-180400562.html",
+            "headline": "Here\u2019s How Much Nike Stock Is Expected to Move After Earnings",
+            "publisher": "Investopedia",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-nike-stock-expected-move-205620598.html",
             "score": 0
         },
         {
@@ -129,9 +129,9 @@
         },
         {
             "symbol": "BE",
-            "headline": "Dow Jones Futures: Stocks Dip As Yields Rise But Bloom Energy Soars; Micron, Inflation Data Due",
+            "headline": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures%3A-stocks-dip.html",
+            "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html",
             "score": 0
         }
     ]
