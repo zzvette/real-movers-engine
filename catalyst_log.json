@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T12:02:41.333595+00:00",
+    "timestamp": "2026-09-29T12:27:01.000308+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -10,9 +10,9 @@
         },
         {
             "symbol": "NVTS",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111240703.html",
+            "headline": "Navitas Stock Jumps After U.S. Army Picks It for 10 kV Program",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/navitas-stock-jumps-u-army-121728174.html",
             "score": 3
         },
         {
@@ -31,16 +31,16 @@
         },
         {
             "symbol": "SMMT",
-            "headline": "Premarket movers: FICO sinks while Summit, AAR and CarMax rise",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-fico-sinks-while-113939697.html",
+            "headline": "AstraZeneca Isn\u2019t Buying Summit Therapeutics. Its $2 Billion Investment Might Be Even Better.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/0bbe8da9-06b2-351f-82d1-49a1f1187b7c/astrazeneca-isn%E2%80%99t-buying.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "US stock futures tick higher as tech steadies though oil, yields stay high",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-tick-higher-114812304.html",
+            "headline": "The Invesco QQQ Trust Recently Hit a New All-Time High. Is It Still a Good ETF to Buy Right Now?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-recently-hit-122002231.html",
             "score": 0
         },
         {
@@ -48,13 +48,6 @@
             "headline": "Top Premarket Decliners",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114036223.html",
-            "score": 0
-        },
-        {
-            "symbol": "NU",
-            "headline": "Nubank (NU): Monzo Talks Add a European Growth Option, but Credit Execution Remains Key",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nubank-nu-monzo-talks-add-015800028.html",
             "score": 0
         },
         {
@@ -80,16 +73,16 @@
         },
         {
             "symbol": "SLXN",
-            "headline": "Silexion Therapeutics Reports Positive Preclinical Findings for SIL204, Demonstrating Key Mechanism for Endogenous Systemic Uptake in KRAS-Driven Cancers",
+            "headline": "Silexion Therapeutics Announces Exercise of Warrants",
             "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/silexion-therapeutics-reports-positive-preclinical-123000285.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/silexion-therapeutics-announces-exercise-warrants-120300008.html",
             "score": 0
         },
         {
             "symbol": "KMX",
-            "headline": "Premarket movers: FICO sinks while Summit, AAR and CarMax rise",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-fico-sinks-while-113939697.html",
+            "headline": "Stock Market Today: Dow Rises As Oil Prices, Treasury Yields Fall; Nvidia Stock Hits Buy Point (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-rises.html",
             "score": 0
         },
         {
@@ -115,16 +108,16 @@
         },
         {
             "symbol": "ASML",
-            "headline": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
+            "headline": "Global chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
             "publisher": "Investing.com",
             "link": "https://finance.yahoo.com/technology/ai/articles/european-chip-stocks-rise-anthropic-094058464.html",
             "score": 0
         },
         {
             "symbol": "UEC",
-            "headline": "Uranium Energy: Fiscal Q4 Earnings Snapshot",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-fiscal-q4-earnings-103506153.html",
+            "headline": "U.S. Wants More Uranium. Earnings From Uranium Energy Show It\u2019s Meeting That Demand.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/5009ec4c-4832-3596-8876-1579143381d0/u.s.-wants-more-uranium..html",
             "score": 0
         }
     ]
