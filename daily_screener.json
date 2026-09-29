@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T02:11:46.269725+00:00",
+    "timestamp": "2026-09-29T02:42:11.146583+00:00",
     "signals": {
         "catalysts": [
             {
@@ -11,16 +11,9 @@
             },
             {
                 "symbol": "KOD",
-                "headline": "Kodiak Sciences (KOD) Climbs Nearly 3x on Promising Wet AMD Trial",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/kodiak-sciences-kod-climbs-nearly-231435477.html",
-                "score": 3
-            },
-            {
-                "symbol": "MDB",
-                "headline": "MongoDB stock crashes 26% as its CEO jumps ship",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-stock-crashes-26-ceo-011700383.html",
+                "headline": "KOD Stock Cracks September\u2019s Top 5 Biotech Gainers On Eye Drug Win \u2014 But \u2018Pharma Bro\u2019 Shkreli Says It \u2018Still Sucks\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/kod-stock-cracks-september-top-021300360.html",
                 "score": 3
             },
             {
@@ -38,6 +31,13 @@
                 "score": 3
             },
             {
+                "symbol": "BA",
+                "headline": "Boeing (BA) Is Generating Cash Again. How Much Comes From Future Deliveries?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-generating-cash-again-022819317.html",
+                "score": 2
+            },
+            {
                 "symbol": "SMMT",
                 "headline": "SMMT Stock Soars After-Hours: Did AstraZeneca Just End Summit\u2019s Cash Scare?",
                 "publisher": "Stocktwits",
@@ -45,17 +45,10 @@
                 "score": 2
             },
             {
-                "symbol": "FFAI",
-                "headline": "AIxCrypto to Buy Faraday Future's Robotics Business in $200 Million Stock Deal",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/aixcrypto-buy-faraday-future-apos-220318048.html",
-                "score": 2
-            },
-            {
-                "symbol": "BA",
-                "headline": "The Boeing Company (BA) is Showing Signs of a Space Comeback. Can It Close the Gap With Space Exploration (SPCX)?",
+                "symbol": "MDB",
+                "headline": "MongoDB (MDB): CEO Exit Puts Strategy Under Scrutiny Ahead of Investor Day",
                 "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-showing-signs-214424254.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-ceo-exit-puts-021532137.html",
                 "score": 0
             },
             {
@@ -66,13 +59,6 @@
                 "score": 0
             },
             {
-                "symbol": "NU",
-                "headline": "Nubank (NU): Monzo Talks Add a European Growth Option, but Credit Execution Remains Key",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nubank-nu-monzo-talks-add-015800028.html",
-                "score": 0
-            },
-            {
                 "symbol": "FICO",
                 "headline": "FICO stock tumbles as US moves to break mortgage scoring monopoly",
                 "publisher": "Investing.com",
@@ -80,45 +66,73 @@
                 "score": 0
             },
             {
-                "symbol": "SLXN",
-                "headline": "Silexion Therapeutics Reports Positive Preclinical Findings for SIL204, Demonstrating Key Mechanism for Endogenous Systemic Uptake in KRAS-Driven Cancers",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/silexion-therapeutics-reports-positive-preclinical-123000285.html",
+                "symbol": "NU",
+                "headline": "Nubank (NU): Monzo Talks Add a European Growth Option, but Credit Execution Remains Key",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nubank-nu-monzo-talks-add-015800028.html",
+                "score": 0
+            },
+            {
+                "symbol": "RBLX",
+                "headline": "Roblox (RBLX) Stock Could Trade At A Discount As Shares Fell 70%",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-stock-could-trade-020945115.html",
+                "score": 0
+            },
+            {
+                "symbol": "CLF",
+                "headline": "Why Cleveland-Cliffs (CLF) Dipped More Than Broader Market Today",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-cleveland-cliffs-clf-dipped-210003474.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRM",
+                "headline": "Is CEO Jensen Huang Becoming Nvidia (NVDA)\u2019s Most Valuable Political Asset?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html",
+                "score": 0
+            },
+            {
+                "symbol": "TTD",
+                "headline": "The Trade Desk (TTD) Declines More Than Market: Some Information for Investors",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-declines-more-204506678.html",
+                "score": 0
+            },
+            {
+                "symbol": "QS",
+                "headline": "Is QuantumScape a Lost Cause?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-lost-cause-135000384.html",
+                "score": 0
+            },
+            {
+                "symbol": "ISRG",
+                "headline": "Gilead vs. Intuitive Surgical: Which Healthcare Stock Offers the Better Risk-Adjusted Upside?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/healthcare/articles/gilead-vs-intuitive-surgical-healthcare-192725169.html",
                 "score": 0
             },
             {
                 "symbol": "^DJI",
+                "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Sell Off",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html",
+                "score": 0
+            },
+            {
+                "symbol": "^GSPC",
                 "headline": "U.S. stock futures flat after soaring yields, AI jitters dent Wall St",
                 "publisher": "Investing.com",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-flat-soaring-012817114.html",
                 "score": 0
             },
             {
-                "symbol": "HHH",
-                "headline": "Does Howard Hughes Holdings (HHH) Have the Potential to Rally 31.04% as Wall Street Analysts Expect?",
+                "symbol": "CMG",
+                "headline": "Chipotle Mexican Grill (CMG) Gains As Market Dips: What You Should Know",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/does-howard-hughes-holdings-hhh-125502273.html",
-                "score": 0
-            },
-            {
-                "symbol": "AUR",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
-                "score": 0
-            },
-            {
-                "symbol": "MXN=X",
-                "headline": "Explainer-The super peso is back \u2014 and it's starting to hurt",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/currencies/articles/explainer-super-peso-back-starting-225352201.html",
-                "score": 0
-            },
-            {
-                "symbol": "RBLX",
-                "headline": "Roblox (RBLX) Dips More Than Broader Market: What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-dips-more-broader-205003374.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-cmg-gains-205005540.html",
                 "score": 0
             }
         ]
