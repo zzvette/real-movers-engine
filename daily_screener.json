@@ -1,13 +1,20 @@
 {
-    "timestamp": "2026-09-29T15:33:34.067337+00:00",
+    "timestamp": "2026-09-29T15:48:40.439730+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "NCLH",
-                "headline": "Cruise Stocks Rally as Carnival\u2019s Q3 Results Land: Carnival Surges 12%, Royal Caribbean Gains 7%, Norwegian Rises 5%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cruise-stocks-rally-carnival-q3-135401338.html",
+                "headline": "Carnival Stock Surges After Earnings Show Record Revenue",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/d392c527-ff93-3787-b3cd-483f67a9acf9/carnival-stock-surges-after.html",
                 "score": 3
+            },
+            {
+                "symbol": "SMMT",
+                "headline": "AstraZeneca Digs $2 Billion Out Of Its Coffers For Summit Deal, Taking On Bristol, Pfizer, Merck",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/98e08dd4-7f08-3d94-905c-70af001025d7/astrazeneca-digs-%242-billion.html",
+                "score": 2
             },
             {
                 "symbol": "FICO",
@@ -32,9 +39,9 @@
             },
             {
                 "symbol": "ORCL",
-                "headline": "OpenAI revenue run rate nears $70 billion as AI IPO race heats up",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/openai-revenue-run-rate-nears-151823201.html",
+                "headline": "NetApp Expands Cloud Reach With Native Oracle OCI Storage \u2014 Full Roll-Out Planned Within 12 Months",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/technology/articles/netapp-expands-cloud-reach-native-153131848.html",
                 "score": 0
             },
             {
@@ -46,9 +53,9 @@
             },
             {
                 "symbol": "NVTS",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
+                "headline": "Navitas Stock Is Rising. Why It\u2019s a Hot Chip Play Again.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/aeddd1d8-344b-35c5-9f39-b21621a73f41/navitas-stock-is-rising.-why.html",
                 "score": 0
             },
             {
@@ -60,9 +67,9 @@
             },
             {
                 "symbol": "QURE",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
+                "headline": "Why Is uniQure Stock Sinking on Tuesday?",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-uniqure-stock-sinking-tuesday-142831598.html",
                 "score": 0
             },
             {
