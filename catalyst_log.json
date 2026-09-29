@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T10:01:12.761676+00:00",
+    "timestamp": "2026-09-29T10:20:45.207166+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -23,6 +23,13 @@
             "score": 2
         },
         {
+            "symbol": "KOD",
+            "headline": "What Does Regeneron Pharmaceuticals (REGN) Need To Prove In Eye Disease Now?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/does-regeneron-pharmaceuticals-regn-prove-070805615.html",
+            "score": 0
+        },
+        {
             "symbol": "MDB",
             "headline": "Meta is looking beyond consumers to turn its massive AI investment into profits.",
             "publisher": "Axios",
@@ -31,16 +38,16 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "Teva Pharmaceutical: 3 Numbers That Explain This Generic-Drug Turnaround",
+            "headline": "Warren Buffett's Top Crash-Survival Strategy Has 98 Years of History Behind It",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/healthcare/articles/teva-pharmaceutical-3-numbers-explain-095500359.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-top-crash-survival-101000541.html",
             "score": 0
         },
         {
-            "symbol": "BA",
-            "headline": "Update: Market Chatter: Boeing Discovers Software Glitch on 737 MAX Planes That Could Affect Landings",
+            "symbol": "FICO",
+            "headline": "Rocket Mortgage Adopts VantageScore 4.0 as Preferred Credit Scoring Model for Certain Loan Products",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/market-chatter-boeing-discovers-software-093730242.html",
+            "link": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-adopts-vantagescore-4-095650115.html",
             "score": 0
         },
         {
@@ -58,6 +65,20 @@
             "score": 0
         },
         {
+            "symbol": "BA",
+            "headline": "Market Chatter: Ryanair Expects No Major Delivery Delays From Boeing's Software Snag",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ryanair-expects-no-100548204.html",
+            "score": 0
+        },
+        {
+            "symbol": "BKYI",
+            "headline": "BIO-key Partners with Al Majlis Group to Expand Identity Security Across Arabian Gulf",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/bio-key-partners-al-majlis-073000380.html",
+            "score": 0
+        },
+        {
             "symbol": "SLXN",
             "headline": "Silexion Therapeutics Reports Positive Preclinical Findings for SIL204, Demonstrating Key Mechanism for Endogenous Systemic Uptake in KRAS-Driven Cancers",
             "publisher": "GlobeNewswire",
@@ -65,17 +86,10 @@
             "score": 0
         },
         {
-            "symbol": "FICO",
-            "headline": "Rocket Mortgage Adopts VantageScore 4.0 as Preferred Credit Scoring Model for Certain Loan Products",
+            "symbol": "KMX",
+            "headline": "CarMax Fiscal Q2 Earnings, Sales Rise; Shares Up Pre-Bell",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-adopts-vantagescore-4-095650115.html",
-            "score": 0
-        },
-        {
-            "symbol": "YMT",
-            "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/carmax-fiscal-q2-earnings-sales-100537982.html",
             "score": 0
         },
         {
@@ -86,10 +100,10 @@
             "score": 0
         },
         {
-            "symbol": "ASML",
-            "headline": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/european-chip-stocks-rise-anthropic-094058464.html",
+            "symbol": "YMT",
+            "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
             "score": 0
         },
         {
@@ -100,17 +114,17 @@
             "score": 0
         },
         {
-            "symbol": "CRM",
-            "headline": "Can Snap (SNAP) Turn SPECS Intelligence Into a Credible Enterprise AR Profit Engine?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/snap-snap-turn-specs-intelligence-090830996.html",
+            "symbol": "ASML",
+            "headline": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/european-chip-stocks-rise-anthropic-094058464.html",
             "score": 0
         },
         {
-            "symbol": "AMPX",
-            "headline": "Amprius Technologies Shares Rise 11% After Securing Up to $75 Million Defense Grant",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-shares-rise-11-135945470.html",
+            "symbol": "UEC",
+            "headline": "Uranium Energy Corp Reports Fiscal 2026 Results",
+            "publisher": "CNW Group",
+            "link": "https://finance.yahoo.com/energy/articles/uranium-energy-corp-reports-fiscal-093000060.html",
             "score": 0
         }
     ]
