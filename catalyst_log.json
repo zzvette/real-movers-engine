@@ -1,27 +1,6 @@
 {
-    "timestamp": "2026-09-29T15:16:52.654941+00:00",
+    "timestamp": "2026-09-29T15:33:34.067337+00:00",
     "catalysts": [
-        {
-            "symbol": "FICO",
-            "headline": "Fair Isaac Shares Fall After FHFA Chief Says VantageScore Moving to FICO Classic Pricing Grid",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-shares-fall-fhfa-145931943.html",
-            "score": 3
-        },
-        {
-            "symbol": "CCL",
-            "headline": "'Vacations are sacrosanct': Carnival stock surges on record quarter, healthy cruise demand",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/vacations-are-sacrosanct-carnival-stock-surges-on-record-quarter-healthy-cruise-demand-145002464.html",
-            "score": 3
-        },
-        {
-            "symbol": "BE",
-            "headline": "Bloom Energy Rallies 11% as Fuel Cell Selloff Reverses; FuelCell Surges 7%, Plug Power Rises 3%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-rallies-11-fuel-140405078.html",
-            "score": 3
-        },
         {
             "symbol": "NCLH",
             "headline": "Cruise Stocks Rally as Carnival\u2019s Q3 Results Land: Carnival Surges 12%, Royal Caribbean Gains 7%, Norwegian Rises 5%",
@@ -30,11 +9,18 @@
             "score": 3
         },
         {
-            "symbol": "SMMT",
-            "headline": "AstraZeneca Digs $2 Billion Out Of Its Coffers For Summit Deal, Taking On Bristol, Pfizer, Merck",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/98e08dd4-7f08-3d94-905c-70af001025d7/astrazeneca-digs-%242-billion.html",
-            "score": 2
+            "symbol": "FICO",
+            "headline": "Fair Isaac Can\u2019t Win for Losing: First AI, Now Competition Crushes FICO Stock",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-t-win-losing-152315037.html",
+            "score": 0
+        },
+        {
+            "symbol": "CCL",
+            "headline": "Why Carnival Stock Popped Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-carnival-stock-popped-today-151352351.html",
+            "score": 0
         },
         {
             "symbol": "IOVA",
@@ -45,9 +31,16 @@
         },
         {
             "symbol": "ORCL",
-            "headline": "NetApp, Oracle Plan Cloud Storage Service for AI, Enterprise Workloads",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/netapp-oracle-plan-cloud-storage-145859465.html",
+            "headline": "OpenAI revenue run rate nears $70 billion as AI IPO race heats up",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/openai-revenue-run-rate-nears-151823201.html",
+            "score": 0
+        },
+        {
+            "symbol": "BE",
+            "headline": "The Coming AI Blackout: $10 Trillion Data Center Surge Threatens to Break the Grid",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/coming-ai-blackout-10-trillion-151952055.html",
             "score": 0
         },
         {
