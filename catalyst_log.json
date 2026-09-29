@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T09:11:06.893869+00:00",
+    "timestamp": "2026-09-29T09:30:04.935641+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -23,13 +23,6 @@
             "score": 3
         },
         {
-            "symbol": "BA",
-            "headline": "Boeing (BA) Reaches Tentative Four Year Union Deal Covering 17,000 Engineers",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-reaches-tentative-four-070815432.html",
-            "score": 2
-        },
-        {
             "symbol": "SMMT",
             "headline": "AstraZeneca invests $2 billion in Summit Therapeutics in cancer drug deal",
             "publisher": "Proactive",
@@ -37,10 +30,10 @@
             "score": 2
         },
         {
-            "symbol": "NVDA",
-            "headline": "Nvidia's cash machine and cheaper stock make the case for historic buyback: Chart of the Day",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/nvidias-cash-machine-and-cheaper-stock-make-the-case-for-historic-buyback-chart-of-the-day-090000518.html",
+            "symbol": "BA",
+            "headline": "Boeing (BA) Reaches Tentative Four Year Union Deal Covering 17,000 Engineers",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-reaches-tentative-four-070815432.html",
             "score": 2
         },
         {
@@ -58,6 +51,13 @@
             "score": 0
         },
         {
+            "symbol": "NVDA",
+            "headline": "Nvidia's $150B buyback could fuel next stock rally",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-150b-buyback-could-fuel-next-stock-rally-092454217.html",
+            "score": 0
+        },
+        {
             "symbol": "NU",
             "headline": "Nubank (NU): Monzo Talks Add a European Growth Option, but Credit Execution Remains Key",
             "publisher": "Insider Monkey",
@@ -72,13 +72,6 @@
             "score": 0
         },
         {
-            "symbol": "FICO",
-            "headline": "FICO stock tumbles as US moves to break mortgage scoring monopoly",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fico-stock-tumbles-us-moves-212713252.html",
-            "score": 0
-        },
-        {
             "symbol": "SLXN",
             "headline": "Silexion Therapeutics Reports Positive Preclinical Findings for SIL204, Demonstrating Key Mechanism for Endogenous Systemic Uptake in KRAS-Driven Cancers",
             "publisher": "GlobeNewswire",
@@ -86,10 +79,17 @@
             "score": 0
         },
         {
-            "symbol": "RDDT",
-            "headline": "Reddit and Teladoc Shares Plummet, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-teladoc-shares-plummet-know-011836612.html",
+            "symbol": "FICO",
+            "headline": "FICO stock tumbles as US moves to break mortgage scoring monopoly",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fico-stock-tumbles-us-moves-212713252.html",
+            "score": 0
+        },
+        {
+            "symbol": "YMT",
+            "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
             "score": 0
         },
         {
@@ -100,38 +100,24 @@
             "score": 0
         },
         {
-            "symbol": "XPEV",
-            "headline": "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nio-advances-3-geely-takes-133721586.html",
+            "symbol": "RDDT",
+            "headline": "Reddit and Teladoc Shares Plummet, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-teladoc-shares-plummet-know-011836612.html",
             "score": 0
         },
         {
-            "symbol": "NFLX",
-            "headline": "Netflix Analysts Are Souring on the Stock as Growth Fears Mount",
-            "publisher": "Bloomberg",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-analysts-souring-stock-growth-083227265.html",
+            "symbol": "CRM",
+            "headline": "Can Snap (SNAP) Turn SPECS Intelligence Into a Credible Enterprise AR Profit Engine?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/snap-snap-turn-specs-intelligence-090830996.html",
             "score": 0
         },
         {
-            "symbol": "AUDUSD=X",
-            "headline": "AUD/USD, NZD/USD, and USD/JPY Short -Term Forecast for 09/07/2026",
-            "publisher": "FX Empire",
-            "link": "https://finance.yahoo.com/markets/currencies/articles/aud-usd-nzd-usd-usd-143104299.html",
-            "score": 0
-        },
-        {
-            "symbol": "QS",
-            "headline": "Why Did TTD, OPEN, QS Stocks Tumble To 52-Week Lows Today?",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ttd-open-qs-024417040.html",
-            "score": 0
-        },
-        {
-            "symbol": "PLUG",
-            "headline": "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-8-sharp-171245218.html",
+            "symbol": "AMPX",
+            "headline": "Amprius Technologies Shares Rise 11% After Securing Up to $75 Million Defense Grant",
+            "publisher": "InvestorsHub",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-shares-rise-11-135945470.html",
             "score": 0
         }
     ]
