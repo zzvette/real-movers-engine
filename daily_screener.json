@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T04:43:49.943477+00:00",
+    "timestamp": "2026-09-29T09:11:06.893869+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,30 +25,37 @@
             },
             {
                 "symbol": "BA",
-                "headline": "Boeing (BA) Is Generating Cash Again. How Much Comes From Future Deliveries?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-generating-cash-again-022819317.html",
+                "headline": "Boeing (BA) Reaches Tentative Four Year Union Deal Covering 17,000 Engineers",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-reaches-tentative-four-070815432.html",
                 "score": 2
             },
             {
                 "symbol": "SMMT",
-                "headline": "SMMT Stock Soars After-Hours: Did AstraZeneca Just End Summit\u2019s Cash Scare?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/smmt-stock-soars-hours-did-233556237.html",
+                "headline": "AstraZeneca invests $2 billion in Summit Therapeutics in cancer drug deal",
+                "publisher": "Proactive",
+                "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-invests-2-billion-summit-063200368.html",
+                "score": 2
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "Nvidia's cash machine and cheaper stock make the case for historic buyback: Chart of the Day",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/nvidias-cash-machine-and-cheaper-stock-make-the-case-for-historic-buyback-chart-of-the-day-090000518.html",
                 "score": 2
             },
             {
                 "symbol": "KOD",
-                "headline": "Why Kodiak Sciences Skyrocketed Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/healthcare/articles/why-kodiak-sciences-skyrocketed-today-025849812.html",
+                "headline": "What Does Regeneron Pharmaceuticals (REGN) Need To Prove In Eye Disease Now?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/does-regeneron-pharmaceuticals-regn-prove-070805615.html",
                 "score": 0
             },
             {
                 "symbol": "MDB",
-                "headline": "MongoDB CEO\u2019s Surprise Exit 'Creates More Questions Than Answers,' Analyst Says Ahead Of Investor Day",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-ceo-surprise-exit-creates-041227111.html",
+                "headline": "US Stock Market Today: S&P 500 Futures Slip On Renewed Inflation And Rate Jitters",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081026491.html",
                 "score": 0
             },
             {
@@ -73,17 +80,45 @@
                 "score": 0
             },
             {
-                "symbol": "RBLX",
-                "headline": "Roblox (RBLX) Stock Could Trade At A Discount As Shares Fell 70%",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-stock-could-trade-020945115.html",
+                "symbol": "SLXN",
+                "headline": "Silexion Therapeutics Reports Positive Preclinical Findings for SIL204, Demonstrating Key Mechanism for Endogenous Systemic Uptake in KRAS-Driven Cancers",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/silexion-therapeutics-reports-positive-preclinical-123000285.html",
                 "score": 0
             },
             {
-                "symbol": "CMG",
-                "headline": "Chipotle Mexican Grill (CMG) Gains As Market Dips: What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-cmg-gains-205005540.html",
+                "symbol": "RDDT",
+                "headline": "Reddit and Teladoc Shares Plummet, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-teladoc-shares-plummet-know-011836612.html",
+                "score": 0
+            },
+            {
+                "symbol": "ASML",
+                "headline": "European Indexes Gain at the Open as AI-Related Stocks Rally",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/99879c2e-b8df-3eb0-8cd7-3231385b31d5/european-indexes-gain-at-the.html",
+                "score": 0
+            },
+            {
+                "symbol": "XPEV",
+                "headline": "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nio-advances-3-geely-takes-133721586.html",
+                "score": 0
+            },
+            {
+                "symbol": "NFLX",
+                "headline": "Netflix Analysts Are Souring on the Stock as Growth Fears Mount",
+                "publisher": "Bloomberg",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-analysts-souring-stock-growth-083227265.html",
+                "score": 0
+            },
+            {
+                "symbol": "AUDUSD=X",
+                "headline": "AUD/USD, NZD/USD, and USD/JPY Short -Term Forecast for 09/07/2026",
+                "publisher": "FX Empire",
+                "link": "https://finance.yahoo.com/markets/currencies/articles/aud-usd-nzd-usd-usd-143104299.html",
                 "score": 0
             },
             {
@@ -94,45 +129,10 @@
                 "score": 0
             },
             {
-                "symbol": "CRM",
-                "headline": "Is CEO Jensen Huang Becoming Nvidia (NVDA)\u2019s Most Valuable Political Asset?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html",
-                "score": 0
-            },
-            {
-                "symbol": "^DJI",
-                "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Sell Off",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html",
-                "score": 0
-            },
-            {
-                "symbol": "NFLX",
-                "headline": "What's Wrong With Netflix Stock?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/whats-wrong-netflix-stock-220500500.html",
-                "score": 0
-            },
-            {
-                "symbol": "TTD",
-                "headline": "Why Did TTD, OPEN, QS Stocks Tumble To 52-Week Lows Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ttd-open-qs-024417040.html",
-                "score": 0
-            },
-            {
-                "symbol": "JEPQ",
-                "headline": "Retiring on $800K? These 4 ETFs Let You Take 5% Safely",
+                "symbol": "PLUG",
+                "headline": "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/options/articles/retiring-800k-4-etfs-let-220114842.html",
-                "score": 0
-            },
-            {
-                "symbol": "DVLT",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-8-sharp-171245218.html",
                 "score": 0
             }
         ]
