@@ -1,6 +1,13 @@
 {
-    "timestamp": "2026-09-29T15:48:40.439730+00:00",
+    "timestamp": "2026-09-29T15:59:31.682680+00:00",
     "catalysts": [
+        {
+            "symbol": "CCL",
+            "headline": "Carnival Stock Surges After Earnings Show Record Revenue",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/d392c527-ff93-3787-b3cd-483f67a9acf9/carnival-stock-surges-after.html",
+            "score": 3
+        },
         {
             "symbol": "NCLH",
             "headline": "Carnival Stock Surges After Earnings Show Record Revenue",
@@ -17,16 +24,9 @@
         },
         {
             "symbol": "FICO",
-            "headline": "Fair Isaac Can\u2019t Win for Losing: First AI, Now Competition Crushes FICO Stock",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-t-win-losing-152315037.html",
-            "score": 0
-        },
-        {
-            "symbol": "CCL",
-            "headline": "Why Carnival Stock Popped Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-carnival-stock-popped-today-151352351.html",
+            "headline": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/9b17eb71-cd46-3ec2-b75f-c254685eb151/fair-isaac-tanks-after.html",
             "score": 0
         },
         {
