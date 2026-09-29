@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T23:59:40.104573+00:00",
+    "timestamp": "2026-09-29T00:18:03.123490+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -13,20 +13,6 @@
             "headline": "Kodiak Sciences (KOD) Climbs Nearly 3x on Promising Wet AMD Trial",
             "publisher": "Insider Monkey",
             "link": "https://finance.yahoo.com/markets/stocks/articles/kodiak-sciences-kod-climbs-nearly-231435477.html",
-            "score": 3
-        },
-        {
-            "symbol": "NVTS",
-            "headline": "Why NVTS Stock Surged 20% After-Hours",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvts-stock-surged-20-213212401.html",
-            "score": 3
-        },
-        {
-            "symbol": "NVDA",
-            "headline": "Sandisk Jumped 22% the Day After Micron's Last Report. Micron Reports Again Wednesday.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-jumped-22-day-microns-233401523.html",
             "score": 3
         },
         {
@@ -72,6 +58,13 @@
             "score": 0
         },
         {
+            "symbol": "NVDA",
+            "headline": "Samsung Affiliates to Invest $1 Billion in KKR's Helix AI Infrastructure",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/samsung-affiliates-invest-1-billion-000354902.html",
+            "score": 0
+        },
+        {
             "symbol": "NU",
             "headline": "Nu Holdings Ltd. (NU) Declines More Than Market: Some Information for Investors",
             "publisher": "Zacks",
@@ -87,16 +80,16 @@
         },
         {
             "symbol": "SPCX",
-            "headline": "Factbox-From SpaceX to Saudi Aramco: World's biggest IPOs as Anthropic's blockbuster listing looms",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/factbox-elon-musks-spacex-kicks-194832790.html",
+            "headline": "Mizuho makes bold call on SpaceX stock before key launch",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-makes-bold-call-spacex-000300356.html",
             "score": 0
         },
         {
             "symbol": "GC=F",
-            "headline": "Entr\u00e9e Resources Ltd. President and CEO Chris Adams Issues Letter to Shareholders",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/entr-e-resources-ltd-president-232400611.html",
+            "headline": "Fortuna Mining Targets 500,000 Gold Ounces With West Africa Expansion",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/fortuna-mining-targets-500-000-000207497.html",
             "score": 0
         },
         {
@@ -125,6 +118,13 @@
             "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
+            "score": 0
+        },
+        {
+            "symbol": "ARAY",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143039416.html",
             "score": 0
         }
     ]
