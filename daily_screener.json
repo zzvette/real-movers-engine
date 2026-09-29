@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T10:37:56.879978+00:00",
+    "timestamp": "2026-09-29T10:53:19.642484+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,13 +8,6 @@
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-13-refinancing-rally-174318002.html",
                 "score": 5
-            },
-            {
-                "symbol": "KMX",
-                "headline": "CarMax Beats Earnings Estimates as Revenue Jumps 20%. The Stock Rises.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/c8e29890-6267-3075-9d10-9b6f664d9d9c/carmax-beats-earnings.html",
-                "score": 3
             },
             {
                 "symbol": "KOD",
@@ -39,23 +32,23 @@
             },
             {
                 "symbol": "SMMT",
-                "headline": "AMD, Nvidia, Navitas, Summit Therapeutics, Fair Isaac, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/e4c63816-8d5f-3cc4-a06f-9cc7458d4a95/amd%2C-nvidia%2C-navitas%2C-summit.html",
+                "headline": "Summit Therapeutics Shares Rise 22% After $2 Billion AstraZeneca Investment",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/summit-therapeutics-shares-rise-22-102451847.html",
                 "score": 0
             },
             {
                 "symbol": "NVDA",
-                "headline": "BlackRock Just Made a Bold Prediction About AI and Stablecoins. Here's What Crypto Investors Need to Know.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-just-made-bold-prediction-102000858.html",
+                "headline": "Nvidia CEO Jensen Huang says \u2018nothing would give me more joy\u2019 than to pay more taxes: \u2018I'm just afraid of being poor\u2019",
+                "publisher": "Moneywise",
+                "link": "https://finance.yahoo.com/economy/policy/articles/nvidia-ceo-jensen-huang-says-104500863.html",
                 "score": 0
             },
             {
                 "symbol": "FICO",
-                "headline": "AMD, Nvidia, Navitas, Summit Therapeutics, Fair Isaac, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/e4c63816-8d5f-3cc4-a06f-9cc7458d4a95/amd%2C-nvidia%2C-navitas%2C-summit.html",
+                "headline": "Barclays Adjusts Price Target on Fair Isaac to $935 From $1,700, Keeps Overweight Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-fair-104102672.html",
                 "score": 0
             },
             {
@@ -94,6 +87,13 @@
                 "score": 0
             },
             {
+                "symbol": "KMX",
+                "headline": "CarMax shares rise over 2% on strong earnings and revenue beat",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/carmax-shares-rise-over-2-104304345.html",
+                "score": 0
+            },
+            {
                 "symbol": "ABCL",
                 "headline": "JPMorgan Initiates AbCellera Biologics at Overweight With $17 Price Target",
                 "publisher": "MT Newswires",
@@ -123,9 +123,9 @@
             },
             {
                 "symbol": "UEC",
-                "headline": "Uranium Energy's Fiscal Q4 Loss Widens",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-apos-fiscal-q4-102623140.html",
+                "headline": "Uranium Energy: Fiscal Q4 Earnings Snapshot",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-fiscal-q4-earnings-103506153.html",
                 "score": 0
             }
         ]
