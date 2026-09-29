@@ -1,33 +1,40 @@
 {
-    "timestamp": "2026-09-29T14:04:34.809193+00:00",
+    "timestamp": "2026-09-29T14:20:56.434612+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "AMC",
-                "headline": "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+                "symbol": "NCLH",
+                "headline": "Cruise Stocks Rally as Carnival\u2019s Q3 Results Land: Carnival Surges 12%, Royal Caribbean Gains 7%, Norwegian Rises 5%",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-13-refinancing-rally-174318002.html",
-                "score": 5
-            },
-            {
-                "symbol": "UEC",
-                "headline": "Uranium Energy Surges 6% as Multi-Mine Ramp Delivers $93.13 Realized Uranium Price; Oklo and NuScale Power Tick Up",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-energy-surges-6-multi-124514020.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cruise-stocks-rally-carnival-q3-135401338.html",
                 "score": 3
             },
             {
-                "symbol": "KOD",
-                "headline": "What Does Regeneron Pharmaceuticals (REGN) Need To Prove In Eye Disease Now?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/does-regeneron-pharmaceuticals-regn-prove-070805615.html",
-                "score": 0
+                "symbol": "FCEL",
+                "headline": "Bloom Energy Rallies 11% as Fuel Cell Selloff Reverses; FuelCell Surges 7%, Plug Power Rises 3%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-rallies-11-fuel-140405078.html",
+                "score": 3
             },
             {
-                "symbol": "MDB",
-                "headline": "Cognition and MongoDB Partner to Modernize Enterprise Infrastructure In Months, Not Years",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cognition-mongodb-partner-modernize-enterprise-123000008.html",
+                "symbol": "RCL",
+                "headline": "Cruise Stocks Rally as Carnival\u2019s Q3 Results Land: Carnival Surges 12%, Royal Caribbean Gains 7%, Norwegian Rises 5%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cruise-stocks-rally-carnival-q3-135401338.html",
+                "score": 3
+            },
+            {
+                "symbol": "ASTS",
+                "headline": "AST SpaceMobile Rises 5% as New Change-of-Control Severance Plan Fuels Buyout Speculation; SpaceX and Rocket Lab Tick Up",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-rises-5-change-124313018.html",
+                "score": 2
+            },
+            {
+                "symbol": "CCL",
+                "headline": "Stock Market Today: Dow Dips But Nvidia Hits A Buy Point; These Chip Plays Shine, Oil Stocks Lag (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
                 "score": 0
             },
             {
@@ -45,10 +52,10 @@
                 "score": 0
             },
             {
-                "symbol": "NVDA",
-                "headline": "Stocks waver as oil prices fall, bond yields stabilize: AlphaCheck",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/stocks-waver-as-oil-prices-fall-bond-yields-stabilize-alphacheck-135032178.html",
+                "symbol": "IOVA",
+                "headline": "Iovance Raises 2026 Revenue Guidance to $410 Million-$420 Million",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/iovance-raises-2026-revenue-guidance-133318337.html",
                 "score": 0
             },
             {
@@ -59,31 +66,31 @@
                 "score": 0
             },
             {
-                "symbol": "NU",
-                "headline": "Nu Holdings Keeps Imploding: Goldman Sachs Reiterated Its Belief That NU Shares are Going to Double",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-keeps-imploding-goldman-114243528.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOAR",
-                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
-                "score": 0
-            },
-            {
-                "symbol": "BA",
-                "headline": "The Aerospace Market Is Healthier Than You Think",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/696379f6-5ead-322c-ac88-30b58e300151/the-aerospace-market-is.html",
-                "score": 0
-            },
-            {
                 "symbol": "BKYI",
                 "headline": "BIO-key Partners with Al Majlis Group to Expand Identity Security Across Arabian Gulf",
                 "publisher": "GlobeNewswire",
                 "link": "https://finance.yahoo.com/technology/ai/articles/bio-key-partners-al-majlis-073000380.html",
+                "score": 0
+            },
+            {
+                "symbol": "QURE",
+                "headline": "Uniqure Plummets 35% On Another Shocking Twist For Its Huntington's Drug",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/5dd8f0a3-9613-3560-8985-1e2c77796ea5/uniqure-plummets-35%25-on.html",
+                "score": 0
+            },
+            {
+                "symbol": "KMX",
+                "headline": "Stock Market Today: Dow Dips But Nvidia Hits A Buy Point; These Chip Plays Shine, Oil Stocks Lag (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
+                "score": 0
+            },
+            {
+                "symbol": "SLND",
+                "headline": "Southland Awarded $71 Million Water Pipeline Project in the Southwest",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/real-estate/articles/southland-awarded-71-million-water-110000535.html",
                 "score": 0
             },
             {
@@ -94,17 +101,17 @@
                 "score": 0
             },
             {
-                "symbol": "KMX",
-                "headline": "CarMax Stock Rises on Earnings Beat. There\u2019s 1 Big Sign the Turnaround Is Working.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/c8e29890-6267-3075-9d10-9b6f664d9d9c/carmax-stock-rises-on.html",
-                "score": 0
-            },
-            {
                 "symbol": "ABCL",
                 "headline": "JPMorgan Initiates AbCellera Biologics at Overweight With $17 Price Target",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-initiates-abcellera-biologics-overweight-095356198.html",
+                "score": 0
+            },
+            {
+                "symbol": "GXO",
+                "headline": "GXO Logistics, Columbia Sportswear Launch 10-Year European Logistics Partnership",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gxo-logistics-columbia-sportswear-launch-120859790.html",
                 "score": 0
             },
             {
@@ -115,17 +122,24 @@
                 "score": 0
             },
             {
-                "symbol": "RDDT",
-                "headline": "45-Year-Old Was Planning To Work Another 10 Years \u2014 Then $5M Inheritance Changed Everything: \u2018Why Am I Still Working?\u2019",
-                "publisher": "Benzinga",
-                "link": "https://finance.yahoo.com/small-business/articles/45-old-planning-another-10-120025708.html",
+                "symbol": "SSTI",
+                "headline": "SoundThinking to be Acquired by Transom Capital Group",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/soundthinking-acquired-transom-capital-group-113500532.html",
                 "score": 0
             },
             {
-                "symbol": "ASML",
-                "headline": "Global chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/european-chip-stocks-rise-anthropic-094058464.html",
+                "symbol": "LI",
+                "headline": "China Electric Vehicle Market Size and Forecast 2026-2030: 100+ KPIs on Powertrains, Charging and Key Players - Databook Q2 2026 Update | Fast Charging and Exports Fuel Growth",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/energy/articles/china-electric-vehicle-market-size-084800141.html",
+                "score": 0
+            },
+            {
+                "symbol": "XPEV",
+                "headline": "Nio Slides 4% as Geely Takes 30% Stake in Nio Power Unit; XPeng Drops 4%, Tesla Slips",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nio-slides-4-geely-takes-135808747.html",
                 "score": 0
             }
         ]
