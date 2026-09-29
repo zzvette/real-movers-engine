@@ -1,12 +1,26 @@
 {
-    "timestamp": "2026-09-29T15:02:06.396248+00:00",
+    "timestamp": "2026-09-29T15:16:52.654941+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "FICO",
+                "headline": "Fair Isaac Shares Fall After FHFA Chief Says VantageScore Moving to FICO Classic Pricing Grid",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-shares-fall-fhfa-145931943.html",
+                "score": 3
+            },
             {
                 "symbol": "CCL",
                 "headline": "'Vacations are sacrosanct': Carnival stock surges on record quarter, healthy cruise demand",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/stocks/article/vacations-are-sacrosanct-carnival-stock-surges-on-record-quarter-healthy-cruise-demand-145002464.html",
+                "score": 3
+            },
+            {
+                "symbol": "BE",
+                "headline": "Bloom Energy Rallies 11% as Fuel Cell Selloff Reverses; FuelCell Surges 7%, Plug Power Rises 3%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-rallies-11-fuel-140405078.html",
                 "score": 3
             },
             {
@@ -17,46 +31,11 @@
                 "score": 3
             },
             {
-                "symbol": "FCEL",
-                "headline": "Bloom Energy Rallies 11% as Fuel Cell Selloff Reverses; FuelCell Surges 7%, Plug Power Rises 3%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-rallies-11-fuel-140405078.html",
-                "score": 3
-            },
-            {
-                "symbol": "RCL",
-                "headline": "Cruise Stocks Rally as Carnival\u2019s Q3 Results Land: Carnival Surges 12%, Royal Caribbean Gains 7%, Norwegian Rises 5%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cruise-stocks-rally-carnival-q3-135401338.html",
-                "score": 3
-            },
-            {
-                "symbol": "UEC",
-                "headline": "Uranium Energy Surges 6% as Multi-Mine Ramp Delivers $93.13 Realized Uranium Price; Oklo and NuScale Power Tick Up",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-energy-surges-6-multi-124514020.html",
-                "score": 3
-            },
-            {
-                "symbol": "ASTS",
-                "headline": "AST SpaceMobile Rises 5% as New Change-of-Control Severance Plan Fuels Buyout Speculation; SpaceX and Rocket Lab Tick Up",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-rises-5-change-124313018.html",
-                "score": 2
-            },
-            {
-                "symbol": "NVTS",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
-                "score": 0
-            },
-            {
                 "symbol": "SMMT",
-                "headline": "AstraZeneca Pays $2 Billion To Get Into High-Profile Cancer Space",
+                "headline": "AstraZeneca Digs $2 Billion Out Of Its Coffers For Summit Deal, Taking On Bristol, Pfizer, Merck",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/98e08dd4-7f08-3d94-905c-70af001025d7/astrazeneca-pays-%242-billion.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/m/98e08dd4-7f08-3d94-905c-70af001025d7/astrazeneca-digs-%242-billion.html",
+                "score": 2
             },
             {
                 "symbol": "IOVA",
@@ -66,10 +45,24 @@
                 "score": 0
             },
             {
-                "symbol": "FICO",
-                "headline": "Fair Isaac stock plunges 20% after Fannie and Freddie open door to FICO credit score rival",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/fair-isaac-stock-plunges-20-after-fannie-and-freddie-open-door-to-fico-credit-score-rival-142841650.html",
+                "symbol": "ORCL",
+                "headline": "NetApp, Oracle Plan Cloud Storage Service for AI, Enterprise Workloads",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/netapp-oracle-plan-cloud-storage-145859465.html",
+                "score": 0
+            },
+            {
+                "symbol": "NVTS",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
+                "score": 0
+            },
+            {
+                "symbol": "BKYI",
+                "headline": "BIO-key Partners With Al Majlis Group to Expand Identity Security in UAE and Saudi Arabia",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/technology/ai/articles/bio-key-partners-al-majlis-145248769.html",
                 "score": 0
             },
             {
@@ -80,10 +73,10 @@
                 "score": 0
             },
             {
-                "symbol": "KMX",
-                "headline": "Stock Market Today: Dow Dips But Nvidia Hits A Buy Point; These Chip Plays Shine, Oil Stocks Lag (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
+                "symbol": "DXST",
+                "headline": "Decent Holding Launches RMB 500 AI-Powered In-Home Senior Care Subscription Through SunCare",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/decent-holding-launches-rmb-500-145351011.html",
                 "score": 0
             },
             {
@@ -94,38 +87,31 @@
                 "score": 0
             },
             {
-                "symbol": "ABCL",
-                "headline": "JPMorgan Initiates AbCellera Biologics at Overweight With $17 Price Target",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-initiates-abcellera-biologics-overweight-095356198.html",
+                "symbol": "KMX",
+                "headline": "Stock Market Today: Dow Dips As Consumer Confidence Falls; Nvidia Shares Hit This Buy Point (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
                 "score": 0
             },
             {
-                "symbol": "GXO",
-                "headline": "GXO Logistics, Columbia Sportswear Launch 10-Year European Logistics Partnership",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gxo-logistics-columbia-sportswear-launch-120859790.html",
-                "score": 0
-            },
-            {
-                "symbol": "SSTI",
-                "headline": "SoundThinking to Be Taken Private by Transom Capital Group",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/887c7176-e872-3aef-a144-c6361ee3e03f/soundthinking-to-be-taken.html",
-                "score": 0
-            },
-            {
-                "symbol": "LI",
-                "headline": "China Electric Vehicle Market Size and Forecast 2026-2030: 100+ KPIs on Powertrains, Charging and Key Players - Databook Q2 2026 Update | Fast Charging and Exports Fuel Growth",
+                "symbol": "SLXN",
+                "headline": "Silexion Therapeutics Announces Exercise of Warrants",
                 "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/energy/articles/china-electric-vehicle-market-size-084800141.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/silexion-therapeutics-announces-exercise-warrants-120300008.html",
                 "score": 0
             },
             {
-                "symbol": "XPEV",
-                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
+                "symbol": "QSI",
+                "headline": "Quantum-Si Presents Interim Proteus\u2122 Data at World HUPO 2026 Demonstrating a Significant Step Change in Performance Compared to Platinum\u00ae Pro",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/quantum-si-presents-interim-proteus-001500264.html",
+                "score": 0
+            },
+            {
+                "symbol": "NESR",
+                "headline": "3 Stocks Under $50 That Fall Short",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-fall-143202998.html",
                 "score": 0
             },
             {
@@ -133,6 +119,27 @@
                 "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
+                "score": 0
+            },
+            {
+                "symbol": "YMT",
+                "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
+                "score": 0
+            },
+            {
+                "symbol": "NCPL",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
+                "score": 0
+            },
+            {
+                "symbol": "AIR",
+                "headline": "AAR (NYSE:AIR) Reports Bullish Q3 CY2026 But Stock Drops",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/aar-nyse-air-reports-bullish-143226525.html",
                 "score": 0
             }
         ]
