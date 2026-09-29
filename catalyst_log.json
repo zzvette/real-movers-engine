@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T13:45:10.172013+00:00",
+    "timestamp": "2026-09-29T14:00:37.279956+00:00",
     "catalysts": [
         {
             "symbol": "AMC",
@@ -7,20 +7,6 @@
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/amc-spikes-13-refinancing-rally-174318002.html",
             "score": 5
-        },
-        {
-            "symbol": "NVTS",
-            "headline": "Navitas Stock Jumps After U.S. Army Picks It for 10 kV Program",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/navitas-stock-jumps-u-army-121728174.html",
-            "score": 3
-        },
-        {
-            "symbol": "SMMT",
-            "headline": "AstraZeneca invests $2B in Summit, gaining \u2018seat at the table\u2019 for PD-1/VEGF drug push",
-            "publisher": "BioPharma Dive",
-            "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-invests-2b-summit-gaining-124900613.html",
-            "score": 3
         },
         {
             "symbol": "UEC",
@@ -44,17 +30,31 @@
             "score": 0
         },
         {
+            "symbol": "NVTS",
+            "headline": "Navitas Stock Is Rising. Why It\u2019s a Hot Chip Play Again.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/aeddd1d8-344b-35c5-9f39-b21621a73f41/navitas-stock-is-rising.-why.html",
+            "score": 0
+        },
+        {
+            "symbol": "SMMT",
+            "headline": "AstraZeneca Pays $2 Billion To Get Into High-Profile Cancer Space",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/98e08dd4-7f08-3d94-905c-70af001025d7/astrazeneca-pays-%242-billion.html",
+            "score": 0
+        },
+        {
             "symbol": "NVDA",
-            "headline": "Elon Musk just handed Nvidia investors another big win",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-just-handed-nvidia-133300834.html",
+            "headline": "Stocks waver as oil prices fall, bond yields stabilize: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/stocks-waver-as-oil-prices-fall-bond-yields-stabilize-alphacheck-135032178.html",
             "score": 0
         },
         {
             "symbol": "FICO",
-            "headline": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/9b17eb71-cd46-3ec2-b75f-c254685eb151/fair-isaac-tanks-after.html",
+            "headline": "Fair Isaac, CarMax, Netflix, SpaceX, Summit Therapeutics, Navitas, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/e4c63816-8d5f-3cc4-a06f-9cc7458d4a95/fair-isaac%2C-carmax%2C-netflix%2C.html",
             "score": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "symbol": "BA",
-            "headline": "FAA delays Boeing 737 Max 10 certification over software glitch",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/technology/articles/faa-delays-boeing-737-max-130318309.html",
+            "headline": "The Aerospace Market Is Healthier Than You Think",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/696379f6-5ead-322c-ac88-30b58e300151/the-aerospace-market-is.html",
             "score": 0
         },
         {
@@ -94,9 +94,9 @@
         },
         {
             "symbol": "KMX",
-            "headline": "CarMax Fiscal Second-Quarter Revenue Tops Views Amid Early Progress on Growth Strategy",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/carmax-fiscal-second-quarter-revenue-131724090.html",
+            "headline": "CarMax Stock Rises on Earnings Beat. There\u2019s 1 Big Sign the Turnaround Is Working.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/c8e29890-6267-3075-9d10-9b6f664d9d9c/carmax-stock-rises-on.html",
             "score": 0
         },
         {
