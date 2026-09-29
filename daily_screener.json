@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T00:18:03.123490+00:00",
+    "timestamp": "2026-09-29T00:47:36.507813+00:00",
     "signals": {
         "catalysts": [
             {
@@ -14,6 +14,13 @@
                 "headline": "Kodiak Sciences (KOD) Climbs Nearly 3x on Promising Wet AMD Trial",
                 "publisher": "Insider Monkey",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/kodiak-sciences-kod-climbs-nearly-231435477.html",
+                "score": 3
+            },
+            {
+                "symbol": "NVTS",
+                "headline": "Why NVTS Stock Surged 20% After-Hours",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvts-stock-surged-20-213212401.html",
                 "score": 3
             },
             {
@@ -46,9 +53,9 @@
             },
             {
                 "symbol": "MDB",
-                "headline": "Why MongoDB (MDB) Stock Is Nosediving",
+                "headline": "Why Atlassian (TEAM) Stock Is Down Today",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-mongodb-mdb-stock-nosediving-215836190.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-atlassian-team-stock-down-001436323.html",
                 "score": 0
             },
             {
@@ -60,9 +67,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Samsung Affiliates to Invest $1 Billion in KKR's Helix AI Infrastructure",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/samsung-affiliates-invest-1-billion-000354902.html",
+                "headline": "Conagra Brands's Next Earnings Report on Sep. 30 2026 Could Send the Stock Soaring. Here's Why.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-brandss-next-earnings-report-003325971.html",
                 "score": 0
             },
             {
@@ -102,9 +109,9 @@
             },
             {
                 "symbol": "MTN",
-                "headline": "Vail Resorts Q4 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/vail-resorts-q4-earnings-call-230309159.html",
+                "headline": "Vail Resorts\u2019 Ski Pass Sales Tumble, Signaling Another Tough Winter Ahead",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/e6307727-74cb-36b1-a146-9fd53a75322f/vail-resorts%E2%80%99-ski-pass-sales.html",
                 "score": 0
             },
             {
