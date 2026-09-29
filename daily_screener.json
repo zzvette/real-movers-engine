@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-09-29T17:02:21.208451+00:00",
+    "timestamp": "2026-09-29T17:13:41.396782+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "SMMT",
-                "headline": "Summit Stock Jumps 17% on $2 Billion AstraZeneca Investment",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/summit-stock-jumps-17-2-160737159.html",
-                "score": 3
-            },
             {
                 "symbol": "SDEV",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110903421.html",
+                "score": 3
+            },
+            {
+                "symbol": "SMMT",
+                "headline": "Summit Stock Jumps 17% on $2 Billion AstraZeneca Investment",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/summit-stock-jumps-17-2-160737159.html",
                 "score": 3
             },
             {
@@ -24,17 +24,17 @@
                 "score": 0
             },
             {
-                "symbol": "CCL",
-                "headline": "Royal Caribbean Is Down Sharply From Its High. Deutsche Bank Says It\u2019s Time to Buy",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-down-sharply-high-161055079.html",
-                "score": 0
-            },
-            {
                 "symbol": "IOVA",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
+                "score": 0
+            },
+            {
+                "symbol": "CCL",
+                "headline": "Stock Market Today: Dow Dips As Key Treasury Yield Hits 24-Year High; Nvidia Tests Buy Point (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
                 "score": 0
             },
             {
@@ -45,31 +45,10 @@
                 "score": 0
             },
             {
-                "symbol": "NIO",
-                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
-                "score": 0
-            },
-            {
-                "symbol": "ORCL",
-                "headline": "OpenAI Revenue Growth Report Boosts Oracle Stock; DevDay On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a859e3cf-b549-3c8b-938f-746e974e0e16/openai-revenue-growth-report.html",
-                "score": 0
-            },
-            {
                 "symbol": "BE",
                 "headline": "The Coming AI Blackout: $10 Trillion Data Center Surge Threatens to Break the Grid",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/technology/ai/articles/coming-ai-blackout-10-trillion-151952055.html",
-                "score": 0
-            },
-            {
-                "symbol": "QURE",
-                "headline": "Why Is uniQure Stock Sinking on Tuesday?",
-                "publisher": "Benzinga",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-uniqure-stock-sinking-tuesday-142831598.html",
                 "score": 0
             },
             {
@@ -80,17 +59,45 @@
                 "score": 0
             },
             {
-                "symbol": "URI",
-                "headline": "What Does TJX Companies (TJX) Gain From Adding Craig Pintoff To Its Board?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/does-tjx-companies-tjx-gain-111002635.html",
+                "symbol": "NIO",
+                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
                 "score": 0
             },
             {
-                "symbol": "STLA",
-                "headline": "Stellantis Falls 4% With Canadian Labor Standoff Unresolved; Ford and General Motors Dip",
+                "symbol": "QURE",
+                "headline": "Why Is uniQure Stock Sinking on Tuesday?",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-uniqure-stock-sinking-tuesday-142831598.html",
+                "score": 0
+            },
+            {
+                "symbol": "ORCL",
+                "headline": "OpenAI Revenue Growth Report Boosts Oracle Stock; DevDay On Deck",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a859e3cf-b549-3c8b-938f-746e974e0e16/openai-revenue-growth-report.html",
+                "score": 0
+            },
+            {
+                "symbol": "AAPL",
+                "headline": "Stock Market Today: Dow Dips As Key Treasury Yield Hits 24-Year High; Nvidia Tests Buy Point (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
+                "score": 0
+            },
+            {
+                "symbol": "XRPN",
+                "headline": "An XRP Treasury Company Is One Vote Away from Nasdaq: What Happens if Evernorth Lists as XRPN?",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-falls-4-canadian-labor-160655966.html",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-treasury-company-one-vote-113050045.html",
+                "score": 0
+            },
+            {
+                "symbol": "WRBY",
+                "headline": "Warby Parker (WRBY): Early-Stage Category Leader with High-Yield Earnings Potential",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-early-stage-141715935.html",
                 "score": 0
             },
             {
@@ -102,23 +109,9 @@
             },
             {
                 "symbol": "KMX",
-                "headline": "Stock Market Today: Dow Dips As Jobs, Consumer Reports Show This; Nvidia Shares Hit A Buy Point (Live Coverage)",
+                "headline": "Stock Market Today: Dow Dips As Key Treasury Yield Hits 24-Year High; Nvidia Tests Buy Point (Live Coverage)",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
-                "score": 0
-            },
-            {
-                "symbol": "WRBY",
-                "headline": "Warby Parker (WRBY): Early-Stage Category Leader with High-Yield Earnings Potential",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-early-stage-141715935.html",
-                "score": 0
-            },
-            {
-                "symbol": "XRPN",
-                "headline": "An XRP Treasury Company Is One Vote Away from Nasdaq: What Happens if Evernorth Lists as XRPN?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-treasury-company-one-vote-113050045.html",
                 "score": 0
             },
             {
@@ -129,10 +122,10 @@
                 "score": 0
             },
             {
-                "symbol": "TRU",
-                "headline": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/9b17eb71-cd46-3ec2-b75f-c254685eb151/fair-isaac-tanks-after.html",
+                "symbol": "PS",
+                "headline": "Nancy Pelosi And Bill Ackman Are Betting On The Same Two Stocks",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-bill-ackman-betting-132717405.html",
                 "score": 0
             }
         ]
