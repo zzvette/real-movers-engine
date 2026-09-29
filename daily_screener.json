@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T04:12:12.082580+00:00",
+    "timestamp": "2026-09-29T04:43:49.943477+00:00",
     "signals": {
         "catalysts": [
             {
@@ -46,16 +46,9 @@
             },
             {
                 "symbol": "MDB",
-                "headline": "MongoDB (MDB): CEO Exit Puts Strategy Under Scrutiny Ahead of Investor Day",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-ceo-exit-puts-021532137.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOAR",
-                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
+                "headline": "MongoDB CEO\u2019s Surprise Exit 'Creates More Questions Than Answers,' Analyst Says Ahead Of Investor Day",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-ceo-surprise-exit-creates-041227111.html",
                 "score": 0
             },
             {
@@ -66,24 +59,17 @@
                 "score": 0
             },
             {
+                "symbol": "SOAR",
+                "headline": "Volato Group\u2019s Alignment Engine Subsidiary Signs $1.2 Billion in AI Infrastructure Orders with Large AI Customer",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/volato-group-alignment-engine-subsidiary-120500289.html",
+                "score": 0
+            },
+            {
                 "symbol": "FICO",
                 "headline": "FICO stock tumbles as US moves to break mortgage scoring monopoly",
                 "publisher": "Investing.com",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/fico-stock-tumbles-us-moves-212713252.html",
-                "score": 0
-            },
-            {
-                "symbol": "CMG",
-                "headline": "Chipotle Mexican Grill (CMG) Gains As Market Dips: What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-cmg-gains-205005540.html",
-                "score": 0
-            },
-            {
-                "symbol": "CLF",
-                "headline": "Why Cleveland-Cliffs (CLF) Dipped More Than Broader Market Today",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-cleveland-cliffs-clf-dipped-210003474.html",
                 "score": 0
             },
             {
@@ -94,17 +80,10 @@
                 "score": 0
             },
             {
-                "symbol": "CRM",
-                "headline": "Is CEO Jensen Huang Becoming Nvidia (NVDA)\u2019s Most Valuable Political Asset?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html",
-                "score": 0
-            },
-            {
-                "symbol": "ISRG",
-                "headline": "Gilead vs. Intuitive Surgical: Which Healthcare Stock Offers the Better Risk-Adjusted Upside?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/gilead-vs-intuitive-surgical-healthcare-192725169.html",
+                "symbol": "CMG",
+                "headline": "Chipotle Mexican Grill (CMG) Gains As Market Dips: What You Should Know",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-cmg-gains-205005540.html",
                 "score": 0
             },
             {
@@ -115,6 +94,13 @@
                 "score": 0
             },
             {
+                "symbol": "CRM",
+                "headline": "Is CEO Jensen Huang Becoming Nvidia (NVDA)\u2019s Most Valuable Political Asset?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html",
+                "score": 0
+            },
+            {
                 "symbol": "^DJI",
                 "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Sell Off",
                 "publisher": "Investor's Business Daily",
@@ -122,17 +108,31 @@
                 "score": 0
             },
             {
-                "symbol": "MELI",
-                "headline": "Is eBay Stock Priced Right Against Its Peers?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-stock-priced-against-peers-192116449.html",
+                "symbol": "NFLX",
+                "headline": "What's Wrong With Netflix Stock?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/whats-wrong-netflix-stock-220500500.html",
                 "score": 0
             },
             {
-                "symbol": "^IXIC",
-                "headline": "Dow, S&P 500, Nasdaq Futures Fall Amid Rising Bond Yields, AI Concerns: KOD, SMMT, CLF, VKTX Stocks In Focus",
+                "symbol": "TTD",
+                "headline": "Why Did TTD, OPEN, QS Stocks Tumble To 52-Week Lows Today?",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-032913987.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ttd-open-qs-024417040.html",
+                "score": 0
+            },
+            {
+                "symbol": "JEPQ",
+                "headline": "Retiring on $800K? These 4 ETFs Let You Take 5% Safely",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/options/articles/retiring-800k-4-etfs-let-220114842.html",
+                "score": 0
+            },
+            {
+                "symbol": "DVLT",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017744.html",
                 "score": 0
             }
         ]
