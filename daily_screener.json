@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-09-29T14:37:00.628666+00:00",
+    "timestamp": "2026-09-29T15:02:06.396248+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "IOVA",
-                "headline": "IOVA Stock Hits Over 2-Year Highs \u2013 Why Iovance Raised Its FY2026 Revenue Outlook",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/iova-stock-hits-over-2-141513877.html",
+                "symbol": "CCL",
+                "headline": "'Vacations are sacrosanct': Carnival stock surges on record quarter, healthy cruise demand",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/vacations-are-sacrosanct-carnival-stock-surges-on-record-quarter-healthy-cruise-demand-145002464.html",
                 "score": 3
             },
             {
@@ -31,6 +31,13 @@
                 "score": 3
             },
             {
+                "symbol": "UEC",
+                "headline": "Uranium Energy Surges 6% as Multi-Mine Ramp Delivers $93.13 Realized Uranium Price; Oklo and NuScale Power Tick Up",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-energy-surges-6-multi-124514020.html",
+                "score": 3
+            },
+            {
                 "symbol": "ASTS",
                 "headline": "AST SpaceMobile Rises 5% as New Change-of-Control Severance Plan Fuels Buyout Speculation; SpaceX and Rocket Lab Tick Up",
                 "publisher": "24/7 Wall St.",
@@ -38,17 +45,10 @@
                 "score": 2
             },
             {
-                "symbol": "CCL",
-                "headline": "Stock Market Today: Dow Dips But Nvidia Hits A Buy Point; These Chip Plays Shine, Oil Stocks Lag (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
-                "score": 0
-            },
-            {
                 "symbol": "NVTS",
-                "headline": "Navitas Stock Is Rising. Why It\u2019s a Hot Chip Play Again.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/aeddd1d8-344b-35c5-9f39-b21621a73f41/navitas-stock-is-rising.-why.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
                 "score": 0
             },
             {
@@ -59,6 +59,13 @@
                 "score": 0
             },
             {
+                "symbol": "IOVA",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
+                "score": 0
+            },
+            {
                 "symbol": "FICO",
                 "headline": "Fair Isaac stock plunges 20% after Fannie and Freddie open door to FICO credit score rival",
                 "publisher": "Yahoo Finance",
@@ -66,17 +73,10 @@
                 "score": 0
             },
             {
-                "symbol": "BKYI",
-                "headline": "BIO-key Partners with Al Majlis Group to Expand Identity Security Across Arabian Gulf",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/bio-key-partners-al-majlis-073000380.html",
-                "score": 0
-            },
-            {
                 "symbol": "QURE",
-                "headline": "Uniqure Plummets 35% On Another Shocking Twist For Its Huntington's Drug",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/5dd8f0a3-9613-3560-8985-1e2c77796ea5/uniqure-plummets-35%25-on.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
                 "score": 0
             },
             {
@@ -94,13 +94,6 @@
                 "score": 0
             },
             {
-                "symbol": "SLXN",
-                "headline": "Silexion Therapeutics Announces Exercise of Warrants",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/silexion-therapeutics-announces-exercise-warrants-120300008.html",
-                "score": 0
-            },
-            {
                 "symbol": "ABCL",
                 "headline": "JPMorgan Initiates AbCellera Biologics at Overweight With $17 Price Target",
                 "publisher": "MT Newswires",
@@ -112,13 +105,6 @@
                 "headline": "GXO Logistics, Columbia Sportswear Launch 10-Year European Logistics Partnership",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/gxo-logistics-columbia-sportswear-launch-120859790.html",
-                "score": 0
-            },
-            {
-                "symbol": "YMT",
-                "headline": "Yimutian Granted Request to Shift Nasdaq Listing Tier",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-granted-request-shift-nasdaq-075337062.html",
                 "score": 0
             },
             {
@@ -137,9 +123,16 @@
             },
             {
                 "symbol": "XPEV",
-                "headline": "Nio Slides 4% as Geely Takes 30% Stake in Nio Power Unit; XPeng Drops 4%, Tesla Slips",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nio-slides-4-geely-takes-135808747.html",
+                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
+                "score": 0
+            },
+            {
+                "symbol": "NIO",
+                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
                 "score": 0
             }
         ]
