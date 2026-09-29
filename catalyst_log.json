@@ -1,25 +1,11 @@
 {
-    "timestamp": "2026-09-29T16:11:29.610806+00:00",
+    "timestamp": "2026-09-29T16:28:17.225873+00:00",
     "catalysts": [
         {
             "symbol": "SMMT",
             "headline": "Summit Stock Jumps 17% on $2 Billion AstraZeneca Investment",
             "publisher": "GuruFocus.com",
             "link": "https://finance.yahoo.com/markets/stocks/articles/summit-stock-jumps-17-2-160737159.html",
-            "score": 3
-        },
-        {
-            "symbol": "NCLH",
-            "headline": "Carnival Stock Surges After Earnings Show Record Revenue",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/d392c527-ff93-3787-b3cd-483f67a9acf9/carnival-stock-surges-after.html",
-            "score": 3
-        },
-        {
-            "symbol": "RCL",
-            "headline": "Carnival Stock Surges After Earnings Show Record Revenue",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/d392c527-ff93-3787-b3cd-483f67a9acf9/carnival-stock-surges-after.html",
             "score": 3
         },
         {
@@ -30,13 +16,6 @@
             "score": 3
         },
         {
-            "symbol": "GLW",
-            "headline": "Corning wins more than $3B multi-year fiber supply deal with AT&T",
-            "publisher": "Proactive",
-            "link": "https://finance.yahoo.com/technology/articles/corning-wins-more-3b-multi-155500631.html",
-            "score": 2
-        },
-        {
             "symbol": "FICO",
             "headline": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing",
             "publisher": "Investor's Business Daily",
@@ -45,9 +24,9 @@
         },
         {
             "symbol": "CCL",
-            "headline": "Stock Market Today: Dow Dips As Jobs, Consumer Reports Show This; Nvidia Shares Hit A Buy Point (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html",
+            "headline": "Royal Caribbean Is Down Sharply From Its High. Deutsche Bank Says It\u2019s Time to Buy",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-down-sharply-high-161055079.html",
             "score": 0
         },
         {
@@ -55,6 +34,20 @@
             "headline": "BC-Most Active Stocks",
             "publisher": "Associated Press",
             "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143021615.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVTS",
+            "headline": "Navitas Stock Is Rising. Why It\u2019s a Hot Chip Play Again.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/aeddd1d8-344b-35c5-9f39-b21621a73f41/navitas-stock-is-rising.-why.html",
+            "score": 0
+        },
+        {
+            "symbol": "NIO",
+            "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
             "score": 0
         },
         {
@@ -72,17 +65,31 @@
             "score": 0
         },
         {
-            "symbol": "NVTS",
-            "headline": "Navitas Stock Is Rising. Why It\u2019s a Hot Chip Play Again.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/aeddd1d8-344b-35c5-9f39-b21621a73f41/navitas-stock-is-rising.-why.html",
-            "score": 0
-        },
-        {
             "symbol": "QURE",
             "headline": "Why Is uniQure Stock Sinking on Tuesday?",
             "publisher": "Benzinga",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-uniqure-stock-sinking-tuesday-142831598.html",
+            "score": 0
+        },
+        {
+            "symbol": "QSI",
+            "headline": "Quantum-Si Presents Interim Proteus\u2122 Data at World HUPO 2026 Demonstrating a Significant Step Change in Performance Compared to Platinum\u00ae Pro",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/quantum-si-presents-interim-proteus-001500264.html",
+            "score": 0
+        },
+        {
+            "symbol": "URI",
+            "headline": "What Does TJX Companies (TJX) Gain From Adding Craig Pintoff To Its Board?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/does-tjx-companies-tjx-gain-111002635.html",
+            "score": 0
+        },
+        {
+            "symbol": "STLA",
+            "headline": "Stellantis Falls 4% With Canadian Labor Standoff Unresolved; Ford and General Motors Dip",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-falls-4-canadian-labor-160655966.html",
             "score": 0
         },
         {
@@ -100,10 +107,17 @@
             "score": 0
         },
         {
-            "symbol": "QSI",
-            "headline": "Quantum-Si Presents Interim Proteus\u2122 Data at World HUPO 2026 Demonstrating a Significant Step Change in Performance Compared to Platinum\u00ae Pro",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/quantum-si-presents-interim-proteus-001500264.html",
+            "symbol": "WRBY",
+            "headline": "Warby Parker (WRBY): Early-Stage Category Leader with High-Yield Earnings Potential",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-early-stage-141715935.html",
+            "score": 0
+        },
+        {
+            "symbol": "XRPN",
+            "headline": "An XRP Treasury Company Is One Vote Away from Nasdaq: What Happens if Evernorth Lists as XRPN?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-treasury-company-one-vote-113050045.html",
             "score": 0
         },
         {
@@ -114,31 +128,10 @@
             "score": 0
         },
         {
-            "symbol": "NIO",
-            "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144010924.html",
-            "score": 0
-        },
-        {
-            "symbol": "AIR",
-            "headline": "AAR (NYSE:AIR) Reports Bullish Q3 CY2026 But Stock Drops",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/aar-nyse-air-reports-bullish-143226525.html",
-            "score": 0
-        },
-        {
-            "symbol": "AXTI",
-            "headline": "Amkor vs. AXT: Which Semiconductor Stock Is the Better Buy Now?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-vs-axt-semiconductor-stock-135800484.html",
-            "score": 0
-        },
-        {
-            "symbol": "AMAT",
-            "headline": "Morgan Stanley resets AMAT stock price target by $79",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-amat-stock-150700469.html",
+            "symbol": "TRU",
+            "headline": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/9b17eb71-cd46-3ec2-b75f-c254685eb151/fair-isaac-tanks-after.html",
             "score": 0
         }
     ]
