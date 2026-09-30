@@ -1,21 +1,7 @@
 {
-    "timestamp": "2026-09-30T15:55:15.106236+00:00",
+    "timestamp": "2026-09-30T18:47:09.329002+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "CAPR",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111538830.html",
-                "score": 3
-            },
-            {
-                "symbol": "HPE",
-                "headline": "Hewlett Packard Enterprise Jumps 5% on AMD Order; Dell and Super Micro Barely Move",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-jumps-5-144133368.html",
-                "score": 3
-            },
             {
                 "symbol": "TGE",
                 "headline": "TGE's profit surged by 9.9 times, with total assets at US$1.8bn and net assets at US$932m",
@@ -24,17 +10,59 @@
                 "score": 3
             },
             {
-                "symbol": "HOOD",
-                "headline": "Robinhood Stock Falls Despite Bullish Wall Street Reaction To HOOD Summit \u2013 Morgan Stanley Eyes \u2018Two Key Products\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-falls-despite-bullish-150724603.html",
+                "symbol": "MU",
+                "headline": "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6f982775-a9dc-3e50-86f2-0a4313c1c6ce/stock-market-today%3A-nasdaq.html",
+                "score": 3
+            },
+            {
+                "symbol": "CAPR",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111538830.html",
+                "score": 3
+            },
+            {
+                "symbol": "MRP",
+                "headline": "Millrose Properties (MRP) Stock May Be Below Fair Value Following $1B Notes Offering",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/millrose-properties-mrp-stock-may-221347159.html",
+                "score": 2
+            },
+            {
+                "symbol": "LQDA",
+                "headline": "Liquidia Found to Infringe United Therapeutics Patent in Court Ruling",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/liquidia-found-infringe-united-therapeutics-182740297.html",
                 "score": 0
             },
             {
                 "symbol": "IBRX",
-                "headline": "A $5.8B Cancer Market Opportunity Is Emerging \u2014 Why GA-Courtenay Favors ImmunityBio (IBRX)",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/5-8b-cancer-market-opportunity-122830471.html",
+                "headline": "IBRX Breaks Above This Key Resistance \u2014 Stock On Track To Record Best Single-Day Gains In 6 Months",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ibrx-breaks-above-key-resistance-163727688.html",
+                "score": 0
+            },
+            {
+                "symbol": "HOOD",
+                "headline": "Narravance Teams Up with Robinhood, Brings Narrative Intelligence Technology to Recently Launched Robinhood Agents",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/narravance-teams-robinhood-brings-narrative-172200070.html",
+                "score": 0
+            },
+            {
+                "symbol": "HPE",
+                "headline": "Bank of America backs HPE stock before crucial investor day",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-backs-hpe-stock-182330339.html",
+                "score": 0
+            },
+            {
+                "symbol": "ZETA",
+                "headline": "UiPath vs. Zeta Global: Which AI Stock Is the Better Buy?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/technology/ai/articles/uipath-vs-zeta-global-ai-143300740.html",
                 "score": 0
             },
             {
@@ -45,24 +73,24 @@
                 "score": 0
             },
             {
-                "symbol": "CNTB",
-                "headline": "Connect Biopharma Reports Positive Phase 2 Rademikibart COPD Data, Plans FDA Talks on Phase 3 Program",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/healthcare/articles/connect-biopharma-reports-positive-phase-144341652.html",
-                "score": 0
-            },
-            {
-                "symbol": "CEG",
-                "headline": "Scotiabank Adjusts Price Target on Constellation Energy to $355 From $441, Maintains Sector Outperform Rating",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-price-target-constellation-112252297.html",
-                "score": 0
-            },
-            {
                 "symbol": "CBRS",
-                "headline": "Cerebras stock slides as Nvidia reportedly powers OpenAI\u2019s \u2019Ultrafast\u2019 tier",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-stock-slides-nvidia-reportedly-142404033.html",
+                "headline": "Moderna, Cerebras, Jabil, HPE, Cal-Maine, Mattel, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/9bef82b0-bc35-31b4-a05e-cfa3a8677db4/moderna%2C-cerebras%2C-jabil%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "TLRY",
+                "headline": "Cannabis Stocks Are Slumping. A Procedural DEA Delay Is to Blame.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/1e80b6a7-d474-392e-ae37-cd089eb9d2f9/cannabis-stocks-are-slumping..html",
+                "score": 0
+            },
+            {
+                "symbol": "UTHR",
+                "headline": "Liquidia Found to Infringe United Therapeutics Patent in Court Ruling",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/liquidia-found-infringe-united-therapeutics-182740297.html",
                 "score": 0
             },
             {
@@ -73,6 +101,13 @@
                 "score": 0
             },
             {
+                "symbol": "APP",
+                "headline": "What Could Derail AppLovin Stock?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/could-derail-applovin-stock-154847437.html",
+                "score": 0
+            },
+            {
                 "symbol": "ROG",
                 "headline": "Rogers Expects Sales to Grow to Over $1.5 Billion by 2030; Shares Rise",
                 "publisher": "MT Newswires",
@@ -80,59 +115,24 @@
                 "score": 0
             },
             {
-                "symbol": "NOC",
-                "headline": "Firefly Aerospace vs. GE Aerospace: Which Industrials Stock Is a Better Buy in 2026?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-ge-aerospace-151033081.html",
+                "symbol": "CEG",
+                "headline": "CEG, NRG, TLN Stocks In Spotlight: TD Cowen Warns Of \u2018Acute\u2019 Uncertainty After FERC Delays PJM\u2019s Plan To Meet AI Demand",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/energy/articles/ceg-nrg-tln-stocks-spotlight-175147633.html",
                 "score": 0
             },
             {
-                "symbol": "AGNC",
-                "headline": "Can Annaly Maintain Its Attractive Dividend and Capital Returns?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-maintain-attractive-dividend-capital-125800613.html",
-                "score": 0
-            },
-            {
-                "symbol": "SDEV",
-                "headline": "Top Premarket Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114230287.html",
-                "score": 0
-            },
-            {
-                "symbol": "FNV",
-                "headline": "Can Higher H2 Production Support Franco-Nevada's 2026 Guidance?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/higher-h2-production-support-franco-140300103.html",
-                "score": 0
-            },
-            {
-                "symbol": "TRLV",
-                "headline": "Trulieve Sinks 14% as DEA Judge Pauses Cannabis Rescheduling Over GAO Report Flagging \u201cGaps\u201d",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/healthcare/articles/trulieve-sinks-14-dea-judge-141931303.html",
-                "score": 0
-            },
-            {
-                "symbol": "CAG",
-                "headline": "What Conagra Brands (CAG) Said on Its Q1 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-brands-cag-said-q1-150402044.html",
+                "symbol": "CNTB",
+                "headline": "Connect Biopharma Reports Positive Phase 2 Rademikibart COPD Data, Plans FDA Talks on Phase 3 Program",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/connect-biopharma-reports-positive-phase-144341652.html",
                 "score": 0
             },
             {
                 "symbol": "MAT",
-                "headline": "Mattel CEO poached by Paramount, stock sinks",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/mattel-ceo-poached-by-paramount-stock-sinks-125254597.html",
-                "score": 0
-            },
-            {
-                "symbol": "HIMS",
-                "headline": "Hims & Hers Stock: 30% Growth Can\u2019t Hide a Margin Problem",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-stock-30-growth-202603642.html",
+                "headline": "Cond\u00e9 Nast CEO Roger Lynch Steps Down to Join Mattel",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/942c34e4-7515-3bca-90f0-9f10d3bfa063/cond%C3%A9-nast-ceo-roger-lynch.html",
                 "score": 0
             }
         ]
