@@ -1,138 +1,138 @@
 {
-    "timestamp": "2026-09-30T09:10:33.154936+00:00",
+    "timestamp": "2026-09-30T15:55:15.106236+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "SDEV",
+                "symbol": "CAPR",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110903421.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111538830.html",
                 "score": 3
             },
             {
-                "symbol": "IOVA",
-                "headline": "Biotech Lagged The Broader Market In September \u2014 Did Retail Favorites SLS, IBRX, VNDA And IOVA Dodge XBI\u2019s Slump?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/biotech-lagged-broader-market-september-034757461.html",
-                "score": 0
+                "symbol": "HPE",
+                "headline": "Hewlett Packard Enterprise Jumps 5% on AMD Order; Dell and Super Micro Barely Move",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-jumps-5-144133368.html",
+                "score": 3
             },
             {
-                "symbol": "FICO",
-                "headline": "Company News for Sep 30, 2026",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-30-2026-071600697.html",
-                "score": 0
+                "symbol": "TGE",
+                "headline": "TGE's profit surged by 9.9 times, with total assets at US$1.8bn and net assets at US$932m",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/tges-profit-surged-9-9-102700346.html",
+                "score": 3
             },
             {
                 "symbol": "HOOD",
-                "headline": "Robinhood is rolling out agentic AI trading accounts for the masses",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/robinhood-is-rolling-out-agentic-ai-trading-accounts-for-the-masses-230517174.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "MU Stock Rises Ahead Of Crucial Q4 Earnings Report: Investors, Analysts Look For Clues On How Long Memory Boom Can Last",
+                "headline": "Robinhood Stock Falls Despite Bullish Wall Street Reaction To HOOD Summit \u2013 Morgan Stanley Eyes \u2018Two Key Products\u2019",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-rises-ahead-crucial-084729667.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-falls-despite-bullish-150724603.html",
                 "score": 0
             },
             {
-                "symbol": "CCL",
-                "headline": "CCL Q3 Deep Dive: Destination Strategy and Operational Discipline Drive Outperformance",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ccl-q3-deep-dive-destination-082113476.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "2 S&P 500 Stocks to Consider Right Now and 1 We Question",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-consider-142402680.html",
-                "score": 0
-            },
-            {
-                "symbol": "CAPR",
-                "headline": "Why Did CAPR Stock Jump 20% After-Hours Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-capr-stock-jump-012424265.html",
-                "score": 0
-            },
-            {
-                "symbol": "QURE",
-                "headline": "QURE Stock Clocks Worst Day In Over 10 Months: Four-Year Huntington\u2019s Data Spooks Investors Despite Stronger Three-Year Filing Data",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/qure-stock-clocks-worst-day-220807103.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMAT",
-                "headline": "Applied Materials (AMAT) Ties Its $5 Billion EPIC Center To Next Gen AI Memory",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-ties-5-080947559.html",
-                "score": 0
-            },
-            {
-                "symbol": "DKNG",
-                "headline": "DKNG Stock Heads For Worst Month Since January, But Retail Backs DraftKings' DKeX Despite Kalshi\u2019s Lead",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dkng-stock-heads-worst-month-045850436.html",
-                "score": 0
-            },
-            {
-                "symbol": "CBRS",
-                "headline": "Cerebras Systems vs. Nebius: What Revenue Growth Trends Reveal to Investors About These Artificial Intelligence Companies",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-vs-nebius-revenue-183311910.html",
-                "score": 0
-            },
-            {
-                "symbol": "GME",
-                "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $10.6M Worth Of Shares",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-231019596.html",
-                "score": 0
-            },
-            {
-                "symbol": "NKE",
-                "headline": "NKE Ticks Higher Ahead Of Q1 As Short Interest Hits Record 87M Shares \u2014 Could Earnings Squeeze The Bears?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nke-ticks-higher-ahead-q1-080734899.html",
+                "symbol": "IBRX",
+                "headline": "A $5.8B Cancer Market Opportunity Is Emerging \u2014 Why GA-Courtenay Favors ImmunityBio (IBRX)",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/healthcare/articles/5-8b-cancer-market-opportunity-122830471.html",
                 "score": 0
             },
             {
                 "symbol": "JBL",
-                "headline": "Jabil (JBL) Has Drawn Fresh Attention, But What Is The Market Weighing?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-drawn-fresh-attention-200532706.html",
+                "headline": "Jabil Stock Is Falling. A Blistering AI Demand Outlook Isn\u2019t Enough.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/2446a8d9-bb87-3896-a939-e9dc508bd9f0/jabil-stock-is-falling.-a.html",
                 "score": 0
             },
             {
-                "symbol": "RXRX",
-                "headline": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note",
+                "symbol": "CNTB",
+                "headline": "Connect Biopharma Reports Positive Phase 2 Rademikibart COPD Data, Plans FDA Talks on Phase 3 Program",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/healthcare/articles/connect-biopharma-reports-positive-phase-144341652.html",
+                "score": 0
+            },
+            {
+                "symbol": "CEG",
+                "headline": "Scotiabank Adjusts Price Target on Constellation Energy to $355 From $441, Maintains Sector Outperform Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-price-target-constellation-112252297.html",
+                "score": 0
+            },
+            {
+                "symbol": "CBRS",
+                "headline": "Cerebras stock slides as Nvidia reportedly powers OpenAI\u2019s \u2019Ultrafast\u2019 tier",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-stock-slides-nvidia-reportedly-142404033.html",
+                "score": 0
+            },
+            {
+                "symbol": "PACB",
+                "headline": "Stocks making big moves yesterday: TTM Technologies, PacBio, Nvidia, Palo Alto Networks, and Teleflex",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-203202523.html",
+                "score": 0
+            },
+            {
+                "symbol": "ROG",
+                "headline": "Rogers Expects Sales to Grow to Over $1.5 Billion by 2030; Shares Rise",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rogers-expects-sales-grow-over-143202167.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOC",
+                "headline": "Firefly Aerospace vs. GE Aerospace: Which Industrials Stock Is a Better Buy in 2026?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-ge-aerospace-151033081.html",
+                "score": 0
+            },
+            {
+                "symbol": "AGNC",
+                "headline": "Can Annaly Maintain Its Attractive Dividend and Capital Returns?",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/recursion-pharmaceuticals-rxrx-registers-bigger-205004215.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-maintain-attractive-dividend-capital-125800613.html",
                 "score": 0
             },
             {
-                "symbol": "NBIS",
-                "headline": "Nebius (NBIS) Stock Still Trades At A Premium On AI Price Hikes",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-stock-still-trades-081203285.html",
+                "symbol": "SDEV",
+                "headline": "Top Premarket Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114230287.html",
                 "score": 0
             },
             {
-                "symbol": "FCEL",
-                "headline": "Cummins And 2 Other Top Hydrogen Stocks",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/cummins-2-other-top-hydrogen-081142431.html",
+                "symbol": "FNV",
+                "headline": "Can Higher H2 Production Support Franco-Nevada's 2026 Guidance?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/higher-h2-production-support-franco-140300103.html",
                 "score": 0
             },
             {
-                "symbol": "TE",
-                "headline": "Technip Energies awarded engineering and technology contracts by Petkim for the development of a proposed integrated petrochemical complex in T\u00fcrkiye",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/energy/articles/technip-energies-awarded-engineering-technology-050000381.html",
+                "symbol": "TRLV",
+                "headline": "Trulieve Sinks 14% as DEA Judge Pauses Cannabis Rescheduling Over GAO Report Flagging \u201cGaps\u201d",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/healthcare/articles/trulieve-sinks-14-dea-judge-141931303.html",
+                "score": 0
+            },
+            {
+                "symbol": "CAG",
+                "headline": "What Conagra Brands (CAG) Said on Its Q1 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-brands-cag-said-q1-150402044.html",
+                "score": 0
+            },
+            {
+                "symbol": "MAT",
+                "headline": "Mattel CEO poached by Paramount, stock sinks",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/mattel-ceo-poached-by-paramount-stock-sinks-125254597.html",
+                "score": 0
+            },
+            {
+                "symbol": "HIMS",
+                "headline": "Hims & Hers Stock: 30% Growth Can\u2019t Hide a Margin Problem",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-stock-30-growth-202603642.html",
                 "score": 0
             }
         ]
