@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-09-30T00:17:28.137716+00:00",
+    "timestamp": "2026-09-30T02:28:19.973848+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "RCL",
+                "headline": "Stock Market Today, Sept. 29: Carnival Surges 13% on Record Bookings, Raised Guidance",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-29-210839178.html",
+                "score": 6
+            },
             {
                 "symbol": "SDEV",
                 "headline": "Top Premarket Gainers",
@@ -17,66 +24,38 @@
                 "score": 3
             },
             {
-                "symbol": "SMMT",
-                "headline": "AstraZeneca Digs $2 Billion Out Of Its Coffers For Summit Deal, Taking On Bristol, Pfizer, Merck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/98e08dd4-7f08-3d94-905c-70af001025d7/astrazeneca-digs-%242-billion.html",
-                "score": 2
-            },
-            {
-                "symbol": "FICO",
-                "headline": "Why Fair Isaac Corporation (FICO) Stock Is Falling Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-fair-isaac-corporation-fico-220802714.html",
-                "score": 0
-            },
-            {
                 "symbol": "IOVA",
-                "headline": "Apple, Meta, Iovance, Carnival, Fair Isaac, Bloom Energy, SpaceX, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/e4c63816-8d5f-3cc4-a06f-9cc7458d4a95/apple%2C-meta%2C-iovance%2C.html",
+                "headline": "Iovance Biotherapeutics (IOVA) Eyes 60% Revenue Growth, Shares Jump 31%",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/healthcare/articles/iovance-biotherapeutics-iova-eyes-60-003045168.html",
                 "score": 0
             },
             {
                 "symbol": "MU",
-                "headline": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html",
+                "headline": "AMAT Stock Has Doubled This Year: Analyst Trims Price Target But Sees Higher 2027 Sales, Profit",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amat-stock-doubled-analyst-trims-022103970.html",
                 "score": 0
             },
             {
-                "symbol": "DKNG",
-                "headline": "Here's Why DraftKings (DKNG) Fell More Than Broader Market",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-draftkings-dkng-fell-205002573.html",
+                "symbol": "CAPR",
+                "headline": "Why Did CAPR Stock Jump 20% After-Hours Today?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-capr-stock-jump-012424265.html",
                 "score": 0
             },
             {
-                "symbol": "AAPL",
-                "headline": "Apple is betting $1,999 that consumers are ready for this shift",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/technology/articles/apple-betting-1-999-consumers-233700549.html",
+                "symbol": "GME",
+                "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $10.6M Worth Of Shares",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-231019596.html",
                 "score": 0
             },
             {
-                "symbol": "TTD",
-                "headline": "The Trade Desk Stock Slides 18% Over 9 Straight Down Days",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-stock-slides-18-153740731.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMAT",
-                "headline": "Applied Materials, Kioxia Collaborate to Develop AI Memory Technology",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-kioxia-collaborate-develop-205432894.html",
-                "score": 0
-            },
-            {
-                "symbol": "CNXC",
-                "headline": "Concentrix Q3 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/concentrix-q3-earnings-call-highlights-220246724.html",
+                "symbol": "HOOD",
+                "headline": "HOOD Stock Rises Overnight: Robinhood Unveils Weekend Trading, AI Agents And Earnings Prediction Markets",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-rises-overnight-robinhood-021735426.html",
                 "score": 0
             },
             {
@@ -87,13 +66,6 @@
                 "score": 0
             },
             {
-                "symbol": "QURE",
-                "headline": "QURE Stock Clocks Worst Day In Over 10 Months: Four-Year Huntington\u2019s Data Spooks Investors Despite Stronger Three-Year Filing Data",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/qure-stock-clocks-worst-day-220807103.html",
-                "score": 0
-            },
-            {
                 "symbol": "NKE",
                 "headline": "Here\u2019s How Much Nike Stock Is Expected to Move After Earnings",
                 "publisher": "Investopedia",
@@ -101,31 +73,10 @@
                 "score": 0
             },
             {
-                "symbol": "QSI",
-                "headline": "Quantum-Si Presents Interim Proteus\u2122 Data at World HUPO 2026 Demonstrating a Significant Step Change in Performance Compared to Platinum\u00ae Pro",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/quantum-si-presents-interim-proteus-001500264.html",
-                "score": 0
-            },
-            {
-                "symbol": "MGNI",
-                "headline": "Magnite's Growth Outlook Improves 'Considerably' After Google Court Ruling, BofA Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/media-advertising/articles/magnite-apos-growth-outlook-improves-152402700.html",
-                "score": 0
-            },
-            {
-                "symbol": "SLND",
-                "headline": "Update: US Equity Indexes Fall as Michael Barr Reiterates Further Rate Hikes Amid Waning Consumer Confidence",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-michael-204555661.html",
-                "score": 0
-            },
-            {
-                "symbol": "CBRS",
-                "headline": "Cerebras Systems vs. Nebius: What Revenue Growth Trends Reveal to Investors About These Artificial Intelligence Companies",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-vs-nebius-revenue-183311910.html",
+                "symbol": "DKNG",
+                "headline": "Here's Why DraftKings (DKNG) Fell More Than Broader Market",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-draftkings-dkng-fell-205002573.html",
                 "score": 0
             },
             {
@@ -133,6 +84,55 @@
                 "headline": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOC",
+                "headline": "Boeing Lands Navy Contract Worth More Than $20 Billion",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/88cf75b4-6a76-3b29-8352-4e2a007fad63/boeing-lands-navy-contract.html",
+                "score": 0
+            },
+            {
+                "symbol": "BWXT",
+                "headline": "BWX Technologies Hosting Investor Day",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-hosting-investor-day-103000765.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMAT",
+                "headline": "AMAT Stock Has Doubled This Year: Analyst Trims Price Target But Sees Higher 2027 Sales, Profit",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amat-stock-doubled-analyst-trims-022103970.html",
+                "score": 0
+            },
+            {
+                "symbol": "AAPL",
+                "headline": "T-Mobile raises another fee customers pay each month",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/economy/policy/articles/t-mobile-raises-another-fee-021700147.html",
+                "score": 0
+            },
+            {
+                "symbol": "TTD",
+                "headline": "The Trade Desk Stock Slides 18% Over 9 Straight Down Days",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-stock-slides-18-153740731.html",
+                "score": 0
+            },
+            {
+                "symbol": "MRNA",
+                "headline": "2 S&P 500 Stocks to Consider Right Now and 1 We Question",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-consider-142402680.html",
+                "score": 0
+            },
+            {
+                "symbol": "NLY",
+                "headline": "Annaly Capital Management, Inc. Announces Dates of Third Quarter 2026 Financial Results and Conference Call",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-inc-announces-201500678.html",
                 "score": 0
             }
         ]
