@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-09-30T02:28:19.973848+00:00",
+    "timestamp": "2026-09-30T05:50:03.834638+00:00",
     "catalysts": [
-        {
-            "symbol": "RCL",
-            "headline": "Stock Market Today, Sept. 29: Carnival Surges 13% on Record Bookings, Raised Guidance",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-29-210839178.html",
-            "score": 6
-        },
         {
             "symbol": "SDEV",
             "headline": "Top Premarket Gainers",
@@ -23,17 +16,38 @@
             "score": 3
         },
         {
-            "symbol": "IOVA",
-            "headline": "Iovance Biotherapeutics (IOVA) Eyes 60% Revenue Growth, Shares Jump 31%",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/healthcare/articles/iovance-biotherapeutics-iova-eyes-60-003045168.html",
+            "symbol": "LULU",
+            "headline": "Lululemon Inks Mag Mile Deal: The Chicago Deal Sheet",
+            "publisher": "Bisnow",
+            "link": "https://finance.yahoo.com/real-estate/articles/lululemon-inks-mag-mile-deal-212311117.html",
+            "score": 2
+        },
+        {
+            "symbol": "FICO",
+            "headline": "Why Fair Isaac Corporation (FICO) Stock Is Falling Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-fair-isaac-corporation-fico-220802714.html",
             "score": 0
         },
         {
             "symbol": "MU",
-            "headline": "AMAT Stock Has Doubled This Year: Analyst Trims Price Target But Sees Higher 2027 Sales, Profit",
+            "headline": "Micron Stock Is Up 550% in a Year. Analysts Now Target 42% More.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-550-analysts-now-051432071.html",
+            "score": 0
+        },
+        {
+            "symbol": "IOVA",
+            "headline": "Biotech Lagged The Broader Market In September \u2014 Did Retail Favorites SLS, IBRX, VNDA And IOVA Dodge XBI\u2019s Slump?",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amat-stock-doubled-analyst-trims-022103970.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/biotech-lagged-broader-market-september-034757461.html",
+            "score": 0
+        },
+        {
+            "symbol": "HOOD",
+            "headline": "Can Robinhood\u2019s (HOOD) Financial Super-App Ambitions Create a Lasting Moat?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-financial-super-app-040319905.html",
             "score": 0
         },
         {
@@ -44,59 +58,10 @@
             "score": 0
         },
         {
-            "symbol": "GME",
-            "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $10.6M Worth Of Shares",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-231019596.html",
-            "score": 0
-        },
-        {
-            "symbol": "HOOD",
-            "headline": "HOOD Stock Rises Overnight: Robinhood Unveils Weekend Trading, AI Agents And Earnings Prediction Markets",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-rises-overnight-robinhood-021735426.html",
-            "score": 0
-        },
-        {
-            "symbol": "RXRX",
-            "headline": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/recursion-pharmaceuticals-rxrx-registers-bigger-205004215.html",
-            "score": 0
-        },
-        {
-            "symbol": "NKE",
-            "headline": "Here\u2019s How Much Nike Stock Is Expected to Move After Earnings",
-            "publisher": "Investopedia",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/much-nike-stock-expected-move-205620598.html",
-            "score": 0
-        },
-        {
             "symbol": "DKNG",
-            "headline": "Here's Why DraftKings (DKNG) Fell More Than Broader Market",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-draftkings-dkng-fell-205002573.html",
-            "score": 0
-        },
-        {
-            "symbol": "BE",
-            "headline": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html",
-            "score": 0
-        },
-        {
-            "symbol": "NOC",
-            "headline": "Boeing Lands Navy Contract Worth More Than $20 Billion",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/88cf75b4-6a76-3b29-8352-4e2a007fad63/boeing-lands-navy-contract.html",
-            "score": 0
-        },
-        {
-            "symbol": "BWXT",
-            "headline": "BWX Technologies Hosting Investor Day",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-hosting-investor-day-103000765.html",
+            "headline": "DKNG Stock Heads For Worst Month Since January, But Retail Backs DraftKings' DKeX Despite Kalshi\u2019s Lead",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dkng-stock-heads-worst-month-045850436.html",
             "score": 0
         },
         {
@@ -107,17 +72,45 @@
             "score": 0
         },
         {
-            "symbol": "AAPL",
-            "headline": "T-Mobile raises another fee customers pay each month",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/economy/policy/articles/t-mobile-raises-another-fee-021700147.html",
+            "symbol": "RXRX",
+            "headline": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/recursion-pharmaceuticals-rxrx-registers-bigger-205004215.html",
             "score": 0
         },
         {
-            "symbol": "TTD",
-            "headline": "The Trade Desk Stock Slides 18% Over 9 Straight Down Days",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-stock-slides-18-153740731.html",
+            "symbol": "BE",
+            "headline": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html",
+            "score": 0
+        },
+        {
+            "symbol": "MUU",
+            "headline": "ETF League Tables: Direxion Inflows Total $237M",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-direxion-inflows-210004304.html",
+            "score": 0
+        },
+        {
+            "symbol": "NKE",
+            "headline": "Nike (NKE) Reports Q3: Everything You Need To Know Ahead Of Earnings",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-reports-q3-everything-030055823.html",
+            "score": 0
+        },
+        {
+            "symbol": "ORCL",
+            "headline": "Is Oracle Stock a Buy Now?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-buy-now-053700985.html",
+            "score": 0
+        },
+        {
+            "symbol": "GME",
+            "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $10.6M Worth Of Shares",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-231019596.html",
             "score": 0
         },
         {
@@ -128,10 +121,24 @@
             "score": 0
         },
         {
-            "symbol": "NLY",
-            "headline": "Annaly Capital Management, Inc. Announces Dates of Third Quarter 2026 Financial Results and Conference Call",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-inc-announces-201500678.html",
+            "symbol": "AXTI",
+            "headline": "AXT (AXTI) Is Up 12.72% in One Week: What You Should Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/axt-axti-12-72-one-150002351.html",
+            "score": 0
+        },
+        {
+            "symbol": "CBRS",
+            "headline": "Cerebras Systems vs. Nebius: What Revenue Growth Trends Reveal to Investors About These Artificial Intelligence Companies",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-vs-nebius-revenue-183311910.html",
+            "score": 0
+        },
+        {
+            "symbol": "GLW",
+            "headline": "Why Corning Stock Topped the Market on Tuesday",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-corning-stock-topped-market-221753227.html",
             "score": 0
         }
     ]
