@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-30T05:50:03.834638+00:00",
+    "timestamp": "2026-09-30T09:10:33.154936+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,34 +10,6 @@
                 "score": 3
             },
             {
-                "symbol": "CCL",
-                "headline": "Carnival Corporation Ltd (CCL) (Q3 2026) Earnings Call Highlights: Record Quarter, Raised ...",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/carnival-corporation-ltd-ccl-q3-230036848.html",
-                "score": 3
-            },
-            {
-                "symbol": "LULU",
-                "headline": "Lululemon Inks Mag Mile Deal: The Chicago Deal Sheet",
-                "publisher": "Bisnow",
-                "link": "https://finance.yahoo.com/real-estate/articles/lululemon-inks-mag-mile-deal-212311117.html",
-                "score": 2
-            },
-            {
-                "symbol": "FICO",
-                "headline": "Why Fair Isaac Corporation (FICO) Stock Is Falling Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-fair-isaac-corporation-fico-220802714.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "Micron Stock Is Up 550% in a Year. Analysts Now Target 42% More.",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-550-analysts-now-051432071.html",
-                "score": 0
-            },
-            {
                 "symbol": "IOVA",
                 "headline": "Biotech Lagged The Broader Market In September \u2014 Did Retail Favorites SLS, IBRX, VNDA And IOVA Dodge XBI\u2019s Slump?",
                 "publisher": "Stocktwits",
@@ -45,73 +17,31 @@
                 "score": 0
             },
             {
-                "symbol": "HOOD",
-                "headline": "Can Robinhood\u2019s (HOOD) Financial Super-App Ambitions Create a Lasting Moat?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-financial-super-app-040319905.html",
-                "score": 0
-            },
-            {
-                "symbol": "CAPR",
-                "headline": "Why Did CAPR Stock Jump 20% After-Hours Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-capr-stock-jump-012424265.html",
-                "score": 0
-            },
-            {
-                "symbol": "DKNG",
-                "headline": "DKNG Stock Heads For Worst Month Since January, But Retail Backs DraftKings' DKeX Despite Kalshi\u2019s Lead",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dkng-stock-heads-worst-month-045850436.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMAT",
-                "headline": "AMAT Stock Has Doubled This Year: Analyst Trims Price Target But Sees Higher 2027 Sales, Profit",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amat-stock-doubled-analyst-trims-022103970.html",
-                "score": 0
-            },
-            {
-                "symbol": "RXRX",
-                "headline": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note",
+                "symbol": "FICO",
+                "headline": "Company News for Sep 30, 2026",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/recursion-pharmaceuticals-rxrx-registers-bigger-205004215.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-30-2026-071600697.html",
                 "score": 0
             },
             {
-                "symbol": "BE",
-                "headline": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html",
+                "symbol": "HOOD",
+                "headline": "Robinhood is rolling out agentic AI trading accounts for the masses",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/robinhood-is-rolling-out-agentic-ai-trading-accounts-for-the-masses-230517174.html",
                 "score": 0
             },
             {
-                "symbol": "MUU",
-                "headline": "ETF League Tables: Direxion Inflows Total $237M",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-direxion-inflows-210004304.html",
-                "score": 0
-            },
-            {
-                "symbol": "NKE",
-                "headline": "Nike (NKE) Reports Q3: Everything You Need To Know Ahead Of Earnings",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-reports-q3-everything-030055823.html",
-                "score": 0
-            },
-            {
-                "symbol": "ORCL",
-                "headline": "Is Oracle Stock a Buy Now?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-buy-now-053700985.html",
-                "score": 0
-            },
-            {
-                "symbol": "GME",
-                "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $10.6M Worth Of Shares",
+                "symbol": "MU",
+                "headline": "MU Stock Rises Ahead Of Crucial Q4 Earnings Report: Investors, Analysts Look For Clues On How Long Memory Boom Can Last",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-231019596.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-rises-ahead-crucial-084729667.html",
+                "score": 0
+            },
+            {
+                "symbol": "CCL",
+                "headline": "CCL Q3 Deep Dive: Destination Strategy and Operational Discipline Drive Outperformance",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ccl-q3-deep-dive-destination-082113476.html",
                 "score": 0
             },
             {
@@ -122,10 +52,31 @@
                 "score": 0
             },
             {
-                "symbol": "AXTI",
-                "headline": "AXT (AXTI) Is Up 12.72% in One Week: What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/axt-axti-12-72-one-150002351.html",
+                "symbol": "CAPR",
+                "headline": "Why Did CAPR Stock Jump 20% After-Hours Today?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-capr-stock-jump-012424265.html",
+                "score": 0
+            },
+            {
+                "symbol": "QURE",
+                "headline": "QURE Stock Clocks Worst Day In Over 10 Months: Four-Year Huntington\u2019s Data Spooks Investors Despite Stronger Three-Year Filing Data",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/qure-stock-clocks-worst-day-220807103.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMAT",
+                "headline": "Applied Materials (AMAT) Ties Its $5 Billion EPIC Center To Next Gen AI Memory",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-ties-5-080947559.html",
+                "score": 0
+            },
+            {
+                "symbol": "DKNG",
+                "headline": "DKNG Stock Heads For Worst Month Since January, But Retail Backs DraftKings' DKeX Despite Kalshi\u2019s Lead",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dkng-stock-heads-worst-month-045850436.html",
                 "score": 0
             },
             {
@@ -136,10 +87,52 @@
                 "score": 0
             },
             {
-                "symbol": "GLW",
-                "headline": "Why Corning Stock Topped the Market on Tuesday",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-corning-stock-topped-market-221753227.html",
+                "symbol": "GME",
+                "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $10.6M Worth Of Shares",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-231019596.html",
+                "score": 0
+            },
+            {
+                "symbol": "NKE",
+                "headline": "NKE Ticks Higher Ahead Of Q1 As Short Interest Hits Record 87M Shares \u2014 Could Earnings Squeeze The Bears?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nke-ticks-higher-ahead-q1-080734899.html",
+                "score": 0
+            },
+            {
+                "symbol": "JBL",
+                "headline": "Jabil (JBL) Has Drawn Fresh Attention, But What Is The Market Weighing?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-drawn-fresh-attention-200532706.html",
+                "score": 0
+            },
+            {
+                "symbol": "RXRX",
+                "headline": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/recursion-pharmaceuticals-rxrx-registers-bigger-205004215.html",
+                "score": 0
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "Nebius (NBIS) Stock Still Trades At A Premium On AI Price Hikes",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-stock-still-trades-081203285.html",
+                "score": 0
+            },
+            {
+                "symbol": "FCEL",
+                "headline": "Cummins And 2 Other Top Hydrogen Stocks",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/energy/articles/cummins-2-other-top-hydrogen-081142431.html",
+                "score": 0
+            },
+            {
+                "symbol": "TE",
+                "headline": "Technip Energies awarded engineering and technology contracts by Petkim for the development of a proposed integrated petrochemical complex in T\u00fcrkiye",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/energy/articles/technip-energies-awarded-engineering-technology-050000381.html",
                 "score": 0
             }
         ]
