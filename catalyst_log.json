@@ -1,11 +1,11 @@
 {
-    "timestamp": "2026-10-01T02:21:13.149908+00:00",
+    "timestamp": "2026-10-01T04:26:16.489659+00:00",
     "catalysts": [
         {
-            "symbol": "TGE",
-            "headline": "TGE's profit surged by 9.9 times, with total assets at US$1.8bn and net assets at US$932m",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/tges-profit-surged-9-9-102700346.html",
+            "symbol": "ASTS",
+            "headline": "ASTS Climbs Overnight As BlueBird Convoy Heads To Cape Canaveral, CEO Pitches Spectrum To FCC Chief",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asts-climbs-overnight-bluebird-convoy-013208368.html",
             "score": 3
         },
         {
@@ -16,17 +16,31 @@
             "score": 2
         },
         {
+            "symbol": "NU",
+            "headline": "NU Stock Pops After Hours: Monzo Deal Scare Meets Company Denial",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nu-stock-pops-hours-monzo-222947960.html",
+            "score": 2
+        },
+        {
             "symbol": "MU",
-            "headline": "Asian stocks dip, bonds in focus after torrid September\u00a0",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dip-bonds-focus-015645052.html",
+            "headline": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html",
             "score": 0
         },
         {
             "symbol": "GOOG",
-            "headline": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html",
+            "headline": "Trump Losing Midterms Could Be the 'Trigger' that Pops AI Bubble, Says Market Analyst \u2014 Here's What Crypto Punters Think",
+            "publisher": "Benzinga Prediction Markets",
+            "link": "https://finance.yahoo.com/technology/ai/articles/trump-losing-midterms-could-trigger-033222678.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOGL",
+            "headline": "Trump Losing Midterms Could Be the 'Trigger' that Pops AI Bubble, Says Market Analyst \u2014 Here's What Crypto Punters Think",
+            "publisher": "Benzinga Prediction Markets",
+            "link": "https://finance.yahoo.com/technology/ai/articles/trump-losing-midterms-could-trigger-033222678.html",
             "score": 0
         },
         {
@@ -37,13 +51,6 @@
             "score": 0
         },
         {
-            "symbol": "GOOGL",
-            "headline": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html",
-            "score": 0
-        },
-        {
             "symbol": "APP",
             "headline": "APP Stock Hits Fresh 52-Week Low After Wells Fargo Calls Pixel Install Spike \u2018A False Start\u2019",
             "publisher": "Stocktwits",
@@ -51,24 +58,24 @@
             "score": 0
         },
         {
-            "symbol": "SNDK",
-            "headline": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html",
+            "symbol": "HPE",
+            "headline": "Why Did WBD, HPE, CRWD Stocks Rise To 52-Week Highs Today?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-wbd-hpe-crwd-032617537.html",
             "score": 0
         },
         {
-            "symbol": "HOOD",
-            "headline": "Robinhood Markets Unveils 24/7 Trading, AI Agents and Private-Market Push at HOOD Summit",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-unveils-24-7-010214206.html",
+            "symbol": "ZETA",
+            "headline": "Behind Zeta Global\u2019s (ZETA) 60.4% Rally in Q3",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/behind-zeta-global-zeta-60-015714789.html",
             "score": 0
         },
         {
-            "symbol": "PRGS",
-            "headline": "Progress Software Q3 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/articles/progress-software-q3-earnings-call-230243814.html",
+            "symbol": "INTC",
+            "headline": "What Changed In Marvell's Story?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/changed-marvells-story-205226599.html",
             "score": 0
         },
         {
@@ -86,10 +93,38 @@
             "score": 0
         },
         {
+            "symbol": "GNS",
+            "headline": "Genius Group to host Genius Future Summit on November 5-6, 2026.",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/small-business/articles/genius-group-host-genius-future-120000372.html",
+            "score": 0
+        },
+        {
             "symbol": "JBL",
             "headline": "Why Jabil (JBL) Shares Are Falling Today",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-jabil-jbl-shares-falling-215713926.html",
+            "score": 0
+        },
+        {
+            "symbol": "RKLB",
+            "headline": "Is SpaceX's Starship a Threat to Rocket Lab Stock Now That It Has Reached Orbit?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-starship-threat-rocket-lab-032701864.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html",
+            "score": 0
+        },
+        {
+            "symbol": "ACN",
+            "headline": "Review & Preview: Intraday Flip",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/42266770-5c11-3087-8574-7ddc1e726e98/review-%26-preview%3A-intraday.html",
             "score": 0
         },
         {
@@ -100,24 +135,10 @@
             "score": 0
         },
         {
-            "symbol": "ZETA",
-            "headline": "Behind Zeta Global\u2019s (ZETA) 60.4% Rally in Q3",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/behind-zeta-global-zeta-60-015714789.html",
-            "score": 0
-        },
-        {
-            "symbol": "GIS",
-            "headline": "General Mills Taps COO to Helm Its Turnaround",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/0d3d0e4f-1aba-30be-bfb0-9c7034df8ad9/general-mills-taps-coo-to.html",
-            "score": 0
-        },
-        {
-            "symbol": "CNTB",
-            "headline": "Connect Biopharma Reports Positive Phase 2 Rademikibart COPD Data, Plans FDA Talks on Phase 3 Program",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/connect-biopharma-reports-positive-phase-144341652.html",
+            "symbol": "SOXL",
+            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
             "score": 0
         }
     ]
