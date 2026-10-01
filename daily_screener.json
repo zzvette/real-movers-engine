@@ -1,145 +1,145 @@
 {
-    "timestamp": "2026-10-01T16:01:25.638076+00:00",
+    "timestamp": "2026-10-01T19:06:01.150626+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "ACN",
-                "headline": "Accenture Jumps 20% and IBM Climbs on Strong Outlook for 2027",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-jumps-20-ibm-climbs-154957520.html",
-                "score": 6
-            },
-            {
-                "symbol": "IBM",
-                "headline": "Accenture Jumps 20% and IBM Climbs on Strong Outlook for 2027",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-jumps-20-ibm-climbs-154957520.html",
-                "score": 6
-            },
-            {
-                "symbol": "LITE",
-                "headline": "Coherent Jumps 10% on PhotonLink Push and Bernstein\u2019s Outperform Start; Lumentum Rises 9%, Corning Advances 3%",
+                "symbol": "BBAI",
+                "headline": "\u201cSoundHound AI Jumps 5% on India Product Launch; BigBear.ai Rises 3%, Pony AI Stays Flat",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-jumps-10-photonlink-push-145611273.html",
+                "link": "https://finance.yahoo.com/technology/ai/articles/soundhound-ai-jumps-5-india-165246345.html",
                 "score": 3
             },
             {
-                "symbol": "COHR",
-                "headline": "Coherent Jumps 10% on PhotonLink Push and Bernstein\u2019s Outperform Start; Lumentum Rises 9%, Corning Advances 3%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-jumps-10-photonlink-push-145611273.html",
+                "symbol": "SNPS",
+                "headline": "Synopsys Stock Surges On AI-Driven Transformation Of Engineering",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7171a30c-54f6-33a0-b8d7-3d042ce5bc4d/synopsys-stock-surges-on.html",
                 "score": 3
             },
             {
-                "symbol": "VICR",
-                "headline": "Vicor Stock Surges as Royalty Revenue Boosts Growth Outlook",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/536df335-8315-3d7a-8ed7-d7f099e3dcda/vicor-stock-surges-as-royalty.html",
-                "score": 3
-            },
-            {
-                "symbol": "FSLR",
-                "headline": "Is T1 Energy Moving Toward Vertical Integration in Solar?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/energy/articles/t1-energy-moving-toward-vertical-132100650.html",
-                "score": 3
+                "symbol": "VEEA",
+                "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
+                "score": 2
             },
             {
                 "symbol": "CTVA",
-                "headline": "Corteva\u2019s Market Cap Tumbles By Over $42B Today \u2013 CTVA Stock Hits Record Low",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-market-cap-tumbles-over-144520131.html",
+                "headline": "Top Midday Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-184457329.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACN",
+                "headline": "Accenture PLC (ACN) (Q4 2026) Earnings Call Highlights: Record Managed Services Bookings and ...",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-plc-acn-q4-2026-190037577.html",
+                "score": 0
+            },
+            {
+                "symbol": "INOD",
+                "headline": "Innodata Launches Motion-Capture lab to Train Humanoids",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/innodata-launches-motion-capture-lab-163156701.html",
+                "score": 0
+            },
+            {
+                "symbol": "COHR",
+                "headline": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-205-too-buy-185511376.html",
                 "score": 0
             },
             {
                 "symbol": "MU",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as  fresh manufacturing spurs cost pressure worries",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq fluctuate as Treasury yields retreat, AI trade regains momentum",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html",
                 "score": 0
             },
             {
-                "symbol": "LQDA",
-                "headline": "United Therapeutics Won Its Patent War and Liquidia Collapsed",
+                "symbol": "LITE",
+                "headline": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-won-patent-war-150712736.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-205-too-buy-185511376.html",
                 "score": 0
             },
             {
-                "symbol": "SNPS",
-                "headline": "Synopsys Is the Top Stock in the Nasdaq 100 Today. Here\u2019s Why.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/c06fb1de-c01e-34de-8e4f-2e66a1459c7c/synopsys-is-the-top-stock-in.html",
+                "symbol": "SNDK",
+                "headline": "Sandisk Just Got a $2,100 Price Target as AI Keeps NAND Supply Tight",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/sandisk-just-got-2-100-174701724.html",
+                "score": 0
+            },
+            {
+                "symbol": "GEV",
+                "headline": "Top Industrial Stocks to Watch Heading Into Q3 Earnings Season",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-industrial-stocks-watch-heading-162856395.html",
+                "score": 0
+            },
+            {
+                "symbol": "P",
+                "headline": "Everpure Stock Is September\u2019s Surprise S&P 500 Winner, Surging More Than 40% As Retail Piles In",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-stock-september-surprise-p-071804814.html",
+                "score": 0
+            },
+            {
+                "symbol": "BIRD",
+                "headline": "Allbirds\u2019 IP owner snaps up Nasty Gal for $16M",
+                "publisher": "Retail Dive",
+                "link": "https://finance.yahoo.com/small-business/articles/allbirds-ip-owner-snaps-nasty-120200985.html",
                 "score": 0
             },
             {
                 "symbol": "AISP",
-                "headline": "Airship AI Announces $29.0M of Firm Fixed Price Brand Name Only Awards from Department of Homeland Security",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/airship-ai-announces-29-0m-130000534.html",
-                "score": 0
-            },
-            {
-                "symbol": "INFY",
-                "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/news/asian-equities-traded-us-american-143445211.html",
-                "score": 0
-            },
-            {
-                "symbol": "CTSH",
-                "headline": "Cognizant and EPAM Soar 7% on Accenture\u2019s Good News: What You Need to Know",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cognizant-epam-soar-7-accenture-151628548.html",
-                "score": 0
-            },
-            {
-                "symbol": "EFXT",
-                "headline": "Enerflex (TSX:EFX) Completes Asia Pacific Divestiture",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/enerflex-tsx-efx-completes-asia-150919657.html",
-                "score": 0
-            },
-            {
-                "symbol": "NKTR",
-                "headline": "3 Biotech Stocks Put Traders Are Targeting Today",
-                "publisher": "Schaeffer's Investment Research",
-                "link": "https://finance.yahoo.com/markets/options/articles/3-biotech-stocks-put-traders-154435920.html",
-                "score": 0
-            },
-            {
-                "symbol": "MOS",
-                "headline": "Mosaic Stock: Is MOS Underperforming the Basic Material Sector?",
-                "publisher": "Barchart",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mosaic-stock-mos-underperforming-basic-133504751.html",
-                "score": 0
-            },
-            {
-                "symbol": "VERI",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017659.html",
                 "score": 0
             },
             {
-                "symbol": "UTHR",
-                "headline": "United Therapeutics Won Its Patent War and Liquidia Collapsed",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-won-patent-war-150712736.html",
+                "symbol": "NAMM",
+                "headline": "What Namib Minerals (NAMM) Said on Its Q2 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/namib-minerals-namm-said-q2-140357506.html",
                 "score": 0
             },
             {
-                "symbol": "GRND",
-                "headline": "Grindr acquires HIV prevention telehealth provider Freddie",
-                "publisher": "Quartz",
-                "link": "https://finance.yahoo.com/healthcare/articles/grindr-acquires-hiv-prevention-telehealth-113556223.html",
+                "symbol": "SOXL",
+                "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
                 "score": 0
             },
             {
-                "symbol": "HD",
-                "headline": "43-year-old beloved Home Depot rival hardware chain store closes",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/small-business/articles/43-old-beloved-home-depot-013030458.html",
+                "symbol": "NKE",
+                "headline": "Dick's Sporting Goods Faces Category, Cost Pressures, Truist Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dick-apos-sporting-goods-faces-184922637.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRDO",
+                "headline": "Arm vs. Credo Technology Group: Which Tech Stock Is a Better Buy in 2026?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-credo-technology-group-184144709.html",
+                "score": 0
+            },
+            {
+                "symbol": "FIX",
+                "headline": "Will Jacobs' Digital Twin Strengthen NVIDIA's AI Infrastructure Reach?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/technology/ai/articles/jacobs-digital-twin-strengthen-nvidias-125900758.html",
+                "score": 0
+            },
+            {
+                "symbol": "PSKY",
+                "headline": "Paramount\u2019s Record Bond Sale Has a Rough Opening Day",
+                "publisher": "Moby",
+                "link": "https://finance.yahoo.com/markets/options/articles/paramount-record-bond-sale-rough-174453303.html",
                 "score": 0
             }
         ]
