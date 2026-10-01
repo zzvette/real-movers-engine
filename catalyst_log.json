@@ -1,6 +1,20 @@
 {
-    "timestamp": "2026-10-01T19:06:01.150626+00:00",
+    "timestamp": "2026-10-01T23:05:42.365072+00:00",
     "catalysts": [
+        {
+            "symbol": "ON",
+            "headline": "ON, SYNA Climb After-Hours As The $7B Stock Deal Becomes A $5.7B Cash Bid",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/syna-climb-hours-7b-stock-215515600.html",
+            "score": 4
+        },
+        {
+            "symbol": "MAT",
+            "headline": "Mattel Inc. (MAT) Spikes 36% on $6B Takeover Buzz \u2014 What\u2019s Next For Shareholders?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mattel-inc-mat-spikes-36-225420940.html",
+            "score": 3
+        },
         {
             "symbol": "BBAI",
             "headline": "\u201cSoundHound AI Jumps 5% on India Product Launch; BigBear.ai Rises 3%, Pony AI Stays Flat",
@@ -9,31 +23,45 @@
             "score": 3
         },
         {
-            "symbol": "SNPS",
-            "headline": "Synopsys Stock Surges On AI-Driven Transformation Of Engineering",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/7171a30c-54f6-33a0-b8d7-3d042ce5bc4d/synopsys-stock-surges-on.html",
-            "score": 3
-        },
-        {
-            "symbol": "VEEA",
-            "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
+            "symbol": "LULU",
+            "headline": "Primaris REIT Announces $411 Million Acquisition of Leading GTA Shopping Centre, Upper Canada Mall",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/real-estate/articles/primaris-reit-announces-411-million-205600987.html",
             "score": 2
         },
         {
+            "symbol": "NKE",
+            "headline": "Nike plans job cuts as it forecasts lower sales",
+            "publisher": "AFP",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nike-plans-job-cuts-forecasts-224054008.html",
+            "score": 0
+        },
+        {
             "symbol": "CTVA",
-            "headline": "Top Midday Decliners",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-184457329.html",
+            "headline": "Vylor Takes Corteva\u2019s S&P 500 Seat, Twilio Set To Replace Warner Bros. Discovery \u2014 Both Stocks Rise After-Hours",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/vylor-takes-corteva-p-500-225146711.html",
             "score": 0
         },
         {
             "symbol": "ACN",
-            "headline": "Accenture PLC (ACN) (Q4 2026) Earnings Call Highlights: Record Managed Services Bookings and ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-plc-acn-q4-2026-190037577.html",
+            "headline": "EPAM, DXC, Everforth, EXL, and Grid Dynamics Stocks Trade Up, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/epam-dxc-everforth-exl-grid-224507189.html",
+            "score": 0
+        },
+        {
+            "symbol": "COHR",
+            "headline": "Why Coherent (COHR) Stock Is Trading Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-cohr-stock-trading-215707276.html",
+            "score": 0
+        },
+        {
+            "symbol": "VYLR",
+            "headline": "Vylor Added to the S&P 500; Twilio Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/vylor-added-p-500-twilio-220000540.html",
             "score": 0
         },
         {
@@ -44,101 +72,73 @@
             "score": 0
         },
         {
-            "symbol": "COHR",
-            "headline": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-205-too-buy-185511376.html",
+            "symbol": "AVGO",
+            "headline": "Is Marvell Stock Ready For A Slowdown In AI Demand?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-ready-slowdown-ai-193233235.html",
             "score": 0
         },
         {
-            "symbol": "MU",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq fluctuate as Treasury yields retreat, AI trade regains momentum",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html",
+            "symbol": "STLA",
+            "headline": "Stellantis (BIT:STLAM) Has The Market Asking A Bigger Question",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-bit-stlam-market-asking-220642838.html",
+            "score": 0
+        },
+        {
+            "symbol": "NFLX",
+            "headline": "Netflix co-CEO says streaming giant \"isn't growing as fast as I want us to\"",
+            "publisher": "Proactive",
+            "link": "https://finance.yahoo.com/media-advertising/articles/netflix-co-ceo-says-streaming-173600802.html",
+            "score": 0
+        },
+        {
+            "symbol": "ONON",
+            "headline": "On Holding (ONON) Outperforms Broader Market: What You Need to Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-outperforms-broader-market-210005207.html",
+            "score": 0
+        },
+        {
+            "symbol": "FICO",
+            "headline": "FICO stock tumbles on report of credit bureau requirement change",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fico-stock-tumbles-report-credit-211122873.html",
             "score": 0
         },
         {
             "symbol": "LITE",
+            "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html",
+            "score": 0
+        },
+        {
+            "symbol": "QSI",
+            "headline": "3 Biotech Stocks Put Traders Are Targeting Today",
+            "publisher": "Schaeffer's Investment Research",
+            "link": "https://finance.yahoo.com/markets/options/articles/3-biotech-stocks-put-traders-154435920.html",
+            "score": 0
+        },
+        {
+            "symbol": "DIS",
+            "headline": "Walt Disney (DIS) Stock Dips While Market Gains: Key Facts",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-stock-dips-204503371.html",
+            "score": 0
+        },
+        {
+            "symbol": "AAOI",
             "headline": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
             "publisher": "24/7 Wall St.",
             "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-205-too-buy-185511376.html",
             "score": 0
         },
         {
-            "symbol": "SNDK",
-            "headline": "Sandisk Just Got a $2,100 Price Target as AI Keeps NAND Supply Tight",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/sandisk-just-got-2-100-174701724.html",
-            "score": 0
-        },
-        {
-            "symbol": "GEV",
-            "headline": "Top Industrial Stocks to Watch Heading Into Q3 Earnings Season",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-industrial-stocks-watch-heading-162856395.html",
-            "score": 0
-        },
-        {
-            "symbol": "P",
-            "headline": "Everpure Stock Is September\u2019s Surprise S&P 500 Winner, Surging More Than 40% As Retail Piles In",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-stock-september-surprise-p-071804814.html",
-            "score": 0
-        },
-        {
-            "symbol": "BIRD",
-            "headline": "Allbirds\u2019 IP owner snaps up Nasty Gal for $16M",
-            "publisher": "Retail Dive",
-            "link": "https://finance.yahoo.com/small-business/articles/allbirds-ip-owner-snaps-nasty-120200985.html",
-            "score": 0
-        },
-        {
-            "symbol": "AISP",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017659.html",
-            "score": 0
-        },
-        {
-            "symbol": "NAMM",
-            "headline": "What Namib Minerals (NAMM) Said on Its Q2 Earnings Call",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/namib-minerals-namm-said-q2-140357506.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOXL",
-            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-            "score": 0
-        },
-        {
-            "symbol": "NKE",
-            "headline": "Dick's Sporting Goods Faces Category, Cost Pressures, Truist Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/dick-apos-sporting-goods-faces-184922637.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRDO",
-            "headline": "Arm vs. Credo Technology Group: Which Tech Stock Is a Better Buy in 2026?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-credo-technology-group-184144709.html",
-            "score": 0
-        },
-        {
-            "symbol": "FIX",
-            "headline": "Will Jacobs' Digital Twin Strengthen NVIDIA's AI Infrastructure Reach?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/ai/articles/jacobs-digital-twin-strengthen-nvidias-125900758.html",
-            "score": 0
-        },
-        {
-            "symbol": "PSKY",
-            "headline": "Paramount\u2019s Record Bond Sale Has a Rough Opening Day",
-            "publisher": "Moby",
-            "link": "https://finance.yahoo.com/markets/options/articles/paramount-record-bond-sale-rough-174453303.html",
+            "symbol": "UMAC",
+            "headline": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-tumbles-8-despite-164923345.html",
             "score": 0
         }
     ]
