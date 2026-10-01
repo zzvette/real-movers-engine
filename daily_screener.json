@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-30T23:31:02.604477+00:00",
+    "timestamp": "2026-10-01T02:21:13.149908+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,10 +10,17 @@
                 "score": 3
             },
             {
+                "symbol": "CEG",
+                "headline": "CEG Stock Rises Overnight: Constellation Signs 20-Year Nuclear Power Deal With Amazon",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-rises-overnight-constellation-011626739.html",
+                "score": 2
+            },
+            {
                 "symbol": "MU",
-                "headline": "Micron\u2019s Revenue More Than Quadrupled. Here\u2019s What Comes Next for the AI Chipmaker.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/micron-revenue-more-quadrupled-comes-231401715.html",
+                "headline": "Asian stocks dip, bonds in focus after torrid September\u00a0",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dip-bonds-focus-015645052.html",
                 "score": 0
             },
             {
@@ -25,9 +32,9 @@
             },
             {
                 "symbol": "LQDA",
-                "headline": "United Therapeutics Corporation Prevails in Patent Litigation Against Liquidia",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-corporation-prevails-patent-230900081.html",
+                "headline": "Why Is United Therapeutics (UTHR) Stock Rocketing Higher Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-united-therapeutics-uthr-stock-233313185.html",
                 "score": 0
             },
             {
@@ -45,13 +52,6 @@
                 "score": 0
             },
             {
-                "symbol": "CEG",
-                "headline": "Constellation Stock Rises as Amazon Backs Nuclear Plant Expansion",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f0c82482-0f3a-3f10-8519-420d85cb460f/constellation-stock-rises-as.html",
-                "score": 0
-            },
-            {
                 "symbol": "SNDK",
                 "headline": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
                 "publisher": "Investor's Business Daily",
@@ -60,9 +60,9 @@
             },
             {
                 "symbol": "HOOD",
-                "headline": "Stocks to Watch Recap: Micron, Boeing, Robinhood, Mattel",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/08e9d467-8937-35f2-9a0d-118d380fca08/stocks-to-watch-recap%3A.html",
+                "headline": "Robinhood Markets Unveils 24/7 Trading, AI Agents and Private-Market Push at HOOD Summit",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-unveils-24-7-010214206.html",
                 "score": 0
             },
             {
@@ -74,16 +74,16 @@
             },
             {
                 "symbol": "UTHR",
-                "headline": "United Therapeutics Corporation Prevails in Patent Litigation Against Liquidia",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-corporation-prevails-patent-230900081.html",
+                "headline": "Why Is United Therapeutics (UTHR) Stock Rocketing Higher Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-united-therapeutics-uthr-stock-233313185.html",
                 "score": 0
             },
             {
                 "symbol": "SNPS",
-                "headline": "Why Synopsys Stock Soared Nearly 5% Higher Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-synopsys-stock-soared-nearly-231910981.html",
+                "headline": "Synopsys (SNPS) vs Cadence (CDNS): Which is a Better Stock to Buy?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-vs-cadence-cdns-232835003.html",
                 "score": 0
             },
             {
@@ -102,9 +102,9 @@
             },
             {
                 "symbol": "ZETA",
-                "headline": "Procore Technologies, Zeta Global, and SoundHound AI Stocks Trade Up, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-zeta-global-soundhound-223713278.html",
+                "headline": "Behind Zeta Global\u2019s (ZETA) 60.4% Rally in Q3",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/behind-zeta-global-zeta-60-015714789.html",
                 "score": 0
             },
             {
