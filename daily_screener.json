@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-01T23:05:42.365072+00:00",
+    "timestamp": "2026-10-01T23:42:48.455815+00:00",
     "signals": {
         "catalysts": [
             {
@@ -24,6 +24,13 @@
                 "score": 3
             },
             {
+                "symbol": "VEEA",
+                "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
+                "score": 2
+            },
+            {
                 "symbol": "LULU",
                 "headline": "Primaris REIT Announces $411 Million Acquisition of Leading GTA Shopping Centre, Upper Canada Mall",
                 "publisher": "Business Wire",
@@ -32,9 +39,9 @@
             },
             {
                 "symbol": "NKE",
-                "headline": "Nike plans job cuts as it forecasts lower sales",
-                "publisher": "AFP",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nike-plans-job-cuts-forecasts-224054008.html",
+                "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html",
                 "score": 0
             },
             {
@@ -133,13 +140,6 @@
                 "headline": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
                 "publisher": "24/7 Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-205-too-buy-185511376.html",
-                "score": 0
-            },
-            {
-                "symbol": "UMAC",
-                "headline": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-tumbles-8-despite-164923345.html",
                 "score": 0
             }
         ]
