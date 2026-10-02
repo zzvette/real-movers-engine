@@ -1,21 +1,7 @@
 {
-    "timestamp": "2026-10-02T04:19:00.957658+00:00",
+    "timestamp": "2026-10-02T10:40:35.131651+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "ON",
-                "headline": "ON Semicondcutor to Buy Synaptics for Cash, Not Stock, in Downsized Deal",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/e4841b13-ebb5-3341-9785-122d0c5fa01e/on-semicondcutor-to-buy.html",
-                "score": 4
-            },
-            {
-                "symbol": "MAT",
-                "headline": "Mattel Inc. (MAT) Spikes 36% on $6B Takeover Buzz \u2014 What\u2019s Next For Shareholders?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mattel-inc-mat-spikes-36-225420940.html",
-                "score": 3
-            },
             {
                 "symbol": "SDEV",
                 "headline": "Top Premarket Gainers",
@@ -24,115 +10,115 @@
                 "score": 3
             },
             {
-                "symbol": "BBAI",
-                "headline": "\u201cSoundHound AI Jumps 5% on India Product Launch; BigBear.ai Rises 3%, Pony AI Stays Flat",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/soundhound-ai-jumps-5-india-165246345.html",
+                "symbol": "COHR",
+                "headline": "Coherent Stock Jumped 10% on Bernstein\u2019s Call. Here\u2019s Where Shares Could Go Further.",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-jumped-10-bernstein-014620730.html",
                 "score": 3
             },
             {
-                "symbol": "LULU",
-                "headline": "Primaris REIT Announces $411 Million Acquisition of Leading GTA Shopping Centre, Upper Canada Mall",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/real-estate/articles/primaris-reit-announces-411-million-205600987.html",
+                "symbol": "MAT",
+                "headline": "MAT Stock Eyes Best Week In 16 Months On Mattel Buyout Buzz \u2014 Retail Traders See Room Above $20",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mat-stock-eyes-best-week-051724049.html",
                 "score": 2
             },
             {
-                "symbol": "SNPS",
-                "headline": "Did Amazon\u2019s AI Chip and Nuclear Power Deals Just Shift Amazon.com's (AMZN) Investment Narrative?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/did-amazon-ai-chip-nuclear-031018695.html",
+                "symbol": "ON",
+                "headline": "ON Semiconductor Shares Rise 6.5% After Synaptics Acquisition Terms Revised",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-shares-rise-6-5-102329266.html",
                 "score": 2
             },
             {
                 "symbol": "NKE",
-                "headline": "Why Did NKE, FRMI, DKNG Plunge To 52-Week Lows Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nke-frmi-dkng-034538359.html",
-                "score": 0
-            },
-            {
-                "symbol": "CTVA",
-                "headline": "2 New Names Are Joining the S&P 500\u2014and Their Stocks Are Climbing",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/e23a3de0-195d-31c2-a696-a61cfdbd6cc5/2-new-names-are-joining-the.html",
-                "score": 0
-            },
-            {
-                "symbol": "COHR",
-                "headline": "Wall Street Backs Coherent, Rocket Lab and Vertiv",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-backs-coherent-rocket-235828091.html",
-                "score": 0
-            },
-            {
-                "symbol": "ACN",
-                "headline": "Accenture (ACN) Q4 2026 Earnings Call Transcript",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-q4-2026-earnings-022853964.html",
+                "headline": "Dow Jones Futures Rise, Oil Prices Tumble With Tesla, Jobs Report Due; Micron In Buy Area",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures-rise%2C-oil.html",
                 "score": 0
             },
             {
                 "symbol": "MSTR",
-                "headline": "3 High-Yield Financial Stocks to Buy in October",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-yield-financial-stocks-163000863.html",
+                "headline": "Stocks to Watch: Nike, SoftBank, Strategy",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/35ee22be-c916-323d-b633-a90eb633dcdc/stocks-to-watch%3A-nike%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "CTVA",
+                "headline": "Twilio To Join S&P 500 Index",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/c9a95d8c-d573-3915-bdbf-6f173a0faeed/twilio-to-join-s%26p-500-index.html",
+                "score": 0
+            },
+            {
+                "symbol": "BMNR",
+                "headline": "BMNR Stock Forms Golden Cross For First Time Since Bitmine\u2019s Ethereum Pivot Rally",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bmnr-stock-forms-golden-cross-170445383.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBIT",
+                "headline": "The Next Crypto Boom Is Already Here",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/422a682c-20b8-3056-aa0e-22a39a091eac/the-next-crypto-boom-is.html",
                 "score": 0
             },
             {
                 "symbol": "^HSI",
-                "headline": "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3%",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-ahead-u-040339612.html",
-                "score": 0
-            },
-            {
-                "symbol": "LITE",
-                "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html",
-                "score": 0
-            },
-            {
-                "symbol": "INOD",
-                "headline": "Innodata Launches Motion-Capture lab to Train Humanoids",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/innodata-launches-motion-capture-lab-163156701.html",
-                "score": 0
-            },
-            {
-                "symbol": "CIEN",
-                "headline": "Coherent, Lumentum, and Ciena stocks surge on bullish Wall Street call",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/coherent-lumentum-and-ciena-stocks-surge-on-bullish-wall-street-call-182906439.html",
-                "score": 0
-            },
-            {
-                "symbol": "AKAM",
-                "headline": "AI Agents and Bots Now Generate Most Web Traffic as Infrastructure Stocks Rally",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-bots-now-generate-024400840.html",
-                "score": 0
-            },
-            {
-                "symbol": "XRPN",
-                "headline": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-                "publisher": "decrypt",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/largest-pure-play-xrp-treasury-184603157.html",
+                "headline": "European Chip Stocks Rally after Report Samsung Ups Prices",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/62969113-f7eb-3b3f-bc92-32604eb28248/european-chip-stocks-rally.html",
                 "score": 0
             },
             {
                 "symbol": "ASST",
-                "headline": "Michael Saylor Wants His Bitcoin Rival to Win: What's in It for MicroStrategy?",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-wants-bitcoin-rival-230647710.html",
+                "headline": "Strive (ASST) Stock Looks Stretched Despite Its 74% Rebound",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/strive-asst-stock-looks-stretched-070626645.html",
                 "score": 0
             },
             {
-                "symbol": "DIS",
-                "headline": "Walt Disney (DIS) Stock Dips While Market Gains: Key Facts",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-stock-dips-204503371.html",
+                "symbol": "FICO",
+                "headline": "Why Is Equifax (EFX) Facing New Pressure In Mortgage Credit Scores?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-equifax-efx-facing-pressure-090853648.html",
+                "score": 0
+            },
+            {
+                "symbol": "QTEX",
+                "headline": "QTREX Interconnect Independently Tested at 20 mK by a Leading Quantum Computing Company; Over 100 dB Channel Isolation, 60 dB Beyond the Market Leader",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/qtrex-interconnect-independently-tested-20-124500046.html",
+                "score": 0
+            },
+            {
+                "symbol": "ACN",
+                "headline": "What Should IBM Stock Investors Be Watching Now?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-investors-watching-now-092255654.html",
+                "score": 0
+            },
+            {
+                "symbol": "TWLO",
+                "headline": "Twilio To Join S&P 500 Index",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/c9a95d8c-d573-3915-bdbf-6f173a0faeed/twilio-to-join-s%26p-500-index.html",
+                "score": 0
+            },
+            {
+                "symbol": "LITE",
+                "headline": "Dow Jones Futures Rise, Oil Prices Tumble With Tesla, Jobs Report Due; Micron In Buy Area",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures-rise%2C-oil.html",
+                "score": 0
+            },
+            {
+                "symbol": "STLA",
+                "headline": "Stellantis (BIT:STLAM) Stock Gets Fair Value Trim As Analysts Weigh Risks And Supports",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-bit-stlam-stock-gets-051000138.html",
                 "score": 0
             }
         ]
