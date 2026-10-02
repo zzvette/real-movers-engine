@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-02T02:37:10.884351+00:00",
+    "timestamp": "2026-10-02T04:19:00.957658+00:00",
     "catalysts": [
         {
             "symbol": "ON",
@@ -23,20 +23,6 @@
             "score": 3
         },
         {
-            "symbol": "VLO",
-            "headline": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/marathon-petroleum-climbs-5-valero-175313853.html",
-            "score": 3
-        },
-        {
-            "symbol": "SNPS",
-            "headline": "Synopsys Stock Surges On AI-Driven Transformation Of Engineering",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/7171a30c-54f6-33a0-b8d7-3d042ce5bc4d/synopsys-stock-surges-on.html",
-            "score": 3
-        },
-        {
             "symbol": "BBAI",
             "headline": "\u201cSoundHound AI Jumps 5% on India Product Launch; BigBear.ai Rises 3%, Pony AI Stays Flat",
             "publisher": "24/7 Wall St.",
@@ -44,17 +30,24 @@
             "score": 3
         },
         {
-            "symbol": "^HSI",
-            "headline": "Hong Kong Equities Seen at Attractive Valuations",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/d50870f8-a2c7-3c88-b150-ab12ed8f87cb/hong-kong-equities-seen-at.html",
+            "symbol": "LULU",
+            "headline": "Primaris REIT Announces $411 Million Acquisition of Leading GTA Shopping Centre, Upper Canada Mall",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/real-estate/articles/primaris-reit-announces-411-million-205600987.html",
+            "score": 2
+        },
+        {
+            "symbol": "SNPS",
+            "headline": "Did Amazon\u2019s AI Chip and Nuclear Power Deals Just Shift Amazon.com's (AMZN) Investment Narrative?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/did-amazon-ai-chip-nuclear-031018695.html",
             "score": 2
         },
         {
             "symbol": "NKE",
-            "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html",
+            "headline": "Why Did NKE, FRMI, DKNG Plunge To 52-Week Lows Today?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nke-frmi-dkng-034538359.html",
             "score": 0
         },
         {
@@ -65,13 +58,6 @@
             "score": 0
         },
         {
-            "symbol": "ACN",
-            "headline": "Accenture (ACN) Soars 15.8% as Q4 Earnings, AI Bookings Crush Disruption Fears",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-soars-15-8-002914087.html",
-            "score": 0
-        },
-        {
             "symbol": "COHR",
             "headline": "Wall Street Backs Coherent, Rocket Lab and Vertiv",
             "publisher": "24/7 Wall St.",
@@ -79,17 +65,24 @@
             "score": 0
         },
         {
-            "symbol": "AKAM",
-            "headline": "doxx.net Raises $38 Million, Led by Andreessen Horowitz, to Launch Agentic Defined Networking",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/doxx-net-raises-38-million-160000646.html",
+            "symbol": "ACN",
+            "headline": "Accenture (ACN) Q4 2026 Earnings Call Transcript",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-q4-2026-earnings-022853964.html",
             "score": 0
         },
         {
-            "symbol": "ALAB",
-            "headline": "AI Spending Is Entering Its Next Phase. This Stock Could Benefit Most",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/ai-spending-entering-next-phase-180039919.html",
+            "symbol": "MSTR",
+            "headline": "3 High-Yield Financial Stocks to Buy in October",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-yield-financial-stocks-163000863.html",
+            "score": 0
+        },
+        {
+            "symbol": "^HSI",
+            "headline": "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3%",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-ahead-u-040339612.html",
             "score": 0
         },
         {
@@ -100,17 +93,10 @@
             "score": 0
         },
         {
-            "symbol": "FICO",
-            "headline": "FICO stock tumbles on report of credit bureau requirement change",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fico-stock-tumbles-report-credit-211122873.html",
-            "score": 0
-        },
-        {
-            "symbol": "BABA",
-            "headline": "PDD Holdings (PDD) vs. BABA and JD: Value Play or Trap at Its 52-Week Low?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-vs-baba-183838807.html",
+            "symbol": "INOD",
+            "headline": "Innodata Launches Motion-Capture lab to Train Humanoids",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/innodata-launches-motion-capture-lab-163156701.html",
             "score": 0
         },
         {
@@ -121,10 +107,31 @@
             "score": 0
         },
         {
+            "symbol": "AKAM",
+            "headline": "AI Agents and Bots Now Generate Most Web Traffic as Infrastructure Stocks Rally",
+            "publisher": "BeInCrypto",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-bots-now-generate-024400840.html",
+            "score": 0
+        },
+        {
             "symbol": "XRPN",
             "headline": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
             "publisher": "decrypt",
             "link": "https://finance.yahoo.com/markets/crypto/articles/largest-pure-play-xrp-treasury-184603157.html",
+            "score": 0
+        },
+        {
+            "symbol": "ASST",
+            "headline": "Michael Saylor Wants His Bitcoin Rival to Win: What's in It for MicroStrategy?",
+            "publisher": "BeInCrypto",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-wants-bitcoin-rival-230647710.html",
+            "score": 0
+        },
+        {
+            "symbol": "DIS",
+            "headline": "Walt Disney (DIS) Stock Dips While Market Gains: Key Facts",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-stock-dips-204503371.html",
             "score": 0
         }
     ]
