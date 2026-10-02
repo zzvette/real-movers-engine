@@ -1,13 +1,6 @@
 {
-    "timestamp": "2026-10-02T22:35:09.267645+00:00",
+    "timestamp": "2026-10-02T23:34:37.170525+00:00",
     "catalysts": [
-        {
-            "symbol": "FCEL",
-            "headline": "FuelCell Jumps 7%, Bloom Energy Climbs 3% as Hydrogen Stocks Rally; Plug Power Sits Out",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/fuelcell-jumps-7-bloom-energy-174951219.html",
-            "score": 6
-        },
         {
             "symbol": "SDEV",
             "headline": "Top Premarket Gainers",
@@ -31,9 +24,9 @@
         },
         {
             "symbol": "SPCX",
-            "headline": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets \u2014 NVDA, BA, SPCX, RIVN, APLD In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-end-222859024.html",
+            "headline": "Planet Labs (PL) Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-shares-skyrocket-231803075.html",
             "score": 0
         },
         {
@@ -59,9 +52,9 @@
         },
         {
             "symbol": "TSLA",
-            "headline": "Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-2-213128258.html",
+            "headline": "Stocks to Watch Recap: Nike, Tesla, Seagate, Volvo Car",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/35ee22be-c916-323d-b633-a90eb633dcdc/stocks-to-watch-recap%3A-nike%2C.html",
             "score": 0
         },
         {
@@ -115,9 +108,9 @@
         },
         {
             "symbol": "NVDA",
-            "headline": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets \u2014 NVDA, BA, SPCX, RIVN, APLD In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-end-222859024.html",
+            "headline": "Why EchoStar Stock Crushed it on Friday",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-echostar-stock-crushed-friday-231730425.html",
             "score": 0
         },
         {
@@ -139,6 +132,13 @@
             "headline": "Penguin Solutions' AI Backlog Grows: Is Future Sales Taking Shape?",
             "publisher": "Zacks",
             "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-ai-backlog-grows-140700620.html",
+            "score": 0
+        },
+        {
+            "symbol": "FCEL",
+            "headline": "FuelCell Energy, Nextpower, Wabash, Avis Budget Group, and Novanta Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-nextpower-wabash-avis-224603323.html",
             "score": 0
         }
     ]
