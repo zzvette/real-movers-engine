@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-10-01T23:42:48.455815+00:00",
+    "timestamp": "2026-10-02T02:37:10.884351+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "ON",
-                "headline": "ON, SYNA Climb After-Hours As The $7B Stock Deal Becomes A $5.7B Cash Bid",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/syna-climb-hours-7b-stock-215515600.html",
+                "headline": "ON Semicondcutor to Buy Synaptics for Cash, Not Stock, in Downsized Deal",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/e4841b13-ebb5-3341-9785-122d0c5fa01e/on-semicondcutor-to-buy.html",
                 "score": 4
             },
             {
@@ -17,6 +17,27 @@
                 "score": 3
             },
             {
+                "symbol": "SDEV",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111227803.html",
+                "score": 3
+            },
+            {
+                "symbol": "VLO",
+                "headline": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/energy/articles/marathon-petroleum-climbs-5-valero-175313853.html",
+                "score": 3
+            },
+            {
+                "symbol": "SNPS",
+                "headline": "Synopsys Stock Surges On AI-Driven Transformation Of Engineering",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7171a30c-54f6-33a0-b8d7-3d042ce5bc4d/synopsys-stock-surges-on.html",
+                "score": 3
+            },
+            {
                 "symbol": "BBAI",
                 "headline": "\u201cSoundHound AI Jumps 5% on India Product Launch; BigBear.ai Rises 3%, Pony AI Stays Flat",
                 "publisher": "24/7 Wall St.",
@@ -24,87 +45,59 @@
                 "score": 3
             },
             {
-                "symbol": "VEEA",
-                "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
-                "score": 2
-            },
-            {
-                "symbol": "LULU",
-                "headline": "Primaris REIT Announces $411 Million Acquisition of Leading GTA Shopping Centre, Upper Canada Mall",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/real-estate/articles/primaris-reit-announces-411-million-205600987.html",
+                "symbol": "^HSI",
+                "headline": "Hong Kong Equities Seen at Attractive Valuations",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/d50870f8-a2c7-3c88-b150-ab12ed8f87cb/hong-kong-equities-seen-at.html",
                 "score": 2
             },
             {
                 "symbol": "NKE",
-                "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",
+                "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html",
                 "score": 0
             },
             {
                 "symbol": "CTVA",
-                "headline": "Vylor Takes Corteva\u2019s S&P 500 Seat, Twilio Set To Replace Warner Bros. Discovery \u2014 Both Stocks Rise After-Hours",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/vylor-takes-corteva-p-500-225146711.html",
+                "headline": "2 New Names Are Joining the S&P 500\u2014and Their Stocks Are Climbing",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/e23a3de0-195d-31c2-a696-a61cfdbd6cc5/2-new-names-are-joining-the.html",
                 "score": 0
             },
             {
                 "symbol": "ACN",
-                "headline": "EPAM, DXC, Everforth, EXL, and Grid Dynamics Stocks Trade Up, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/epam-dxc-everforth-exl-grid-224507189.html",
+                "headline": "Accenture (ACN) Soars 15.8% as Q4 Earnings, AI Bookings Crush Disruption Fears",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-soars-15-8-002914087.html",
                 "score": 0
             },
             {
                 "symbol": "COHR",
-                "headline": "Why Coherent (COHR) Stock Is Trading Up Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-cohr-stock-trading-215707276.html",
+                "headline": "Wall Street Backs Coherent, Rocket Lab and Vertiv",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-backs-coherent-rocket-235828091.html",
                 "score": 0
             },
             {
-                "symbol": "VYLR",
-                "headline": "Vylor Added to the S&P 500; Twilio Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/vylor-added-p-500-twilio-220000540.html",
+                "symbol": "AKAM",
+                "headline": "doxx.net Raises $38 Million, Led by Andreessen Horowitz, to Launch Agentic Defined Networking",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/doxx-net-raises-38-million-160000646.html",
                 "score": 0
             },
             {
-                "symbol": "INOD",
-                "headline": "Innodata Launches Motion-Capture lab to Train Humanoids",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/innodata-launches-motion-capture-lab-163156701.html",
+                "symbol": "ALAB",
+                "headline": "AI Spending Is Entering Its Next Phase. This Stock Could Benefit Most",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/ai-spending-entering-next-phase-180039919.html",
                 "score": 0
             },
             {
-                "symbol": "AVGO",
-                "headline": "Is Marvell Stock Ready For A Slowdown In AI Demand?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-ready-slowdown-ai-193233235.html",
-                "score": 0
-            },
-            {
-                "symbol": "STLA",
-                "headline": "Stellantis (BIT:STLAM) Has The Market Asking A Bigger Question",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-bit-stlam-market-asking-220642838.html",
-                "score": 0
-            },
-            {
-                "symbol": "NFLX",
-                "headline": "Netflix co-CEO says streaming giant \"isn't growing as fast as I want us to\"",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/media-advertising/articles/netflix-co-ceo-says-streaming-173600802.html",
-                "score": 0
-            },
-            {
-                "symbol": "ONON",
-                "headline": "On Holding (ONON) Outperforms Broader Market: What You Need to Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-outperforms-broader-market-210005207.html",
+                "symbol": "LITE",
+                "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html",
                 "score": 0
             },
             {
@@ -115,31 +108,24 @@
                 "score": 0
             },
             {
-                "symbol": "LITE",
-                "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html",
+                "symbol": "BABA",
+                "headline": "PDD Holdings (PDD) vs. BABA and JD: Value Play or Trap at Its 52-Week Low?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-vs-baba-183838807.html",
                 "score": 0
             },
             {
-                "symbol": "QSI",
-                "headline": "3 Biotech Stocks Put Traders Are Targeting Today",
-                "publisher": "Schaeffer's Investment Research",
-                "link": "https://finance.yahoo.com/markets/options/articles/3-biotech-stocks-put-traders-154435920.html",
+                "symbol": "CIEN",
+                "headline": "Coherent, Lumentum, and Ciena stocks surge on bullish Wall Street call",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/coherent-lumentum-and-ciena-stocks-surge-on-bullish-wall-street-call-182906439.html",
                 "score": 0
             },
             {
-                "symbol": "DIS",
-                "headline": "Walt Disney (DIS) Stock Dips While Market Gains: Key Facts",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-stock-dips-204503371.html",
-                "score": 0
-            },
-            {
-                "symbol": "AAOI",
-                "headline": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-205-too-buy-185511376.html",
+                "symbol": "XRPN",
+                "headline": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+                "publisher": "decrypt",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/largest-pure-play-xrp-treasury-184603157.html",
                 "score": 0
             }
         ]
