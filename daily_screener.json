@@ -1,54 +1,68 @@
 {
-    "timestamp": "2026-10-02T15:19:53.830942+00:00",
+    "timestamp": "2026-10-02T18:46:37.771797+00:00",
     "signals": {
         "catalysts": [
             {
+                "symbol": "CYCU",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-175518825.html",
+                "score": 3
+            },
+            {
+                "symbol": "SYNA",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-175518825.html",
+                "score": 3
+            },
+            {
                 "symbol": "WDC",
-                "headline": "Seagate, Western Digital stocks sink as rival Toshiba's expansion plans hit storage highfliers",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/seagate-western-digital-stocks-sink-as-rival-toshibas-expansion-plans-hit-storage-highfliers-142919224.html",
+                "headline": "STX, WDC Stocks Sink On Toshiba\u2019s Reported Plan To Double AI Hard-Disk Capacity: Analysts Call The Drop Overdone",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stx-wdc-stocks-sink-toshiba-182255860.html",
                 "score": 0
             },
             {
                 "symbol": "STX",
-                "headline": "Seagate, Western Digital stocks sink as rival Toshiba's expansion plans hit storage highfliers",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/seagate-western-digital-stocks-sink-as-rival-toshibas-expansion-plans-hit-storage-highfliers-142919224.html",
+                "headline": "STX, WDC Stocks Sink On Toshiba\u2019s Reported Plan To Double AI Hard-Disk Capacity: Analysts Call The Drop Overdone",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stx-wdc-stocks-sink-toshiba-182255860.html",
                 "score": 0
             },
             {
                 "symbol": "NKE",
-                "headline": "Why Nike Stock Just Crashed",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nike-stock-just-crashed-150112193.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVDA",
-                "headline": "Nvidia Well Positioned as AI Bottleneck Shifts, Morgan Stanley Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-well-positioned-ai-bottleneck-151204721.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSLA",
-                "headline": "Rivian Q3 Deliveries Hit Record \u2014 Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-q3-deliveries-hit-record-150744431.html",
+                "headline": "Investing.com\u2019s stocks of the week",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-183416661.html",
                 "score": 0
             },
             {
                 "symbol": "SPCX",
-                "headline": "Update: Market Chatter: SpaceX's AI Unit in Talks to Lease Compute Capacity to Microsoft",
+                "headline": "Update: Satellogic Shares Rise After Launching Merlin Satellite Into Low-Earth Orbit",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-spacex-apos-ai-145857406.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-shares-rise-launching-merlin-182807883.html",
                 "score": 0
             },
             {
-                "symbol": "AMD",
-                "headline": "Should You Be Worried About Marvell Stock?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/worried-marvell-stock-133112654.html",
+                "symbol": "TSLA",
+                "headline": "Tesla Delivered 486,532 Electric Vehicles In Q3, Beating Estimates. The Stock Is Rising.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/24097d39-2156-3561-9b50-8ce05870ecec/tesla-delivered-486%2C532.html",
+                "score": 0
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "SpaceX Just Launched 3 Rockets in 13 Hours. Here\u2019s What Investors Need to Know Right Now.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-launched-3-rockets-182501626.html",
+                "score": 0
+            },
+            {
+                "symbol": "XRPN",
+                "headline": "Evernorth Lists on October 8 With 473 Million XRP and More Than $1 Billion Behind It. What Does That Do to XRP?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/evernorth-lists-october-8-473-120021098.html",
                 "score": 0
             },
             {
@@ -59,17 +73,38 @@
                 "score": 0
             },
             {
-                "symbol": "SMCI",
-                "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-120007683.html",
+                "symbol": "HPE",
+                "headline": "Hewlett Packard Enterprise Shares Rise After Daiwa Securities Upgrade",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-shares-rise-181434378.html",
                 "score": 0
             },
             {
                 "symbol": "RIVN",
-                "headline": "Rivian Q3 Deliveries Hit Record \u2014 Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-q3-deliveries-hit-record-150744431.html",
+                "headline": "Nvidia, Tesla, Rivian, On Semi, Seagate, HPE, Nike, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/07220770-91b7-33d7-94ed-2969f29eea11/nvidia%2C-tesla%2C-rivian%2C-on.html",
+                "score": 0
+            },
+            {
+                "symbol": "NTAP",
+                "headline": "Why Is NetApp (NTAP) Up 16% Since Last Earnings Report?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-netapp-ntap-16-since-143004770.html",
+                "score": 0
+            },
+            {
+                "symbol": "IMOS",
+                "headline": "Stock Market Today: Nasdaq Charges Higher After Soft Jobs Report; Two Chip Names Break Out (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-nasdaq.html",
+                "score": 0
+            },
+            {
+                "symbol": "CGNX",
+                "headline": "3 Volatile Stocks We Keep Off Our Radar",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-volatile-stocks-keep-off-091003767.html",
                 "score": 0
             },
             {
@@ -80,52 +115,24 @@
                 "score": 0
             },
             {
-                "symbol": "CYCU",
-                "headline": "Cycurion Regains Compliance with Nasdaq Bid Price Requirement",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cycurion-regains-compliance-nasdaq-bid-123000667.html",
+                "symbol": "VSH",
+                "headline": "Analog Semiconductors Stocks Q2 Recap: Benchmarking Vishay Intertechnology (NYSE:VSH)",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/analog-semiconductors-stocks-q2-recap-182907311.html",
                 "score": 0
             },
             {
-                "symbol": "SYNA",
-                "headline": "Nvidia, Tesla, Seagate, ON Semi, Strategy, HPE, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/07220770-91b7-33d7-94ed-2969f29eea11/nvidia%2C-tesla%2C-seagate%2C-on.html",
+                "symbol": "LULU",
+                "headline": "Nike (NKE) vs Lululemon (LULU): Which is a Better Stock to Buy?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-vs-lululemon-lulu-181417076.html",
                 "score": 0
             },
             {
-                "symbol": "MXL",
-                "headline": "MaxLinear, Inc. Announces Conference Call to Review Third Quarter 2026 Financial Results Thursday, Oct. 22, 2026 at 1:30 p.m. Pacific Time; 4:30 p.m. Eastern Time",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-inc-announces-conference-call-203500313.html",
-                "score": 0
-            },
-            {
-                "symbol": "WOLF",
-                "headline": "Is Wolfspeed (WOLF) Expensive As Its 3 Month Slide Meets Execution Questions?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wolfspeed-wolf-expensive-3-month-190933436.html",
-                "score": 0
-            },
-            {
-                "symbol": "MSTR",
-                "headline": "A Father Told Michael Saylor His $219,000 MicroStrategy Investment For His Three Kids Had Fallen To $60,000. Saylor Said Shareholders Should Be Ready To \u201cRide Through\u201d A Year Or Two Of Pain. MSTR Is Up 35.67% In The Past Month.",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/father-told-michael-saylor-219-142407315.html",
-                "score": 0
-            },
-            {
-                "symbol": "APLD",
-                "headline": "Applied Digital adds 75 MW of AI capacity in North Dakota",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/technology/ai/articles/applied-digital-adds-75-mw-140100686.html",
-                "score": 0
-            },
-            {
-                "symbol": "ARM",
-                "headline": "Arm Stocks Moves Higher as Nvidia Security Adds a Second Compute Layer",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-moves-higher-nvidia-000203024.html",
+                "symbol": "RBRK",
+                "headline": "Netskope (NTSK) Up 24.5% Since Last Earnings Report: Can It Continue?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-24-5-since-143004455.html",
                 "score": 0
             },
             {
@@ -133,13 +140,6 @@
                 "headline": "Penguin Solutions' AI Backlog Grows: Is Future Sales Taking Shape?",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-ai-backlog-grows-140700620.html",
-                "score": 0
-            },
-            {
-                "symbol": "VST",
-                "headline": "Talen Energy Expands Buyback Plan With $1.5B Accelerated Repurchase",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-expands-buyback-plan-130800022.html",
                 "score": 0
             }
         ]
