@@ -1,39 +1,18 @@
 {
-    "timestamp": "2026-10-02T23:34:37.170525+00:00",
+    "timestamp": "2026-10-03T02:19:08.358295+00:00",
     "catalysts": [
         {
-            "symbol": "SDEV",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112844106.html",
-            "score": 3
-        },
-        {
-            "symbol": "CYCU",
-            "headline": "Cycurion Shares Rise After Regaining Compliance With Listing Rule",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cycurion-shares-rise-regaining-compliance-185726033.html",
-            "score": 3
-        },
-        {
-            "symbol": "SAIQ",
-            "headline": "WISeQey\u2019s Subsidiary WISeSat.Space, a Space Technology Company, Completes Business Combination with Columbus Acquisition Corporation",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/articles/wiseqey-subsidiary-wisesat-space-space-200500692.html",
-            "score": 2
-        },
-        {
             "symbol": "SPCX",
-            "headline": "Planet Labs (PL) Shares Skyrocket, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-shares-skyrocket-231803075.html",
+            "headline": "OpenAI CEO Sam Altman hints at when it could hit the stock market",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/openai-ceo-sam-altman-hints-003700734.html",
             "score": 0
         },
         {
             "symbol": "WDC",
-            "headline": "Seagate Stock and Western Digital Tumble. Investors Worry the Hard-Drive Shortage Will Ease.",
+            "headline": "Review & Preview: Jobs Jolt",
             "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/8dee252a-1e36-36ea-9881-2076cd48528d/seagate-stock-and-western.html",
+            "link": "https://finance.yahoo.com/m/9e605cc6-f30b-3be6-a6c9-a620a97797fe/review-%26-preview%3A-jobs-jolt.html",
             "score": 0
         },
         {
@@ -44,24 +23,38 @@
             "score": 0
         },
         {
-            "symbol": "HPE",
-            "headline": "Hewlett Packard Enterprise (HPE) Lands First $1.2 Billion Helios AI Server Order",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-hpe-lands-210920336.html",
+            "symbol": "VST",
+            "headline": "Trump Administration Reportedly Prepares $4B Federal Loan to Expand Vistra\u2019s Nuclear Capacity",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/energy/articles/trump-administration-reportedly-prepares-4b-203704885.html",
+            "score": 0
+        },
+        {
+            "symbol": "^GSPC",
+            "headline": "Better Pharmaceuticals ETF: VanEck's PPH vs. Invesco PJP",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/healthcare/articles/better-pharmaceuticals-etf-vanecks-pph-003328145.html",
+            "score": 0
+        },
+        {
+            "symbol": "GME",
+            "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $17M Worth Of Shares",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-000459370.html",
+            "score": 0
+        },
+        {
+            "symbol": "^IXIC",
+            "headline": "Nvidia Hits Record High, Wall Street Still Sees Up to 99% Upside",
+            "publisher": "BeInCrypto",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-hits-record-high-wall-003921500.html",
             "score": 0
         },
         {
             "symbol": "TSLA",
-            "headline": "Stocks to Watch Recap: Nike, Tesla, Seagate, Volvo Car",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/35ee22be-c916-323d-b633-a90eb633dcdc/stocks-to-watch-recap%3A-nike%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "IBRX",
-            "headline": "SLS, IBRX Stocks Climb Overnight: Retail Eyes Moderna\u2019s Rally As MRNA Lands A Nasdaq-100 Spot",
+            "headline": "Stocktwits Zero To Sixty \u2014  Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sls-ibrx-stocks-climb-overnight-070203292.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-zero-sixty-tesla-deliveries-002940992.html",
             "score": 0
         },
         {
@@ -72,59 +65,38 @@
             "score": 0
         },
         {
-            "symbol": "QTEX",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018811.html",
+            "symbol": "HPE",
+            "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-hpe-233403556.html",
             "score": 0
         },
         {
-            "symbol": "QBTS",
-            "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
+            "symbol": "^DJI",
+            "headline": "Review & Preview: Jobs Jolt",
             "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/f1cd6b4d-0b17-303c-8a1e-0ad295105751/how-this-quantum-stock-stands.html",
+            "link": "https://finance.yahoo.com/m/9e605cc6-f30b-3be6-a6c9-a620a97797fe/review-%26-preview%3A-jobs-jolt.html",
             "score": 0
         },
         {
-            "symbol": "OUST",
-            "headline": "Ouster, Seneca to Equip Autonomous Drones With Lidar for Wildfire Response Operations",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/ouster-seneca-equip-autonomous-drones-114708888.html",
+            "symbol": "PL",
+            "headline": "Planet Labs (PL) Shares Skyrocket, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-shares-skyrocket-231803075.html",
             "score": 0
         },
         {
-            "symbol": "GME",
-            "headline": "GameStop\u2019s Insider Buying Spree Gains Steam as CEO Cohen Loads Up on $10.6 Million of Stock",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/d137a6a3-69e6-3f50-a5a1-f80d7586facc/gamestop%E2%80%99s-insider-buying.html",
+            "symbol": "RIVN",
+            "headline": "Why Rivian (RIVN) Stock Is Falling Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-rivian-rivn-stock-falling-015003194.html",
             "score": 0
         },
         {
-            "symbol": "VST",
-            "headline": "Trump Administration Reportedly Prepares $4B Federal Loan to Expand Vistra\u2019s Nuclear Capacity",
+            "symbol": "IBRX",
+            "headline": "SLS, IBRX Stocks Climb Overnight: Retail Eyes Moderna\u2019s Rally As MRNA Lands A Nasdaq-100 Spot",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/energy/articles/trump-administration-reportedly-prepares-4b-203704885.html",
-            "score": 0
-        },
-        {
-            "symbol": "NVDA",
-            "headline": "Why EchoStar Stock Crushed it on Friday",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-echostar-stock-crushed-friday-231730425.html",
-            "score": 0
-        },
-        {
-            "symbol": "IMOS",
-            "headline": "These Tech Stocks Top Buy Points. For One, Earnings Soared 263%.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/b7b1aa29-472d-364c-9293-b8b230d82913/these-tech-stocks-top-buy.html",
-            "score": 0
-        },
-        {
-            "symbol": "XRPN",
-            "headline": "Evernorth Lists on October 8 With 473 Million XRP and More Than $1 Billion Behind It. What Does That Do to XRP?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/evernorth-lists-october-8-473-120021098.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sls-ibrx-stocks-climb-overnight-070203292.html",
             "score": 0
         },
         {
@@ -135,10 +107,31 @@
             "score": 0
         },
         {
-            "symbol": "FCEL",
-            "headline": "FuelCell Energy, Nextpower, Wabash, Avis Budget Group, and Novanta Shares Skyrocket, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-nextpower-wabash-avis-224603323.html",
+            "symbol": "NAUT",
+            "headline": "Nautilus Biotechnology Files $300 Million Shelf Registration",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nautilus-biotechnology-files-300-million-203339189.html",
+            "score": 0
+        },
+        {
+            "symbol": "^RUT",
+            "headline": "Better iShares Small-Cap Growth ETF: ISCG vs. IWO",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/better-ishares-small-cap-growth-234207890.html",
+            "score": 0
+        },
+        {
+            "symbol": "OUST",
+            "headline": "Ouster, Seneca to Equip Autonomous Drones With Lidar for Wildfire Response Operations",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/articles/ouster-seneca-equip-autonomous-drones-114708888.html",
+            "score": 0
+        },
+        {
+            "symbol": "CBRS",
+            "headline": "Nike downgraded, Airbnb upgraded: Wall Street's top analyst calls",
+            "publisher": "The Fly",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-upgraded-zscaler-downgraded-wall-133507400.html",
             "score": 0
         }
     ]
