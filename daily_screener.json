@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-05T04:19:34.338040+00:00",
+    "timestamp": "2026-10-05T11:45:37.784687+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,31 +10,45 @@
                 "score": 3
             },
             {
-                "symbol": "SDEV",
+                "symbol": "PCVX",
                 "headline": "Top Premarket Gainers",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112844106.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110842388.html",
                 "score": 3
             },
             {
-                "symbol": "VST",
-                "headline": "Did a US$4 Billion Federal Nuclear Loan Just Shift Vistra's (VST) Investment Narrative?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/did-us-4-billion-federal-130642158.html",
-                "score": 0
+                "symbol": "SDEV",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110842388.html",
+                "score": 3
             },
             {
-                "symbol": "WDC",
-                "headline": "Toshiba Is Doubling Hard Drive Output. Seagate (STX) and Western Digital (WDC) Fell 10% Each",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/toshiba-doubling-hard-drive-output-014807229.html",
+                "symbol": "SAIQ",
+                "headline": "WISeQey\u2019s Subsidiary WISeSat.Space, a Space Technology Company, Completes Business Combination with Columbus Acquisition Corporation",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/wiseqey-subsidiary-wisesat-space-space-200500692.html",
+                "score": 2
+            },
+            {
+                "symbol": "VEEA",
+                "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
+                "score": 2
+            },
+            {
+                "symbol": "VST",
+                "headline": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Vistra, Nike to Open Higher",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103613557.html",
                 "score": 0
             },
             {
                 "symbol": "NU",
-                "headline": "Why Is NU Stock Surging Nearly 9% In Overnight Trading?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nu-stock-surging-nearly-020242983.html",
+                "headline": "Stocks to Watch: PTC, Schneider Electric, Nubank, XP",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/5e796f9a-78e3-3ebe-b617-359ef7e39c01/stocks-to-watch%3A-ptc%2C.html",
                 "score": 0
             },
             {
@@ -46,93 +60,79 @@
             },
             {
                 "symbol": "SPCX",
-                "headline": "Dow Jones Futures: Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq-at.html",
+                "headline": "This multi-trillion stock is \"cheap and getting cheaper\": Morgan Stanley",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/multi-trillion-stock-cheap-getting-112508232.html",
                 "score": 0
             },
             {
-                "symbol": "NVDA",
-                "headline": "Dow Jones Futures: Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq-at.html",
-                "score": 0
-            },
-            {
-                "symbol": "MSTR",
-                "headline": "Peter Schiff Says MicroStrategy Lost Its Bitcoin-Buying Power",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-microstrategy-lost-205131120.html",
-                "score": 0
-            },
-            {
-                "symbol": "STX",
-                "headline": "Toshiba Is Doubling Hard Drive Output. Seagate (STX) and Western Digital (WDC) Fell 10% Each",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/toshiba-doubling-hard-drive-output-014807229.html",
-                "score": 0
-            },
-            {
-                "symbol": "NBIS",
-                "headline": "Can Nebius Earn Better Returns by Letting Partners Own the Hardware?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-earn-better-returns-letting-202605531.html",
-                "score": 0
-            },
-            {
-                "symbol": "CBRS",
-                "headline": "Cerebras Stock Gets A Boost After OpenAI CEO Sam Altman Calls Chipmaker \u2018Close Partner\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-gets-boost-openai-030754605.html",
-                "score": 0
-            },
-            {
-                "symbol": "IBRX",
-                "headline": "IBRX Stock Logs Best Week In Over 7 Months: Retail Eyes Anktiva Boost From Trump\u2019s Cancer Panel Pick",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/ibrx-stock-logs-best-week-021331732.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSM",
-                "headline": "Tesla Stock Rises Overnight After Musk Says \u2018Something May Come Of\u2019 TSMC Talks On Terafab",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-overnight-musk-035535379.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMD",
-                "headline": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/articles/2-super-semiconductor-stocks-buy-032000015.html",
+                "symbol": "INTC",
+                "headline": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cb0ddd32-40b7-389d-847f-484327223167/the-stock-market-dynamic-has.html",
                 "score": 0
             },
             {
                 "symbol": "PBR",
-                "headline": "Sector Update: Energy",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/sector-energy-172310043.html",
+                "headline": "Petrobras reports new oil discovery in Amap\u00e1 block FZA-M-59",
+                "publisher": "Offshore Technology",
+                "link": "https://finance.yahoo.com/energy/articles/petrobras-reports-oil-discovery-amap-112728017.html",
                 "score": 0
             },
             {
-                "symbol": "BMNR",
-                "headline": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buying-ethereum-085100292.html",
+                "symbol": "PTC",
+                "headline": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cb0ddd32-40b7-389d-847f-484327223167/the-stock-market-dynamic-has.html",
                 "score": 0
             },
             {
-                "symbol": "APLD",
-                "headline": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/forget-palantir-buy-2-artificial-111900844.html",
+                "symbol": "QTEX",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018811.html",
                 "score": 0
             },
             {
-                "symbol": "IBIT",
-                "headline": "BlackRock\u2019s IBIT Took In $196 Million in a Day. Fidelity\u2019s FBTC Had One Positive Day All Week.",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-ibit-took-196-million-122554497.html",
+                "symbol": "VALE",
+                "headline": "U.S. shares of Brazilian companies rally after first round election result",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/u-shares-brazilian-companies-rally-083813487.html",
+                "score": 0
+            },
+            {
+                "symbol": "STNE",
+                "headline": "StoneCo Ltd. (STNE) Surpasses Market Returns: Some Facts Worth Knowing",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stoneco-ltd-stne-surpasses-market-205003969.html",
+                "score": 0
+            },
+            {
+                "symbol": "CBRS",
+                "headline": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cb0ddd32-40b7-389d-847f-484327223167/the-stock-market-dynamic-has.html",
+                "score": 0
+            },
+            {
+                "symbol": "^BSESN",
+                "headline": "Swasti Vinayaka Synthetics And 2 Indian Penny Stocks To Watch",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/swasti-vinayaka-synthetics-2-indian-111101364.html",
+                "score": 0
+            },
+            {
+                "symbol": "GME",
+                "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $17M Worth Of Shares",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-000459370.html",
+                "score": 0
+            },
+            {
+                "symbol": "BBD",
+                "headline": "U.S. shares of Brazilian companies rally after first round election result",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/u-shares-brazilian-companies-rally-083813487.html",
                 "score": 0
             }
         ]
