@@ -1,39 +1,109 @@
 {
-    "timestamp": "2026-10-05T17:49:06.620502+00:00",
+    "timestamp": "2026-10-05T21:16:37.496302+00:00",
     "catalysts": [
         {
+            "symbol": "PTC",
+            "headline": "PTC Inc. (PTC) Climbs 36% as Schneider Puts Whopping Premium on Takeover Bid \u2014 Here\u2019s What\u2019s Next",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ptc-inc-ptc-climbs-36-210452470.html",
+            "score": 3
+        },
+        {
+            "symbol": "TSM",
+            "headline": "IBD Stock Of The Day TSMC Breaks Out On Terafab Chatter",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f2ea941d-e757-3f02-9977-1a8fe998c983/ibd-stock-of-the-day-tsmc.html",
+            "score": 3
+        },
+        {
+            "symbol": "MRNA",
+            "headline": "MRNA Stock Soars Ahead Of Slated Return To Nasdaq-100; Retail Echoes Valuation Concerns",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-soars-ahead-slated-193022289.html",
+            "score": 2
+        },
+        {
             "symbol": "PCVX",
-            "headline": "Vaxcyte Stock Spikes 27% as Lead Vaccine Candidate Takes Aim at Pfizer and Merck",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/b4868253-c7ff-3335-8d1c-55dd34154a34/vaxcyte-stock-spikes-27%25-as.html",
-            "score": 3
-        },
-        {
-            "symbol": "SDEV",
-            "headline": "Top Premarket Gainers",
+            "headline": "Vaxcyte Launches $1 Billion Offerings of Stock, Prefunded Warrants, 2032 Notes",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110842388.html",
-            "score": 3
+            "link": "https://finance.yahoo.com/healthcare/articles/vaxcyte-launches-1-billion-offerings-210759284.html",
+            "score": 2
         },
         {
-            "symbol": "VST",
+            "symbol": "VEEA",
+            "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
+            "score": 2
+        },
+        {
+            "symbol": "OPCH",
+            "headline": "Market Chatter: McKesson, CD&R Near Deal to Buy Option Care Health",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-mckesson-cd-r-205749511.html",
+            "score": 2
+        },
+        {
+            "symbol": "NVAX",
+            "headline": "3 Overrated  Stocks We Approach with Caution",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-overrated-stocks-approach-caution-081403062.html",
+            "score": 0
+        },
+        {
+            "symbol": "MELI",
+            "headline": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow.html",
+            "score": 0
+        },
+        {
+            "symbol": "RXRX",
+            "headline": "Ondas, SoundHound AI Lead Wall Street's Most Shorted Stocks",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-soundhound-ai-lead-wall-191214214.html",
+            "score": 0
+        },
+        {
+            "symbol": "NU",
+            "headline": "XP Inc. and Other Stocks Surging After Brazil\u2019s Election Shock",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/6a77f4cd-b3a8-3a78-af0c-eaa1f86bb515/xp-inc.-and-other-stocks.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVDA",
             "headline": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why.",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/vistra%2C-an-s%26p-500-nuclear.html",
             "score": 0
         },
         {
-            "symbol": "NU",
-            "headline": "Why Nu Holdings Stock Rallied Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-nu-holdings-stock-rallied-173830007.html",
+            "symbol": "BEAT",
+            "headline": "HeartBeam stock soars on FDA breakthrough designation",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/healthcare/articles/heartbeam-stock-soars-fda-breakthrough-150552094.html",
             "score": 0
         },
         {
-            "symbol": "MELI",
-            "headline": "Brazilian stocks soar as Fl\u00e1vio Bolsonaro takes surprise election lead",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/brazilian-stocks-soar-as-flavio-bolsonaro-takes-surprise-election-lead-160951504.html",
+            "symbol": "XP",
+            "headline": "MercadoLibre, XP, Embraer Take Off On Brazil Election Results",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/3b8dfa7d-4454-3dcd-bb17-0841835bf413/mercadolibre%2C-xp%2C-embraer.html",
+            "score": 0
+        },
+        {
+            "symbol": "PDSB",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018540.html",
+            "score": 0
+        },
+        {
+            "symbol": "CHRW",
+            "headline": "US Equity Markets End Higher as Crude Oil Prices Drop",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202144838.html",
             "score": 0
         },
         {
@@ -44,10 +114,10 @@
             "score": 0
         },
         {
-            "symbol": "SPCX",
-            "headline": "Sector Update: Tech Stocks Mixed Monday Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-monday-173522926.html",
+            "symbol": "PBR",
+            "headline": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow.html",
             "score": 0
         },
         {
@@ -58,80 +128,17 @@
             "score": 0
         },
         {
-            "symbol": "INTC",
-            "headline": "SKB and KCB Partners Acquire Trellis West Campus in Hillsboro",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/real-estate/articles/skb-kcb-partners-acquire-trellis-171400221.html",
+            "symbol": "AAOI",
+            "headline": "Zacks Investment Ideas feature highlights: Arm Holdings, Advanced Micro Devices, Marvell, Applied Optoelectronics and Nebius",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-120100363.html",
             "score": 0
         },
         {
-            "symbol": "PBR",
-            "headline": "Brazilian stocks soar as Fl\u00e1vio Bolsonaro takes surprise election lead",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/brazilian-stocks-soar-as-flavio-bolsonaro-takes-surprise-election-lead-160951504.html",
-            "score": 0
-        },
-        {
-            "symbol": "PTC",
-            "headline": "Sector Update: Tech Stocks Mixed Monday Afternoon",
+            "symbol": "SPHR",
+            "headline": "Sphere Entertainment Shares Fall After Craig-Hallum Downgrade",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-monday-173522926.html",
-            "score": 0
-        },
-        {
-            "symbol": "QTEX",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018540.html",
-            "score": 0
-        },
-        {
-            "symbol": "VALE",
-            "headline": "XP Inc. and Other Stocks Surging After Brazil\u2019s Election Shock",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/6a77f4cd-b3a8-3a78-af0c-eaa1f86bb515/xp-inc.-and-other-stocks.html",
-            "score": 0
-        },
-        {
-            "symbol": "STNE",
-            "headline": "Why StoneCoStock Soared Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-stonecostock-soared-today-152810010.html",
-            "score": 0
-        },
-        {
-            "symbol": "CBRS",
-            "headline": "Intel, XP Inc., PTC, RXO, Vaxcyte, Western Digital, Cerebras, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/29d68e20-e649-3819-9021-a07b7ebc77c5/intel%2C-xp-inc.%2C-ptc%2C-rxo%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "^BSESN",
-            "headline": "Swasti Vinayaka Synthetics And 2 Indian Penny Stocks To Watch",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/swasti-vinayaka-synthetics-2-indian-111101364.html",
-            "score": 0
-        },
-        {
-            "symbol": "GME",
-            "headline": "GameStop Just Ripped 35% in a Month: Are Ryan Cohen\u2019s Insider Purchases Your Buy Signal?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-just-ripped-35-month-154805771.html",
-            "score": 0
-        },
-        {
-            "symbol": "BBD",
-            "headline": "U.S. shares of Brazilian companies rally after first round election result",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/u-shares-brazilian-companies-rally-083813487.html",
-            "score": 0
-        },
-        {
-            "symbol": "IBRX",
-            "headline": "IBRX Stock Logs Best Week In Over 7 Months: Retail Eyes Anktiva Boost From Trump\u2019s Cancer Panel Pick",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/ibrx-stock-logs-best-week-021331732.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sphere-entertainment-shares-fall-craig-194830322.html",
             "score": 0
         }
     ]
