@@ -1,138 +1,138 @@
 {
-    "timestamp": "2026-10-03T02:19:08.358295+00:00",
+    "timestamp": "2026-10-05T04:19:34.338040+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "SPCX",
-                "headline": "OpenAI CEO Sam Altman hints at when it could hit the stock market",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/openai-ceo-sam-altman-hints-003700734.html",
+                "symbol": "EWZ",
+                "headline": "Nu Holdings Jumps 10% to a Five-Month High, StoneCo Drops 6% as Nubank Breaks From the Pack",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-jumps-10-five-162822439.html",
+                "score": 3
+            },
+            {
+                "symbol": "SDEV",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-112844106.html",
+                "score": 3
+            },
+            {
+                "symbol": "VST",
+                "headline": "Did a US$4 Billion Federal Nuclear Loan Just Shift Vistra's (VST) Investment Narrative?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/energy/articles/did-us-4-billion-federal-130642158.html",
                 "score": 0
             },
             {
                 "symbol": "WDC",
-                "headline": "Review & Preview: Jobs Jolt",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/9e605cc6-f30b-3be6-a6c9-a620a97797fe/review-%26-preview%3A-jobs-jolt.html",
+                "headline": "Toshiba Is Doubling Hard Drive Output. Seagate (STX) and Western Digital (WDC) Fell 10% Each",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/toshiba-doubling-hard-drive-output-014807229.html",
+                "score": 0
+            },
+            {
+                "symbol": "NU",
+                "headline": "Why Is NU Stock Surging Nearly 9% In Overnight Trading?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nu-stock-surging-nearly-020242983.html",
+                "score": 0
+            },
+            {
+                "symbol": "MELI",
+                "headline": "Coupang vs. MercadoLibre: What Revenue Trends Tell Investors About These International E-Commerce Companies",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/coupang-vs-mercadolibre-revenue-trends-230800492.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "Dow Jones Futures: Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq-at.html",
+                "score": 0
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "Dow Jones Futures: Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq-at.html",
+                "score": 0
+            },
+            {
+                "symbol": "MSTR",
+                "headline": "Peter Schiff Says MicroStrategy Lost Its Bitcoin-Buying Power",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-microstrategy-lost-205131120.html",
                 "score": 0
             },
             {
                 "symbol": "STX",
-                "headline": "Seagate Stock and Western Digital Tumble. Investors Worry the Hard-Drive Shortage Will Ease.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/8dee252a-1e36-36ea-9881-2076cd48528d/seagate-stock-and-western.html",
+                "headline": "Toshiba Is Doubling Hard Drive Output. Seagate (STX) and Western Digital (WDC) Fell 10% Each",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/toshiba-doubling-hard-drive-output-014807229.html",
                 "score": 0
             },
             {
-                "symbol": "VST",
-                "headline": "Trump Administration Reportedly Prepares $4B Federal Loan to Expand Vistra\u2019s Nuclear Capacity",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/energy/articles/trump-administration-reportedly-prepares-4b-203704885.html",
-                "score": 0
-            },
-            {
-                "symbol": "^GSPC",
-                "headline": "Better Pharmaceuticals ETF: VanEck's PPH vs. Invesco PJP",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/healthcare/articles/better-pharmaceuticals-etf-vanecks-pph-003328145.html",
-                "score": 0
-            },
-            {
-                "symbol": "GME",
-                "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $17M Worth Of Shares",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-000459370.html",
-                "score": 0
-            },
-            {
-                "symbol": "^IXIC",
-                "headline": "Nvidia Hits Record High, Wall Street Still Sees Up to 99% Upside",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-hits-record-high-wall-003921500.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSLA",
-                "headline": "Stocktwits Zero To Sixty \u2014  Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-zero-sixty-tesla-deliveries-002940992.html",
-                "score": 0
-            },
-            {
-                "symbol": "MXL",
-                "headline": "Why MaxLinear Stock Gained 50.7% Last Month",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-maxlinear-stock-gained-50-202701280.html",
-                "score": 0
-            },
-            {
-                "symbol": "HPE",
-                "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-hpe-233403556.html",
-                "score": 0
-            },
-            {
-                "symbol": "^DJI",
-                "headline": "Review & Preview: Jobs Jolt",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/9e605cc6-f30b-3be6-a6c9-a620a97797fe/review-%26-preview%3A-jobs-jolt.html",
-                "score": 0
-            },
-            {
-                "symbol": "PL",
-                "headline": "Planet Labs (PL) Shares Skyrocket, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-shares-skyrocket-231803075.html",
-                "score": 0
-            },
-            {
-                "symbol": "RIVN",
-                "headline": "Why Rivian (RIVN) Stock Is Falling Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-rivian-rivn-stock-falling-015003194.html",
-                "score": 0
-            },
-            {
-                "symbol": "IBRX",
-                "headline": "SLS, IBRX Stocks Climb Overnight: Retail Eyes Moderna\u2019s Rally As MRNA Lands A Nasdaq-100 Spot",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sls-ibrx-stocks-climb-overnight-070203292.html",
-                "score": 0
-            },
-            {
-                "symbol": "PENG",
-                "headline": "Penguin Solutions' AI Backlog Grows: Is Future Sales Taking Shape?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-ai-backlog-grows-140700620.html",
-                "score": 0
-            },
-            {
-                "symbol": "NAUT",
-                "headline": "Nautilus Biotechnology Files $300 Million Shelf Registration",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nautilus-biotechnology-files-300-million-203339189.html",
-                "score": 0
-            },
-            {
-                "symbol": "^RUT",
-                "headline": "Better iShares Small-Cap Growth ETF: ISCG vs. IWO",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/better-ishares-small-cap-growth-234207890.html",
-                "score": 0
-            },
-            {
-                "symbol": "OUST",
-                "headline": "Ouster, Seneca to Equip Autonomous Drones With Lidar for Wildfire Response Operations",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/articles/ouster-seneca-equip-autonomous-drones-114708888.html",
+                "symbol": "NBIS",
+                "headline": "Can Nebius Earn Better Returns by Letting Partners Own the Hardware?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-earn-better-returns-letting-202605531.html",
                 "score": 0
             },
             {
                 "symbol": "CBRS",
-                "headline": "Nike downgraded, Airbnb upgraded: Wall Street's top analyst calls",
-                "publisher": "The Fly",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-upgraded-zscaler-downgraded-wall-133507400.html",
+                "headline": "Cerebras Stock Gets A Boost After OpenAI CEO Sam Altman Calls Chipmaker \u2018Close Partner\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-gets-boost-openai-030754605.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBRX",
+                "headline": "IBRX Stock Logs Best Week In Over 7 Months: Retail Eyes Anktiva Boost From Trump\u2019s Cancer Panel Pick",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/ibrx-stock-logs-best-week-021331732.html",
+                "score": 0
+            },
+            {
+                "symbol": "TSM",
+                "headline": "Tesla Stock Rises Overnight After Musk Says \u2018Something May Come Of\u2019 TSMC Talks On Terafab",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-overnight-musk-035535379.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/technology/articles/2-super-semiconductor-stocks-buy-032000015.html",
+                "score": 0
+            },
+            {
+                "symbol": "PBR",
+                "headline": "Sector Update: Energy",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/energy/articles/sector-energy-172310043.html",
+                "score": 0
+            },
+            {
+                "symbol": "BMNR",
+                "headline": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buying-ethereum-085100292.html",
+                "score": 0
+            },
+            {
+                "symbol": "APLD",
+                "headline": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/technology/ai/articles/forget-palantir-buy-2-artificial-111900844.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBIT",
+                "headline": "BlackRock\u2019s IBIT Took In $196 Million in a Day. Fidelity\u2019s FBTC Had One Positive Day All Week.",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-ibit-took-196-million-122554497.html",
                 "score": 0
             }
         ]
