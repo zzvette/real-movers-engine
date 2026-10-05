@@ -1,19 +1,12 @@
 {
-    "timestamp": "2026-10-05T11:45:37.784687+00:00",
+    "timestamp": "2026-10-05T17:49:06.620502+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "EWZ",
-                "headline": "Nu Holdings Jumps 10% to a Five-Month High, StoneCo Drops 6% as Nubank Breaks From the Pack",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-jumps-10-five-162822439.html",
-                "score": 3
-            },
-            {
                 "symbol": "PCVX",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110842388.html",
+                "headline": "Vaxcyte Stock Spikes 27% as Lead Vaccine Candidate Takes Aim at Pfizer and Merck",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b4868253-c7ff-3335-8d1c-55dd34154a34/vaxcyte-stock-spikes-27%25-as.html",
                 "score": 3
             },
             {
@@ -24,94 +17,94 @@
                 "score": 3
             },
             {
-                "symbol": "SAIQ",
-                "headline": "WISeQey\u2019s Subsidiary WISeSat.Space, a Space Technology Company, Completes Business Combination with Columbus Acquisition Corporation",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/wiseqey-subsidiary-wisesat-space-space-200500692.html",
-                "score": 2
-            },
-            {
-                "symbol": "VEEA",
-                "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
-                "score": 2
-            },
-            {
                 "symbol": "VST",
-                "headline": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Vistra, Nike to Open Higher",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103613557.html",
+                "headline": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/vistra%2C-an-s%26p-500-nuclear.html",
                 "score": 0
             },
             {
                 "symbol": "NU",
-                "headline": "Stocks to Watch: PTC, Schneider Electric, Nubank, XP",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/5e796f9a-78e3-3ebe-b617-359ef7e39c01/stocks-to-watch%3A-ptc%2C.html",
+                "headline": "Why Nu Holdings Stock Rallied Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nu-holdings-stock-rallied-173830007.html",
                 "score": 0
             },
             {
                 "symbol": "MELI",
-                "headline": "Coupang vs. MercadoLibre: What Revenue Trends Tell Investors About These International E-Commerce Companies",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/coupang-vs-mercadolibre-revenue-trends-230800492.html",
+                "headline": "Brazilian stocks soar as Fl\u00e1vio Bolsonaro takes surprise election lead",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/brazilian-stocks-soar-as-flavio-bolsonaro-takes-surprise-election-lead-160951504.html",
+                "score": 0
+            },
+            {
+                "symbol": "EWZ",
+                "headline": "Stanley Druckenmiller\u2019s Brazil Bet Appears To Pay Off After Election Shock. Brazil\u2019s Biggest ETF Soars 13% On The News",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-brazil-bet-appears-154051465.html",
                 "score": 0
             },
             {
                 "symbol": "SPCX",
-                "headline": "This multi-trillion stock is \"cheap and getting cheaper\": Morgan Stanley",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/multi-trillion-stock-cheap-getting-112508232.html",
+                "headline": "Sector Update: Tech Stocks Mixed Monday Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-monday-173522926.html",
+                "score": 0
+            },
+            {
+                "symbol": "SAIQ",
+                "headline": "What's Going On With WISeSat.Space Stock Today?",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-wisesat-space-stock-123217711.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/cb0ddd32-40b7-389d-847f-484327223167/the-stock-market-dynamic-has.html",
+                "headline": "SKB and KCB Partners Acquire Trellis West Campus in Hillsboro",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/real-estate/articles/skb-kcb-partners-acquire-trellis-171400221.html",
                 "score": 0
             },
             {
                 "symbol": "PBR",
-                "headline": "Petrobras reports new oil discovery in Amap\u00e1 block FZA-M-59",
-                "publisher": "Offshore Technology",
-                "link": "https://finance.yahoo.com/energy/articles/petrobras-reports-oil-discovery-amap-112728017.html",
+                "headline": "Brazilian stocks soar as Fl\u00e1vio Bolsonaro takes surprise election lead",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/brazilian-stocks-soar-as-flavio-bolsonaro-takes-surprise-election-lead-160951504.html",
                 "score": 0
             },
             {
                 "symbol": "PTC",
-                "headline": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/cb0ddd32-40b7-389d-847f-484327223167/the-stock-market-dynamic-has.html",
+                "headline": "Sector Update: Tech Stocks Mixed Monday Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-monday-173522926.html",
                 "score": 0
             },
             {
                 "symbol": "QTEX",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018811.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018540.html",
                 "score": 0
             },
             {
                 "symbol": "VALE",
-                "headline": "U.S. shares of Brazilian companies rally after first round election result",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/u-shares-brazilian-companies-rally-083813487.html",
+                "headline": "XP Inc. and Other Stocks Surging After Brazil\u2019s Election Shock",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/6a77f4cd-b3a8-3a78-af0c-eaa1f86bb515/xp-inc.-and-other-stocks.html",
                 "score": 0
             },
             {
                 "symbol": "STNE",
-                "headline": "StoneCo Ltd. (STNE) Surpasses Market Returns: Some Facts Worth Knowing",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stoneco-ltd-stne-surpasses-market-205003969.html",
+                "headline": "Why StoneCoStock Soared Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-stonecostock-soared-today-152810010.html",
                 "score": 0
             },
             {
                 "symbol": "CBRS",
-                "headline": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia",
+                "headline": "Intel, XP Inc., PTC, RXO, Vaxcyte, Western Digital, Cerebras, and More Stocks That Explain Today\u2019s Market",
                 "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/cb0ddd32-40b7-389d-847f-484327223167/the-stock-market-dynamic-has.html",
+                "link": "https://finance.yahoo.com/m/29d68e20-e649-3819-9021-a07b7ebc77c5/intel%2C-xp-inc.%2C-ptc%2C-rxo%2C.html",
                 "score": 0
             },
             {
@@ -123,9 +116,9 @@
             },
             {
                 "symbol": "GME",
-                "headline": "GME Pops 2% After-Hours After Ryan Cohen Buys $17M Worth Of Shares",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gme-pops-2-hours-ryan-000459370.html",
+                "headline": "GameStop Just Ripped 35% in a Month: Are Ryan Cohen\u2019s Insider Purchases Your Buy Signal?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-just-ripped-35-month-154805771.html",
                 "score": 0
             },
             {
@@ -133,6 +126,13 @@
                 "headline": "U.S. shares of Brazilian companies rally after first round election result",
                 "publisher": "Investing.com",
                 "link": "https://finance.yahoo.com/markets/world-indices/articles/u-shares-brazilian-companies-rally-083813487.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBRX",
+                "headline": "IBRX Stock Logs Best Week In Over 7 Months: Retail Eyes Anktiva Boost From Trump\u2019s Cancer Panel Pick",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/ibrx-stock-logs-best-week-021331732.html",
                 "score": 0
             }
         ]
