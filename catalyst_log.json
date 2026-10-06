@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-06T23:00:17.773784+00:00",
+    "timestamp": "2026-10-06T23:36:00.540279+00:00",
     "catalysts": [
         {
             "symbol": "HTZ",
@@ -97,6 +97,13 @@
             "headline": "Ciena Insider Sold Shares Worth $746,254, According to a Recent SEC Filing",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-insider-sold-shares-worth-214136916.html",
+            "score": 0
+        },
+        {
+            "symbol": "TXG",
+            "headline": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html",
             "score": 0
         },
         {
