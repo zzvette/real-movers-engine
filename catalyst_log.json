@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-06T19:25:50.344302+00:00",
+    "timestamp": "2026-10-06T23:00:17.773784+00:00",
     "catalysts": [
         {
             "symbol": "HTZ",
@@ -9,38 +9,45 @@
             "score": 6
         },
         {
-            "symbol": "FCEL",
-            "headline": "CEG, VST, TLN Jump: Google\u2019s Power Deal Sparks A Nuclear Rally",
+            "symbol": "SKHY",
+            "headline": "NLST Stock Jumps 18% After Micron\u2019s $600M License Deal \u2014 Retail Now Awaits SK Hynix",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/energy/articles/ceg-vst-tln-jump-google-183119407.html",
-            "score": 2
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nlst-stock-jumps-18-micron-214331271.html",
+            "score": 5
+        },
+        {
+            "symbol": "NLST",
+            "headline": "NLST Stock Jumps 18% After Micron\u2019s $600M License Deal \u2014 Retail Now Awaits SK Hynix",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nlst-stock-jumps-18-micron-214331271.html",
+            "score": 5
         },
         {
             "symbol": "AMD",
-            "headline": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-6-dow-sp-500-nasdaq-080526166.html",
+            "headline": "Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High",
+            "publisher": "BeInCrypto",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-lags-p-500-215305778.html",
             "score": 0
         },
         {
             "symbol": "CEG",
-            "headline": "Stock Market Today: Dow Rises But Seagate Dives On This; Zebra, AI Stock Clear Entries (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html",
+            "headline": "S&P 500 And Nasdaq 100 Soar To Record Highs Amid Rising Bets Of Strong Quarterly Earnings \u2014 CEG, LCID, SPCX, MRVL In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-soar-223529047.html",
             "score": 0
         },
         {
             "symbol": "MRVL",
-            "headline": "Update: Marvell Technology Shares Rise After Boost in Revenue Guidance",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-shares-rise-boost-183137514.html",
+            "headline": "S&P 500 And Nasdaq 100 Soar To Record Highs Amid Rising Bets Of Strong Quarterly Earnings \u2014 CEG, LCID, SPCX, MRVL In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-soar-223529047.html",
             "score": 0
         },
         {
             "symbol": "STX",
-            "headline": "Stock Market Today: Dow Rises But Seagate Dives On This; Zebra, AI Stock Clear Entries (Live Coverage)",
+            "headline": "Stock Market Today: Dow, S&P 500 Rally; Cathie Wood Buys This Stock Amid 56% Dive",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html",
+            "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow%2C-s%26p.html",
             "score": 0
         },
         {
@@ -59,44 +66,37 @@
         },
         {
             "symbol": "OPCH",
-            "headline": "Why Option Care Health Stock Skyrocketed on Tuesday",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-option-care-health-stock-185647891.html",
+            "headline": "Stocks to Watch Recap: SpaceX, Nvidia, Lamb Weston, Uber",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/64c5c602-80ef-3489-8f13-499ec0040c30/stocks-to-watch-recap%3A.html",
+            "score": 0
+        },
+        {
+            "symbol": "FCEL",
+            "headline": "Why FuelCell Energy (FCEL) Stock Is Trading Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-fuelcell-energy-fcel-stock-221634968.html",
             "score": 0
         },
         {
             "symbol": "CRWD",
-            "headline": "Sam Altman Warns: Incoming \u201cTidal Wave\u201d of Cyber Attacks: 2 Stocks Fighting Back to Protect Us",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sam-altman-warns-incoming-tidal-174332401.html",
+            "headline": "Jim Cramer Backs CrowdStrike as Cybersecurity Demand Grows",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-backs-crowdstrike-cybersecurity-215602905.html",
             "score": 0
         },
         {
             "symbol": "TEM",
-            "headline": "Fortune Unveils the \"Fortune Future 120\" 2026 List",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fortune-unveils-fortune-future-120-120000250.html",
-            "score": 0
-        },
-        {
-            "symbol": "SKHY",
-            "headline": "5 Surging ETFs Up More than 50% in 2026",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/5-surging-etfs-more-50-184548718.html",
+            "headline": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html",
             "score": 0
         },
         {
             "symbol": "CIEN",
-            "headline": "Arista Networks Advances 4% While Ciena Soars 11% on AI Networking Demand; Cisco Rises 3%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/technology/articles/arista-networks-advances-4-while-165634151.html",
-            "score": 0
-        },
-        {
-            "symbol": "TXG",
-            "headline": "NeoGenomics Sinks 12% on CEO Succession Plan Despite Revenue Beat",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/neogenomics-sinks-12-ceo-succession-170926148.html",
+            "headline": "Ciena Insider Sold Shares Worth $746,254, According to a Recent SEC Filing",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-insider-sold-shares-worth-214136916.html",
             "score": 0
         },
         {
@@ -111,13 +111,6 @@
             "headline": "Could This $14 Energy Stock Be Your Ticket to Millionaire Status?",
             "publisher": "Motley Fool",
             "link": "https://finance.yahoo.com/markets/stocks/articles/could-14-energy-stock-ticket-185000334.html",
-            "score": 0
-        },
-        {
-            "symbol": "NLST",
-            "headline": "Micron Stock Drops. Why It Needs a Memory Price Test.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/2a003763-34ba-3048-b95d-81b76986c0a0/micron-stock-drops.-why-it.html",
             "score": 0
         },
         {
