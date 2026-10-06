@@ -1,75 +1,47 @@
 {
-    "timestamp": "2026-10-06T15:40:48.602233+00:00",
+    "timestamp": "2026-10-06T19:25:50.344302+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "CEG",
-                "headline": "Google, Constellation Energy Strike 3.59-GW Power Deal",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/google-constellation-energy-strike-3-151828289.html",
-                "score": 2
-            },
-            {
-                "symbol": "SKYD",
-                "headline": "Paramount Skydance seals $110B Warner Bros deal as combined company hits NYSE",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-seals-110b-warner-151352093.html",
-                "score": 2
-            },
-            {
-                "symbol": "OPCH",
-                "headline": "Option Care Health Agrees to $5.8 Billion Acquisition by CD&R and McKesson at $32.05 Per Share",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/healthcare/articles/option-care-health-agrees-5-144831242.html",
-                "score": 2
-            },
-            {
-                "symbol": "WBD",
-                "headline": "Paramount Skydance seals $110B Warner Bros deal as combined company hits NYSE",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-seals-110b-warner-151352093.html",
-                "score": 2
-            },
-            {
-                "symbol": "OKLO",
-                "headline": "S&P 500's Vistra And Constellation Soar On AI Nuclear Energy Deals",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/s%26p-500%27s-vistra-and.html",
-                "score": 2
-            },
-            {
-                "symbol": "PSKY",
-                "headline": "Paramount Skydance seals $110B Warner Bros deal as combined company hits NYSE",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-seals-110b-warner-151352093.html",
-                "score": 2
-            },
-            {
-                "symbol": "MRVL",
-                "headline": "Does AMD Stock's Run Make Any Sense Now?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/does-amd-stocks-run-sense-150250762.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVAX",
-                "headline": "Novavax Pulls Back From Plague-Scare Spike as Officials Call Risk Low; Moderna Nudges Higher, Pfizer Inches Higher",
+                "symbol": "HTZ",
+                "headline": "Hertz Rebounds 16% From a Record Low; Avis Climbs 5%, Ryder Ticks Up",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/novavax-pulls-back-plague-scare-135603428.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/markets/stocks/articles/hertz-rebounds-16-record-low-180414052.html",
+                "score": 6
+            },
+            {
+                "symbol": "FCEL",
+                "headline": "CEG, VST, TLN Jump: Google\u2019s Power Deal Sparks A Nuclear Rally",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/energy/articles/ceg-vst-tln-jump-google-183119407.html",
+                "score": 2
             },
             {
                 "symbol": "AMD",
-                "headline": "Does AMD Stock's Run Make Any Sense Now?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/does-amd-stocks-run-sense-150250762.html",
+                "headline": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-6-dow-sp-500-nasdaq-080526166.html",
                 "score": 0
             },
             {
-                "symbol": "MRNA",
-                "headline": "Novavax Pulls Back From Plague-Scare Spike as Officials Call Risk Low; Moderna Nudges Higher, Pfizer Inches Higher",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/novavax-pulls-back-plague-scare-135603428.html",
+                "symbol": "CEG",
+                "headline": "Stock Market Today: Dow Rises But Seagate Dives On This; Zebra, AI Stock Clear Entries (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html",
+                "score": 0
+            },
+            {
+                "symbol": "MRVL",
+                "headline": "Update: Marvell Technology Shares Rise After Boost in Revenue Guidance",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-shares-rise-boost-183137514.html",
+                "score": 0
+            },
+            {
+                "symbol": "STX",
+                "headline": "Stock Market Today: Dow Rises But Seagate Dives On This; Zebra, AI Stock Clear Entries (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html",
                 "score": 0
             },
             {
@@ -80,66 +52,94 @@
                 "score": 0
             },
             {
-                "symbol": "ASTS",
-                "headline": "Why AST SpaceMobile Stock Popped on Tuesday",
+                "symbol": "CWEN",
+                "headline": "5 Massive Dividend Yields Being Funded With Someone Else\u2019s Money",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/5-massive-dividend-yields-being-151545427.html",
+                "score": 0
+            },
+            {
+                "symbol": "OPCH",
+                "headline": "Why Option Care Health Stock Skyrocketed on Tuesday",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-ast-spacemobile-stock-popped-151408731.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-option-care-health-stock-185647891.html",
                 "score": 0
             },
             {
                 "symbol": "CRWD",
-                "headline": "CrowdStrike Advances 3% on Agentic Security Accelerator With Amazon and NVIDIA; Palo Alto Networks and Zscaler Gain 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-advances-3-agentic-security-150000899.html",
+                "headline": "Sam Altman Warns: Incoming \u201cTidal Wave\u201d of Cyber Attacks: 2 Stocks Fighting Back to Protect Us",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sam-altman-warns-incoming-tidal-174332401.html",
                 "score": 0
             },
             {
-                "symbol": "ALAB",
+                "symbol": "TEM",
                 "headline": "Fortune Unveils the \"Fortune Future 120\" 2026 List",
                 "publisher": "PR Newswire",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/fortune-unveils-fortune-future-120-120000250.html",
                 "score": 0
             },
             {
-                "symbol": "NLST",
-                "headline": "Netlist and Micron Agree $600 Million Patent Licence and Settlement",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/netlist-micron-agree-600-million-124730826.html",
+                "symbol": "SKHY",
+                "headline": "5 Surging ETFs Up More than 50% in 2026",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/5-surging-etfs-more-50-184548718.html",
                 "score": 0
             },
             {
-                "symbol": "CIBR",
-                "headline": "CrowdStrike Advances 3% on Agentic Security Accelerator With Amazon and NVIDIA; Palo Alto Networks and Zscaler Gain 4%",
+                "symbol": "CIEN",
+                "headline": "Arista Networks Advances 4% While Ciena Soars 11% on AI Networking Demand; Cisco Rises 3%",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-advances-3-agentic-security-150000899.html",
-                "score": 0
-            },
-            {
-                "symbol": "XHG",
-                "headline": "XChange TEC Plans U.S. AI Business Expansion With Up to $10 Million Investment",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/technology/ai/articles/xchange-tec-plans-u-ai-144935097.html",
-                "score": 0
-            },
-            {
-                "symbol": "PANW",
-                "headline": "CrowdStrike Advances 3% on Agentic Security Accelerator With Amazon and NVIDIA; Palo Alto Networks and Zscaler Gain 4%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-advances-3-agentic-security-150000899.html",
+                "link": "https://finance.yahoo.com/technology/articles/arista-networks-advances-4-while-165634151.html",
                 "score": 0
             },
             {
                 "symbol": "TXG",
-                "headline": "Cathie Wood Loads Up On These Biotech Stocks After Strong Rallies \u2013 Unloads $18M Worth Of TWST Shares",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/cathie-wood-loads-biotech-stocks-121618269.html",
+                "headline": "NeoGenomics Sinks 12% on CEO Succession Plan Despite Revenue Beat",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/neogenomics-sinks-12-ceo-succession-170926148.html",
                 "score": 0
             },
             {
-                "symbol": "LW",
-                "headline": "What Lamb Weston (LW) Said on Its Q1 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lamb-weston-lw-said-q1-150237864.html",
+                "symbol": "FTNT",
+                "headline": "Rockwell Automation Expands SecureOT Managed Services to Support Fortinet Firewalls and Existing Customer Infrastructure",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/technology/articles/rockwell-automation-expands-secureot-managed-140000503.html",
+                "score": 0
+            },
+            {
+                "symbol": "XE",
+                "headline": "Could This $14 Energy Stock Be Your Ticket to Millionaire Status?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/could-14-energy-stock-ticket-185000334.html",
+                "score": 0
+            },
+            {
+                "symbol": "NLST",
+                "headline": "Micron Stock Drops. Why It Needs a Memory Price Test.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/2a003763-34ba-3048-b95d-81b76986c0a0/micron-stock-drops.-why-it.html",
+                "score": 0
+            },
+            {
+                "symbol": "AVBP",
+                "headline": "Top Midday Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181910944.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOK",
+                "headline": "European Equities Traded in the US as American Depositary Receipts Track Higher in Tuesday Trading",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151152915.html",
+                "score": 0
+            },
+            {
+                "symbol": "TWST",
+                "headline": "NeoGenomics Sinks 12% on CEO Succession Plan Despite Revenue Beat",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/neogenomics-sinks-12-ceo-succession-170926148.html",
                 "score": 0
             }
         ]
