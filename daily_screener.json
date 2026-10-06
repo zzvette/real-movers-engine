@@ -1,75 +1,19 @@
 {
-    "timestamp": "2026-10-06T01:08:41.078084+00:00",
+    "timestamp": "2026-10-06T05:07:30.437535+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "NVAX",
-                "headline": "NVAX Stock Outruns Moderna As Vaxcyte\u2019s Shot Clears A Late-Stage Test",
+                "headline": "NVAX, EBS, ARCT, MRNA Rally After Russia Plague Lab Worker's Death: Retail Traders Eye 'Contract Awards'",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/nvax-stock-outruns-moderna-vaxcyte-234224099.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/nvax-ebs-arct-mrna-rally-033402497.html",
                 "score": 0
             },
             {
                 "symbol": "MRNA",
-                "headline": "NVAX Stock Outruns Moderna As Vaxcyte\u2019s Shot Clears A Late-Stage Test",
+                "headline": "NVAX, EBS, ARCT, MRNA Rally After Russia Plague Lab Worker's Death: Retail Traders Eye 'Contract Awards'",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/nvax-stock-outruns-moderna-vaxcyte-234224099.html",
-                "score": 0
-            },
-            {
-                "symbol": "RXRX",
-                "headline": "Ondas, SoundHound AI Lead Wall Street's Most Shorted Stocks",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-soundhound-ai-lead-wall-191214214.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVDA",
-                "headline": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-taiwan-semiconductor-manufacturing-000354806.html",
-                "score": 0
-            },
-            {
-                "symbol": "MELI",
-                "headline": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow.html",
-                "score": 0
-            },
-            {
-                "symbol": "NU",
-                "headline": "Stocks to Watch Recap: PTC, Intel, Nubank",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/5e796f9a-78e3-3ebe-b617-359ef7e39c01/stocks-to-watch-recap%3A-ptc%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "PTC",
-                "headline": "Why Is Bentley Systems (BSY) Stock Rocketing Higher Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-bentley-systems-bsy-stock-225100709.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSM",
-                "headline": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-taiwan-semiconductor-manufacturing-000354806.html",
-                "score": 0
-            },
-            {
-                "symbol": "PCVX",
-                "headline": "NVAX Stock Outruns Moderna As Vaxcyte\u2019s Shot Clears A Late-Stage Test",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/nvax-stock-outruns-moderna-vaxcyte-234224099.html",
-                "score": 0
-            },
-            {
-                "symbol": "QTEX",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018540.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/nvax-ebs-arct-mrna-rally-033402497.html",
                 "score": 0
             },
             {
@@ -80,24 +24,52 @@
                 "score": 0
             },
             {
-                "symbol": "XP",
-                "headline": "MercadoLibre, XP, Embraer Take Off On Brazil Election Results",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/3b8dfa7d-4454-3dcd-bb17-0841835bf413/mercadolibre%2C-xp%2C-embraer.html",
+                "symbol": "RXRX",
+                "headline": "Ondas, SoundHound AI Lead Wall Street's Most Shorted Stocks",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-soundhound-ai-lead-wall-191214214.html",
                 "score": 0
             },
             {
-                "symbol": "EWZ",
-                "headline": "Stanley Druckenmiller\u2019s Brazil Bet Appears To Pay Off After Election Shock. Brazil\u2019s Biggest ETF Soars 13% On The News",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-brazil-bet-appears-154051465.html",
+                "symbol": "QTEX",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018540.html",
                 "score": 0
             },
             {
-                "symbol": "SHOP",
-                "headline": "Asana, Zscaler, Appian, Atlassian, and Shopify Stocks Trade Up, What You Need To Know",
+                "symbol": "CEG",
+                "headline": "Why Is CEG Stock Surging More Than 4% In Overnight Trading?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-ceg-stock-surging-more-015412680.html",
+                "score": 0
+            },
+            {
+                "symbol": "LEN",
+                "headline": "Berkshire Buys $190 Million More Lennar Stock; It Now Owns 12% of Big Homebuilder",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/15e4706c-be96-3766-b05e-d53cf7833255/berkshire-buys-%24190-million.html",
+                "score": 0
+            },
+            {
+                "symbol": "PTC",
+                "headline": "Why Is Bentley Systems (BSY) Stock Rocketing Higher Today",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/asana-zscaler-appian-atlassian-shopify-001100757.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-bentley-systems-bsy-stock-225100709.html",
+                "score": 0
+            },
+            {
+                "symbol": "TEM",
+                "headline": "Here's How Tempus AI is Capitalizing on AI-ECG Market Growth",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/healthcare/articles/heres-tempus-ai-capitalizing-ai-140300775.html",
+                "score": 0
+            },
+            {
+                "symbol": "MCD",
+                "headline": "NYSE\u2019s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange \u2014 And the SEC Already Gave It Permission",
+                "publisher": "Forkast News",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/nyse-parent-just-filed-tokenize-025259404.html",
                 "score": 0
             },
             {
@@ -108,31 +80,66 @@
                 "score": 0
             },
             {
-                "symbol": "CHRW",
-                "headline": "Why C.H. Robinson Worldwide (CHRW) Shares Are Sliding Today",
+                "symbol": "CMG",
+                "headline": "Chipotle Sinks 4% as Selling Outruns the Restaurant Group; McDonald\u2019s and Starbucks Dip",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-sinks-4-selling-outruns-145956609.html",
+                "score": 0
+            },
+            {
+                "symbol": "WBD",
+                "headline": "Why Hollywood\u2019s Most Iconic Studio Is Being Sold\u2014Again",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/80d1ac31-d60f-3e09-8510-006e8ee8263b/why-hollywood%E2%80%99s-most-iconic.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "KLA (KLAC): Does Its Semiconductor Moat Justify the Premium?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/technology/articles/kla-klac-does-semiconductor-moat-032905874.html",
+                "score": 0
+            },
+            {
+                "symbol": "SHOP",
+                "headline": "Asana, Zscaler, Appian, Atlassian, and Shopify Stocks Trade Up, What You Need To Know",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-c-h-robinson-worldwide-224300723.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/asana-zscaler-appian-atlassian-shopify-001100757.html",
                 "score": 0
             },
             {
-                "symbol": "ACB",
-                "headline": "Aurora Maintains Shareholder Recommendation to Take No Action at this Time as Curaleaf Has Yet to File Their Revised Hostile Bid",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/aurora-maintains-shareholder-recommendation-no-221100751.html",
+                "symbol": "PYPL",
+                "headline": "PayPal (PYPL) Has Fallen From Grace. Could AI Commerce Be Its Way Back?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-fallen-grace-could-033645334.html",
                 "score": 0
             },
             {
-                "symbol": "SPHR",
-                "headline": "Why Sphere Entertainment (SPHR) Stock Is Trading Lower Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-sphere-entertainment-sphr-stock-232300440.html",
+                "symbol": "MSFT",
+                "headline": "Dan Niles Backs Alphabet and Meta as Google Cloud Grows Over 80%",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dan-niles-backs-alphabet-meta-040500240.html",
                 "score": 0
             },
             {
-                "symbol": "TEM",
-                "headline": "Here's How Tempus AI is Capitalizing on AI-ECG Market Growth",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/healthcare/articles/heres-tempus-ai-capitalizing-ai-140300775.html",
+                "symbol": "LULU",
+                "headline": "Lululemon Stock Is in the Doldrums. Here\u2019s How Things Could Turn Around.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/39f06876-a1e7-3003-94f8-728a54c37492/lululemon-stock-is-in-the.html",
+                "score": 0
+            },
+            {
+                "symbol": "^IXIC",
+                "headline": "Asia stocks choppy as elevated yields temper Wall Street-led gains",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-choppy-elevated-yields-042348925.html",
+                "score": 0
+            },
+            {
+                "symbol": "KO",
+                "headline": "NYSE\u2019s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange \u2014 And the SEC Already Gave It Permission",
+                "publisher": "Forkast News",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/nyse-parent-just-filed-tokenize-025259404.html",
                 "score": 0
             }
         ]
