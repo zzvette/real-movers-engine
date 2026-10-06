@@ -1,61 +1,19 @@
 {
-    "timestamp": "2026-10-05T21:16:37.496302+00:00",
+    "timestamp": "2026-10-06T01:08:41.078084+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "PTC",
-                "headline": "PTC Inc. (PTC) Climbs 36% as Schneider Puts Whopping Premium on Takeover Bid \u2014 Here\u2019s What\u2019s Next",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ptc-inc-ptc-climbs-36-210452470.html",
-                "score": 3
-            },
-            {
-                "symbol": "TSM",
-                "headline": "IBD Stock Of The Day TSMC Breaks Out On Terafab Chatter",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f2ea941d-e757-3f02-9977-1a8fe998c983/ibd-stock-of-the-day-tsmc.html",
-                "score": 3
-            },
-            {
-                "symbol": "MRNA",
-                "headline": "MRNA Stock Soars Ahead Of Slated Return To Nasdaq-100; Retail Echoes Valuation Concerns",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-soars-ahead-slated-193022289.html",
-                "score": 2
-            },
-            {
-                "symbol": "PCVX",
-                "headline": "Vaxcyte Launches $1 Billion Offerings of Stock, Prefunded Warrants, 2032 Notes",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/vaxcyte-launches-1-billion-offerings-210759284.html",
-                "score": 2
-            },
-            {
-                "symbol": "VEEA",
-                "headline": "Veea Announces TROLLEE Agreement for Phased Deployment of VeeaONE to 1,000 Unattended Stores",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/veea-announces-trollee-agreement-phased-120000280.html",
-                "score": 2
-            },
-            {
-                "symbol": "OPCH",
-                "headline": "Market Chatter: McKesson, CD&R Near Deal to Buy Option Care Health",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-mckesson-cd-r-205749511.html",
-                "score": 2
-            },
-            {
                 "symbol": "NVAX",
-                "headline": "3 Overrated  Stocks We Approach with Caution",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-overrated-stocks-approach-caution-081403062.html",
+                "headline": "NVAX Stock Outruns Moderna As Vaxcyte\u2019s Shot Clears A Late-Stage Test",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/nvax-stock-outruns-moderna-vaxcyte-234224099.html",
                 "score": 0
             },
             {
-                "symbol": "MELI",
-                "headline": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow.html",
+                "symbol": "MRNA",
+                "headline": "NVAX Stock Outruns Moderna As Vaxcyte\u2019s Shot Clears A Late-Stage Test",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/nvax-stock-outruns-moderna-vaxcyte-234224099.html",
                 "score": 0
             },
             {
@@ -66,17 +24,52 @@
                 "score": 0
             },
             {
-                "symbol": "NU",
-                "headline": "XP Inc. and Other Stocks Surging After Brazil\u2019s Election Shock",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/6a77f4cd-b3a8-3a78-af0c-eaa1f86bb515/xp-inc.-and-other-stocks.html",
+                "symbol": "NVDA",
+                "headline": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-taiwan-semiconductor-manufacturing-000354806.html",
                 "score": 0
             },
             {
-                "symbol": "NVDA",
-                "headline": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why.",
+                "symbol": "MELI",
+                "headline": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/vistra%2C-an-s%26p-500-nuclear.html",
+                "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow.html",
+                "score": 0
+            },
+            {
+                "symbol": "NU",
+                "headline": "Stocks to Watch Recap: PTC, Intel, Nubank",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/5e796f9a-78e3-3ebe-b617-359ef7e39c01/stocks-to-watch-recap%3A-ptc%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "PTC",
+                "headline": "Why Is Bentley Systems (BSY) Stock Rocketing Higher Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-bentley-systems-bsy-stock-225100709.html",
+                "score": 0
+            },
+            {
+                "symbol": "TSM",
+                "headline": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-taiwan-semiconductor-manufacturing-000354806.html",
+                "score": 0
+            },
+            {
+                "symbol": "PCVX",
+                "headline": "NVAX Stock Outruns Moderna As Vaxcyte\u2019s Shot Clears A Late-Stage Test",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/nvax-stock-outruns-moderna-vaxcyte-234224099.html",
+                "score": 0
+            },
+            {
+                "symbol": "QTEX",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018540.html",
                 "score": 0
             },
             {
@@ -94,6 +87,20 @@
                 "score": 0
             },
             {
+                "symbol": "EWZ",
+                "headline": "Stanley Druckenmiller\u2019s Brazil Bet Appears To Pay Off After Election Shock. Brazil\u2019s Biggest ETF Soars 13% On The News",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-brazil-bet-appears-154051465.html",
+                "score": 0
+            },
+            {
+                "symbol": "SHOP",
+                "headline": "Asana, Zscaler, Appian, Atlassian, and Shopify Stocks Trade Up, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/asana-zscaler-appian-atlassian-shopify-001100757.html",
+                "score": 0
+            },
+            {
                 "symbol": "PDSB",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
@@ -102,44 +109,30 @@
             },
             {
                 "symbol": "CHRW",
-                "headline": "US Equity Markets End Higher as Crude Oil Prices Drop",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202144838.html",
+                "headline": "Why C.H. Robinson Worldwide (CHRW) Shares Are Sliding Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-c-h-robinson-worldwide-224300723.html",
                 "score": 0
             },
             {
-                "symbol": "EWZ",
-                "headline": "Stanley Druckenmiller\u2019s Brazil Bet Appears To Pay Off After Election Shock. Brazil\u2019s Biggest ETF Soars 13% On The News",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-brazil-bet-appears-154051465.html",
-                "score": 0
-            },
-            {
-                "symbol": "PBR",
-                "headline": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow.html",
-                "score": 0
-            },
-            {
-                "symbol": "SAIQ",
-                "headline": "What's Going On With WISeSat.Space Stock Today?",
-                "publisher": "Benzinga",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-wisesat-space-stock-123217711.html",
-                "score": 0
-            },
-            {
-                "symbol": "AAOI",
-                "headline": "Zacks Investment Ideas feature highlights: Arm Holdings, Advanced Micro Devices, Marvell, Applied Optoelectronics and Nebius",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-120100363.html",
+                "symbol": "ACB",
+                "headline": "Aurora Maintains Shareholder Recommendation to Take No Action at this Time as Curaleaf Has Yet to File Their Revised Hostile Bid",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/aurora-maintains-shareholder-recommendation-no-221100751.html",
                 "score": 0
             },
             {
                 "symbol": "SPHR",
-                "headline": "Sphere Entertainment Shares Fall After Craig-Hallum Downgrade",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sphere-entertainment-shares-fall-craig-194830322.html",
+                "headline": "Why Sphere Entertainment (SPHR) Stock Is Trading Lower Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-sphere-entertainment-sphr-stock-232300440.html",
+                "score": 0
+            },
+            {
+                "symbol": "TEM",
+                "headline": "Here's How Tempus AI is Capitalizing on AI-ECG Market Growth",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/healthcare/articles/heres-tempus-ai-capitalizing-ai-140300775.html",
                 "score": 0
             }
         ]
