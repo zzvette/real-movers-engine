@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-06T23:36:00.540279+00:00",
+    "timestamp": "2026-10-07T02:42:07.924129+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,13 +10,6 @@
                 "score": 6
             },
             {
-                "symbol": "SKHY",
-                "headline": "NLST Stock Jumps 18% After Micron\u2019s $600M License Deal \u2014 Retail Now Awaits SK Hynix",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nlst-stock-jumps-18-micron-214331271.html",
-                "score": 5
-            },
-            {
                 "symbol": "NLST",
                 "headline": "NLST Stock Jumps 18% After Micron\u2019s $600M License Deal \u2014 Retail Now Awaits SK Hynix",
                 "publisher": "Stocktwits",
@@ -24,73 +17,52 @@
                 "score": 5
             },
             {
+                "symbol": "SKHY",
+                "headline": "NLST Stock Jumps 18% After Micron\u2019s $600M License Deal \u2014 Retail Now Awaits SK Hynix",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nlst-stock-jumps-18-micron-214331271.html",
+                "score": 5
+            },
+            {
                 "symbol": "AMD",
-                "headline": "Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-lags-p-500-215305778.html",
-                "score": 0
+                "headline": "Can Digital Realty Trust (DLR) Justify Its Valuation After The Blackfuel AI Deal?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-trust-dlr-justify-010901600.html",
+                "score": 4
             },
             {
                 "symbol": "CEG",
-                "headline": "S&P 500 And Nasdaq 100 Soar To Record Highs Amid Rising Bets Of Strong Quarterly Earnings \u2014 CEG, LCID, SPCX, MRVL In Focus",
+                "headline": "Has Nuclear Energy Trade Seen Its Bottom? What Jan Van Eck Sees In The Constellation-Google Deal",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-soar-223529047.html",
+                "link": "https://finance.yahoo.com/energy/articles/nuclear-energy-trade-seen-bottom-013354501.html",
+                "score": 2
+            },
+            {
+                "symbol": "PENG",
+                "headline": "Penguin Solutions Q4 Earnings Call Highlights",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-q4-earnings-call-000210142.html",
                 "score": 0
             },
             {
                 "symbol": "MRVL",
-                "headline": "S&P 500 And Nasdaq 100 Soar To Record Highs Amid Rising Bets Of Strong Quarterly Earnings \u2014 CEG, LCID, SPCX, MRVL In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-soar-223529047.html",
+                "headline": "Marvell Stock And 2 US AI Chip Plays Riding Data Center Demand",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/marvell-stock-2-us-ai-021243673.html",
                 "score": 0
             },
             {
                 "symbol": "STX",
-                "headline": "Stock Market Today: Dow, S&P 500 Rally; Cathie Wood Buys This Stock Amid 56% Dive",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow%2C-s%26p.html",
-                "score": 0
-            },
-            {
-                "symbol": "ETHA",
-                "headline": "Worst Performing ETFs of 2026 So Far",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/options/articles/worst-performing-etfs-2026-far-233935711.html",
-                "score": 0
-            },
-            {
-                "symbol": "CWEN",
-                "headline": "5 Massive Dividend Yields Being Funded With Someone Else\u2019s Money",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/5-massive-dividend-yields-being-151545427.html",
-                "score": 0
-            },
-            {
-                "symbol": "OPCH",
-                "headline": "Stocks to Watch Recap: SpaceX, Nvidia, Lamb Weston, Uber",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/64c5c602-80ef-3489-8f13-499ec0040c30/stocks-to-watch-recap%3A.html",
-                "score": 0
-            },
-            {
-                "symbol": "FCEL",
-                "headline": "Why FuelCell Energy (FCEL) Stock Is Trading Up Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-fuelcell-energy-fcel-stock-221634968.html",
-                "score": 0
-            },
-            {
-                "symbol": "CRWD",
-                "headline": "Jim Cramer Backs CrowdStrike as Cybersecurity Demand Grows",
+                "headline": "Seagate\u2019s (STX) CEO Sold $17.4 Million the Day Before the Toshiba Drop. The Stock Is Falling Again",
                 "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-backs-crowdstrike-cybersecurity-215602905.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-ceo-sold-17-234840999.html",
                 "score": 0
             },
             {
-                "symbol": "TEM",
-                "headline": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html",
+                "symbol": "STZ",
+                "headline": "STZ Stock Falls As Modelo And Corona Lose Volume, Full-Year Profit Outlook Holds",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stz-stock-falls-modelo-corona-223824101.html",
                 "score": 0
             },
             {
@@ -101,38 +73,38 @@
                 "score": 0
             },
             {
-                "symbol": "TXG",
+                "symbol": "ETHA",
+                "headline": "Worst Performing ETFs of 2026 So Far",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/worst-performing-etfs-2026-far-233935711.html",
+                "score": 0
+            },
+            {
+                "symbol": "CSCO",
+                "headline": "Stock Market Today: Dow, S&P 500 Rally; Cathie Wood Buys This Stock Amid 56% Dive",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow%2C-s%26p.html",
+                "score": 0
+            },
+            {
+                "symbol": "FCEL",
+                "headline": "Why FuelCell Energy (FCEL) Stock Is Trading Up Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-fuelcell-energy-fcel-stock-221634968.html",
+                "score": 0
+            },
+            {
+                "symbol": "TEM",
                 "headline": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html",
                 "score": 0
             },
             {
-                "symbol": "FTNT",
-                "headline": "Rockwell Automation Expands SecureOT Managed Services to Support Fortinet Firewalls and Existing Customer Infrastructure",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/technology/articles/rockwell-automation-expands-secureot-managed-140000503.html",
-                "score": 0
-            },
-            {
-                "symbol": "XE",
-                "headline": "Could This $14 Energy Stock Be Your Ticket to Millionaire Status?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/could-14-energy-stock-ticket-185000334.html",
-                "score": 0
-            },
-            {
-                "symbol": "AVBP",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181910944.html",
-                "score": 0
-            },
-            {
-                "symbol": "NOK",
-                "headline": "European Equities Traded in the US as American Depositary Receipts Track Higher in Tuesday Trading",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151152915.html",
+                "symbol": "ANET",
+                "headline": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html",
                 "score": 0
             },
             {
@@ -140,6 +112,27 @@
                 "headline": "NeoGenomics Sinks 12% on CEO Succession Plan Despite Revenue Beat",
                 "publisher": "TIKR",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/neogenomics-sinks-12-ceo-succession-170926148.html",
+                "score": 0
+            },
+            {
+                "symbol": "BWET",
+                "headline": "4 Ways to Play the Shipping Industry in the Face of the Gas Crunch",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/4-ways-play-shipping-industry-112500298.html",
+                "score": 0
+            },
+            {
+                "symbol": "FPS",
+                "headline": "Wall Street Analysts See a 52.91% Upside in Forgent Power (FPS): Can the Stock Really Move This High?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-52-125502819.html",
+                "score": 0
+            },
+            {
+                "symbol": "LEU",
+                "headline": "Why Centrus Stock Popped on Tuesday",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-centrus-stock-popped-tuesday-163518347.html",
                 "score": 0
             }
         ]
