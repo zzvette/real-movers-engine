@@ -1,7 +1,14 @@
 {
-    "timestamp": "2026-10-07T19:42:08.655093+00:00",
+    "timestamp": "2026-10-07T23:46:13.558927+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "WOLF",
+                "headline": "Wolfspeed Stock Soars on Financing Deal with Pentagon",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/79a1aabe-0155-3738-8d44-398614c39adb/wolfspeed-stock-soars-on.html",
+                "score": 4
+            },
             {
                 "symbol": "SMCI",
                 "headline": "Hewlett Packard Enterprise Just Surged 40% in a Month: Take Profits, or Buy More?",
@@ -24,45 +31,31 @@
                 "score": 2
             },
             {
-                "symbol": "BKH",
-                "headline": "Update: Black Hills Shares Rise After Agreements to Serve Google Data Center",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/black-hills-shares-rise-agreements-192111439.html",
+                "symbol": "HESM",
+                "headline": "Hess Midstream Stock Plunges, but the Chevron Deal Has a Silver Lining",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/3f905906-1ad1-3b8b-90e8-759f3ac0436b/hess-midstream-stock-plunges%2C.html",
                 "score": 2
             },
             {
-                "symbol": "LLY",
-                "headline": "What Does Eli Lilly (LLY) Gain From This $870 Million Drug Discovery Deal?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/does-eli-lilly-lly-gain-181514217.html",
-                "score": 2
-            },
-            {
-                "symbol": "MU",
-                "headline": "Stock Market Today: S&P 500 Cuts Losses As Oil, Yields Drop But Caterpillar Shares Get Pounded (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/06a29f87-8869-33a5-8fbe-90d7976fe7e3/stock-market-today%3A-s%26p-500.html",
+                "symbol": "APLD",
+                "headline": "Applied Digital\u2019s Earnings Show Its Data Center Bet Is Starting to Pay Off",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/a3e81046-9aa9-3e5a-8ba7-35e55a7566e0/applied-digital%E2%80%99s-earnings.html",
                 "score": 0
             },
             {
                 "symbol": "BULL",
-                "headline": "Sector Update: Financial",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-172951271.html",
+                "headline": "Webull Stock Falls 20% Over China Ties: Who Really Controls the App?",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/webull-stock-falls-20-over-230000737.html",
                 "score": 0
             },
             {
                 "symbol": "CAT",
-                "headline": "Caterpillar Leads Dow Slide in Steepest Drop Since July",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/af0d399e-fb0a-31e4-91ba-44ec43568dbf/caterpillar-leads-dow-slide.html",
-                "score": 0
-            },
-            {
-                "symbol": "HESM",
-                "headline": "Chevron's Bakken Restructuring to Improve Cost Structure, ROCE, UBS Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/chevron-apos-bakken-restructuring-improve-184141608.html",
+                "headline": "3 Electric Vehicle Stocks To Watch In October 2026",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-electric-vehicle-stocks-watch-221608360.html",
                 "score": 0
             },
             {
@@ -73,17 +66,31 @@
                 "score": 0
             },
             {
-                "symbol": "APLD",
-                "headline": "Wells Fargo keeps AI/HPC operators Overweight ahead of debt raises",
-                "publisher": "Blockspace",
-                "link": "https://finance.yahoo.com/technology/ai/articles/wells-fargo-keeps-ai-hpc-153010388.html",
+                "symbol": "LEVI",
+                "headline": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/b41323eb-7b16-34b6-b35a-da408c3f1562/levi-strauss-uses-tariff.html",
                 "score": 0
             },
             {
-                "symbol": "PENG",
-                "headline": "Penguin Solutions (PENG) Stock Trades Up, Here Is Why",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-peng-stock-trades-190447539.html",
+                "symbol": "MU",
+                "headline": "Dow Jones Futures: Stocks Pare Losses As Yields Back Off; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/c861c57f-11ed-33ef-ad7c-615f55181128/dow-jones-futures%3A-stocks.html",
+                "score": 0
+            },
+            {
+                "symbol": "VEEV",
+                "headline": "Veeva's DQS Scales Data Automation Across 1,000+ Clinical Studies",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/healthcare/articles/veevas-dqs-scales-data-automation-125200437.html",
+                "score": 0
+            },
+            {
+                "symbol": "PEP",
+                "headline": "Pepsi Earnings Are All About the Turnaround Plan",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f6027e2c-0e59-39b9-8f16-fee5700bcc98/pepsi-earnings-are-all-about.html",
                 "score": 0
             },
             {
@@ -94,10 +101,10 @@
                 "score": 0
             },
             {
-                "symbol": "BRZE",
-                "headline": "Sprout Social, Tenable, AppLovin, Toast, and Braze Shares Skyrocket, What You Need To Know",
+                "symbol": "VRT",
+                "headline": "Why Vertiv (VRT) Stock Is Down Today",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sprout-social-tenable-applovin-toast-234700146.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-vrt-stock-down-224047908.html",
                 "score": 0
             },
             {
@@ -108,31 +115,17 @@
                 "score": 0
             },
             {
-                "symbol": "LEVI",
-                "headline": "US Futures Edge Lower Ahead of FOMC Minutes as Constellation Brands Reports Results: Dow Jones, S&P, Nasdaq, Wall Street",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-futures-edge-lower-ahead-092811343.html",
+                "symbol": "BOIL",
+                "headline": "This Trade On Natural Gas Bets On A Mild Winter",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/a5ec30de-999f-3683-b6bd-2db03f05cfa3/this-trade-on-natural-gas.html",
                 "score": 0
             },
             {
-                "symbol": "CRBU",
-                "headline": "Caribou to halt CAR-T work, lay off staff amid \u2018challenging\u2019 funding climate",
-                "publisher": "BioPharma Dive",
-                "link": "https://finance.yahoo.com/healthcare/articles/caribou-halt-car-t-lay-153700482.html",
-                "score": 0
-            },
-            {
-                "symbol": "LCID",
-                "headline": "Reflecting On Automobile Manufacturing Stocks\u2019 Q2 Earnings: Lucid (NASDAQ:LCID)",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/reflecting-automobile-manufacturing-stocks-q2-161647872.html",
-                "score": 0
-            },
-            {
-                "symbol": "NWE",
-                "headline": "NorthWestern Energy Group Inc's Dividend Analysis",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/northwestern-energy-group-incs-dividend-111422072.html",
+                "symbol": "DELL",
+                "headline": "Can Dell (DELL) Turn Its New AI Data Platform Into a Durable Competitive Advantage?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-turn-ai-data-231936828.html",
                 "score": 0
             }
         ]
