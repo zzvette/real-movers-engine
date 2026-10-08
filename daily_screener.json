@@ -1,61 +1,89 @@
 {
-    "timestamp": "2026-10-08T04:45:10.629695+00:00",
+    "timestamp": "2026-10-08T16:07:00.688936+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "HESM",
-                "headline": "Hess Midstream Stock Plunges, but the Chevron Deal Has a Silver Lining",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/3f905906-1ad1-3b8b-90e8-759f3ac0436b/hess-midstream-stock-plunges%2C.html",
-                "score": 2
-            },
-            {
-                "symbol": "IREN",
-                "headline": "IREN Falls 7% as Financing-Heavy Data Center Names Sell Off Apart From Their Sector Fund; TeraWulf and Core Scientific Drop 5%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/iren-falls-7-financing-heavy-165615596.html",
-                "score": 2
-            },
-            {
-                "symbol": "APLD",
-                "headline": "Applied Digital Q1 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-q1-earnings-call-000214656.html",
-                "score": 0
-            },
-            {
-                "symbol": "BULL",
-                "headline": "Robinhood CEO, Public Trading App Move To Poach Webull Customers As China Concerns Hammer BULL Stock",
+                "symbol": "GFS",
+                "headline": "TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-ceo-public-trading-app-041658411.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-taps-globalfoundries-2b-ai-150525238.html",
+                "score": 2
             },
             {
-                "symbol": "CAT",
-                "headline": "Top EV Stocks For October 2026",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-ev-stocks-october-2026-002001378.html",
-                "score": 0
+                "symbol": "PCRX",
+                "headline": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+                "publisher": "BioPharma Dive",
+                "link": "https://finance.yahoo.com/healthcare/articles/viatris-boosts-pain-drug-portfolio-160000735.html",
+                "score": 2
             },
             {
-                "symbol": "SMCI",
-                "headline": "Elite AI Chip Stocks To Own In October 2026",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/elite-ai-chip-stocks-own-011644238.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "Veteran analyst aggressively resets Micron stock target on 3-5 year run",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-aggressively-resets-micron-040300212.html",
+                "symbol": "PLTR",
+                "headline": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+                "publisher": "decrypt",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/securitize-brings-nvidia-apple-amazon-151049395.html",
                 "score": 0
             },
             {
                 "symbol": "WOLF",
-                "headline": "Why Is WOLF Stock Surging Over 18% Overnight?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-wolf-stock-surging-over-024145940.html",
+                "headline": "Wolfspeed signs $1.5B DOD loan for semiconductor production, R&D",
+                "publisher": "Manufacturing Dive",
+                "link": "https://finance.yahoo.com/technology/articles/wolfspeed-signs-1-5b-dod-160305724.html",
+                "score": 0
+            },
+            {
+                "symbol": "SBUX",
+                "headline": "Chipotle Stock Rallies On Starbucks Takeover Reports. Shared CEO May Boost Odds.",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/fea75504-c155-3c51-a998-67fb266d8d4b/chipotle-stock-rallies-on.html",
+                "score": 0
+            },
+            {
+                "symbol": "PEP",
+                "headline": "What PepsiCo (PEP) Said on Its Q3 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-said-q3-earnings-150256278.html",
+                "score": 0
+            },
+            {
+                "symbol": "APLD",
+                "headline": "Cipher Digital Tumbles 6% as Data Center Names Sell Off With Yields Higher; TeraWulf Falls 5%, Applied Digital Pulls Back",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-tumbles-6-data-144746894.html",
+                "score": 0
+            },
+            {
+                "symbol": "MANE",
+                "headline": "Baldness Drug Stocks like Veradermics (MANE) and Absci (ABSI) Are Chasing the Same Wall Street Magic as Ozempic",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/healthcare/articles/baldness-drug-stocks-veradermics-mane-002949530.html",
+                "score": 0
+            },
+            {
+                "symbol": "ARGX",
+                "headline": "Argenx falls as Sj\u00f6gren\u2019s setback offsets celiac drug progress",
+                "publisher": "BioPharma Dive",
+                "link": "https://finance.yahoo.com/healthcare/articles/argenx-falls-sj-gren-setback-153800723.html",
+                "score": 0
+            },
+            {
+                "symbol": "IREN",
+                "headline": "IREN Drops 4% as SemiAnalysis Flags Its Canadian Data Centers; Core Scientific Pulls Back 2%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/iren-drops-4-semianalysis-flags-145719125.html",
+                "score": 0
+            },
+            {
+                "symbol": "RVMD",
+                "headline": "RBC Raises Price Target on Revolution Medicines to $259 From $251, Keeps Outperform Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-revolution-114404691.html",
+                "score": 0
+            },
+            {
+                "symbol": "HAE",
+                "headline": "Haemonetics shares jump as CSL sets 2027 rollout of plasma devices",
+                "publisher": "Proactive",
+                "link": "https://finance.yahoo.com/healthcare/articles/haemonetics-shares-jump-csl-sets-151800499.html",
                 "score": 0
             },
             {
@@ -66,45 +94,45 @@
                 "score": 0
             },
             {
-                "symbol": "LEVI",
-                "headline": "What Levi Strauss & Co. (LEVI) Said on Its Q3 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/levi-strauss-co-levi-said-000214895.html",
+                "symbol": "CIFR",
+                "headline": "Cipher Digital Tumbles 6% as Data Center Names Sell Off With Yields Higher; TeraWulf Falls 5%, Applied Digital Pulls Back",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-tumbles-6-data-144746894.html",
                 "score": 0
             },
             {
-                "symbol": "SPOT",
-                "headline": "Is Most-Watched Stock Spotify Technology (SPOT) Worth Betting on Now?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/most-watched-stock-spotify-technology-120003705.html",
+                "symbol": "LQDA",
+                "headline": "Liquidia (LQDA) Could Be 74% Undervalued As Court Ruling Clouds YUTREPIA Access",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/liquidia-lqda-could-74-undervalued-081047984.html",
                 "score": 0
             },
             {
-                "symbol": "CELH",
-                "headline": "Celsius Holdings Inc. (CELH) Registers a Bigger Fall Than the Market: Important Facts to Note",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-holdings-inc-celh-registers-204506177.html",
+                "symbol": "TLRY",
+                "headline": "Tilray Brands Sinks 4% as Record Revenue Masks Shrinking Cannabis Sales; Canopy Growth and Aurora Cannabis Ease",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/tilray-brands-sinks-4-record-140952017.html",
                 "score": 0
             },
             {
-                "symbol": "LMT",
-                "headline": "Lockheed Martin (LMT) Suffers a Larger Drop Than the General Market: Key Insights",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-suffers-larger-210005110.html",
+                "symbol": "QS",
+                "headline": "QuantumScape makes its move on data centers",
+                "publisher": "Axios",
+                "link": "https://finance.yahoo.com/technology/ai/articles/quantumscape-makes-move-data-centers-151357823.html",
                 "score": 0
             },
             {
-                "symbol": "P",
-                "headline": "Everpure Stock Rides 10-Day Winning Streak. What\u2019s Driving the Rally.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f319d95e-4e1d-312f-aefc-a835bc8322d4/everpure-stock-rides-10-day.html",
+                "symbol": "RDDT",
+                "headline": "Finally \u2018Building Something\u2019 At 29, They Fear Supporting Parents With Almost No Retirement Savings \u2014 \u2018How Do I Protect My Own Financial Future?\u2019",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/markets/articles/finally-building-something-29-fear-140007316.html",
                 "score": 0
             },
             {
-                "symbol": "PEP",
-                "headline": "Pepsi Earnings Are All About the Turnaround Plan",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f6027e2c-0e59-39b9-8f16-fee5700bcc98/pepsi-earnings-are-all-about.html",
+                "symbol": "MPT",
+                "headline": "6 High-Yield Stocks Where the Market May Be Warning of a Dividend Cut",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/6-high-yield-stocks-where-144524415.html",
                 "score": 0
             }
         ]
