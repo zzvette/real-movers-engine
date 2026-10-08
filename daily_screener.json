@@ -1,54 +1,110 @@
 {
-    "timestamp": "2026-10-08T16:07:00.688936+00:00",
+    "timestamp": "2026-10-08T19:33:04.199634+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "GFS",
-                "headline": "TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-taps-globalfoundries-2b-ai-150525238.html",
-                "score": 2
+                "symbol": "HAE",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-183001942.html",
+                "score": 3
             },
             {
-                "symbol": "PCRX",
-                "headline": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
-                "publisher": "BioPharma Dive",
-                "link": "https://finance.yahoo.com/healthcare/articles/viatris-boosts-pain-drug-portfolio-160000735.html",
-                "score": 2
-            },
-            {
-                "symbol": "PLTR",
-                "headline": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-                "publisher": "decrypt",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/securitize-brings-nvidia-apple-amazon-151049395.html",
+                "symbol": "CMG",
+                "headline": "\u201cAn Expensive Distraction\u201d: The $39+ Billion Mistake Starbucks Can Still Avoid",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/expensive-distraction-39-billion-mistake-191640445.html",
                 "score": 0
             },
             {
-                "symbol": "WOLF",
-                "headline": "Wolfspeed signs $1.5B DOD loan for semiconductor production, R&D",
-                "publisher": "Manufacturing Dive",
-                "link": "https://finance.yahoo.com/technology/articles/wolfspeed-signs-1-5b-dod-160305724.html",
+                "symbol": "ORCL",
+                "headline": "MSFT, ORCL, NVDA, QQQ In Focus: OpenAI\u2019s Annualized Revenue Reportedly Trails Prior Expectations By $20B",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/technology/ai/articles/msft-orcl-nvda-qqq-focus-190141481.html",
                 "score": 0
             },
             {
                 "symbol": "SBUX",
-                "headline": "Chipotle Stock Rallies On Starbucks Takeover Reports. Shared CEO May Boost Odds.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/fea75504-c155-3c51-a998-67fb266d8d4b/chipotle-stock-rallies-on.html",
+                "headline": "\u201cAn Expensive Distraction\u201d: The $39+ Billion Mistake Starbucks Can Still Avoid",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/expensive-distraction-39-billion-mistake-191640445.html",
                 "score": 0
             },
             {
-                "symbol": "PEP",
-                "headline": "What PepsiCo (PEP) Said on Its Q3 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-said-q3-earnings-150256278.html",
-                "score": 0
-            },
-            {
-                "symbol": "APLD",
-                "headline": "Cipher Digital Tumbles 6% as Data Center Names Sell Off With Yields Higher; TeraWulf Falls 5%, Applied Digital Pulls Back",
+                "symbol": "GME",
+                "headline": "GameStop Rises 4% but Stays Far Below Its Warrant Strike; Take-Two Interactive Gains 3%, Roblox Falls 3%",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-tumbles-6-data-144746894.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-rises-4-stays-far-170011831.html",
+                "score": 0
+            },
+            {
+                "symbol": "WOLF",
+                "headline": "Chipotle, Starbucks, Palantir, Intel, SpaceX, Wolfspeed, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b361f1db-c32b-3b1d-8f3f-7d6523484abf/chipotle%2C-starbucks%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOXL",
+                "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
+                "score": 0
+            },
+            {
+                "symbol": "^IXIC",
+                "headline": "Warren Buffett Warns Investors Are Headed for a Cold, Hard Reality Check. History Says He's Right.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warns-investors-headed-192000096.html",
+                "score": 0
+            },
+            {
+                "symbol": "AVGO",
+                "headline": "Oracle Stock Crashes After OpenAI's Revenue Gap. Who's Next?",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-crashes-openais-revenue-184120958.html",
+                "score": 0
+            },
+            {
+                "symbol": "PM",
+                "headline": "5 Dividend Stocks With Fortress-Like Coverage and Room for Things to Go Wrong",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-fortress-coverage-141529143.html",
+                "score": 0
+            },
+            {
+                "symbol": "BE",
+                "headline": "Stocks Sink After OpenAI Report Sours AI Trade",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/3e003936-6fe4-375c-99cf-748a773e4776/stocks-sink-after-openai.html",
+                "score": 0
+            },
+            {
+                "symbol": "HUT",
+                "headline": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: CAVA Group, Constellation Brands, Goldman Sachs Group, Hub Spot, Hut 8, Paladin Technologies, NXP Semiconductor, Spotify Technology, Tyler Technologies, and More",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-115432287.html",
+                "score": 0
+            },
+            {
+                "symbol": "JMKE",
+                "headline": "Jersey Mike\u2019s Subs Inc. to Announce Fiscal Third Quarter 2026 Financial Results and Business Updates on October 28, 2026",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-subs-inc-announce-130000158.html",
+                "score": 0
+            },
+            {
+                "symbol": "EQPT",
+                "headline": "EquipmentShare Breaks Ground on Headquarters Expansion in Columbia, Missouri",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/small-business/articles/equipmentshare-breaks-ground-headquarters-expansion-162100526.html",
+                "score": 0
+            },
+            {
+                "symbol": "PLTR",
+                "headline": "Palantir Looks Like a Consulting Company. Its Numbers Tell a Different Story.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-looks-consulting-company-numbers-173500199.html",
                 "score": 0
             },
             {
@@ -59,80 +115,24 @@
                 "score": 0
             },
             {
+                "symbol": "QQQ",
+                "headline": "The Trade Desk Is Down 68% This Year: Is TTD Stock Dead Money or Due for a Bounce?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-down-68-ttd-191242712.html",
+                "score": 0
+            },
+            {
                 "symbol": "ARGX",
-                "headline": "Argenx falls as Sj\u00f6gren\u2019s setback offsets celiac drug progress",
-                "publisher": "BioPharma Dive",
-                "link": "https://finance.yahoo.com/healthcare/articles/argenx-falls-sj-gren-setback-153800723.html",
+                "headline": "Stock Market Today: Nasdaq Slumps Amid Tech Rout; This Medical Name Pops (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f5f905f3-66e0-3046-82a7-5848434b422a/stock-market-today%3A-nasdaq.html",
                 "score": 0
             },
             {
-                "symbol": "IREN",
-                "headline": "IREN Drops 4% as SemiAnalysis Flags Its Canadian Data Centers; Core Scientific Pulls Back 2%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/iren-drops-4-semianalysis-flags-145719125.html",
-                "score": 0
-            },
-            {
-                "symbol": "RVMD",
-                "headline": "RBC Raises Price Target on Revolution Medicines to $259 From $251, Keeps Outperform Rating",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-revolution-114404691.html",
-                "score": 0
-            },
-            {
-                "symbol": "HAE",
-                "headline": "Haemonetics shares jump as CSL sets 2027 rollout of plasma devices",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/healthcare/articles/haemonetics-shares-jump-csl-sets-151800499.html",
-                "score": 0
-            },
-            {
-                "symbol": "BSP",
-                "headline": "Endeavor Catalyst Closes Oversubscribed $320 Million Fund V as Europe Becomes Its Fastest-Growing Market",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/small-business/articles/endeavor-catalyst-closes-oversubscribed-320-133000998.html",
-                "score": 0
-            },
-            {
-                "symbol": "CIFR",
-                "headline": "Cipher Digital Tumbles 6% as Data Center Names Sell Off With Yields Higher; TeraWulf Falls 5%, Applied Digital Pulls Back",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-tumbles-6-data-144746894.html",
-                "score": 0
-            },
-            {
-                "symbol": "LQDA",
-                "headline": "Liquidia (LQDA) Could Be 74% Undervalued As Court Ruling Clouds YUTREPIA Access",
+                "symbol": "EOSE",
+                "headline": "Microvast Holdings And 2 Battery Stocks To Watch",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/liquidia-lqda-could-74-undervalued-081047984.html",
-                "score": 0
-            },
-            {
-                "symbol": "TLRY",
-                "headline": "Tilray Brands Sinks 4% as Record Revenue Masks Shrinking Cannabis Sales; Canopy Growth and Aurora Cannabis Ease",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tilray-brands-sinks-4-record-140952017.html",
-                "score": 0
-            },
-            {
-                "symbol": "QS",
-                "headline": "QuantumScape makes its move on data centers",
-                "publisher": "Axios",
-                "link": "https://finance.yahoo.com/technology/ai/articles/quantumscape-makes-move-data-centers-151357823.html",
-                "score": 0
-            },
-            {
-                "symbol": "RDDT",
-                "headline": "Finally \u2018Building Something\u2019 At 29, They Fear Supporting Parents With Almost No Retirement Savings \u2014 \u2018How Do I Protect My Own Financial Future?\u2019",
-                "publisher": "Benzinga",
-                "link": "https://finance.yahoo.com/markets/articles/finally-building-something-29-fear-140007316.html",
-                "score": 0
-            },
-            {
-                "symbol": "MPT",
-                "headline": "6 High-Yield Stocks Where the Market May Be Warning of a Dividend Cut",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/6-high-yield-stocks-where-144524415.html",
+                "link": "https://finance.yahoo.com/energy/articles/microvast-holdings-2-battery-stocks-042520931.html",
                 "score": 0
             }
         ]
