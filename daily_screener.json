@@ -1,82 +1,96 @@
 {
-    "timestamp": "2026-10-08T19:33:04.199634+00:00",
+    "timestamp": "2026-10-08T23:52:49.864855+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "HAE",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-183001942.html",
+                "symbol": "HUM",
+                "headline": "Humana Stock Surges After Key Medicare Advantage Plan Gets Higher Rating",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/92f1dda2-f4d0-3dbe-9177-facd54169644/humana-stock-surges-after-key.html",
                 "score": 3
             },
             {
-                "symbol": "CMG",
-                "headline": "\u201cAn Expensive Distraction\u201d: The $39+ Billion Mistake Starbucks Can Still Avoid",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/expensive-distraction-39-billion-mistake-191640445.html",
-                "score": 0
+                "symbol": "QNME",
+                "headline": "Quanome\u2019s XDT Secures First Enterprise Customer Agreement for Dedicated AI Inference Services",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/quanome-xdt-secures-first-enterprise-184000097.html",
+                "score": 2
             },
             {
                 "symbol": "ORCL",
-                "headline": "MSFT, ORCL, NVDA, QQQ In Focus: OpenAI\u2019s Annualized Revenue Reportedly Trails Prior Expectations By $20B",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/technology/ai/articles/msft-orcl-nvda-qqq-focus-190141481.html",
+                "headline": "Why Oracle (ORCL) Shares Are Trading Lower Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-orcl-shares-trading-234409986.html",
+                "score": 0
+            },
+            {
+                "symbol": "CMG",
+                "headline": "3 reasons why Starbucks buying Chipotle would make zero sense",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/3-reasons-why-starbucks-buying-chipotle-would-make-zero-sense-173151883.html",
                 "score": 0
             },
             {
                 "symbol": "SBUX",
-                "headline": "\u201cAn Expensive Distraction\u201d: The $39+ Billion Mistake Starbucks Can Still Avoid",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/expensive-distraction-39-billion-mistake-191640445.html",
+                "headline": "3 reasons why Starbucks buying Chipotle would make zero sense",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/3-reasons-why-starbucks-buying-chipotle-would-make-zero-sense-173151883.html",
+                "score": 0
+            },
+            {
+                "symbol": "VZ",
+                "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html",
+                "score": 0
+            },
+            {
+                "symbol": "T",
+                "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html",
                 "score": 0
             },
             {
                 "symbol": "GME",
-                "headline": "GameStop Rises 4% but Stays Far Below Its Warrant Strike; Take-Two Interactive Gains 3%, Roblox Falls 3%",
+                "headline": "GameStop makes surprising PS5 Pro pricing move before GTA 6 launch",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/media-advertising/articles/gamestop-makes-surprising-ps5-pro-233700821.html",
+                "score": 0
+            },
+            {
+                "symbol": "TMUS",
+                "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html",
+                "score": 0
+            },
+            {
+                "symbol": "SECZ",
+                "headline": "Securitize Soars 12% on Onchain US Stocks Launch: \u201cMore Than a Price on a Wrapper\u201d",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/securitize-soars-12-onchain-us-184551157.html",
+                "score": 0
+            },
+            {
+                "symbol": "AAOI",
+                "headline": "Optics Stocks Tumble as Profit Taking Cuts Into Big Yearly Gains: Applied Optoelectronics Drops 9%, Coherent Falls 5%, Lumentum Slides 4%",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-rises-4-stays-far-170011831.html",
+                "link": "https://finance.yahoo.com/news/optics-stocks-tumble-profit-taking-160031296.html",
                 "score": 0
             },
             {
-                "symbol": "WOLF",
-                "headline": "Chipotle, Starbucks, Palantir, Intel, SpaceX, Wolfspeed, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/b361f1db-c32b-3b1d-8f3f-7d6523484abf/chipotle%2C-starbucks%2C.html",
+                "symbol": "SAIQ",
+                "headline": "WISeSat.Space and FOSSA Systems Confirm October 2026 Satellite Launch, Advancing the QSOC Constellation Roadmap",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/wisesat-space-fossa-systems-confirm-123000553.html",
                 "score": 0
             },
             {
-                "symbol": "SOXL",
-                "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-                "score": 0
-            },
-            {
-                "symbol": "^IXIC",
-                "headline": "Warren Buffett Warns Investors Are Headed for a Cold, Hard Reality Check. History Says He's Right.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warns-investors-headed-192000096.html",
-                "score": 0
-            },
-            {
-                "symbol": "AVGO",
-                "headline": "Oracle Stock Crashes After OpenAI's Revenue Gap. Who's Next?",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-crashes-openais-revenue-184120958.html",
-                "score": 0
-            },
-            {
-                "symbol": "PM",
-                "headline": "5 Dividend Stocks With Fortress-Like Coverage and Room for Things to Go Wrong",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-fortress-coverage-141529143.html",
-                "score": 0
-            },
-            {
-                "symbol": "BE",
-                "headline": "Stocks Sink After OpenAI Report Sours AI Trade",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/3e003936-6fe4-375c-99cf-748a773e4776/stocks-sink-after-openai.html",
+                "symbol": "HAE",
+                "headline": "Haemonetics (HAE) Shares Skyrocket, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/haemonetics-hae-shares-skyrocket-know-202409663.html",
                 "score": 0
             },
             {
@@ -87,52 +101,38 @@
                 "score": 0
             },
             {
-                "symbol": "JMKE",
-                "headline": "Jersey Mike\u2019s Subs Inc. to Announce Fiscal Third Quarter 2026 Financial Results and Business Updates on October 28, 2026",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-subs-inc-announce-130000158.html",
-                "score": 0
-            },
-            {
-                "symbol": "EQPT",
-                "headline": "EquipmentShare Breaks Ground on Headquarters Expansion in Columbia, Missouri",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/small-business/articles/equipmentshare-breaks-ground-headquarters-expansion-162100526.html",
-                "score": 0
-            },
-            {
-                "symbol": "PLTR",
-                "headline": "Palantir Looks Like a Consulting Company. Its Numbers Tell a Different Story.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-looks-consulting-company-numbers-173500199.html",
-                "score": 0
-            },
-            {
-                "symbol": "MANE",
-                "headline": "Baldness Drug Stocks like Veradermics (MANE) and Absci (ABSI) Are Chasing the Same Wall Street Magic as Ozempic",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/baldness-drug-stocks-veradermics-mane-002949530.html",
-                "score": 0
-            },
-            {
-                "symbol": "QQQ",
-                "headline": "The Trade Desk Is Down 68% This Year: Is TTD Stock Dead Money or Due for a Bounce?",
+                "symbol": "PM",
+                "headline": "5 Dividend Stocks With Fortress-Like Coverage and Room for Things to Go Wrong",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-down-68-ttd-191242712.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-fortress-coverage-141529143.html",
                 "score": 0
             },
             {
-                "symbol": "ARGX",
-                "headline": "Stock Market Today: Nasdaq Slumps Amid Tech Rout; This Medical Name Pops (Live Coverage)",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f5f905f3-66e0-3046-82a7-5848434b422a/stock-market-today%3A-nasdaq.html",
+                "symbol": "SOXL",
+                "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
                 "score": 0
             },
             {
-                "symbol": "EOSE",
-                "headline": "Microvast Holdings And 2 Battery Stocks To Watch",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/microvast-holdings-2-battery-stocks-042520931.html",
+                "symbol": "COHR",
+                "headline": "Stocks Sink After OpenAI Report Sours AI Trade",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/3e003936-6fe4-375c-99cf-748a773e4776/stocks-sink-after-openai.html",
+                "score": 0
+            },
+            {
+                "symbol": "ALHC",
+                "headline": "Humana soars, Alignment Healthcare sinks on Medicare rating changes",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/healthcare/articles/humana-soars-alignment-healthcare-sinks-211245601.html",
+                "score": 0
+            },
+            {
+                "symbol": "PKE",
+                "headline": "Park Aerospace Fiscal Q2 Earnings, Revenue Rise",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/park-aerospace-fiscal-q2-earnings-202010398.html",
                 "score": 0
             }
         ]
