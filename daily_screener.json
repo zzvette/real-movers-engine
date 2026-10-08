@@ -1,26 +1,12 @@
 {
-    "timestamp": "2026-10-08T00:02:12.154357+00:00",
+    "timestamp": "2026-10-08T04:45:10.629695+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "WOLF",
-                "headline": "Wolfspeed Stock Soars on Financing Deal with Pentagon",
+                "symbol": "HESM",
+                "headline": "Hess Midstream Stock Plunges, but the Chevron Deal Has a Silver Lining",
                 "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/79a1aabe-0155-3738-8d44-398614c39adb/wolfspeed-stock-soars-on.html",
-                "score": 4
-            },
-            {
-                "symbol": "SMCI",
-                "headline": "Hewlett Packard Enterprise Just Surged 40% in a Month: Take Profits, or Buy More?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-just-surged-185745629.html",
-                "score": 3
-            },
-            {
-                "symbol": "CPHI",
-                "headline": "China Pharma Holdings, Inc. Announces Closing of $5.0 Million Registered Direct Offering",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/china-pharma-holdings-inc-announces-224900003.html",
+                "link": "https://finance.yahoo.com/m/3f905906-1ad1-3b8b-90e8-759f3ac0436b/hess-midstream-stock-plunges%2C.html",
                 "score": 2
             },
             {
@@ -31,31 +17,45 @@
                 "score": 2
             },
             {
-                "symbol": "HESM",
-                "headline": "Hess Midstream Stock Plunges, but the Chevron Deal Has a Silver Lining",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/3f905906-1ad1-3b8b-90e8-759f3ac0436b/hess-midstream-stock-plunges%2C.html",
-                "score": 2
-            },
-            {
                 "symbol": "APLD",
-                "headline": "Applied Digital\u2019s Earnings Show Its Data Center Bet Is Starting to Pay Off",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/a3e81046-9aa9-3e5a-8ba7-35e55a7566e0/applied-digital%E2%80%99s-earnings.html",
+                "headline": "Applied Digital Q1 Earnings Call Highlights",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-q1-earnings-call-000214656.html",
                 "score": 0
             },
             {
                 "symbol": "BULL",
-                "headline": "Webull Stock Falls 20% Over China Ties: Who Really Controls the App?",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/webull-stock-falls-20-over-230000737.html",
+                "headline": "Robinhood CEO, Public Trading App Move To Poach Webull Customers As China Concerns Hammer BULL Stock",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-ceo-public-trading-app-041658411.html",
                 "score": 0
             },
             {
                 "symbol": "CAT",
-                "headline": "3 Electric Vehicle Stocks To Watch In October 2026",
+                "headline": "Top EV Stocks For October 2026",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-electric-vehicle-stocks-watch-221608360.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-ev-stocks-october-2026-002001378.html",
+                "score": 0
+            },
+            {
+                "symbol": "SMCI",
+                "headline": "Elite AI Chip Stocks To Own In October 2026",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/technology/ai/articles/elite-ai-chip-stocks-own-011644238.html",
+                "score": 0
+            },
+            {
+                "symbol": "MU",
+                "headline": "Veteran analyst aggressively resets Micron stock target on 3-5 year run",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-aggressively-resets-micron-040300212.html",
+                "score": 0
+            },
+            {
+                "symbol": "WOLF",
+                "headline": "Why Is WOLF Stock Surging Over 18% Overnight?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-wolf-stock-surging-over-024145940.html",
                 "score": 0
             },
             {
@@ -67,30 +67,9 @@
             },
             {
                 "symbol": "LEVI",
-                "headline": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/b41323eb-7b16-34b6-b35a-da408c3f1562/levi-strauss-uses-tariff.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "Dow Jones Futures: Stocks Pare Losses As Yields Back Off; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/c861c57f-11ed-33ef-ad7c-615f55181128/dow-jones-futures%3A-stocks.html",
-                "score": 0
-            },
-            {
-                "symbol": "VEEV",
-                "headline": "Veeva's DQS Scales Data Automation Across 1,000+ Clinical Studies",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/healthcare/articles/veevas-dqs-scales-data-automation-125200437.html",
-                "score": 0
-            },
-            {
-                "symbol": "PEP",
-                "headline": "Pepsi Earnings Are All About the Turnaround Plan",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f6027e2c-0e59-39b9-8f16-fee5700bcc98/pepsi-earnings-are-all-about.html",
+                "headline": "What Levi Strauss & Co. (LEVI) Said on Its Q3 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/levi-strauss-co-levi-said-000214895.html",
                 "score": 0
             },
             {
@@ -101,31 +80,31 @@
                 "score": 0
             },
             {
-                "symbol": "VRT",
-                "headline": "Why Vertiv (VRT) Stock Is Down Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-vrt-stock-down-224047908.html",
+                "symbol": "CELH",
+                "headline": "Celsius Holdings Inc. (CELH) Registers a Bigger Fall Than the Market: Important Facts to Note",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-holdings-inc-celh-registers-204506177.html",
                 "score": 0
             },
             {
-                "symbol": "^TNX",
-                "headline": "Bitcoin falls below $83,000, dragging down Strategy, Coinbase, and Robinhood stocks",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/bitcoin-falls-below-83000-dragging-down-strategy-coinbase-and-robinhood-stocks-144942149.html",
+                "symbol": "LMT",
+                "headline": "Lockheed Martin (LMT) Suffers a Larger Drop Than the General Market: Key Insights",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-suffers-larger-210005110.html",
                 "score": 0
             },
             {
-                "symbol": "BOIL",
-                "headline": "This Trade On Natural Gas Bets On A Mild Winter",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/a5ec30de-999f-3683-b6bd-2db03f05cfa3/this-trade-on-natural-gas.html",
+                "symbol": "P",
+                "headline": "Everpure Stock Rides 10-Day Winning Streak. What\u2019s Driving the Rally.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f319d95e-4e1d-312f-aefc-a835bc8322d4/everpure-stock-rides-10-day.html",
                 "score": 0
             },
             {
-                "symbol": "DELL",
-                "headline": "Can Dell (DELL) Turn Its New AI Data Platform Into a Durable Competitive Advantage?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-turn-ai-data-231936828.html",
+                "symbol": "PEP",
+                "headline": "Pepsi Earnings Are All About the Turnaround Plan",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f6027e2c-0e59-39b9-8f16-fee5700bcc98/pepsi-earnings-are-all-about.html",
                 "score": 0
             }
         ]
