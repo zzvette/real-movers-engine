@@ -1,60 +1,39 @@
 {
-    "timestamp": "2026-10-09T19:05:33.197761+00:00",
+    "timestamp": "2026-10-09T23:10:37.448960+00:00",
     "catalysts": [
         {
-            "symbol": "MRNA",
-            "headline": "Novavax Soars 16%, Moderna Surges 11%, Merck Climbs 3% as Biotech Rallies",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/novavax-soars-16-moderna-surges-175942844.html",
-            "score": 6
+            "symbol": "CCI",
+            "headline": "SBA Communications (SBAC) Jumped, But What Is Driving Attention Now?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sba-communications-sbac-jumped-driving-221233683.html",
+            "score": 3
         },
         {
-            "symbol": "NVAX",
-            "headline": "Novavax Soars 16%, Moderna Surges 11%, Merck Climbs 3% as Biotech Rallies",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/novavax-soars-16-moderna-surges-175942844.html",
-            "score": 6
-        },
-        {
-            "symbol": "ASTS",
-            "headline": "ATEX, NN, GOGO Stocks Gain: SpaceX\u2019s $8B Spectrum Deal Could Boost Low-Band Spectrum Value, Says Roth Capital",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/atex-nn-gogo-stocks-gain-181048549.html",
+            "symbol": "PLTR",
+            "headline": "Snowflake vs. MongoDB: Does Faster Growth Justify Twice the Cash-Flow Price?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-vs-mongodb-does-faster-211850339.html",
             "score": 2
-        },
-        {
-            "symbol": "SOUN",
-            "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Headwinds",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-burning-stock-long-113910415.html",
-            "score": 2
-        },
-        {
-            "symbol": "VZ",
-            "headline": "Musk: Starlink Mobile V2 Brings \u201c100 Times the Bandwidth,\u201d Raising the Stakes for Verizon and AT&T",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/technology/articles/musk-starlink-mobile-v2-brings-184256293.html",
-            "score": 0
-        },
-        {
-            "symbol": "T",
-            "headline": "Musk: Starlink Mobile V2 Brings \u201c100 Times the Bandwidth,\u201d Raising the Stakes for Verizon and AT&T",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/technology/articles/musk-starlink-mobile-v2-brings-184256293.html",
-            "score": 0
-        },
-        {
-            "symbol": "TMUS",
-            "headline": "T-Mobile\u2019s partnership with Starlink hits unexpected turbulence",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/articles/t-mobile-partnership-starlink-hits-181700176.html",
-            "score": 0
         },
         {
             "symbol": "SNOW",
-            "headline": "How Much Growth Are You Paying For In Palantir Stock?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/much-growth-paying-palantir-stock-173002464.html",
+            "headline": "Snowflake vs. MongoDB: Does Faster Growth Justify Twice the Cash-Flow Price?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-vs-mongodb-does-faster-211850339.html",
+            "score": 2
+        },
+        {
+            "symbol": "TMUS",
+            "headline": "Stock Market Today, Oct. 9: Verizon Slides on SpaceX Spectrum Deal and Scotiabank Target Cut",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-9-215838083.html",
+            "score": 2
+        },
+        {
+            "symbol": "MRNA",
+            "headline": "MRNA Stock Sets New 52-Week High As Nasdaq-100 Reentry Meets NIH Cancer-Vaccine Push",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-sets-52-week-202308406.html",
             "score": 0
         },
         {
@@ -65,59 +44,87 @@
             "score": 0
         },
         {
+            "symbol": "HIMS",
+            "headline": "1 Healthcare Stock Worth Your Attention and 2 We Turn Down",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-worth-attention-121110340.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVAX",
+            "headline": "Moderna stock hits 4-year high on planned national cancer vaccine effort",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/moderna-stock-hits-4-year-high-on-planned-national-cancer-vaccine-effort-201351554.html",
+            "score": 0
+        },
+        {
             "symbol": "FSLY",
-            "headline": "Fastly Soars 17% on Oppenheimer Upgrade Citing \u201cGrowing Contract Values\u201d and Agentic AI Opportunity",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-soars-17-oppenheimer-upgrade-172552847.html",
+            "headline": "Why Is Fastly (FSLY) Stock Rocketing Higher Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-fastly-fsly-stock-rocketing-215510278.html",
             "score": 0
         },
         {
-            "symbol": "JOBY",
-            "headline": "Joby Aviation Shares Sink 8% as Stock Hits 52-Week Low",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-shares-sink-8-183247033.html",
+            "symbol": "ZS",
+            "headline": "Zscaler Stock Is Priced for Success. Can Its AI Growth Deliver?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-stock-priced-success-ai-222857893.html",
             "score": 0
         },
         {
-            "symbol": "CCI",
-            "headline": "These Stocks Are the Hidden Winners of SpaceX\u2019s Spectrum Binge",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/c0c42453-b3c6-3be8-98d2-1c51640165d6/these-stocks-are-the-hidden.html",
+            "symbol": "PDSB",
+            "headline": "PDS Biotech to Host Key Opinion Leader Event on PDS0301 for the Treatment of Advanced Colorectal Cancer with Liver Metastases",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/pds-biotech-host-key-opinion-120000134.html",
             "score": 0
         },
         {
-            "symbol": "IBRX",
-            "headline": "ImmunityBio to Participate in the Piper Sandler Virtual Oncology Symposium",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-participate-piper-sandler-virtual-123000622.html",
+            "symbol": "AMZN",
+            "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-alphabet-ai-cloud-212027785.html",
             "score": 0
         },
         {
             "symbol": "QSI",
-            "headline": "Quantum-Si Detects 19 Amino Acids in Proteus Program",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143019571.html",
+            "score": 0
+        },
+        {
+            "symbol": "NET",
+            "headline": "Tech Edge Will be Onsite at Money20/20 2026 in Las Vegas",
+            "publisher": "Exec Edge",
+            "link": "https://finance.yahoo.com/technology/ai/articles/tech-edge-onsite-money20-20-222106872.html",
+            "score": 0
+        },
+        {
+            "symbol": "BABA",
+            "headline": "Update: US Equity Indexes Rise as Mega-Cap Technology Advances Amid Broad-Based Market Rally",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/quantum-si-detects-19-amino-210517570.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-mega-203657948.html",
             "score": 0
         },
         {
-            "symbol": "CLF",
-            "headline": "Blue Origin, PPG and more invest in manufacturing facilities",
-            "publisher": "Manufacturing Dive",
-            "link": "https://finance.yahoo.com/small-business/articles/blue-origin-ppg-more-invest-154700602.html",
+            "symbol": "CRWD",
+            "headline": "Tech Edge Will be Onsite at Money20/20 2026 in Las Vegas",
+            "publisher": "Exec Edge",
+            "link": "https://finance.yahoo.com/technology/ai/articles/tech-edge-onsite-money20-20-222106872.html",
             "score": 0
         },
         {
-            "symbol": "MIR",
-            "headline": "Does Mirion Technologies (MIR) Have the Potential to Rally 47.97% as Wall Street Analysts Expect?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/does-mirion-technologies-mir-potential-125502724.html",
-            "score": 0
-        },
-        {
-            "symbol": "HUM",
-            "headline": "Sector Update: Healthcare Stocks Gain Friday Afternoon",
+            "symbol": "DDOG",
+            "headline": "Datadog Insider Sold Shares Worth $14,750,067, According to a Recent SEC Filing",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-gain-friday-175025525.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-insider-sold-shares-worth-210138391.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNAP",
+            "headline": "Is Snap (SNAP) Fairly Valued As Its November 4 Results Call Nears?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-fairly-valued-november-201602251.html",
             "score": 0
         }
     ]
