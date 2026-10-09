@@ -1,137 +1,130 @@
 {
-    "timestamp": "2026-10-09T04:48:49.247767+00:00",
+    "timestamp": "2026-10-09T15:48:14.202140+00:00",
     "catalysts": [
         {
-            "symbol": "HUM",
-            "headline": "Humana Stock Surges After Key Medicare Advantage Plan Gets Higher Rating",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/92f1dda2-f4d0-3dbe-9177-facd54169644/humana-stock-surges-after-key.html",
-            "score": 3
-        },
-        {
-            "symbol": "SPCX",
-            "headline": "Morning Bid: Feeding the AI beast",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-feeding-ai-beast-043551628.html",
+            "symbol": "T",
+            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
             "score": 0
         },
         {
             "symbol": "VZ",
-            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
+            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
             "score": 0
         },
         {
-            "symbol": "T",
-            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
+            "symbol": "MRNA",
+            "headline": "Market Chatter: Moderna, Other Vaccine Developer Stocks Rise as NIH Plans to Expedite Cancer Vaccines",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-moderna-other-vaccine-145750429.html",
             "score": 0
         },
         {
-            "symbol": "ORCL",
-            "headline": "Morning Bid: Feeding the AI beast",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-feeding-ai-beast-043551628.html",
-            "score": 0
-        },
-        {
-            "symbol": "CMG",
-            "headline": "Why Starbucks (SBUX) Stock Is Down Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-starbucks-sbux-stock-down-000809060.html",
+            "symbol": "JOBY",
+            "headline": "What Has The Market Missed In Joby Stock's Drop?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/market-missed-joby-stocks-drop-121911190.html",
             "score": 0
         },
         {
             "symbol": "TMUS",
-            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
+            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
             "score": 0
         },
         {
             "symbol": "ASTS",
-            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+            "headline": "SpaceX Buys Wireless Spectrum For Starlink; Verizon, AT&T, T-Mobile Tumble",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
+            "link": "https://finance.yahoo.com/m/76635ebb-2ccb-3779-8edf-a4a24f90cb4e/spacex-buys-wireless-spectrum.html",
             "score": 0
         },
         {
-            "symbol": "AAOI",
-            "headline": "LITE, COHR, AAOI, POET Rise Overnight After Lumentum CEO Says Optical Parts Are \u2018Completely Sold Out\u2019 Through Early 2029",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/lite-cohr-aaoi-poet-rise-030824125.html",
+            "symbol": "DAL",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as oil prices fall, tech recovers",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
             "score": 0
         },
         {
-            "symbol": "SBUX",
-            "headline": "Starbucks (SBUX) Stock Stays Reasonable As Shares Climb 20%",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-stock-stays-reasonable-021436177.html",
-            "score": 0
-        },
-        {
-            "symbol": "PLTR",
-            "headline": "BA, SPCX, RKLB, RTX, PLTR Stock In Focus: Why Barclays Is Overweight On Aerospace And Defense Stocks?",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ba-spcx-rklb-rtx-pltr-001551479.html",
-            "score": 0
-        },
-        {
-            "symbol": "SAIQ",
-            "headline": "WISeSat.Space and FOSSA Systems Confirm October 2026 Satellite Launch, Advancing the QSOC Constellation Roadmap",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/articles/wisesat-space-fossa-systems-confirm-123000553.html",
-            "score": 0
-        },
-        {
-            "symbol": "NBIS",
-            "headline": "Nebius Group vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-vs-soundhound-ai-013338237.html",
-            "score": 0
-        },
-        {
-            "symbol": "VEEA",
-            "headline": "Veea Regains Full Compliance with Nasdaq Continued Listing Requirements",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/veea-regains-full-compliance-nasdaq-212200257.html",
-            "score": 0
-        },
-        {
-            "symbol": "HUT",
-            "headline": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: CAVA Group, Constellation Brands, Goldman Sachs Group, Hub Spot, Hut 8, Paladin Technologies, NXP Semiconductor, Spotify Technology, Tyler Technologies, and More",
+            "symbol": "HUM",
+            "headline": "At 71, She Chose Humana for the Part B Giveback in Her Social Security Check. For 2027, Humana Will Cut or Eliminate It for 62% of Those Members",
             "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-115432287.html",
+            "link": "https://finance.yahoo.com/healthcare/articles/71-she-chose-humana-part-153309745.html",
             "score": 0
         },
         {
-            "symbol": "BE",
-            "headline": "Can Bloom Energy Stay Profitable as It Doubles in Size?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stay-profitable-doubles-030202913.html",
+            "symbol": "NVAX",
+            "headline": "Market Chatter: Moderna, Other Vaccine Developer Stocks Rise as NIH Plans to Expedite Cancer Vaccines",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-moderna-other-vaccine-145750429.html",
+            "score": 0
+        },
+        {
+            "symbol": "TSLA",
+            "headline": "Tesla Rises 3% as Europe Rebrand Drops Full Self-Driving Name; Rivian Eases, Lucid Ticks Up",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-rises-3-europe-rebrand-145544665.html",
+            "score": 0
+        },
+        {
+            "symbol": "FSLY",
+            "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
+            "publisher": "The Fly",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-humana-upgraded-wall-134518623.html",
+            "score": 0
+        },
+        {
+            "symbol": "AAPL",
+            "headline": "A Nobel Economist Compared This Fund to the Invention of the Wheel. $100 a Month Could Top $544,000",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nobel-economist-compared-fund-invention-154455070.html",
+            "score": 0
+        },
+        {
+            "symbol": "QSI",
+            "headline": "Quantum-Si Detects 19 Amino Acids in Proteus Program",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/quantum-si-detects-19-amino-210517570.html",
+            "score": 0
+        },
+        {
+            "symbol": "CCI",
+            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
             "score": 0
         },
         {
             "symbol": "CLOV",
-            "headline": "Clover Health Medicare Advantage PPO Plans Earn 5 Star Rating for 2027",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/clover-health-medicare-advantage-ppo-224500463.html",
+            "headline": "Is Clover Health Stock Too Dependent On One Group Of Members?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/clover-health-stock-too-dependent-131359343.html",
             "score": 0
         },
         {
-            "symbol": "SECZ",
-            "headline": "Securitize Soars 12% on Onchain US Stocks Launch: \u201cMore Than a Price on a Wrapper\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/securitize-soars-12-onchain-us-184551157.html",
+            "symbol": "TEVA",
+            "headline": "J&J Stock Ahead of Q3 Earnings: Should You Buy, Sell or Hold?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/healthcare/articles/j-j-stock-ahead-q3-135200531.html",
             "score": 0
         },
         {
-            "symbol": "SOXL",
-            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
+            "symbol": "GME",
+            "headline": "1 Profitable Stock to Target This Week and 2 We Ignore",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-131510470.html",
+            "score": 0
+        },
+        {
+            "symbol": "ORCL",
+            "headline": "Oracle Among AI Boom's Most Vulnerable as 4 Bubble Risks Converge, VC Paul Kedrosky Warns",
+            "publisher": "Benzinga Prediction Markets",
+            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-among-ai-booms-most-144113778.html",
             "score": 0
         }
     ]
