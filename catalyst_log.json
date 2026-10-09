@@ -1,88 +1,95 @@
 {
-    "timestamp": "2026-10-09T15:48:14.202140+00:00",
+    "timestamp": "2026-10-09T19:05:33.197761+00:00",
     "catalysts": [
         {
-            "symbol": "T",
-            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
-            "score": 0
+            "symbol": "MRNA",
+            "headline": "Novavax Soars 16%, Moderna Surges 11%, Merck Climbs 3% as Biotech Rallies",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/novavax-soars-16-moderna-surges-175942844.html",
+            "score": 6
+        },
+        {
+            "symbol": "NVAX",
+            "headline": "Novavax Soars 16%, Moderna Surges 11%, Merck Climbs 3% as Biotech Rallies",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/healthcare/articles/novavax-soars-16-moderna-surges-175942844.html",
+            "score": 6
+        },
+        {
+            "symbol": "ASTS",
+            "headline": "ATEX, NN, GOGO Stocks Gain: SpaceX\u2019s $8B Spectrum Deal Could Boost Low-Band Spectrum Value, Says Roth Capital",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/atex-nn-gogo-stocks-gain-181048549.html",
+            "score": 2
+        },
+        {
+            "symbol": "SOUN",
+            "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Headwinds",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-burning-stock-long-113910415.html",
+            "score": 2
         },
         {
             "symbol": "VZ",
-            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
+            "headline": "Musk: Starlink Mobile V2 Brings \u201c100 Times the Bandwidth,\u201d Raising the Stakes for Verizon and AT&T",
             "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
+            "link": "https://finance.yahoo.com/technology/articles/musk-starlink-mobile-v2-brings-184256293.html",
             "score": 0
         },
         {
-            "symbol": "MRNA",
-            "headline": "Market Chatter: Moderna, Other Vaccine Developer Stocks Rise as NIH Plans to Expedite Cancer Vaccines",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-moderna-other-vaccine-145750429.html",
-            "score": 0
-        },
-        {
-            "symbol": "JOBY",
-            "headline": "What Has The Market Missed In Joby Stock's Drop?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/market-missed-joby-stocks-drop-121911190.html",
+            "symbol": "T",
+            "headline": "Musk: Starlink Mobile V2 Brings \u201c100 Times the Bandwidth,\u201d Raising the Stakes for Verizon and AT&T",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/technology/articles/musk-starlink-mobile-v2-brings-184256293.html",
             "score": 0
         },
         {
             "symbol": "TMUS",
-            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
+            "headline": "T-Mobile\u2019s partnership with Starlink hits unexpected turbulence",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/articles/t-mobile-partnership-starlink-hits-181700176.html",
             "score": 0
         },
         {
-            "symbol": "ASTS",
-            "headline": "SpaceX Buys Wireless Spectrum For Starlink; Verizon, AT&T, T-Mobile Tumble",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/76635ebb-2ccb-3779-8edf-a4a24f90cb4e/spacex-buys-wireless-spectrum.html",
+            "symbol": "SNOW",
+            "headline": "How Much Growth Are You Paying For In Palantir Stock?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/much-growth-paying-palantir-stock-173002464.html",
             "score": 0
         },
         {
-            "symbol": "DAL",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as oil prices fall, tech recovers",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
-            "score": 0
-        },
-        {
-            "symbol": "HUM",
-            "headline": "At 71, She Chose Humana for the Part B Giveback in Her Social Security Check. For 2027, Humana Will Cut or Eliminate It for 62% of Those Members",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/71-she-chose-humana-part-153309745.html",
-            "score": 0
-        },
-        {
-            "symbol": "NVAX",
-            "headline": "Market Chatter: Moderna, Other Vaccine Developer Stocks Rise as NIH Plans to Expedite Cancer Vaccines",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-moderna-other-vaccine-145750429.html",
-            "score": 0
-        },
-        {
-            "symbol": "TSLA",
-            "headline": "Tesla Rises 3% as Europe Rebrand Drops Full Self-Driving Name; Rivian Eases, Lucid Ticks Up",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-rises-3-europe-rebrand-145544665.html",
+            "symbol": "WFF",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143019571.html",
             "score": 0
         },
         {
             "symbol": "FSLY",
-            "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
-            "publisher": "The Fly",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-humana-upgraded-wall-134518623.html",
+            "headline": "Fastly Soars 17% on Oppenheimer Upgrade Citing \u201cGrowing Contract Values\u201d and Agentic AI Opportunity",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-soars-17-oppenheimer-upgrade-172552847.html",
             "score": 0
         },
         {
-            "symbol": "AAPL",
-            "headline": "A Nobel Economist Compared This Fund to the Invention of the Wheel. $100 a Month Could Top $544,000",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nobel-economist-compared-fund-invention-154455070.html",
+            "symbol": "JOBY",
+            "headline": "Joby Aviation Shares Sink 8% as Stock Hits 52-Week Low",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-shares-sink-8-183247033.html",
+            "score": 0
+        },
+        {
+            "symbol": "CCI",
+            "headline": "These Stocks Are the Hidden Winners of SpaceX\u2019s Spectrum Binge",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/c0c42453-b3c6-3be8-98d2-1c51640165d6/these-stocks-are-the-hidden.html",
+            "score": 0
+        },
+        {
+            "symbol": "IBRX",
+            "headline": "ImmunityBio to Participate in the Piper Sandler Virtual Oncology Symposium",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-participate-piper-sandler-virtual-123000622.html",
             "score": 0
         },
         {
@@ -93,38 +100,24 @@
             "score": 0
         },
         {
-            "symbol": "CCI",
-            "headline": "Crown Castle Soars 13% as SpaceX\u2019s $8 Billion Spectrum Buy Keeps Tower Build Option \u201cVery Much Alive\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-soars-13-spacex-153427812.html",
+            "symbol": "CLF",
+            "headline": "Blue Origin, PPG and more invest in manufacturing facilities",
+            "publisher": "Manufacturing Dive",
+            "link": "https://finance.yahoo.com/small-business/articles/blue-origin-ppg-more-invest-154700602.html",
             "score": 0
         },
         {
-            "symbol": "CLOV",
-            "headline": "Is Clover Health Stock Too Dependent On One Group Of Members?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/clover-health-stock-too-dependent-131359343.html",
-            "score": 0
-        },
-        {
-            "symbol": "TEVA",
-            "headline": "J&J Stock Ahead of Q3 Earnings: Should You Buy, Sell or Hold?",
+            "symbol": "MIR",
+            "headline": "Does Mirion Technologies (MIR) Have the Potential to Rally 47.97% as Wall Street Analysts Expect?",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/healthcare/articles/j-j-stock-ahead-q3-135200531.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/does-mirion-technologies-mir-potential-125502724.html",
             "score": 0
         },
         {
-            "symbol": "GME",
-            "headline": "1 Profitable Stock to Target This Week and 2 We Ignore",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-131510470.html",
-            "score": 0
-        },
-        {
-            "symbol": "ORCL",
-            "headline": "Oracle Among AI Boom's Most Vulnerable as 4 Bubble Risks Converge, VC Paul Kedrosky Warns",
-            "publisher": "Benzinga Prediction Markets",
-            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-among-ai-booms-most-144113778.html",
+            "symbol": "HUM",
+            "headline": "Sector Update: Healthcare Stocks Gain Friday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-gain-friday-175025525.html",
             "score": 0
         }
     ]
