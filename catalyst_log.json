@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-09T00:09:23.209184+00:00",
+    "timestamp": "2026-10-09T04:48:49.247767+00:00",
     "catalysts": [
         {
             "symbol": "HUM",
@@ -9,73 +9,73 @@
             "score": 3
         },
         {
-            "symbol": "QNME",
-            "headline": "Quanome\u2019s XDT Secures First Enterprise Customer Agreement for Dedicated AI Inference Services",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/quanome-xdt-secures-first-enterprise-184000097.html",
-            "score": 2
-        },
-        {
-            "symbol": "ORCL",
-            "headline": "Why Oracle (ORCL) Shares Are Trading Lower Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-orcl-shares-trading-234409986.html",
-            "score": 0
-        },
-        {
-            "symbol": "CMG",
-            "headline": "3 reasons why Starbucks buying Chipotle would make zero sense",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/3-reasons-why-starbucks-buying-chipotle-would-make-zero-sense-173151883.html",
-            "score": 0
-        },
-        {
-            "symbol": "SBUX",
-            "headline": "3 reasons why Starbucks buying Chipotle would make zero sense",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/3-reasons-why-starbucks-buying-chipotle-would-make-zero-sense-173151883.html",
+            "symbol": "SPCX",
+            "headline": "Morning Bid: Feeding the AI beast",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-feeding-ai-beast-043551628.html",
             "score": 0
         },
         {
             "symbol": "VZ",
-            "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html",
+            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
             "score": 0
         },
         {
             "symbol": "T",
-            "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html",
+            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
             "score": 0
         },
         {
-            "symbol": "GME",
-            "headline": "GameStop makes surprising PS5 Pro pricing move before GTA 6 launch",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/media-advertising/articles/gamestop-makes-surprising-ps5-pro-233700821.html",
+            "symbol": "ORCL",
+            "headline": "Morning Bid: Feeding the AI beast",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-feeding-ai-beast-043551628.html",
+            "score": 0
+        },
+        {
+            "symbol": "CMG",
+            "headline": "Why Starbucks (SBUX) Stock Is Down Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-starbucks-sbux-stock-down-000809060.html",
             "score": 0
         },
         {
             "symbol": "TMUS",
-            "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html",
+            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
             "score": 0
         },
         {
-            "symbol": "SECZ",
-            "headline": "Securitize Soars 12% on Onchain US Stocks Launch: \u201cMore Than a Price on a Wrapper\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/securitize-soars-12-onchain-us-184551157.html",
+            "symbol": "ASTS",
+            "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html",
             "score": 0
         },
         {
             "symbol": "AAOI",
-            "headline": "Optics Stocks Tumble as Profit Taking Cuts Into Big Yearly Gains: Applied Optoelectronics Drops 9%, Coherent Falls 5%, Lumentum Slides 4%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/news/optics-stocks-tumble-profit-taking-160031296.html",
+            "headline": "LITE, COHR, AAOI, POET Rise Overnight After Lumentum CEO Says Optical Parts Are \u2018Completely Sold Out\u2019 Through Early 2029",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/lite-cohr-aaoi-poet-rise-030824125.html",
+            "score": 0
+        },
+        {
+            "symbol": "SBUX",
+            "headline": "Starbucks (SBUX) Stock Stays Reasonable As Shares Climb 20%",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-stock-stays-reasonable-021436177.html",
+            "score": 0
+        },
+        {
+            "symbol": "PLTR",
+            "headline": "BA, SPCX, RKLB, RTX, PLTR Stock In Focus: Why Barclays Is Overweight On Aerospace And Defense Stocks?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ba-spcx-rklb-rtx-pltr-001551479.html",
             "score": 0
         },
         {
@@ -86,10 +86,17 @@
             "score": 0
         },
         {
-            "symbol": "HAE",
-            "headline": "Haemonetics (HAE) Shares Skyrocket, What You Need To Know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/haemonetics-hae-shares-skyrocket-know-202409663.html",
+            "symbol": "NBIS",
+            "headline": "Nebius Group vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-vs-soundhound-ai-013338237.html",
+            "score": 0
+        },
+        {
+            "symbol": "VEEA",
+            "headline": "Veea Regains Full Compliance with Nasdaq Continued Listing Requirements",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/veea-regains-full-compliance-nasdaq-212200257.html",
             "score": 0
         },
         {
@@ -100,10 +107,24 @@
             "score": 0
         },
         {
-            "symbol": "PM",
-            "headline": "5 Dividend Stocks With Fortress-Like Coverage and Room for Things to Go Wrong",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-fortress-coverage-141529143.html",
+            "symbol": "BE",
+            "headline": "Can Bloom Energy Stay Profitable as It Doubles in Size?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stay-profitable-doubles-030202913.html",
+            "score": 0
+        },
+        {
+            "symbol": "CLOV",
+            "headline": "Clover Health Medicare Advantage PPO Plans Earn 5 Star Rating for 2027",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/clover-health-medicare-advantage-ppo-224500463.html",
+            "score": 0
+        },
+        {
+            "symbol": "SECZ",
+            "headline": "Securitize Soars 12% on Onchain US Stocks Launch: \u201cMore Than a Price on a Wrapper\u201d",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/securitize-soars-12-onchain-us-184551157.html",
             "score": 0
         },
         {
@@ -111,27 +132,6 @@
             "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
             "publisher": "Motley Fool",
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-            "score": 0
-        },
-        {
-            "symbol": "COHR",
-            "headline": "Stocks Sink After OpenAI Report Sours AI Trade",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/3e003936-6fe4-375c-99cf-748a773e4776/stocks-sink-after-openai.html",
-            "score": 0
-        },
-        {
-            "symbol": "ALHC",
-            "headline": "Humana soars, Alignment Healthcare sinks on Medicare rating changes",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/healthcare/articles/humana-soars-alignment-healthcare-sinks-211245601.html",
-            "score": 0
-        },
-        {
-            "symbol": "PKE",
-            "headline": "Park Aerospace Fiscal Q2 Earnings, Revenue Rise",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/park-aerospace-fiscal-q2-earnings-202010398.html",
             "score": 0
         }
     ]
