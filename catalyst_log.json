@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-09T23:10:37.448960+00:00",
+    "timestamp": "2026-10-09T23:50:37.168943+00:00",
     "catalysts": [
         {
             "symbol": "CCI",
@@ -20,13 +20,6 @@
             "headline": "Snowflake vs. MongoDB: Does Faster Growth Justify Twice the Cash-Flow Price?",
             "publisher": "Insider Monkey",
             "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-vs-mongodb-does-faster-211850339.html",
-            "score": 2
-        },
-        {
-            "symbol": "TMUS",
-            "headline": "Stock Market Today, Oct. 9: Verizon Slides on SpaceX Spectrum Deal and Scotiabank Target Cut",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-9-215838083.html",
             "score": 2
         },
         {
@@ -66,9 +59,16 @@
         },
         {
             "symbol": "ZS",
-            "headline": "Zscaler Stock Is Priced for Success. Can Its AI Growth Deliver?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-stock-priced-success-ai-222857893.html",
+            "headline": "Zscaler (ZS) Stock Trades Up, Here Is Why",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-stock-trades-why-230710499.html",
+            "score": 0
+        },
+        {
+            "symbol": "TMUS",
+            "headline": "Sirius XM (SIRI) Stock Is Up, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-know-232310277.html",
             "score": 0
         },
         {
@@ -108,9 +108,9 @@
         },
         {
             "symbol": "CRWD",
-            "headline": "Tech Edge Will be Onsite at Money20/20 2026 in Las Vegas",
-            "publisher": "Exec Edge",
-            "link": "https://finance.yahoo.com/technology/ai/articles/tech-edge-onsite-money20-20-222106872.html",
+            "headline": "Why CrowdStrike Holdings Stock Crushed it on Friday",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-holdings-stock-crushed-231618997.html",
             "score": 0
         },
         {
