@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-09T23:50:37.168943+00:00",
+    "timestamp": "2026-10-10T02:49:49.242470+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,31 +10,31 @@
                 "score": 3
             },
             {
-                "symbol": "PLTR",
-                "headline": "Snowflake vs. MongoDB: Does Faster Growth Justify Twice the Cash-Flow Price?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-vs-mongodb-does-faster-211850339.html",
-                "score": 2
+                "symbol": "TEVA",
+                "headline": "Teva, Already Up 26% This Year, Surges Again On First-Of-Its-Kind Approval",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/4a06c899-4a91-34af-b022-4cc83e3a303c/teva%2C-already-up-26%25-this.html",
+                "score": 3
             },
             {
                 "symbol": "SNOW",
-                "headline": "Snowflake vs. MongoDB: Does Faster Growth Justify Twice the Cash-Flow Price?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-vs-mongodb-does-faster-211850339.html",
+                "headline": "Can UiPath (PATH) Cash Flow Support Its Fair Value Question?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/uipath-path-cash-flow-support-010807115.html",
                 "score": 2
             },
             {
                 "symbol": "MRNA",
-                "headline": "MRNA Stock Sets New 52-Week High As Nasdaq-100 Reentry Meets NIH Cancer-Vaccine Push",
+                "headline": "BNTX, NVAX, MRNA Lead Vaccine Rally After Report Of An NIH Cancer-Vaccine Push",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-sets-52-week-202308406.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/bntx-nvax-mrna-lead-vaccine-000924071.html",
                 "score": 0
             },
             {
-                "symbol": "WFF",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143019571.html",
+                "symbol": "PLTR",
+                "headline": "Why Palantir Stock Powered to a More Than 5% Gain Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-powered-more-001632623.html",
                 "score": 0
             },
             {
@@ -46,9 +46,16 @@
             },
             {
                 "symbol": "NVAX",
-                "headline": "Moderna stock hits 4-year high on planned national cancer vaccine effort",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/moderna-stock-hits-4-year-high-on-planned-national-cancer-vaccine-effort-201351554.html",
+                "headline": "BNTX, NVAX, MRNA Lead Vaccine Rally After Report Of An NIH Cancer-Vaccine Push",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/bntx-nvax-mrna-lead-vaccine-000924071.html",
+                "score": 0
+            },
+            {
+                "symbol": "^GSPC",
+                "headline": "Procter & Gamble could face new cost problem",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-could-face-cost-013700526.html",
                 "score": 0
             },
             {
@@ -59,6 +66,13 @@
                 "score": 0
             },
             {
+                "symbol": "^DJI",
+                "headline": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season \u2014 MSFT, NFLX, SPCX, ASTS In Focus",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-dow-225311213.html",
+                "score": 0
+            },
+            {
                 "symbol": "ZS",
                 "headline": "Zscaler (ZS) Stock Trades Up, Here Is Why",
                 "publisher": "StockStory",
@@ -66,24 +80,10 @@
                 "score": 0
             },
             {
-                "symbol": "TMUS",
-                "headline": "Sirius XM (SIRI) Stock Is Up, What You Need To Know",
+                "symbol": "^IXIC",
+                "headline": "Twilio (TWLO) Stock Trades Up, Here Is Why",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-know-232310277.html",
-                "score": 0
-            },
-            {
-                "symbol": "PDSB",
-                "headline": "PDS Biotech to Host Key Opinion Leader Event on PDS0301 for the Treatment of Advanced Colorectal Cancer with Liver Metastases",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/pds-biotech-host-key-opinion-120000134.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMZN",
-                "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-alphabet-ai-cloud-212027785.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-twlo-stock-trades-why-012310235.html",
                 "score": 0
             },
             {
@@ -94,38 +94,24 @@
                 "score": 0
             },
             {
-                "symbol": "NET",
-                "headline": "Tech Edge Will be Onsite at Money20/20 2026 in Las Vegas",
-                "publisher": "Exec Edge",
-                "link": "https://finance.yahoo.com/technology/ai/articles/tech-edge-onsite-money20-20-222106872.html",
-                "score": 0
-            },
-            {
-                "symbol": "BABA",
-                "headline": "Update: US Equity Indexes Rise as Mega-Cap Technology Advances Amid Broad-Based Market Rally",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-mega-203657948.html",
-                "score": 0
-            },
-            {
-                "symbol": "CRWD",
-                "headline": "Why CrowdStrike Holdings Stock Crushed it on Friday",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-holdings-stock-crushed-231618997.html",
-                "score": 0
-            },
-            {
-                "symbol": "DDOG",
-                "headline": "Datadog Insider Sold Shares Worth $14,750,067, According to a Recent SEC Filing",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-insider-sold-shares-worth-210138391.html",
-                "score": 0
-            },
-            {
                 "symbol": "SNAP",
                 "headline": "Is Snap (SNAP) Fairly Valued As Its November 4 Results Call Nears?",
                 "publisher": "Simply Wall St.",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-fairly-valued-november-201602251.html",
+                "score": 0
+            },
+            {
+                "symbol": "JOBY",
+                "headline": "Barclays Just Downgraded JOBY Stock. Here's Why.",
+                "publisher": "Barchart",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-just-downgraded-joby-stock-203011610.html",
+                "score": 0
+            },
+            {
+                "symbol": "GME",
+                "headline": "1 Profitable Stock to Target This Week and 2 We Ignore",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-131510470.html",
                 "score": 0
             }
         ]
