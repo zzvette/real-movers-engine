@@ -1,25 +1,32 @@
 {
-    "timestamp": "2026-10-12T18:33:05.272777+00:00",
+    "timestamp": "2026-10-12T21:54:14.089392+00:00",
     "catalysts": [
         {
-            "symbol": "CCC",
-            "headline": "CCC Intelligent Solutions Jumps on Buyout Report. What It Means for Software Stocks.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/db10eadd-0351-3cf0-9b60-d286d59681c9/ccc-intelligent-solutions.html",
-            "score": 5
-        },
-        {
-            "symbol": "SNDK",
-            "headline": "Update: US Equity Indexes Mixed as Technology Weighs, Crude Oil Jumps Amid Strikes on Ukraine's Energy Assets",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-182620674.html",
+            "symbol": "SOUN",
+            "headline": "SoundHound AI Slides 5% to Fresh Lows While C3.ai Climbs 4% on Northland Upgrade; UiPath Slips",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-slides-5-fresh-154631031.html",
             "score": 3
         },
         {
-            "symbol": "COHR",
-            "headline": "WCN Benefits From Buyouts & Global Waste-Management Market Expansion",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wcn-benefits-buyouts-global-waste-145300446.html",
+            "symbol": "MU",
+            "headline": "Wall Street\u2019s Biggest Micron Bull Just Raised Its Target Again. It Now Sees the Stock Nearly Tripling",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-micron-bull-212054647.html",
+            "score": 3
+        },
+        {
+            "symbol": "RDDT",
+            "headline": "Meta Climbs 4% on Muse Retention Data; Snap Rises 3%, Reddit Falls 3%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-climbs-4-muse-retention-174720111.html",
+            "score": 3
+        },
+        {
+            "symbol": "IONQ",
+            "headline": "Cybersecurity Stocks In Focus After IonQ\u2019s Elisity Deal Move",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-focus-ionq-elisity-210819642.html",
             "score": 2
         },
         {
@@ -30,10 +37,17 @@
             "score": 2
         },
         {
+            "symbol": "BMBL",
+            "headline": "BMBL Stock Soars Over 50% On $1B Take-Private Talks; MTCH Edges Higher As Well",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bmbl-stock-soars-over-50-203910324.html",
+            "score": 0
+        },
+        {
             "symbol": "META",
-            "headline": "Meta releases Muse Wonder AI models to challenge\u00a0Anthropic and OpenAI",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-releases-muse-wonder-ai-182614041.html",
+            "headline": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-12-212311190.html",
             "score": 0
         },
         {
@@ -44,17 +58,10 @@
             "score": 0
         },
         {
-            "symbol": "IONQ",
-            "headline": "IonQ Stock Falls After $1.3 Billion All-Stock Elisity Buy",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-falls-1-3-180434373.html",
-            "score": 0
-        },
-        {
-            "symbol": "WFF",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143019571.html",
+            "symbol": "NVTS",
+            "headline": "Navitas shares surge 5% on Nvidia AI infrastructure partnership",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/navitas-shares-surge-5-nvidia-205435130.html",
             "score": 0
         },
         {
@@ -65,59 +72,10 @@
             "score": 0
         },
         {
-            "symbol": "CRM",
-            "headline": "Bank of America Tweaks Salesforce Price Stock Target for 2026",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-tweaks-salesforce-price-182144128.html",
-            "score": 0
-        },
-        {
-            "symbol": "LITE",
-            "headline": "Stock Market Today: Nasdaq Drops As Lumentum Dives; Tanker Firm Navios Glides Into Buy Zone (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f6194faa-ca8b-383a-a9ab-a53b13d91fd1/stock-market-today%3A-nasdaq.html",
-            "score": 0
-        },
-        {
-            "symbol": "GRML",
-            "headline": "Greenland Mines Welcomes EU Selection of Neo Performance Materials\u2019 Silmet 2.0 as Strategic Project; Highlights Sarfartoq\u2019s Potential Role in Secure Transatlantic Rare Earth Supply",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/energy/articles/greenland-mines-welcomes-eu-selection-110000398.html",
-            "score": 0
-        },
-        {
-            "symbol": "TTMI",
-            "headline": "TTM Technologies Sinks 10% on $400 Million China Spending Plan to Make \u201cRapid Capacity Increases\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-sinks-10-400-162458160.html",
-            "score": 0
-        },
-        {
-            "symbol": "MU",
-            "headline": "Sandisk stock is this bull market's emergent star",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/technology/article/sandisk-stock-is-this-bull-markets-emergent-star-182109129.html",
-            "score": 0
-        },
-        {
-            "symbol": "FNMA",
-            "headline": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "NBIS",
-            "headline": "Nebius Stock Slips Despite Rotterdam AI Gigafactory LOI",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nebius-stock-slips-despite-rotterdam-175600423.html",
-            "score": 0
-        },
-        {
-            "symbol": "CGC",
-            "headline": "Canopy Growth vs. Tilray Brands: Which Healthcare Stock Is a Better Buy in 2026?",
+            "symbol": "SNDK",
+            "headline": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/healthcare/articles/canopy-growth-vs-tilray-brands-213802968.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-12-212311190.html",
             "score": 0
         },
         {
@@ -128,17 +86,52 @@
             "score": 0
         },
         {
-            "symbol": "EBAY",
+            "symbol": "LITE",
+            "headline": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-12-212311190.html",
+            "score": 0
+        },
+        {
+            "symbol": "FNMA",
+            "headline": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRM",
+            "headline": "Is Salesforce Still The Business You Bought?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-still-business-bought-213100233.html",
+            "score": 0
+        },
+        {
+            "symbol": "GME",
             "headline": "Ebay stock pops as analyst says live commerce market  'has started to take off'",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/article/ebay-stock-pops-as-analyst-says-live-commerce-market-has-started-to-take-off-182840352.html",
             "score": 0
         },
         {
-            "symbol": "BE",
-            "headline": "Stock Market Midday, Oct. 12: Dow Edges Higher as Investors Rotate Into Value Stocks",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-12-162519730.html",
+            "symbol": "SNDX",
+            "headline": "Syndax Pharmaceuticals' Axatilimab Trial in Pulmonary Fibrosis Misses Primary Endpoint",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/syndax-pharmaceuticals-apos-axatilimab-trial-205018088.html",
+            "score": 0
+        },
+        {
+            "symbol": "EBAY",
+            "headline": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today\u2019s Market",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html",
+            "score": 0
+        },
+        {
+            "symbol": "JPM",
+            "headline": "JPMorgan, Goldman Sachs Earnings Due As Bank Outlook Shifts",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f7acca95-569d-3c8b-8969-f00d27581d7b/jpmorgan%2C-goldman-sachs.html",
             "score": 0
         }
     ]
