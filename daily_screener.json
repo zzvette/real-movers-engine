@@ -1,117 +1,145 @@
 {
-    "timestamp": "2026-10-12T04:34:49.910001+00:00",
+    "timestamp": "2026-10-12T18:33:05.272777+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "SLS",
-                "headline": "SLS Stock Jumps Overnight: Retail Sees Big Pharma Buyout Clues In 'M&A Negotiation Lounge' Booth At ASH",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-jumps-overnight-retail-012212201.html",
+                "symbol": "CCC",
+                "headline": "CCC Intelligent Solutions Jumps on Buyout Report. What It Means for Software Stocks.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/db10eadd-0351-3cf0-9b60-d286d59681c9/ccc-intelligent-solutions.html",
                 "score": 5
             },
             {
-                "symbol": "HIMS",
-                "headline": "Hims & Hers Stock Jumped 10% in a Day as Volume Hit 15.9 Million Shares. Here\u2019s Where the Stock Could Go by 2030",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-stock-jumped-10-150422317.html",
+                "symbol": "SNDK",
+                "headline": "Update: US Equity Indexes Mixed as Technology Weighs, Crude Oil Jumps Amid Strikes on Ukraine's Energy Assets",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-182620674.html",
                 "score": 3
             },
             {
-                "symbol": "AMZN",
-                "headline": "AMZN Stock Inches Up Overnight: Amazon Reportedly Nears $7B Deal For Decart AI After Anthropic Walks Away",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/technology/ai/articles/amzn-stock-inches-overnight-amazon-025422038.html",
+                "symbol": "COHR",
+                "headline": "WCN Benefits From Buyouts & Global Waste-Management Market Expansion",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wcn-benefits-buyouts-global-waste-145300446.html",
                 "score": 2
             },
             {
-                "symbol": "IREN",
-                "headline": "Dow, S&P 500, Nasdaq Futures Climb After Oil In Focus As Trump Declares \u2018Energy Ceasefire\u2019 Between Russia And Ukraine: IREN, WFF, VSTM, CIFR Stocks In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-035027737.html",
+                "symbol": "SKYA",
+                "headline": "SkyAI Plans $201 Million Cash Tender Offer at $3 Per Share, Rejects Forward Industries Bid",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/skyai-plans-201-million-cash-145824011.html",
+                "score": 2
+            },
+            {
+                "symbol": "META",
+                "headline": "Meta releases Muse Wonder AI models to challenge\u00a0Anthropic and OpenAI",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/technology/ai/articles/meta-releases-muse-wonder-ai-182614041.html",
                 "score": 0
             },
             {
-                "symbol": "MRNA",
-                "headline": "Why Did MRNA, HUM, LITE Stocks Surge To 52-Week Highs Last Week?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-mrna-hum-lite-030308934.html",
+                "symbol": "CBRS",
+                "headline": "Once Wall Street\u2019s Darling, Cerebras Stock Is Struggling",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/75edfda6-e7aa-3648-bb1a-b24be9a5c218/once-wall-street%E2%80%99s-darling%2C.html",
                 "score": 0
             },
             {
-                "symbol": "ASML",
-                "headline": "Dow Jones Futures Rise As Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom",
+                "symbol": "IONQ",
+                "headline": "IonQ Stock Falls After $1.3 Billion All-Stock Elisity Buy",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-falls-1-3-180434373.html",
+                "score": 0
+            },
+            {
+                "symbol": "WFF",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143019571.html",
+                "score": 0
+            },
+            {
+                "symbol": "FIGS",
+                "headline": "Out Of Nowhere, This Small-Cap Company Becomes No. 1 Apparel Stock. It's Blasting Past A Buy Point.",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-rise-as.html",
+                "link": "https://finance.yahoo.com/m/d03267c1-89b0-3b7d-8433-07c24d4cd1f1/out-of-nowhere%2C-this.html",
                 "score": 0
             },
             {
-                "symbol": "TSLA",
-                "headline": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-wants-tesla-spacex-040724867.html",
+                "symbol": "CRM",
+                "headline": "Bank of America Tweaks Salesforce Price Stock Target for 2026",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-tweaks-salesforce-price-182144128.html",
                 "score": 0
             },
             {
-                "symbol": "FSLY",
-                "headline": "Fastly (FSLY) Stock Fair Value Edges Higher After Investor Day And Analyst Revisions",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-stock-fair-value-231232631.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVAX",
-                "headline": "BNTX, NVAX, MRNA Lead Vaccine Rally After Report Of An NIH Cancer-Vaccine Push",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/bntx-nvax-mrna-lead-vaccine-000924071.html",
-                "score": 0
-            },
-            {
-                "symbol": "SNOW",
-                "headline": "Dow Jones Futures Rise As Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom",
+                "symbol": "LITE",
+                "headline": "Stock Market Today: Nasdaq Drops As Lumentum Dives; Tanker Firm Navios Glides Into Buy Zone (Live Coverage)",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-rise-as.html",
+                "link": "https://finance.yahoo.com/m/f6194faa-ca8b-383a-a9ab-a53b13d91fd1/stock-market-today%3A-nasdaq.html",
                 "score": 0
             },
             {
-                "symbol": "CL=F",
-                "headline": "Oil prices tumble as stocks rise after Trump touts 'energy ceasefire'",
-                "publisher": "Euronews",
-                "link": "https://finance.yahoo.com/energy/articles/stocks-rise-oil-prices-tumble-040428507.html",
+                "symbol": "GRML",
+                "headline": "Greenland Mines Welcomes EU Selection of Neo Performance Materials\u2019 Silmet 2.0 as Strategic Project; Highlights Sarfartoq\u2019s Potential Role in Secure Transatlantic Rare Earth Supply",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/energy/articles/greenland-mines-welcomes-eu-selection-110000398.html",
                 "score": 0
             },
             {
-                "symbol": "CRWD",
-                "headline": "Is CrowdStrike (CRWD) Still Worth the Premium After 140% Surge?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-still-worth-premium-183521016.html",
+                "symbol": "TTMI",
+                "headline": "TTM Technologies Sinks 10% on $400 Million China Spending Plan to Make \u201cRapid Capacity Increases\u201d",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-sinks-10-400-162458160.html",
                 "score": 0
             },
             {
-                "symbol": "CRCL",
-                "headline": "Stellar Now Hosts More Tokenized Assets Than the XRP Ledger. Why Is XRP Still Worth Nearly 13 Times More?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/stellar-now-hosts-more-tokenized-221412162.html",
+                "symbol": "MU",
+                "headline": "Sandisk stock is this bull market's emergent star",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/technology/article/sandisk-stock-is-this-bull-markets-emergent-star-182109129.html",
                 "score": 0
             },
             {
-                "symbol": "SHOP",
-                "headline": "Shopify (SHOP) Stock Looks Overvalued Even With Strong Earnings Growth",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-stock-looks-overvalued-170651175.html",
+                "symbol": "FNMA",
+                "headline": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html",
                 "score": 0
             },
             {
-                "symbol": "AMC",
-                "headline": "AMC Stock Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
+                "symbol": "NBIS",
+                "headline": "Nebius Stock Slips Despite Rotterdam AI Gigafactory LOI",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/nebius-stock-slips-despite-rotterdam-175600423.html",
+                "score": 0
+            },
+            {
+                "symbol": "CGC",
+                "headline": "Canopy Growth vs. Tilray Brands: Which Healthcare Stock Is a Better Buy in 2026?",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amc-stock-spotlight-reasons-heres-122800761.html",
+                "link": "https://finance.yahoo.com/healthcare/articles/canopy-growth-vs-tilray-brands-213802968.html",
                 "score": 0
             },
             {
-                "symbol": "JPM",
-                "headline": "Dow Jones Futures Rise As Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-rise-as.html",
+                "symbol": "FICO",
+                "headline": "EBay, the \u2018NYSE for Used Items,\u2019 Is a Morgan Stanley Top Stock Pick",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/50176ca6-5ff0-30f8-827b-785eb6c902f3/ebay%2C-the-%E2%80%98nyse-for-used.html",
+                "score": 0
+            },
+            {
+                "symbol": "EBAY",
+                "headline": "Ebay stock pops as analyst says live commerce market  'has started to take off'",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/ebay-stock-pops-as-analyst-says-live-commerce-market-has-started-to-take-off-182840352.html",
+                "score": 0
+            },
+            {
+                "symbol": "BE",
+                "headline": "Stock Market Midday, Oct. 12: Dow Edges Higher as Investors Rotate Into Value Stocks",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-12-162519730.html",
                 "score": 0
             }
         ]
