@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-13T01:50:28.055286+00:00",
+    "timestamp": "2026-10-13T05:41:20.136961+00:00",
     "catalysts": [
         {
             "symbol": "SOUN",
@@ -9,66 +9,38 @@
             "score": 3
         },
         {
-            "symbol": "SKYA",
-            "headline": "SkyAI Plans $201 Million Cash Tender Offer at $3 Per Share, Rejects Forward Industries Bid",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/skyai-plans-201-million-cash-145824011.html",
-            "score": 2
+            "symbol": "BMBL",
+            "headline": "Why Is Bumble (BMBL) Stock Soaring Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-bumble-bmbl-stock-soaring-012703593.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Is SpaceX Stock Cheap? 1 Wall Street Analyst Thinks So.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-cheap-1-wall-042000455.html",
+            "score": 0
+        },
+        {
+            "symbol": "SKHY",
+            "headline": "Asian stocks hit 2-month low on AI jitters, bonds find favour",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dive-focus-earnings-015003210.html",
+            "score": 0
+        },
+        {
+            "symbol": "MU",
+            "headline": "SPCX Stock Extends 2-Day Green Run As Elon Musk Calls SpaceX An 'Anomaly In The Matrix' Amid China\u2019s RAM Push",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-extends-2-day-033753575.html",
+            "score": 0
         },
         {
             "symbol": "CBRS",
             "headline": "Once Wall Street\u2019s Darling, Cerebras Stock Is Struggling",
             "publisher": "Barrons.com",
             "link": "https://finance.yahoo.com/m/75edfda6-e7aa-3648-bb1a-b24be9a5c218/once-wall-street%E2%80%99s-darling%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "MU",
-            "headline": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sndk-mu-intc-amd-skhy-014228210.html",
-            "score": 0
-        },
-        {
-            "symbol": "META",
-            "headline": "Why Meta (META) Stock Is Up Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-today-011903744.html",
-            "score": 0
-        },
-        {
-            "symbol": "SNDK",
-            "headline": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sndk-mu-intc-amd-skhy-014228210.html",
-            "score": 0
-        },
-        {
-            "symbol": "IONQ",
-            "headline": "Why IonQ (IONQ) Stock Is Down Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-stock-down-235903958.html",
-            "score": 0
-        },
-        {
-            "symbol": "NVTS",
-            "headline": "Navitas shares surge 5% on Nvidia AI infrastructure partnership",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/navitas-shares-surge-5-nvidia-205435130.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOXL",
-            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-            "score": 0
-        },
-        {
-            "symbol": "FIGS",
-            "headline": "Out Of Nowhere, This Small-Cap Company Becomes No. 1 Apparel Stock. It's Blasting Past A Buy Point.",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d03267c1-89b0-3b7d-8433-07c24d4cd1f1/out-of-nowhere%2C-this.html",
             "score": 0
         },
         {
@@ -79,24 +51,24 @@
             "score": 0
         },
         {
-            "symbol": "CRDO",
-            "headline": "Credo Launches Short-Reach Micro-Emitter Optics (SRMO) Standardization for AI Data Center Scale-Up and Scale-Out Applications",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/credo-launches-short-reach-micro-222000703.html",
+            "symbol": "^KS11",
+            "headline": "AP Top Financial News at 1:12 a.m. EDT",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/ap-top-financial-news-1-040000885.html",
             "score": 0
         },
         {
-            "symbol": "FNMA",
-            "headline": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today\u2019s Market",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html",
+            "symbol": "DRAM",
+            "headline": "ETF Inflows Top $41B as Investors Pile Into Brazil, Long Bonds",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/etf-inflows-top-41b-investors-210016497.html",
             "score": 0
         },
         {
-            "symbol": "FICO",
-            "headline": "Review & Preview: Birthday Bull",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/ec38c867-3bdf-3b0d-a73c-080f54af0722/review-%26-preview%3A-birthday.html",
+            "symbol": "FIGS",
+            "headline": "Out Of Nowhere, This Small-Cap Company Becomes No. 1 Apparel Stock. It's Blasting Past A Buy Point.",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d03267c1-89b0-3b7d-8433-07c24d4cd1f1/out-of-nowhere%2C-this.html",
             "score": 0
         },
         {
@@ -107,31 +79,45 @@
             "score": 0
         },
         {
-            "symbol": "QQQ",
+            "symbol": "SOXL",
+            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
+            "score": 0
+        },
+        {
+            "symbol": "FICO",
+            "headline": "Review & Preview: Birthday Bull",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/ec38c867-3bdf-3b0d-a73c-080f54af0722/review-%26-preview%3A-birthday.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRM",
             "headline": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow \u2014 META, MSFT, BMBL, CRM, SNAP In Focus",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-end-231018478.html",
             "score": 0
         },
         {
-            "symbol": "NQ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "WFF",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143019571.html",
             "score": 0
         },
         {
-            "symbol": "NBIS",
-            "headline": "Nebius Stock Slips Despite Rotterdam AI Gigafactory LOI",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nebius-stock-slips-despite-rotterdam-175600423.html",
+            "symbol": "KORU",
+            "headline": "South Korea Still Has Investment Appeal: ETFs to Consider",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/south-korea-still-investment-appeal-160100893.html",
             "score": 0
         },
         {
-            "symbol": "RDDT",
-            "headline": "Why Reddit (RDDT) Stock Is Trading Lower Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-trading-000703553.html",
+            "symbol": "META",
+            "headline": "META Stock Dips Overnight After Best Day In Two Weeks: Muse Traction Draws Jim Cramer\u2019s \u2018Monster Long\u2019 Call, Dan Ives Sees An AI Edge",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-dips-overnight-best-042843513.html",
             "score": 0
         }
     ]
