@@ -1,124 +1,124 @@
 {
-    "timestamp": "2026-10-13T05:41:20.136961+00:00",
+    "timestamp": "2026-10-13T16:42:30.154315+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "SOUN",
-                "headline": "SoundHound AI Slides 5% to Fresh Lows While C3.ai Climbs 4% on Northland Upgrade; UiPath Slips",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-slides-5-fresh-154631031.html",
-                "score": 3
+                "symbol": "CAT",
+                "headline": "Caterpillar (CAT) and Deere (DE) Slide as Treasury Yields Surge. Why Valuations Matter",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-deere-slide-treasury-133517768.html",
+                "score": 2
+            },
+            {
+                "symbol": "FRMI",
+                "headline": "Fermi shares surge on AMD credit support deal for Texas AI site",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/fermi-shares-surge-amd-credit-132211318.html",
+                "score": 2
+            },
+            {
+                "symbol": "CIFR",
+                "headline": "Cipher Digital Sinks 12% on $850 Million Zero-Coupon Convertible Note Offering",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-sinks-12-850-152304945.html",
+                "score": 2
             },
             {
                 "symbol": "BMBL",
-                "headline": "Why Is Bumble (BMBL) Stock Soaring Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-bumble-bmbl-stock-soaring-012703593.html",
+                "headline": "Nvidia (NVDA) vs. Bumble (BMBL): How the AI Gold Rush is Blinding Investors to Real-Value Gems",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-vs-bumble-bmbl-153416859.html",
                 "score": 0
             },
             {
-                "symbol": "SNDK",
-                "headline": "Is SpaceX Stock Cheap? 1 Wall Street Analyst Thinks So.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-cheap-1-wall-042000455.html",
-                "score": 0
-            },
-            {
-                "symbol": "SKHY",
-                "headline": "Asian stocks hit 2-month low on AI jitters, bonds find favour",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-dive-focus-earnings-015003210.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "SPCX Stock Extends 2-Day Green Run As Elon Musk Calls SpaceX An 'Anomaly In The Matrix' Amid China\u2019s RAM Push",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-extends-2-day-033753575.html",
-                "score": 0
-            },
-            {
-                "symbol": "CBRS",
-                "headline": "Once Wall Street\u2019s Darling, Cerebras Stock Is Struggling",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/75edfda6-e7aa-3648-bb1a-b24be9a5c218/once-wall-street%E2%80%99s-darling%2C.html",
+                "symbol": "UNH",
+                "headline": "UnitedHealth Group stock trims gains on profit outlook increase",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/unitedhealth-group-stock-trims-gains-on-profit-outlook-increase-163341587.html",
                 "score": 0
             },
             {
                 "symbol": "FUN",
-                "headline": "Six Flags shares slide after fatal roller coaster incident in Georgia",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/six-flags-shares-slide-fatal-011551815.html",
-                "score": 0
-            },
-            {
-                "symbol": "^KS11",
-                "headline": "AP Top Financial News at 1:12 a.m. EDT",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/ap-top-financial-news-1-040000885.html",
-                "score": 0
-            },
-            {
-                "symbol": "DRAM",
-                "headline": "ETF Inflows Top $41B as Investors Pile Into Brazil, Long Bonds",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-inflows-top-41b-investors-210016497.html",
-                "score": 0
-            },
-            {
-                "symbol": "FIGS",
-                "headline": "Out Of Nowhere, This Small-Cap Company Becomes No. 1 Apparel Stock. It's Blasting Past A Buy Point.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/d03267c1-89b0-3b7d-8433-07c24d4cd1f1/out-of-nowhere%2C-this.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOXS",
-                "headline": "SOXX Posts Worst Quarter In Over A Year \u2014 Michael Burry Cites An 1880 Story To Flag AI\u2019s \u2018Power-Hungry\u2019 Chip Race",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/soxx-posts-worst-quarter-over-073140075.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOXL",
-                "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-                "score": 0
-            },
-            {
-                "symbol": "FICO",
-                "headline": "Review & Preview: Birthday Bull",
+                "headline": "Six Flags Stock Heads for Lowest Close Since 2009. Fatal Park Incident Adds to Scrunity of Practices.",
                 "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/ec38c867-3bdf-3b0d-a73c-080f54af0722/review-%26-preview%3A-birthday.html",
+                "link": "https://finance.yahoo.com/m/ae259522-f7dd-3973-bc77-6336866e8586/six-flags-stock-heads-for.html",
                 "score": 0
             },
             {
-                "symbol": "CRM",
-                "headline": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow \u2014 META, MSFT, BMBL, CRM, SNAP In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-end-231018478.html",
+                "symbol": "JPM",
+                "headline": "Wall Street banks see pockets of weakness due to market turmoil",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-banks-see-pockets-140546533.html",
                 "score": 0
             },
             {
-                "symbol": "WFF",
+                "symbol": "GS",
+                "headline": "Goldman Sachs CEO David Solomon: 'No succession transition or timeline underway'",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/goldman-sachs-ceo-david-solomon-no-succession-transition-or-timeline-underway-154852212.html",
+                "score": 0
+            },
+            {
+                "symbol": "C",
+                "headline": "Participation notifications by Citigroup Inc.",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/participation-notifications-citigroup-inc-154500127.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMAT",
+                "headline": "This Overlooked AI Stock Turned $1,000 Into $18,924 and Crushed the Market",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/overlooked-ai-stock-turned-1-161523950.html",
+                "score": 0
+            },
+            {
+                "symbol": "PFAI",
                 "headline": "BC-Most Active Stocks",
                 "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143019571.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026094.html",
                 "score": 0
             },
             {
-                "symbol": "KORU",
-                "headline": "South Korea Still Has Investment Appeal: ETFs to Consider",
+                "symbol": "BBAI",
+                "headline": "BigBear.ai Wins Over $225 Million in Federal Contract Awards Since July",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/bigbear-ai-wins-over-225-142308382.html",
+                "score": 0
+            },
+            {
+                "symbol": "BNTX",
+                "headline": "MRNA Stock Gains Over $4B in a Week: Time to Buy, Hold or Sell?",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/south-korea-still-investment-appeal-160100893.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-gains-over-4b-150100044.html",
                 "score": 0
             },
             {
-                "symbol": "META",
-                "headline": "META Stock Dips Overnight After Best Day In Two Weeks: Muse Traction Draws Jim Cramer\u2019s \u2018Monster Long\u2019 Call, Dan Ives Sees An AI Edge",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-dips-overnight-best-042843513.html",
+                "symbol": "PS",
+                "headline": "Pershing Square Underperformance Could Delay Pershing Square Ventures Launch Beyond 4Q, BofA Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pershing-square-underperformance-could-delay-145826869.html",
+                "score": 0
+            },
+            {
+                "symbol": "EFXT",
+                "headline": "Enerflex Shares Rise 5% After Securing Over 1 GW Power Generation Contract for North American Data Centre",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/energy/articles/enerflex-shares-rise-5-securing-132729898.html",
+                "score": 0
+            },
+            {
+                "symbol": "ZURA",
+                "headline": "This biotech stock is a top pick at Guggenheim",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/healthcare/articles/biotech-stock-top-pick-guggenheim-080004787.html",
+                "score": 0
+            },
+            {
+                "symbol": "PRKS",
+                "headline": "Why United Parks & Resorts (PRKS) Stock Is Trading Lower Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-united-parks-resorts-prks-204809755.html",
                 "score": 0
             }
         ]
