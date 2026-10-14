@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-10-13T23:37:34.041434+00:00",
+    "timestamp": "2026-10-14T02:09:50.983602+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "CAT",
-                "headline": "Caterpillar (CAT): A Cyclical Machine Maker Meets a Growth-Stock Valuation",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-cyclical-machine-maker-221938259.html",
+                "symbol": "AEHL",
+                "headline": "Antelope Enterprise stock falls on $100M share offering plan",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/antelope-enterprise-stock-falls-100m-205430117.html",
                 "score": 2
             },
             {
@@ -17,59 +17,38 @@
                 "score": 2
             },
             {
-                "symbol": "CIFR",
-                "headline": "Stock Market Today, Oct. 13: Cipher Digital Drops 13% on $850M Convertible Note Offering",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-13-220400714.html",
-                "score": 2
-            },
-            {
-                "symbol": "AEHL",
-                "headline": "Antelope Enterprise stock falls on $100M share offering plan",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/antelope-enterprise-stock-falls-100m-205430117.html",
-                "score": 2
-            },
-            {
                 "symbol": "BAC",
-                "headline": "BofA sets massive $10 billion Ciena backlog target",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-sets-massive-10-billion-221700248.html",
-                "score": 0
-            },
-            {
-                "symbol": "JNJ",
-                "headline": "Stocks to Watch Recap: UnitedHealth, J&J, JPMorgan, Micron",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/970b88dd-f7ff-3c76-ad72-aeb4453783b3/stocks-to-watch-recap%3A.html",
-                "score": 0
-            },
-            {
-                "symbol": "FUN",
-                "headline": "Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching",
+                "headline": "3 RegTech Stocks Investors May Be Watching After Bank Of America\u2019s $1.2b Penalty",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-six-flags-entertainment-fun-221624525.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-regtech-stocks-investors-may-011319673.html",
                 "score": 0
             },
             {
                 "symbol": "C",
-                "headline": "Citigroup Stocks Fall 2.5% Despite Earnings Beat and $4.1 Billion Capital Return",
+                "headline": "Citigroup Inc (C) (Q3 2026) Earnings Call Highlights: Best Q3 Revenue in a Decade as Net Income ...",
                 "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-stocks-fall-2-5-211656318.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-inc-c-q3-2026-010024985.html",
                 "score": 0
             },
             {
                 "symbol": "AMAT",
-                "headline": "Applied Materials (AMAT) Backs AI Physics Modeling Push For Faster Chip R And D",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-backs-ai-221553774.html",
+                "headline": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-muted-chip-012425121.html",
                 "score": 0
             },
             {
-                "symbol": "V",
-                "headline": "2 Financial Stocks to Buy That Berkshire Hathaway Kept While Selling Visa and Mastercard",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/2-financial-stocks-buy-berkshire-215000773.html",
+                "symbol": "FUN",
+                "headline": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags\u2019 Turnaround Hopes",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/e3049305-c6ee-37db-bf98-171e08594210/goliath-roller-coaster-death.html",
+                "score": 0
+            },
+            {
+                "symbol": "JBDI",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026094.html",
                 "score": 0
             },
             {
@@ -80,24 +59,10 @@
                 "score": 0
             },
             {
-                "symbol": "RGC",
-                "headline": "Is Regencell Bioscience Holdings (RGC) Fully Priced After Its Annual Loss Deepened?",
+                "symbol": "SKYD",
+                "headline": "Elite Growth Stocks To Own In October 2026",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/regencell-bioscience-holdings-rgc-fully-141309180.html",
-                "score": 0
-            },
-            {
-                "symbol": "AZZ",
-                "headline": "AZZ (AZZ) Tops Q2 Earnings and Revenue Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/azz-azz-tops-q2-earnings-202502296.html",
-                "score": 0
-            },
-            {
-                "symbol": "PS",
-                "headline": "Is Pershing Square (PS) Fully Valued After Its Dividend Update And Citi Downgrade?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/pershing-square-ps-fully-valued-231707964.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/elite-growth-stocks-own-october-121211668.html",
                 "score": 0
             },
             {
@@ -108,17 +73,45 @@
                 "score": 0
             },
             {
-                "symbol": "PFAI",
-                "headline": "Pinnacle Food Group Completes First Bench-Scale Fermentation of Recombinant Human Lactoferrin",
-                "publisher": "InvestorsHub",
-                "link": "https://finance.yahoo.com/healthcare/articles/pinnacle-food-group-completes-first-135459559.html",
-                "score": 0
-            },
-            {
                 "symbol": "GTLB",
                 "headline": "Is GitLab\u2019s (GTLB) Governed AI Push Quietly Redefining Its Long\u2011Term Platform Ambitions?",
                 "publisher": "Simply Wall St.",
                 "link": "https://finance.yahoo.com/technology/ai/articles/gitlab-gtlb-governed-ai-push-121606649.html",
+                "score": 0
+            },
+            {
+                "symbol": "ENVX",
+                "headline": "Enovix Receives 100,000-Unit Battery Order for Dual-Use Drones",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/enovix-receives-100-000-unit-213117025.html",
+                "score": 0
+            },
+            {
+                "symbol": "GS",
+                "headline": "The Goldman Sachs Group Inc (GS) (Q3 2026) Earnings Call Highlights: Record Advisory Revenues ...",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-group-inc-gs-010027786.html",
+                "score": 0
+            },
+            {
+                "symbol": "ASML",
+                "headline": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/02b2fe19-36e5-3f96-ac0e-2dc2cf84ceb1/dow-jones-futures%3A-stock.html",
+                "score": 0
+            },
+            {
+                "symbol": "GRAB",
+                "headline": "Why Grab Holdings Limited (GRAB) Dipped More Than Broader Market Today",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-grab-holdings-limited-grab-205004832.html",
+                "score": 0
+            },
+            {
+                "symbol": "BBAI",
+                "headline": "Stock Market Today, Oct. 13: BigBear.ai Shares Gain on $225 Million Contract Awards",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-13-212026151.html",
                 "score": 0
             }
         ]
