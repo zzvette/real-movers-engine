@@ -1,25 +1,18 @@
 {
-    "timestamp": "2026-10-14T03:44:52.076114+00:00",
+    "timestamp": "2026-10-14T09:19:55.047923+00:00",
     "catalysts": [
-        {
-            "symbol": "SLS",
-            "headline": "SLS Stock Jumps Overnight: Retail Sees Big Pharma Buyout Clues In 'M&A Negotiation Lounge' Booth At ASH",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-jumps-overnight-retail-012212201.html",
-            "score": 5
-        },
-        {
-            "symbol": "WFC",
-            "headline": "Wells Fargo & Co (WFC) (Q3 2026) Earnings Call Highlights: EPS Jumps 13% as Revenue Grows ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-co-wfc-q3-230024982.html",
-            "score": 3
-        },
         {
             "symbol": "LQDA",
             "headline": "LQDA Explodes After Hours On Deal Ending Years Of Patent Fight, Keeping YUTREPIA On Market",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/healthcare/articles/lqda-explodes-hours-deal-ending-233953516.html",
+            "score": 2
+        },
+        {
+            "symbol": "AEHL",
+            "headline": "Antelope Enterprise stock falls on $100M share offering plan",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/antelope-enterprise-stock-falls-100m-205430117.html",
             "score": 2
         },
         {
@@ -30,38 +23,31 @@
             "score": 2
         },
         {
-            "symbol": "CAT",
-            "headline": "Caterpillar (CAT): A Cyclical Machine Maker Meets a Growth-Stock Valuation",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-cyclical-machine-maker-221938259.html",
+            "symbol": "JNJ",
+            "headline": "SLS, IBRX Rise Premarket: Funds Raise Their Bets As J&J Stays \u2018On The Lookout\u2019 For Deals",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sls-ibrx-rise-premarket-funds-082420800.html",
             "score": 2
         },
         {
+            "symbol": "ASML",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher ahead of CPI inflation data, earnings",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html",
+            "score": 0
+        },
+        {
             "symbol": "BAC",
-            "headline": "Bank of America hit with $1.2B penalty over anti-money laundering failures",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-hit-1-2b-024217754.html",
+            "headline": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-rise-nasdaq-subdued-085140888.html",
             "score": 0
         },
         {
-            "symbol": "JNJ",
-            "headline": "Johnson & Johnson (JNJ) (Q3 2026) Earnings Call Highlights: Talc Settlement Weighs on GAAP ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-q3-2026-010026429.html",
-            "score": 0
-        },
-        {
-            "symbol": "AMAT",
-            "headline": "Is Intel (INTC) Turning Its AI Ecosystem Push Into a Durable Foundry Advantage?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-turning-ai-ecosystem-021634811.html",
-            "score": 0
-        },
-        {
-            "symbol": "C",
-            "headline": "Citigroup Inc (C) (Q3 2026) Earnings Call Highlights: Best Q3 Revenue in a Decade as Net Income ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-inc-c-q3-2026-010024985.html",
+            "symbol": "GLND",
+            "headline": "Form 8.3",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-060000009.html",
             "score": 0
         },
         {
@@ -72,45 +58,10 @@
             "score": 0
         },
         {
-            "symbol": "BBAI",
-            "headline": "Stock Market Today, Oct. 13: BigBear.ai Shares Gain on $225 Million Contract Awards",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-13-212026151.html",
-            "score": 0
-        },
-        {
-            "symbol": "BLK",
-            "headline": "Humana (HUM) Reshapes Its Clinic Partnership, Does The Stock Look Fully Valued?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/humana-hum-reshapes-clinic-partnership-221546256.html",
-            "score": 0
-        },
-        {
-            "symbol": "FUN",
-            "headline": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags\u2019 Turnaround Hopes",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/e3049305-c6ee-37db-bf98-171e08594210/goliath-roller-coaster-death.html",
-            "score": 0
-        },
-        {
-            "symbol": "CIFR",
-            "headline": "Why Did ASTS, CIFR, JOBY Stocks Plunge To 52-Week Lows Today?",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-asts-cifr-joby-030605730.html",
-            "score": 0
-        },
-        {
-            "symbol": "ENVX",
-            "headline": "Enovix Receives 100,000-Unit Battery Order for Dual-Use Drones",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/enovix-receives-100-000-unit-213117025.html",
-            "score": 0
-        },
-        {
-            "symbol": "TTWO",
-            "headline": "Grand Theft Auto VI Is Weeks Away. Is Take-Two Interactive (TTWO) Still a Buy at a Discount?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/grand-theft-auto-vi-weeks-221940738.html",
+            "symbol": "GRML",
+            "headline": "Greenland Mines (GRML) Welcomes EU Strategic Project Designation for Neo Performance Materials Silmet 2.0",
+            "publisher": "NewMediaWire",
+            "link": "https://finance.yahoo.com/energy/articles/greenland-mines-grml-welcomes-eu-183000264.html",
             "score": 0
         },
         {
@@ -121,24 +72,52 @@
             "score": 0
         },
         {
-            "symbol": "ASML",
-            "headline": "ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide",
+            "symbol": "RGC",
+            "headline": "Is Regencell Bioscience Holdings (RGC) Fully Priced After Its Annual Loss Deepened?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/regencell-bioscience-holdings-rgc-fully-141309180.html",
+            "score": 0
+        },
+        {
+            "symbol": "HPE",
+            "headline": "What Changed For HPE Stock, And What Did Not?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/changed-hpe-stock-did-not-181943794.html",
+            "score": 0
+        },
+        {
+            "symbol": "CIFR",
+            "headline": "Why Did ASTS, CIFR, JOBY Stocks Plunge To 52-Week Lows Today?",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/asml-tsmc-report-week-traders-033013514.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-asts-cifr-joby-030605730.html",
             "score": 0
         },
         {
-            "symbol": "VLO",
-            "headline": "Why Valero Energy Stock Triumphed Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-valero-energy-stock-triumphed-003248062.html",
+            "symbol": "CRML",
+            "headline": "USA Rare Earth Drops 6% With Milestone-Based Government Funding Still Ahead of It; MP Materials Falls 6%, Critical Metals Holds Steady",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-drops-6-175511584.html",
             "score": 0
         },
         {
-            "symbol": "GS",
-            "headline": "The Goldman Sachs Group Inc (GS) (Q3 2026) Earnings Call Highlights: Record Advisory Revenues ...",
+            "symbol": "DELL",
+            "headline": "SK Group Chief Reportedly Sells $406M Stake To Michael Dell\u2019s Family Office Amid Divorce Settlement",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sk-group-chief-reportedly-sells-084218663.html",
+            "score": 0
+        },
+        {
+            "symbol": "GME",
+            "headline": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-rise-nasdaq-subdued-085140888.html",
+            "score": 0
+        },
+        {
+            "symbol": "BABA",
+            "headline": "Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-group-inc-gs-010027786.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-fall-roughly-1-204722108.html",
             "score": 0
         }
     ]
