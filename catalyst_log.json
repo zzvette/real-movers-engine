@@ -1,26 +1,19 @@
 {
-    "timestamp": "2026-10-14T14:19:10.786616+00:00",
+    "timestamp": "2026-10-14T18:12:38.520796+00:00",
     "catalysts": [
         {
             "symbol": "GLND",
-            "headline": "Top Premarket Gainers",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111551208.html",
+            "headline": "Greenland Energy jumps 51% as Trump touts Arctic oil exploration",
+            "publisher": "Proactive",
+            "link": "https://finance.yahoo.com/energy/articles/greenland-energy-jumps-51-trump-153000029.html",
             "score": 3
         },
         {
-            "symbol": "MS",
-            "headline": "Morgan Stanley\u2019s Q3 Report Beats Estimates As Equity Revenue Jumps 41%",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-q3-report-beats-135532348.html",
-            "score": 3
-        },
-        {
-            "symbol": "STT",
-            "headline": "BlackRock Jumps On Across The Board Earnings Beat; State Street Plummets",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2003bc10-08fb-37ce-a232-c9fea7712372/blackrock-jumps-on-across-the.html",
-            "score": 3
+            "symbol": "CVX",
+            "headline": "Chevron (CVX) Stock Looks Reasonable With Cash Flow Value Above Price",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-stock-looks-reasonable-161327586.html",
+            "score": 2
         },
         {
             "symbol": "AEHL",
@@ -30,52 +23,66 @@
             "score": 2
         },
         {
-            "symbol": "BAC",
-            "headline": "Bank of America Faces Internal Turmoil After Senior Executive Amy Lissauer Departs For JPMorgan Chase",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-faces-internal-turmoil-135919640.html",
-            "score": 0
-        },
-        {
             "symbol": "CRWV",
-            "headline": "CoreWeave Stock Could Go to Zero if AI Boom Falters, D.A. Davidson\u2019s Gil Luria Warns",
-            "publisher": "Benzinga Prediction Markets",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-could-zero-ai-133532842.html",
-            "score": 0
-        },
-        {
-            "symbol": "ASML",
-            "headline": "Stock market today: Dow gains, S&P 500, and Nasdaq decline on hot inflation data",
+            "headline": "'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market 'irrationally'",
             "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html",
-            "score": 0
-        },
-        {
-            "symbol": "LQDA",
-            "headline": "Liquidia And United Therapeutics Settle; But Only One Stock Skyrocketed",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6908ae0b-5e01-3331-b5c3-cb6d8b7bc835/liquidia-and-united.html",
-            "score": 0
-        },
-        {
-            "symbol": "BLK",
-            "headline": "What BlackRock (BLK) Said on Its Q3 Earnings Call",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-said-q3-earnings-140230890.html",
+            "link": "https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-irrationally-180128363.html",
             "score": 0
         },
         {
             "symbol": "BSP",
-            "headline": "Berkshire Invests Another $330 Million in Bending Spoons",
-            "publisher": "Bloomberg",
-            "link": "https://finance.yahoo.com/technology/articles/berkshire-invests-another-330-million-132842229.html",
+            "headline": "Stocks to Watch: Bank of America, Skydance, Aramco, Bending Spoons",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/9c369c61-bc34-3a4f-8ce7-4a67a02db5a4/stocks-to-watch%3A-bank-of.html",
+            "score": 0
+        },
+        {
+            "symbol": "BAC",
+            "headline": "BofA (BAC) Q3 2026 Earnings Call Transcript",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-bac-q3-2026-earnings-175815880.html",
+            "score": 0
+        },
+        {
+            "symbol": "DELL",
+            "headline": "Dell Leads Tech Selloff After Barclays Turns Cautious",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dell-leads-tech-selloff-barclays-180414599.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOFI",
+            "headline": "BC-Most Active Stocks",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020781.html",
             "score": 0
         },
         {
             "symbol": "SKYD",
-            "headline": "Skydance Falls 16% as Shares Begin Trading Without Warrant Entitlement; Netflix and Disney Tick Up",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/skydance-falls-16-shares-begin-123648616.html",
+            "headline": "Skydance Warrants Play Havoc With Stock Price",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/0647848b-5ea0-34d5-bf26-6515a7e654fe/skydance-warrants-play-havoc.html",
+            "score": 0
+        },
+        {
+            "symbol": "^IXIC",
+            "headline": "Stock market today: Hot inflation report drops tech, drives S&P 500, Dow and Nasdaq down",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html",
+            "score": 0
+        },
+        {
+            "symbol": "LQDA",
+            "headline": "LQDA Settles UTHR Disputes for $380.7M, Limits Yutrepia Label",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/healthcare/articles/lqda-settles-uthr-disputes-380-163800607.html",
+            "score": 0
+        },
+        {
+            "symbol": "PFE",
+            "headline": "Valneva to Present and Hold Investor Meetings at Upcoming U.S. and European Healthcare Conferences",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/valneva-present-hold-investor-meetings-154500749.html",
             "score": 0
         },
         {
@@ -86,59 +93,52 @@
             "score": 0
         },
         {
-            "symbol": "PGR",
-            "headline": "Progressive (PGR) Q3 Earnings Top Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/progressive-pgr-q3-earnings-top-124502129.html",
+            "symbol": "DOCN",
+            "headline": "Why Gartner AI Outlook Sent CoreWeave Stock, Neoclouds Reeling",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/e7396a5f-59db-30ad-b0ed-49dbca81119f/why-gartner-ai-outlook-sent.html",
             "score": 0
         },
         {
-            "symbol": "GME",
-            "headline": "Sector Update: Consumer Stocks Mixed Premarket Wednesday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-premarket-131703061.html",
+            "symbol": "QQQ",
+            "headline": "SK Hynix Sinks 5% as China\u2019s CXMT Aims at Server Memory; Western Digital Drops 4%, Micron Falls 3%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-sinks-5-china-180104796.html",
             "score": 0
         },
         {
-            "symbol": "ES=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+            "symbol": "HALO",
+            "headline": "Liberty All-Star\u00ae Growth Fund, Inc. September 2026 Monthly Update",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-star-growth-fund-inc-175000337.html",
             "score": 0
         },
         {
-            "symbol": "VSTM",
-            "headline": "Verastem Is Getting a New CEO, $250 Million, and a Shot at Another Cancer Drug",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/b21788e7-1aee-31aa-90bd-935ca0fe7519/verastem-is-getting-a-new.html",
+            "symbol": "SPY",
+            "headline": "Walmart Advances 3% as Inflation Data Sends Money Into Defensives; Costco and Target Edge Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-advances-3-inflation-data-180643511.html",
             "score": 0
         },
         {
-            "symbol": "RGC",
-            "headline": "Is Regencell Bioscience Holdings (RGC) Fully Priced After Its Annual Loss Deepened?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/regencell-bioscience-holdings-rgc-fully-141309180.html",
+            "symbol": "COST",
+            "headline": "Walmart Advances 3% as Inflation Data Sends Money Into Defensives; Costco and Target Edge Higher",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-advances-3-inflation-data-180643511.html",
             "score": 0
         },
         {
-            "symbol": "GENK",
-            "headline": "Gen Korean restaurants will be sold to Chubby Cattle Group for $100M",
-            "publisher": "Nation's Restaurant News",
-            "link": "https://finance.yahoo.com/small-business/articles/gen-korean-restaurants-sold-chubby-133433131.html",
+            "symbol": "^VIX",
+            "headline": "You Sold Everything in a Panic and Never Got Back In? Sitting Out Has Cost More Than the Drop Did. These 3 ETFs Are a Way Back",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/options/articles/sold-everything-panic-never-got-203317833.html",
             "score": 0
         },
         {
-            "symbol": "FAST",
-            "headline": "Fastenal Q3 Earnings Beat on Expense Leverage, Sales Miss Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fastenal-q3-earnings-beat-expense-130300678.html",
-            "score": 0
-        },
-        {
-            "symbol": "YRD",
-            "headline": "Yiren Digital Provides Further Update on Operations",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/yiren-digital-provides-further-operations-100000560.html",
+            "symbol": "AFRM",
+            "headline": "Affirm Falls 10% as Inflation Print Lifts Yields; Klarna Drops 3%, PayPal Barely Budges",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-falls-10-inflation-print-164749757.html",
             "score": 0
         }
     ]
