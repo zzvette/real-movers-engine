@@ -1,19 +1,12 @@
 {
-    "timestamp": "2026-10-14T18:12:38.520796+00:00",
+    "timestamp": "2026-10-14T21:38:35.564787+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "GLND",
-                "headline": "Greenland Energy jumps 51% as Trump touts Arctic oil exploration",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/energy/articles/greenland-energy-jumps-51-trump-153000029.html",
-                "score": 3
-            },
-            {
-                "symbol": "CVX",
-                "headline": "Chevron (CVX) Stock Looks Reasonable With Cash Flow Value Above Price",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-stock-looks-reasonable-161327586.html",
+                "symbol": "COST",
+                "headline": "Costco Wholesale Corporation Announces Quarterly Cash Dividend",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-announces-quarterly-201500496.html",
                 "score": 2
             },
             {
@@ -25,107 +18,107 @@
             },
             {
                 "symbol": "CRWV",
-                "headline": "'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market 'irrationally'",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-irrationally-180128363.html",
-                "score": 0
-            },
-            {
-                "symbol": "BSP",
-                "headline": "Stocks to Watch: Bank of America, Skydance, Aramco, Bending Spoons",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/9c369c61-bc34-3a4f-8ce7-4a67a02db5a4/stocks-to-watch%3A-bank-of.html",
-                "score": 0
-            },
-            {
-                "symbol": "BAC",
-                "headline": "BofA (BAC) Q3 2026 Earnings Call Transcript",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-bac-q3-2026-earnings-175815880.html",
+                "headline": "Update: CoreWeave Equity Could Go to Zero if AI Cycle Sputters, D.A. Davidson's Luria Says",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-equity-could-zero-ai-212543918.html",
                 "score": 0
             },
             {
                 "symbol": "DELL",
-                "headline": "Dell Leads Tech Selloff After Barclays Turns Cautious",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dell-leads-tech-selloff-barclays-180414599.html",
+                "headline": "Dell Just Found Out What Gravity Feels Like",
+                "publisher": "Moby",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dell-just-found-gravity-feels-212158568.html",
                 "score": 0
             },
             {
-                "symbol": "SOFI",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020781.html",
+                "symbol": "BSP",
+                "headline": "Stocks to Watch Recap: Bank of America, Skydance, Aramco, Bending Spoons",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/9c369c61-bc34-3a4f-8ce7-4a67a02db5a4/stocks-to-watch-recap%3A-bank.html",
+                "score": 0
+            },
+            {
+                "symbol": "GLND",
+                "headline": "Sector Update: Energy",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/energy/articles/sector-energy-194331123.html",
+                "score": 0
+            },
+            {
+                "symbol": "RKLB",
+                "headline": "Rocket Lab stock falls after delaying Neutron rocket to 2027",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-falls-delaying-212314473.html",
                 "score": 0
             },
             {
                 "symbol": "SKYD",
-                "headline": "Skydance Warrants Play Havoc With Stock Price",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/0647848b-5ea0-34d5-bf26-6515a7e654fe/skydance-warrants-play-havoc.html",
+                "headline": "SKYDANCE PROVIDES DETAILS ON SEPARATE TRADING OF SKYD CLASS B SHARES AND WARRANTS",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/skydance-provides-details-separate-trading-194900933.html",
                 "score": 0
             },
             {
                 "symbol": "^IXIC",
-                "headline": "Stock market today: Hot inflation report drops tech, drives S&P 500, Dow and Nasdaq down",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html",
+                "headline": "Stock Market Today, Oct. 14: Skydance Warrants Begin Separate Trading Today: SKYD Stock Drops 24%",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-212819639.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOFI",
+                "headline": "SoFi Technologies (SOFI) Faces Inflation Pressure, Is It Still 10% Below Fair Value?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-sofi-faces-inflation-201240125.html",
                 "score": 0
             },
             {
                 "symbol": "LQDA",
-                "headline": "LQDA Settles UTHR Disputes for $380.7M, Limits Yutrepia Label",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/healthcare/articles/lqda-settles-uthr-disputes-380-163800607.html",
+                "headline": "Sector Update: Healthcare Stocks Gain Late Afternoon",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-gain-afternoon-195615429.html",
                 "score": 0
             },
             {
                 "symbol": "PFE",
-                "headline": "Valneva to Present and Hold Investor Meetings at Upcoming U.S. and European Healthcare Conferences",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/valneva-present-hold-investor-meetings-154500749.html",
+                "headline": "Better High-Yield Dividend Stock: Pfizer vs. General Mills",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-193438737.html",
                 "score": 0
             },
             {
-                "symbol": "GRML",
-                "headline": "Greenland Mines Applauds President Trump\u2019s Focus on Greenland Mineral Exploration, Reinforcing Its Importance to U.S. and Allied Security",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/energy/articles/greenland-mines-applauds-president-trump-132500669.html",
+                "symbol": "IBRX",
+                "headline": "FDA Expands ANKTIVA\u00ae Approval for BCG-Unresponsive Non-Muscle-Invasive Bladder Cancer to Cover Both Papillary and CIS Disease",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/healthcare/articles/fda-expands-anktiva-approval-bcg-201800954.html",
                 "score": 0
             },
             {
-                "symbol": "DOCN",
-                "headline": "Why Gartner AI Outlook Sent CoreWeave Stock, Neoclouds Reeling",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/e7396a5f-59db-30ad-b0ed-49dbca81119f/why-gartner-ai-outlook-sent.html",
+                "symbol": "NBIS",
+                "headline": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-inch-115448878.html",
                 "score": 0
             },
             {
                 "symbol": "QQQ",
-                "headline": "SK Hynix Sinks 5% as China\u2019s CXMT Aims at Server Memory; Western Digital Drops 4%, Micron Falls 3%",
+                "headline": "Super Micro Is Up 22% in 2026 but It\u2019s Down Today: Take Profits, or Hold On for the Ride?",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-sinks-5-china-180104796.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-22-2026-down-190731752.html",
                 "score": 0
             },
             {
-                "symbol": "HALO",
-                "headline": "Liberty All-Star\u00ae Growth Fund, Inc. September 2026 Monthly Update",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-star-growth-fund-inc-175000337.html",
+                "symbol": "ASML",
+                "headline": "Stocks to Watch Recap: Bank of America, Skydance, Aramco, Bending Spoons",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/9c369c61-bc34-3a4f-8ce7-4a67a02db5a4/stocks-to-watch-recap%3A-bank.html",
                 "score": 0
             },
             {
-                "symbol": "SPY",
-                "headline": "Walmart Advances 3% as Inflation Data Sends Money Into Defensives; Costco and Target Edge Higher",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-advances-3-inflation-data-180643511.html",
-                "score": 0
-            },
-            {
-                "symbol": "COST",
-                "headline": "Walmart Advances 3% as Inflation Data Sends Money Into Defensives; Costco and Target Edge Higher",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-advances-3-inflation-data-180643511.html",
+                "symbol": "TSM",
+                "headline": "Dow Jones Futures: Dell, AMD, CoreWeave Lead Market Sell-Off On AI Fears; Taiwan Semiconductor Due",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-dell%2C-amd%2C.html",
                 "score": 0
             },
             {
@@ -136,10 +129,17 @@
                 "score": 0
             },
             {
-                "symbol": "AFRM",
-                "headline": "Affirm Falls 10% as Inflation Print Lifts Yields; Klarna Drops 3%, PayPal Barely Budges",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-falls-10-inflation-print-164749757.html",
+                "symbol": "GFS",
+                "headline": "GlobalFoundries To Operate Two New Chip Fabs Under U.S.-Japan Alliance",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/5c700306-3b16-36fb-9b17-2ed52b472ede/globalfoundries-to-operate.html",
+                "score": 0
+            },
+            {
+                "symbol": "GRML",
+                "headline": "Greenland Mines Applauds President Trump\u2019s Focus on Greenland Mineral Exploration, Reinforcing Its Importance to U.S. and Allied Security",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/energy/articles/greenland-mines-applauds-president-trump-132500669.html",
                 "score": 0
             }
         ]
