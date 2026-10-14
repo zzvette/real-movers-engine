@@ -1,13 +1,27 @@
 {
-    "timestamp": "2026-10-14T09:19:55.047923+00:00",
+    "timestamp": "2026-10-14T14:19:10.786616+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "LQDA",
-                "headline": "LQDA Explodes After Hours On Deal Ending Years Of Patent Fight, Keeping YUTREPIA On Market",
+                "symbol": "GLND",
+                "headline": "Top Premarket Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111551208.html",
+                "score": 3
+            },
+            {
+                "symbol": "MS",
+                "headline": "Morgan Stanley\u2019s Q3 Report Beats Estimates As Equity Revenue Jumps 41%",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/lqda-explodes-hours-deal-ending-233953516.html",
-                "score": 2
+                "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-q3-report-beats-135532348.html",
+                "score": 3
+            },
+            {
+                "symbol": "STT",
+                "headline": "BlackRock Jumps On Across The Board Earnings Beat; State Street Plummets",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2003bc10-08fb-37ce-a232-c9fea7712372/blackrock-jumps-on-across-the.html",
+                "score": 3
             },
             {
                 "symbol": "AEHL",
@@ -17,59 +31,87 @@
                 "score": 2
             },
             {
-                "symbol": "FRMI",
-                "headline": "Fermi Stock Soars 20% on AMD Deal. Why Analysts See Hurdles Ahead.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/9e38ffcb-e246-39f8-aa01-81abdbf8c8d6/fermi-stock-soars-20%25-on-amd.html",
-                "score": 2
+                "symbol": "BAC",
+                "headline": "Bank of America Faces Internal Turmoil After Senior Executive Amy Lissauer Departs For JPMorgan Chase",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-faces-internal-turmoil-135919640.html",
+                "score": 0
             },
             {
-                "symbol": "JNJ",
-                "headline": "SLS, IBRX Rise Premarket: Funds Raise Their Bets As J&J Stays \u2018On The Lookout\u2019 For Deals",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sls-ibrx-rise-premarket-funds-082420800.html",
-                "score": 2
+                "symbol": "CRWV",
+                "headline": "CoreWeave Stock Could Go to Zero if AI Boom Falters, D.A. Davidson\u2019s Gil Luria Warns",
+                "publisher": "Benzinga Prediction Markets",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-could-zero-ai-133532842.html",
+                "score": 0
             },
             {
                 "symbol": "ASML",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher ahead of CPI inflation data, earnings",
+                "headline": "Stock market today: Dow gains, S&P 500, and Nasdaq decline on hot inflation data",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html",
                 "score": 0
             },
             {
-                "symbol": "BAC",
-                "headline": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-rise-nasdaq-subdued-085140888.html",
+                "symbol": "LQDA",
+                "headline": "Liquidia And United Therapeutics Settle; But Only One Stock Skyrocketed",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6908ae0b-5e01-3331-b5c3-cb6d8b7bc835/liquidia-and-united.html",
                 "score": 0
             },
             {
-                "symbol": "GLND",
-                "headline": "Form 8.3",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-060000009.html",
+                "symbol": "BLK",
+                "headline": "What BlackRock (BLK) Said on Its Q3 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-said-q3-earnings-140230890.html",
+                "score": 0
+            },
+            {
+                "symbol": "BSP",
+                "headline": "Berkshire Invests Another $330 Million in Bending Spoons",
+                "publisher": "Bloomberg",
+                "link": "https://finance.yahoo.com/technology/articles/berkshire-invests-another-330-million-132842229.html",
                 "score": 0
             },
             {
                 "symbol": "SKYD",
-                "headline": "Elite Growth Stocks To Own In October 2026",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/elite-growth-stocks-own-october-121211668.html",
+                "headline": "Skydance Falls 16% as Shares Begin Trading Without Warrant Entitlement; Netflix and Disney Tick Up",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/skydance-falls-16-shares-begin-123648616.html",
                 "score": 0
             },
             {
                 "symbol": "GRML",
-                "headline": "Greenland Mines (GRML) Welcomes EU Strategic Project Designation for Neo Performance Materials Silmet 2.0",
-                "publisher": "NewMediaWire",
-                "link": "https://finance.yahoo.com/energy/articles/greenland-mines-grml-welcomes-eu-183000264.html",
+                "headline": "Greenland Mines Applauds President Trump\u2019s Focus on Greenland Mineral Exploration, Reinforcing Its Importance to U.S. and Allied Security",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/energy/articles/greenland-mines-applauds-president-trump-132500669.html",
                 "score": 0
             },
             {
-                "symbol": "GRAB",
-                "headline": "Why Grab Holdings Limited (GRAB) Dipped More Than Broader Market Today",
+                "symbol": "PGR",
+                "headline": "Progressive (PGR) Q3 Earnings Top Estimates",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-grab-holdings-limited-grab-205004832.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/progressive-pgr-q3-earnings-top-124502129.html",
+                "score": 0
+            },
+            {
+                "symbol": "GME",
+                "headline": "Sector Update: Consumer Stocks Mixed Premarket Wednesday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-premarket-131703061.html",
+                "score": 0
+            },
+            {
+                "symbol": "ES=F",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+                "score": 0
+            },
+            {
+                "symbol": "VSTM",
+                "headline": "Verastem Is Getting a New CEO, $250 Million, and a Shot at Another Cancer Drug",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b21788e7-1aee-31aa-90bd-935ca0fe7519/verastem-is-getting-a-new.html",
                 "score": 0
             },
             {
@@ -80,45 +122,24 @@
                 "score": 0
             },
             {
-                "symbol": "HPE",
-                "headline": "What Changed For HPE Stock, And What Did Not?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/changed-hpe-stock-did-not-181943794.html",
+                "symbol": "GENK",
+                "headline": "Gen Korean restaurants will be sold to Chubby Cattle Group for $100M",
+                "publisher": "Nation's Restaurant News",
+                "link": "https://finance.yahoo.com/small-business/articles/gen-korean-restaurants-sold-chubby-133433131.html",
                 "score": 0
             },
             {
-                "symbol": "CIFR",
-                "headline": "Why Did ASTS, CIFR, JOBY Stocks Plunge To 52-Week Lows Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-asts-cifr-joby-030605730.html",
+                "symbol": "FAST",
+                "headline": "Fastenal Q3 Earnings Beat on Expense Leverage, Sales Miss Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fastenal-q3-earnings-beat-expense-130300678.html",
                 "score": 0
             },
             {
-                "symbol": "CRML",
-                "headline": "USA Rare Earth Drops 6% With Milestone-Based Government Funding Still Ahead of It; MP Materials Falls 6%, Critical Metals Holds Steady",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-drops-6-175511584.html",
-                "score": 0
-            },
-            {
-                "symbol": "DELL",
-                "headline": "SK Group Chief Reportedly Sells $406M Stake To Michael Dell\u2019s Family Office Amid Divorce Settlement",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sk-group-chief-reportedly-sells-084218663.html",
-                "score": 0
-            },
-            {
-                "symbol": "GME",
-                "headline": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-rise-nasdaq-subdued-085140888.html",
-                "score": 0
-            },
-            {
-                "symbol": "BABA",
-                "headline": "Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-fall-roughly-1-204722108.html",
+                "symbol": "YRD",
+                "headline": "Yiren Digital Provides Further Update on Operations",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/yiren-digital-provides-further-operations-100000560.html",
                 "score": 0
             }
         ]
