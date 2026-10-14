@@ -1,11 +1,25 @@
 {
-    "timestamp": "2026-10-14T02:09:50.983602+00:00",
+    "timestamp": "2026-10-14T03:44:52.076114+00:00",
     "catalysts": [
         {
-            "symbol": "AEHL",
-            "headline": "Antelope Enterprise stock falls on $100M share offering plan",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/antelope-enterprise-stock-falls-100m-205430117.html",
+            "symbol": "SLS",
+            "headline": "SLS Stock Jumps Overnight: Retail Sees Big Pharma Buyout Clues In 'M&A Negotiation Lounge' Booth At ASH",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-jumps-overnight-retail-012212201.html",
+            "score": 5
+        },
+        {
+            "symbol": "WFC",
+            "headline": "Wells Fargo & Co (WFC) (Q3 2026) Earnings Call Highlights: EPS Jumps 13% as Revenue Grows ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-co-wfc-q3-230024982.html",
+            "score": 3
+        },
+        {
+            "symbol": "LQDA",
+            "headline": "LQDA Explodes After Hours On Deal Ending Years Of Patent Fight, Keeping YUTREPIA On Market",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/lqda-explodes-hours-deal-ending-233953516.html",
             "score": 2
         },
         {
@@ -16,10 +30,31 @@
             "score": 2
         },
         {
+            "symbol": "CAT",
+            "headline": "Caterpillar (CAT): A Cyclical Machine Maker Meets a Growth-Stock Valuation",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-cyclical-machine-maker-221938259.html",
+            "score": 2
+        },
+        {
             "symbol": "BAC",
-            "headline": "3 RegTech Stocks Investors May Be Watching After Bank Of America\u2019s $1.2b Penalty",
+            "headline": "Bank of America hit with $1.2B penalty over anti-money laundering failures",
+            "publisher": "USA TODAY",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-hit-1-2b-024217754.html",
+            "score": 0
+        },
+        {
+            "symbol": "JNJ",
+            "headline": "Johnson & Johnson (JNJ) (Q3 2026) Earnings Call Highlights: Talc Settlement Weighs on GAAP ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-q3-2026-010026429.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMAT",
+            "headline": "Is Intel (INTC) Turning Its AI Ecosystem Push Into a Durable Foundry Advantage?",
             "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3-regtech-stocks-investors-may-011319673.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-turning-ai-ecosystem-021634811.html",
             "score": 0
         },
         {
@@ -30,24 +65,17 @@
             "score": 0
         },
         {
-            "symbol": "AMAT",
-            "headline": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-muted-chip-012425121.html",
+            "symbol": "SKYD",
+            "headline": "Elite Growth Stocks To Own In October 2026",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/elite-growth-stocks-own-october-121211668.html",
             "score": 0
         },
         {
-            "symbol": "FUN",
-            "headline": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags\u2019 Turnaround Hopes",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/e3049305-c6ee-37db-bf98-171e08594210/goliath-roller-coaster-death.html",
-            "score": 0
-        },
-        {
-            "symbol": "JBDI",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026094.html",
+            "symbol": "BBAI",
+            "headline": "Stock Market Today, Oct. 13: BigBear.ai Shares Gain on $225 Million Contract Awards",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-13-212026151.html",
             "score": 0
         },
         {
@@ -58,24 +86,17 @@
             "score": 0
         },
         {
-            "symbol": "SKYD",
-            "headline": "Elite Growth Stocks To Own In October 2026",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/elite-growth-stocks-own-october-121211668.html",
+            "symbol": "FUN",
+            "headline": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags\u2019 Turnaround Hopes",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/e3049305-c6ee-37db-bf98-171e08594210/goliath-roller-coaster-death.html",
             "score": 0
         },
         {
-            "symbol": "SES",
-            "headline": "SES AI\u2019s Chungju Battery Facility Achieves ISO 9001:2015 Certification for Production of NDAA-Compliant Drone Cells",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/articles/ses-ai-chungju-battery-facility-111500752.html",
-            "score": 0
-        },
-        {
-            "symbol": "GTLB",
-            "headline": "Is GitLab\u2019s (GTLB) Governed AI Push Quietly Redefining Its Long\u2011Term Platform Ambitions?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/gitlab-gtlb-governed-ai-push-121606649.html",
+            "symbol": "CIFR",
+            "headline": "Why Did ASTS, CIFR, JOBY Stocks Plunge To 52-Week Lows Today?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-asts-cifr-joby-030605730.html",
             "score": 0
         },
         {
@@ -86,17 +107,10 @@
             "score": 0
         },
         {
-            "symbol": "GS",
-            "headline": "The Goldman Sachs Group Inc (GS) (Q3 2026) Earnings Call Highlights: Record Advisory Revenues ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-group-inc-gs-010027786.html",
-            "score": 0
-        },
-        {
-            "symbol": "ASML",
-            "headline": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/02b2fe19-36e5-3f96-ac0e-2dc2cf84ceb1/dow-jones-futures%3A-stock.html",
+            "symbol": "TTWO",
+            "headline": "Grand Theft Auto VI Is Weeks Away. Is Take-Two Interactive (TTWO) Still a Buy at a Discount?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/grand-theft-auto-vi-weeks-221940738.html",
             "score": 0
         },
         {
@@ -107,10 +121,24 @@
             "score": 0
         },
         {
-            "symbol": "BBAI",
-            "headline": "Stock Market Today, Oct. 13: BigBear.ai Shares Gain on $225 Million Contract Awards",
+            "symbol": "ASML",
+            "headline": "ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asml-tsmc-report-week-traders-033013514.html",
+            "score": 0
+        },
+        {
+            "symbol": "VLO",
+            "headline": "Why Valero Energy Stock Triumphed Today",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-13-212026151.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-valero-energy-stock-triumphed-003248062.html",
+            "score": 0
+        },
+        {
+            "symbol": "GS",
+            "headline": "The Goldman Sachs Group Inc (GS) (Q3 2026) Earnings Call Highlights: Record Advisory Revenues ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-group-inc-gs-010027786.html",
             "score": 0
         }
     ]
