@@ -1,9 +1,16 @@
 {
-    "timestamp": "2026-10-15T01:23:24.530458+00:00",
+    "timestamp": "2026-10-15T03:25:56.444001+00:00",
     "catalysts": [
         {
             "symbol": "CRWV",
-            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
+            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
+            "score": 0
+        },
+        {
+            "symbol": "DELL",
+            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
             "score": 0
@@ -16,10 +23,10 @@
             "score": 0
         },
         {
-            "symbol": "DELL",
-            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
+            "symbol": "BSP",
+            "headline": "Buffett\u2019s Latest Tech Play: What\u2019s Next for Bending Spoons (BSP) After a 41% Rally?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/buffett-latest-tech-play-next-025055006.html",
             "score": 0
         },
         {
@@ -30,17 +37,17 @@
             "score": 0
         },
         {
-            "symbol": "BSP",
-            "headline": "Stocks to Watch Recap: Bank of America, Skydance, Aramco, Bending Spoons",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/9c369c61-bc34-3a4f-8ce7-4a67a02db5a4/stocks-to-watch-recap%3A-bank.html",
-            "score": 0
-        },
-        {
             "symbol": "GLND",
             "headline": "Sector Update: Energy",
             "publisher": "MT Newswires",
             "link": "https://finance.yahoo.com/energy/articles/sector-energy-194331123.html",
+            "score": 0
+        },
+        {
+            "symbol": "^KS11",
+            "headline": "Global chip sell-off deepens as South Korean market plunges",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html",
             "score": 0
         },
         {
@@ -51,59 +58,24 @@
             "score": 0
         },
         {
-            "symbol": "SOXL",
-            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
-            "score": 0
-        },
-        {
-            "symbol": "ORCL",
-            "headline": "Stock Market Today, Oct. 14: CoreWeave Plummets on Gartner Neocloud Warning and Bond Yield Surge",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-214836987.html",
-            "score": 0
-        },
-        {
-            "symbol": "NBIS",
-            "headline": "Stock Market Today, Oct. 14: CoreWeave Plummets on Gartner Neocloud Warning and Bond Yield Surge",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-214836987.html",
-            "score": 0
-        },
-        {
-            "symbol": "^KS11",
-            "headline": "Stock market today: Hot inflation report drops tech, drives S&P 500, Dow and Nasdaq down",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOXS",
-            "headline": "SOXX Posts Worst Quarter In Over A Year \u2014 Michael Burry Cites An 1880 Story To Flag AI\u2019s \u2018Power-Hungry\u2019 Chip Race",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/soxx-posts-worst-quarter-over-073140075.html",
-            "score": 0
-        },
-        {
-            "symbol": "ES=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOFI",
-            "headline": "Stock Market Today, Oct. 14: SoFi Technologies Falls on Banking Weakness",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-215817008.html",
+            "symbol": "^N225",
+            "headline": "Asian markets sell off as AI trades crumble after hot US CPI data",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-markets-sell-off-ai-005808521.html",
             "score": 0
         },
         {
             "symbol": "SKHY",
-            "headline": "Chip Rout Deepens as Rate Fears Collide With AI Funding Woes",
-            "publisher": "Bloomberg",
-            "link": "https://finance.yahoo.com/technology/articles/chip-rout-deepens-rate-fears-002721466.html",
+            "headline": "Global chip sell-off deepens as South Korean market plunges",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html",
+            "score": 0
+        },
+        {
+            "symbol": "TSM",
+            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
             "score": 0
         },
         {
@@ -114,24 +86,31 @@
             "score": 0
         },
         {
+            "symbol": "SOFI",
+            "headline": "Stock Market Today, Oct. 14: SoFi Technologies Falls on Banking Weakness",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-215817008.html",
+            "score": 0
+        },
+        {
+            "symbol": "KORU",
+            "headline": "Broadcom\u2019s AI Durability Warning Triggers Sharp Drop In SK Hynix, Samsung In Korea; Nvidia's China AI Chip Share Falls As Huawei Closes In",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-durability-warning-triggers-072109558.html",
+            "score": 0
+        },
+        {
+            "symbol": "TQQQ",
+            "headline": "Why Money Market Funds Are So Popular",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/options/articles/why-money-market-funds-popular-184000720.html",
+            "score": 0
+        },
+        {
             "symbol": "GFS",
             "headline": "GlobalFoundries To Operate Two New Chip Fabs Under U.S.-Japan Alliance",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/5c700306-3b16-36fb-9b17-2ed52b472ede/globalfoundries-to-operate.html",
-            "score": 0
-        },
-        {
-            "symbol": "IBRX",
-            "headline": "FDA Expands ANKTIVA\u00ae Approval for BCG-Unresponsive Non-Muscle-Invasive Bladder Cancer to Cover Both Papillary and CIS Disease",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/healthcare/articles/fda-expands-anktiva-approval-bcg-201800954.html",
-            "score": 0
-        },
-        {
-            "symbol": "TSM",
-            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
             "score": 0
         }
     ]
