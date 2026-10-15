@@ -1,60 +1,46 @@
 {
-    "timestamp": "2026-10-15T17:58:03.048881+00:00",
+    "timestamp": "2026-10-15T20:35:05.572503+00:00",
     "catalysts": [
         {
-            "symbol": "RXRX",
-            "headline": "Recursion Prices $200 Million Stock Offering, Sanofi Options Drug Candidate",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/recursion-prices-200-million-stock-134657416.html",
-            "score": 2
+            "symbol": "OPEN",
+            "headline": "Opendoor and Zillow Surge 7% as Long-Term Rates Retreat; Compass Climbs 6%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/real-estate/articles/opendoor-zillow-surge-7-long-155148310.html",
+            "score": 3
         },
         {
-            "symbol": "BBCI",
-            "headline": "Bradbury Capital Holdings Inc. Announces Closing of Business Combination with Technology & Telecommunication Acquisition Corporation and Commencement of Trading on Nasdaq Under Ticker Symbol \"BBCI\".",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bradbury-capital-holdings-inc-announces-143100897.html",
-            "score": 2
+            "symbol": "EBAY",
+            "headline": "eBay Jumps 5% to a 52-Week High on a Recycled GameStop Rumor",
+            "publisher": "Moby",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-jumps-5-52-week-200207628.html",
+            "score": 3
         },
         {
-            "symbol": "KRMN",
-            "headline": "Drone Malaise Weighs on AeroVironment Despite New Connectivity Deal",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/4b85de8b-cd1d-371a-94b1-41bd09a809e7/drone-malaise-weighs-on.html",
+            "symbol": "DVLT",
+            "headline": "CyberCatch Announces Securityholder Approval for Previously Announced Acquisition by Datavault AI Inc.",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cybercatch-announces-securityholder-approval-previously-223000237.html",
             "score": 2
         },
         {
             "symbol": "NKE",
-            "headline": "Stock Market Today: Nasdaq Pares Loss As Yields Dive; Drug Giant Hits All-Time High (Live Coverage)",
+            "headline": "Stock Market Today: Nasdaq Higher As Yields Plunge; Dell Triggers Sell Signals (Live Coverage)",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-nasdaq.html",
             "score": 0
         },
         {
             "symbol": "FMC",
-            "headline": "Why FMC Corporation Stock Just Crashed",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-fmc-corporation-stock-just-161512421.html",
-            "score": 0
-        },
-        {
-            "symbol": "RKLB",
-            "headline": "Why Rocket Lab (RKLB) Shares Are Sliding Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-shares-165627495.html",
-            "score": 0
-        },
-        {
-            "symbol": "TSM",
-            "headline": "Sector Update: Tech Stocks Fall Thursday Afternoon",
+            "headline": "Top Midday Decliners",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-thursday-174132830.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180905891.html",
             "score": 0
         },
         {
-            "symbol": "SCHW",
-            "headline": "The Charles Schwab Corporation Q3 2026 Earnings Call Summary",
-            "publisher": "Moby",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-q3-2026-165038813.html",
+            "symbol": "QS",
+            "headline": "D-Wave Quantum vs. QuantumScape: Here Is the Better Innovative Technology Stock to Buy in 2026",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/articles/d-wave-quantum-vs-quantumscape-054442750.html",
             "score": 0
         },
         {
@@ -65,6 +51,62 @@
             "score": 0
         },
         {
+            "symbol": "RXRX",
+            "headline": "Recursion (RXRX) Enters New Growth Phase as Sanofi Kicks Off Drug Collab, Shares Soar",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/healthcare/articles/recursion-rxrx-enters-growth-phase-193615796.html",
+            "score": 0
+        },
+        {
+            "symbol": "V",
+            "headline": "Visa Stock Hits Fresh Record High \u2013 BMO Raises Price Target To $425 Ahead Of Earnings",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-hits-fresh-record-164519715.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOFI",
+            "headline": "SOFI Rally Could Be a Dead Cat Bounce, Per Signal",
+            "publisher": "Schaeffer's Investment Research",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-rally-could-dead-cat-180031924.html",
+            "score": 0
+        },
+        {
+            "symbol": "WULF",
+            "headline": "WULF Stock Set For Biggest Weekly Loss Of 2026, Morgan Stanley Says Shares Are \u2018Mispriced\u2019",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wulf-stock-set-biggest-weekly-164509431.html",
+            "score": 0
+        },
+        {
+            "symbol": "AFRM",
+            "headline": "SoFi  Technologies Imploded in 2026: A Wall Street Pro Predicts It Will Double in 2027",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-imploded-2026-wall-144522917.html",
+            "score": 0
+        },
+        {
+            "symbol": "NOW",
+            "headline": "Why ServiceNow (NOW) Stock Is Trading Up Today",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-now-stock-trading-193109693.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOUN",
+            "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-inc-soun-dips-204503997.html",
+            "score": 0
+        },
+        {
+            "symbol": "MAN",
+            "headline": "Milwaukee-based Manpower names first new CEO in more than 12 years",
+            "publisher": "Milwaukee Journal Sentinel",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/milwaukee-based-manpower-names-first-184107490.html",
+            "score": 0
+        },
+        {
             "symbol": "OPK",
             "headline": "BD's Revello Stent Shows Strong AGILITY Trial Results for PAD Patients",
             "publisher": "Zacks",
@@ -72,66 +114,31 @@
             "score": 0
         },
         {
-            "symbol": "EBAY",
-            "headline": "Stock Market Today: Nasdaq Pares Loss As Yields Dive; Drug Giant Hits All-Time High (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-nasdaq.html",
-            "score": 0
-        },
-        {
-            "symbol": "MAN",
-            "headline": "Why ManpowerGroup (MAN) Shares Are Getting Obliterated Today",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-manpowergroup-man-shares-getting-171227118.html",
-            "score": 0
-        },
-        {
-            "symbol": "APPN",
-            "headline": "Appian builds out critical minerals platform with senior appointments and Washington, D.C. expansion",
+            "symbol": "SPRC",
+            "headline": "SciSparc Announces Transformation into Agentic AI-Powered Technologies, Including Cybersecurity and Finance Technologies",
             "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/energy/articles/appian-builds-critical-minerals-platform-130000298.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/scisparc-announces-transformation-agentic-ai-110600950.html",
             "score": 0
         },
         {
-            "symbol": "LULU",
-            "headline": "Why Nike Stock Was Climbing Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-nike-stock-climbing-today-174641328.html",
+            "symbol": "RKLB",
+            "headline": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/b61ef3fb-faa8-3fbd-ac69-17bb9f9b3266/rocket-lab-stock-tumbles-on.html",
             "score": 0
         },
         {
-            "symbol": "VICR",
-            "headline": "Should You Buy, Sell, or Hold Vicor Stock Before Q3 Earnings Release?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-vicor-stock-162800787.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPCX",
-            "headline": "SpaceX CEO Elon Musk Teases \u2018X Shop\u2019 After Amazon Shuts Out Grok Agents",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ceo-elon-musk-teases-172145082.html",
-            "score": 0
-        },
-        {
-            "symbol": "ELF",
-            "headline": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
-            "publisher": "Marketing Dive",
-            "link": "https://finance.yahoo.com/media-advertising/articles/e-l-f-cosmetics-returns-155900873.html",
-            "score": 0
-        },
-        {
-            "symbol": "V",
-            "headline": "What The PNC Financial Services Group (PNC) Said on Its Q3 Earnings Call",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/pnc-financial-services-group-pnc-170224006.html",
-            "score": 0
-        },
-        {
-            "symbol": "VEEV",
-            "headline": "Veeva Systems' Research and Development Growth Tracking to Plan, Oppenheimer Says",
+            "symbol": "XYZ",
+            "headline": "UBS Adjusts Block Price Target to $96 From $98, Maintains Buy Rating",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/veeva-systems-apos-research-development-160312114.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-block-price-target-144934701.html",
+            "score": 0
+        },
+        {
+            "symbol": "FNMA",
+            "headline": "Is Experian (LSE:EXPN) Using Mortgage Score Flexibility To Deepen Its Moat In Lending Data?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/real-estate/articles/experian-lse-expn-using-mortgage-001608166.html",
             "score": 0
         }
     ]
