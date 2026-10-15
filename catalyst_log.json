@@ -1,32 +1,25 @@
 {
-    "timestamp": "2026-10-15T03:25:56.444001+00:00",
+    "timestamp": "2026-10-15T08:31:52.807074+00:00",
     "catalysts": [
         {
-            "symbol": "CRWV",
-            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
+            "symbol": "TSM",
+            "headline": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dive-1-ai-082517898.html",
             "score": 0
         },
         {
-            "symbol": "DELL",
-            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
+            "symbol": "CRWV",
+            "headline": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dive-1-ai-082517898.html",
             "score": 0
         },
         {
             "symbol": "RKLB",
-            "headline": "Rocket Lab Falls After Neutron Rocket Debut Delayed to 2027",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/rocket-lab-falls-neutron-rocket-225057581.html",
-            "score": 0
-        },
-        {
-            "symbol": "BSP",
-            "headline": "Buffett\u2019s Latest Tech Play: What\u2019s Next for Bending Spoons (BSP) After a 41% Rally?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/buffett-latest-tech-play-next-025055006.html",
+            "headline": "Rocket Lab Retail Mood Hits All-Time Low After Neutron Delay \u2014 Can Takeover Target Iridium\u2019s Earnings Turn The Tide?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-retail-mood-hits-032251153.html",
             "score": 0
         },
         {
@@ -37,80 +30,80 @@
             "score": 0
         },
         {
-            "symbol": "GLND",
-            "headline": "Sector Update: Energy",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/energy/articles/sector-energy-194331123.html",
+            "symbol": "BSP",
+            "headline": "Buffett\u2019s Latest Tech Play: What\u2019s Next for Bending Spoons (BSP) After a 41% Rally?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/buffett-latest-tech-play-next-025055006.html",
             "score": 0
         },
         {
-            "symbol": "^KS11",
-            "headline": "Global chip sell-off deepens as South Korean market plunges",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html",
+            "symbol": "DELL",
+            "headline": "US Stock Market Today: S&P 500 Futures Edge Up On Energy Driven Inflation Focus",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203137.html",
             "score": 0
         },
         {
             "symbol": "QQQ",
-            "headline": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-doesnt-own-single-234301632.html",
+            "headline": "Michael Burry Warns Wall Street\u2019s \u2018Pain Trade\u2019 Can Last As Mag 7 Weakness Could Deepen \u2018Red October\u2019 Call",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-wall-street-072757968.html",
+            "score": 0
+        },
+        {
+            "symbol": "NBIS",
+            "headline": "CRWV, NBIS, IREN Stocks Extend Slide Overnight: Retail Eyes The Dip As CoreWeave CEO Says Market Acting \u2018Irrationally\u2019",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-iren-stocks-extend-022022268.html",
+            "score": 0
+        },
+        {
+            "symbol": "^KS11",
+            "headline": "Deepening tech sell-off drags stocks lower as major markets slide",
+            "publisher": "Euronews",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/deepening-tech-sell-off-drags-041902749.html",
+            "score": 0
+        },
+        {
+            "symbol": "^VIX",
+            "headline": "You Sold Everything in a Panic and Never Got Back In? Sitting Out Has Cost More Than the Drop Did. These 3 ETFs Are a Way Back",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/options/articles/sold-everything-panic-never-got-203317833.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOFI",
+            "headline": "Why Did SOFI, PLUG, ASTS Stocks Plunge To 52-Week Lows?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-sofi-plug-asts-042608638.html",
             "score": 0
         },
         {
             "symbol": "^N225",
-            "headline": "Asian markets sell off as AI trades crumble after hot US CPI data",
+            "headline": "Tech stocks tumble as data centre debt worries hit AI trades",
             "publisher": "Reuters",
             "link": "https://finance.yahoo.com/markets/stocks/articles/asian-markets-sell-off-ai-005808521.html",
             "score": 0
         },
         {
-            "symbol": "SKHY",
-            "headline": "Global chip sell-off deepens as South Korean market plunges",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html",
-            "score": 0
-        },
-        {
-            "symbol": "TSM",
-            "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html",
-            "score": 0
-        },
-        {
-            "symbol": "SQQQ",
-            "headline": "AI Safety Concerns Surge: ETFs to Watch as Tech Faces New Risks",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/ai/articles/ai-safety-concerns-surge-etfs-151500159.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOFI",
-            "headline": "Stock Market Today, Oct. 14: SoFi Technologies Falls on Banking Weakness",
+            "symbol": "SOXL",
+            "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-215817008.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155502191.html",
             "score": 0
         },
         {
-            "symbol": "KORU",
-            "headline": "Broadcom\u2019s AI Durability Warning Triggers Sharp Drop In SK Hynix, Samsung In Korea; Nvidia's China AI Chip Share Falls As Huawei Closes In",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-durability-warning-triggers-072109558.html",
+            "symbol": "ORCL",
+            "headline": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dive-1-ai-082517898.html",
             "score": 0
         },
         {
-            "symbol": "TQQQ",
-            "headline": "Why Money Market Funds Are So Popular",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/options/articles/why-money-market-funds-popular-184000720.html",
-            "score": 0
-        },
-        {
-            "symbol": "GFS",
-            "headline": "GlobalFoundries To Operate Two New Chip Fabs Under U.S.-Japan Alliance",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/5c700306-3b16-36fb-9b17-2ed52b472ede/globalfoundries-to-operate.html",
+            "symbol": "GLND",
+            "headline": "Sector Update: Energy",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/energy/articles/sector-energy-194331123.html",
             "score": 0
         }
     ]
