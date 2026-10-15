@@ -1,40 +1,40 @@
 {
-    "timestamp": "2026-10-15T20:35:05.572503+00:00",
+    "timestamp": "2026-10-15T22:54:58.496704+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "OPEN",
-                "headline": "Opendoor and Zillow Surge 7% as Long-Term Rates Retreat; Compass Climbs 6%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/real-estate/articles/opendoor-zillow-surge-7-long-155148310.html",
+                "headline": "Opendoor (OPEN) Rebounds From Record Low: Two Catalysts That Could Drive Its Next Move",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/opendoor-open-rebounds-record-low-212734145.html",
                 "score": 3
-            },
-            {
-                "symbol": "EBAY",
-                "headline": "eBay Jumps 5% to a 52-Week High on a Recycled GameStop Rumor",
-                "publisher": "Moby",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-jumps-5-52-week-200207628.html",
-                "score": 3
-            },
-            {
-                "symbol": "DVLT",
-                "headline": "CyberCatch Announces Securityholder Approval for Previously Announced Acquisition by Datavault AI Inc.",
-                "publisher": "TMX Newsfile",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cybercatch-announces-securityholder-approval-previously-223000237.html",
-                "score": 2
             },
             {
                 "symbol": "NKE",
-                "headline": "Stock Market Today: Nasdaq Higher As Yields Plunge; Dell Triggers Sell Signals (Live Coverage)",
+                "headline": "Stock Market Today: Dow Pops 550 Points As Yields Sink; Dell Sets Off Sell Signals",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-nasdaq.html",
+                "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-dow-pops.html",
                 "score": 0
             },
             {
                 "symbol": "FMC",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180905891.html",
+                "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-international.html",
+                "score": 0
+            },
+            {
+                "symbol": "AA",
+                "headline": "Alcoa Earnings Were a Relief, and the Stock Looks Cheap",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/431e6ee5-c020-3143-a775-7434e1b72d3f/alcoa-earnings-were-a-relief%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBKR",
+                "headline": "Interactive Brokers Group, Inc. Q3 2026 Earnings: Recap of $IBKR Earnings Call, Stock Forecast",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-inc-q3-224057489.html",
                 "score": 0
             },
             {
@@ -60,44 +60,37 @@
             },
             {
                 "symbol": "V",
-                "headline": "Visa Stock Hits Fresh Record High \u2013 BMO Raises Price Target To $425 Ahead Of Earnings",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-hits-fresh-record-164519715.html",
+                "headline": "Visa (V) Outperforms Broader Market: What You Need to Know",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-outperforms-broader-market-204502954.html",
                 "score": 0
             },
             {
-                "symbol": "SOFI",
-                "headline": "SOFI Rally Could Be a Dead Cat Bounce, Per Signal",
-                "publisher": "Schaeffer's Investment Research",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-rally-could-dead-cat-180031924.html",
+                "symbol": "JBHT",
+                "headline": "First look: J.B. Hunt\u2019s Q3 earnings",
+                "publisher": "FreightWaves",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/first-look-j-b-hunt-211754707.html",
                 "score": 0
             },
             {
-                "symbol": "WULF",
-                "headline": "WULF Stock Set For Biggest Weekly Loss Of 2026, Morgan Stanley Says Shares Are \u2018Mispriced\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wulf-stock-set-biggest-weekly-164509431.html",
+                "symbol": "ELF",
+                "headline": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
+                "publisher": "Marketing Dive",
+                "link": "https://finance.yahoo.com/media-advertising/articles/e-l-f-cosmetics-returns-155900873.html",
                 "score": 0
             },
             {
-                "symbol": "AFRM",
-                "headline": "SoFi  Technologies Imploded in 2026: A Wall Street Pro Predicts It Will Double in 2027",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-imploded-2026-wall-144522917.html",
+                "symbol": "EBAY",
+                "headline": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html",
                 "score": 0
             },
             {
                 "symbol": "NOW",
-                "headline": "Why ServiceNow (NOW) Stock Is Trading Up Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-now-stock-trading-193109693.html",
-                "score": 0
-            },
-            {
-                "symbol": "SOUN",
-                "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-inc-soun-dips-204503997.html",
+                "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-international.html",
                 "score": 0
             },
             {
@@ -108,6 +101,27 @@
                 "score": 0
             },
             {
+                "symbol": "TEAM",
+                "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-international.html",
+                "score": 0
+            },
+            {
+                "symbol": "WULF",
+                "headline": "WULF Stock Set For Biggest Weekly Loss Of 2026, Morgan Stanley Says Shares Are \u2018Mispriced\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wulf-stock-set-biggest-weekly-164509431.html",
+                "score": 0
+            },
+            {
+                "symbol": "APPN",
+                "headline": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html",
+                "score": 0
+            },
+            {
                 "symbol": "OPK",
                 "headline": "BD's Revello Stent Shows Strong AGILITY Trial Results for PAD Patients",
                 "publisher": "Zacks",
@@ -115,31 +129,17 @@
                 "score": 0
             },
             {
-                "symbol": "SPRC",
-                "headline": "SciSparc Announces Transformation into Agentic AI-Powered Technologies, Including Cybersecurity and Finance Technologies",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/scisparc-announces-transformation-agentic-ai-110600950.html",
+                "symbol": "KD",
+                "headline": "RUM Group, Everpure, WEBTOON, Magnite, and Kyndryl Shares Are Falling, What You Need To Know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rum-group-everpure-webtoon-magnite-195607907.html",
                 "score": 0
             },
             {
-                "symbol": "RKLB",
-                "headline": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b61ef3fb-faa8-3fbd-ac69-17bb9f9b3266/rocket-lab-stock-tumbles-on.html",
-                "score": 0
-            },
-            {
-                "symbol": "XYZ",
-                "headline": "UBS Adjusts Block Price Target to $96 From $98, Maintains Buy Rating",
+                "symbol": "SMTC",
+                "headline": "Semtech Raises Fiscal Q3 Adjusted EPS, Revenue Guidance; Shares Gain After Hours",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-block-price-target-144934701.html",
-                "score": 0
-            },
-            {
-                "symbol": "FNMA",
-                "headline": "Is Experian (LSE:EXPN) Using Mortgage Score Flexibility To Deepen Its Moat In Lending Data?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/real-estate/articles/experian-lse-expn-using-mortgage-001608166.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/semtech-raises-fiscal-q3-adjusted-215132402.html",
                 "score": 0
             }
         ]
