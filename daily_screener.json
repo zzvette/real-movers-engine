@@ -1,89 +1,103 @@
 {
-    "timestamp": "2026-10-15T08:31:52.807074+00:00",
+    "timestamp": "2026-10-15T13:54:37.036925+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "TSM",
-                "headline": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dive-1-ai-082517898.html",
-                "score": 0
+                "symbol": "PAG",
+                "headline": "PAG Stock Surges Today \u2013 Everything To Know About Its $16.3B Take-Private Deal",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pag-stock-surges-today-everything-133329393.html",
+                "score": 5
             },
             {
-                "symbol": "CRWV",
-                "headline": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dive-1-ai-082517898.html",
+                "symbol": "COST",
+                "headline": "Walmart Climbs 3% on Deutsche Bank Upgrade; Costco and Target Tick Up",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-climbs-3-deutsche-bank-130212678.html",
+                "score": 3
+            },
+            {
+                "symbol": "TSM",
+                "headline": "Stock market today: S&P 500, Nasdaq slip as chip sell-off continues",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/copy-stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-122056767.html",
                 "score": 0
             },
             {
                 "symbol": "RKLB",
-                "headline": "Rocket Lab Retail Mood Hits All-Time Low After Neutron Delay \u2014 Can Takeover Target Iridium\u2019s Earnings Turn The Tide?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-retail-mood-hits-032251153.html",
+                "headline": "Rocket Lab stock tumbles as first Neutron launch slips to 2027",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/rocket-lab-stock-tumbles-as-first-neutron-launch-slips-to-2027-134158470.html",
                 "score": 0
             },
             {
-                "symbol": "NQ=F",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",
+                "symbol": "CRWV",
+                "headline": "Stock market today: S&P 500, Nasdaq slip as chip sell-off continues",
                 "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+                "link": "https://finance.yahoo.com/markets/live/copy-stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-122056767.html",
+                "score": 0
+            },
+            {
+                "symbol": "SCHW",
+                "headline": "Schwab Stock Falls Despite Beating Q3 Earnings Estimates",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/9392195b-e1ad-3682-aeb9-5b892c102498/schwab-stock-falls-despite.html",
                 "score": 0
             },
             {
                 "symbol": "BSP",
-                "headline": "Buffett\u2019s Latest Tech Play: What\u2019s Next for Bending Spoons (BSP) After a 41% Rally?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/buffett-latest-tech-play-next-025055006.html",
+                "headline": "Company News for Oct 15, 2026",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-oct-15-2026-123000430.html",
                 "score": 0
             },
             {
-                "symbol": "DELL",
-                "headline": "US Stock Market Today: S&P 500 Futures Edge Up On Energy Driven Inflation Focus",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203137.html",
+                "symbol": "WMT",
+                "headline": "Walmart stock moves higher after Deutsche Bank upgrades stock to Buy, raises price target",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-moves-higher-after-deutsche-bank-upgrades-stock-to-buy-raises-price-target-134810355.html",
                 "score": 0
             },
             {
-                "symbol": "QQQ",
-                "headline": "Michael Burry Warns Wall Street\u2019s \u2018Pain Trade\u2019 Can Last As Mag 7 Weakness Could Deepen \u2018Red October\u2019 Call",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-wall-street-072757968.html",
+                "symbol": "FMC",
+                "headline": "FMC Stock Plummets 46% on Horrendous Guidance",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/e7de32ab-f47c-3855-b951-a07424f5d9db/fmc-stock-plummets-46%25-on.html",
                 "score": 0
             },
             {
-                "symbol": "NBIS",
-                "headline": "CRWV, NBIS, IREN Stocks Extend Slide Overnight: Retail Eyes The Dip As CoreWeave CEO Says Market Acting \u2018Irrationally\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-iren-stocks-extend-022022268.html",
+                "symbol": "OPK",
+                "headline": "Opko Health stock soars on $722M BioReference asset sale",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/opko-health-stock-soars-722m-134515130.html",
                 "score": 0
             },
             {
-                "symbol": "^KS11",
-                "headline": "Deepening tech sell-off drags stocks lower as major markets slide",
-                "publisher": "Euronews",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/deepening-tech-sell-off-drags-041902749.html",
+                "symbol": "PLD",
+                "headline": "Form 8.3",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-132100117.html",
                 "score": 0
             },
             {
-                "symbol": "^VIX",
-                "headline": "You Sold Everything in a Panic and Never Got Back In? Sitting Out Has Cost More Than the Drop Did. These 3 ETFs Are a Way Back",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/options/articles/sold-everything-panic-never-got-203317833.html",
+                "symbol": "BNY",
+                "headline": "TGE Value Creative Solutions Celebrates Recent NYSE Listing: NYSE Content Update",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/tge-value-creative-solutions-celebrates-125500705.html",
                 "score": 0
             },
             {
-                "symbol": "SOFI",
-                "headline": "Why Did SOFI, PLUG, ASTS Stocks Plunge To 52-Week Lows?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-sofi-plug-asts-042608638.html",
+                "symbol": "ERIC",
+                "headline": "Sector Update: Tech Stocks Fall Premarket Thursday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-130550296.html",
                 "score": 0
             },
             {
-                "symbol": "^N225",
-                "headline": "Tech stocks tumble as data centre debt worries hit AI trades",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/asian-markets-sell-off-ai-005808521.html",
+                "symbol": "PFE",
+                "headline": "Where Could Johnson & Johnson's Next Growth Come From?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/healthcare/articles/where-could-johnson-johnsons-next-130929550.html",
                 "score": 0
             },
             {
@@ -94,17 +108,24 @@
                 "score": 0
             },
             {
-                "symbol": "ORCL",
-                "headline": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dive-1-ai-082517898.html",
+                "symbol": "MRSH",
+                "headline": "Update: Marsh & McLennan Shares Rise After Q3 Adjusted Earnings, Revenue Beat Consensus",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-shares-rise-q3-134308349.html",
                 "score": 0
             },
             {
-                "symbol": "GLND",
-                "headline": "Sector Update: Energy",
+                "symbol": "USB",
+                "headline": "Compared to Estimates, U.S. Bancorp (USB) Q3 Earnings: A Look at Key Metrics",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-u-bancorp-usb-123006222.html",
+                "score": 0
+            },
+            {
+                "symbol": "PNC",
+                "headline": "Sector Update: Financial Stocks Edge Higher Premarket Thursday",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/sector-energy-194331123.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-higher-131610296.html",
                 "score": 0
             }
         ]
