@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-15T22:54:58.496704+00:00",
+    "timestamp": "2026-10-15T23:14:48.252247+00:00",
     "signals": {
         "catalysts": [
             {
@@ -25,16 +25,9 @@
             },
             {
                 "symbol": "AA",
-                "headline": "Alcoa Earnings Were a Relief, and the Stock Looks Cheap",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/431e6ee5-c020-3143-a775-7434e1b72d3f/alcoa-earnings-were-a-relief%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "IBKR",
-                "headline": "Interactive Brokers Group, Inc. Q3 2026 Earnings: Recap of $IBKR Earnings Call, Stock Forecast",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-inc-q3-224057489.html",
+                "headline": "What Alcoa (AA) Said on Its Q3 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alcoa-aa-said-q3-earnings-230242270.html",
                 "score": 0
             },
             {
@@ -42,6 +35,41 @@
                 "headline": "D-Wave Quantum vs. QuantumScape: Here Is the Better Innovative Technology Stock to Buy in 2026",
                 "publisher": "Motley Fool",
                 "link": "https://finance.yahoo.com/technology/articles/d-wave-quantum-vs-quantumscape-054442750.html",
+                "score": 0
+            },
+            {
+                "symbol": "IBKR",
+                "headline": "Interactive Brokers Group Q3 Earnings Call Highlights",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-q3-earnings-230241305.html",
+                "score": 0
+            },
+            {
+                "symbol": "KMB",
+                "headline": "Kimberly Clark (KMB) Stock Trades At A Discount As Shares Fell 13%",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-kmb-stock-trades-211701728.html",
+                "score": 0
+            },
+            {
+                "symbol": "SCHW",
+                "headline": "Stocks to Watch Recap: CoreWeave, TSMC, Rocket Lab, Schwab",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/70a99c58-0c3e-301e-a3fc-1183203be3eb/stocks-to-watch-recap%3A.html",
+                "score": 0
+            },
+            {
+                "symbol": "VFC",
+                "headline": "How Bad Would Falling Sales Be For Lululemon Stock?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bad-falling-sales-lululemon-stock-175132469.html",
+                "score": 0
+            },
+            {
+                "symbol": "V",
+                "headline": "Visa (V) Outperforms Broader Market: What You Need to Know",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-outperforms-broader-market-204502954.html",
                 "score": 0
             },
             {
@@ -59,41 +87,6 @@
                 "score": 0
             },
             {
-                "symbol": "V",
-                "headline": "Visa (V) Outperforms Broader Market: What You Need to Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-outperforms-broader-market-204502954.html",
-                "score": 0
-            },
-            {
-                "symbol": "JBHT",
-                "headline": "First look: J.B. Hunt\u2019s Q3 earnings",
-                "publisher": "FreightWaves",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/first-look-j-b-hunt-211754707.html",
-                "score": 0
-            },
-            {
-                "symbol": "ELF",
-                "headline": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
-                "publisher": "Marketing Dive",
-                "link": "https://finance.yahoo.com/media-advertising/articles/e-l-f-cosmetics-returns-155900873.html",
-                "score": 0
-            },
-            {
-                "symbol": "EBAY",
-                "headline": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "NOW",
-                "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-international.html",
-                "score": 0
-            },
-            {
                 "symbol": "MAN",
                 "headline": "Milwaukee-based Manpower names first new CEO in more than 12 years",
                 "publisher": "Milwaukee Journal Sentinel",
@@ -101,24 +94,24 @@
                 "score": 0
             },
             {
-                "symbol": "TEAM",
-                "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-international.html",
-                "score": 0
-            },
-            {
-                "symbol": "WULF",
-                "headline": "WULF Stock Set For Biggest Weekly Loss Of 2026, Morgan Stanley Says Shares Are \u2018Mispriced\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wulf-stock-set-biggest-weekly-164509431.html",
-                "score": 0
-            },
-            {
                 "symbol": "APPN",
-                "headline": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
+                "headline": "Dow Jones Futures: Disney, Salesforce Lead 12 Buys After Wild Session; Tesla Roadster On Tap",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "EBAY",
+                "headline": "Dow Jones Futures: Disney, Salesforce Lead 12 Buys After Wild Session; Tesla Roadster On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "JMKE",
+                "headline": "Cathie Wood-Backed Biotech IPO Pops in Debut",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/dc6c9af3-cf9a-33b2-9176-32e37766e57f/cathie-wood-backed-biotech.html",
                 "score": 0
             },
             {
@@ -129,17 +122,17 @@
                 "score": 0
             },
             {
-                "symbol": "KD",
-                "headline": "RUM Group, Everpure, WEBTOON, Magnite, and Kyndryl Shares Are Falling, What You Need To Know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rum-group-everpure-webtoon-magnite-195607907.html",
+                "symbol": "NOW",
+                "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today\u2019s Market",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-international.html",
                 "score": 0
             },
             {
-                "symbol": "SMTC",
-                "headline": "Semtech Raises Fiscal Q3 Adjusted EPS, Revenue Guidance; Shares Gain After Hours",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/semtech-raises-fiscal-q3-adjusted-215132402.html",
+                "symbol": "JBHT",
+                "headline": "First look: J.B. Hunt\u2019s Q3 earnings",
+                "publisher": "FreightWaves",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/first-look-j-b-hunt-211754707.html",
                 "score": 0
             }
         ]
