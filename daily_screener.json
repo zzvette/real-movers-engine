@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-15T17:55:29.031258+00:00",
+    "timestamp": "2026-10-15T17:58:03.048881+00:00",
     "signals": {
         "catalysts": [
             {
@@ -112,13 +112,6 @@
                 "headline": "SpaceX CEO Elon Musk Teases \u2018X Shop\u2019 After Amazon Shuts Out Grok Agents",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ceo-elon-musk-teases-172145082.html",
-                "score": 0
-            },
-            {
-                "symbol": "SPRC",
-                "headline": "SciSparc Announces Transformation into Agentic AI-Powered Technologies, Including Cybersecurity and Finance Technologies",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/scisparc-announces-transformation-agentic-ai-110600950.html",
                 "score": 0
             },
             {
