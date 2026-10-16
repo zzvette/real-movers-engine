@@ -1,33 +1,19 @@
 {
-    "timestamp": "2026-10-16T03:21:46.149342+00:00",
+    "timestamp": "2026-10-16T08:26:01.448032+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "^JKSE",
-                "headline": "Indonesian Stocks Near Bull Market as DCI Indonesia Profit Jumps 19%",
+                "symbol": "NKE",
+                "headline": "KOSPI Rebounds 3%, but Fed Rate Hike Fears Could Cap the Recovery",
                 "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/indonesian-stocks-near-bull-market-033840496.html",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/kospi-rebounds-3-fed-rate-034516329.html",
                 "score": 3
             },
             {
-                "symbol": "OPEN",
-                "headline": "Opendoor (OPEN) Rebounds From Record Low: Two Catalysts That Could Drive Its Next Move",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/opendoor-open-rebounds-record-low-212734145.html",
-                "score": 3
-            },
-            {
-                "symbol": "TSLA",
-                "headline": "Dow Jones Futures Rise; Anthropic Valuation Report, Flying Tesla Roadster In Focus",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B.html",
-                "score": 2
-            },
-            {
-                "symbol": "UPST",
-                "headline": "Upstart Holdings (UPST) Adds Credit Union Partner, Is The 38% Undervaluation Case Convincing?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-upst-adds-credit-021436267.html",
+                "symbol": "AA",
+                "headline": "AA Stock Rises Overnight: Alcoa CEO Bets On Massena East For Cash Pump As Alumina Market Tightens",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/aa-stock-rises-overnight-alcoa-080349113.html",
                 "score": 2
             },
             {
@@ -38,17 +24,24 @@
                 "score": 2
             },
             {
-                "symbol": "NKE",
-                "headline": "Stock Market Today: Dow Pops 550 Points As Yields Sink; Dell Sets Off Sell Signals",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-dow-pops.html",
+                "symbol": "UPST",
+                "headline": "Upstart Holdings (UPST) Adds Credit Union Partner, Is The 38% Undervaluation Case Convincing?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-upst-adds-credit-021436267.html",
+                "score": 2
+            },
+            {
+                "symbol": "TSLA",
+                "headline": "Tesla unveils Roadster featuring compressed air thrusters for limited flight",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/tesla-unveils-roadster-featuring-compressed-air-thrusters-for-limited-flight-015532745.html",
                 "score": 0
             },
             {
-                "symbol": "FMC",
-                "headline": "FMC Stock Sinks as Q3 Guidance Disappoints",
-                "publisher": "Barchart",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-stock-sinks-q3-guidance-203141884.html",
+                "symbol": "SPCX",
+                "headline": "Tesla unveils Roadster featuring compressed air thrusters for limited flight",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/tesla-unveils-roadster-featuring-compressed-air-thrusters-for-limited-flight-015532745.html",
                 "score": 0
             },
             {
@@ -59,24 +52,17 @@
                 "score": 0
             },
             {
-                "symbol": "IBKR",
-                "headline": "Interactive Brokers Group Q3 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-q3-earnings-230241305.html",
+                "symbol": "FMC",
+                "headline": "FMC Stock Sinks as Q3 Guidance Disappoints",
+                "publisher": "Barchart",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-stock-sinks-q3-guidance-203141884.html",
                 "score": 0
             },
             {
-                "symbol": "AA",
-                "headline": "Alcoa (AA) Stock Looks Reasonable On Its 72% Three Year Run",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alcoa-aa-stock-looks-reasonable-232132682.html",
-                "score": 0
-            },
-            {
-                "symbol": "RXRX",
-                "headline": "Recursion (RXRX) Enters New Growth Phase as Sanofi Kicks Off Drug Collab, Shares Soar",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/healthcare/articles/recursion-rxrx-enters-growth-phase-193615796.html",
+                "symbol": "^JKSE",
+                "headline": "Indonesian Stocks Dive as MSCI Weighs Downgrade to Standalone Market",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/38e0c3b1-c60b-340b-aeee-c165060066be/indonesian-stocks-dive-as.html",
                 "score": 0
             },
             {
@@ -87,38 +73,17 @@
                 "score": 0
             },
             {
-                "symbol": "NOW",
-                "headline": "Nvidia, Cisco Among Tech Firms Donating to Trump White House Ballroom",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/articles/nvidia-cisco-among-tech-firms-235948048.html",
+                "symbol": "OPEN",
+                "headline": "Why Did CRWV, OPEN, SOFI Stocks Tumble To 52-Week Lows Today?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-crwv-open-sofi-041528122.html",
                 "score": 0
             },
             {
-                "symbol": "KMB",
-                "headline": "Kimberly Clark (KMB) Stock Trades At A Discount As Shares Fell 13%",
+                "symbol": "RGC",
+                "headline": "Is Regencell Bioscience Holdings (RGC) Fully Priced After Its Annual Loss Deepened?",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-kmb-stock-trades-211701728.html",
-                "score": 0
-            },
-            {
-                "symbol": "SCHW",
-                "headline": "Earnings Beat Might Change The Case For Investing In Schwab Stock (SCHW)",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-might-change-case-021935084.html",
-                "score": 0
-            },
-            {
-                "symbol": "TTD",
-                "headline": "AppLovin Stock Has One Thing Left To Prove",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-one-thing-left-202707492.html",
-                "score": 0
-            },
-            {
-                "symbol": "V",
-                "headline": "Visa (V) Outperforms Broader Market: What You Need to Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-outperforms-broader-market-204502954.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/regencell-bioscience-holdings-rgc-fully-141309180.html",
                 "score": 0
             },
             {
@@ -129,10 +94,31 @@
                 "score": 0
             },
             {
-                "symbol": "MRNA",
-                "headline": "MRNA Stock Hits Fresh 52-Week Highs As Goldman Raises Target Ahead Of Melanoma Vaccine Data",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-hits-fresh-52-194242646.html",
+                "symbol": "IBKR",
+                "headline": "Interactive Brokers Group Inc (IBKR) Q3 2026 Earnings Call Highlights: Record Pretax Profit, ...",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-inc-ibkr-050110989.html",
+                "score": 0
+            },
+            {
+                "symbol": "RXRX",
+                "headline": "Recursion (RXRX) Enters New Growth Phase as Sanofi Kicks Off Drug Collab, Shares Soar",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/healthcare/articles/recursion-rxrx-enters-growth-phase-193615796.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOW",
+                "headline": "CrowdStrike vs. ServiceNow: Comparing Revenue Trends Between These Growing Software Giants",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-servicenow-comparing-revenue-065307716.html",
+                "score": 0
+            },
+            {
+                "symbol": "TTD",
+                "headline": "AppLovin Stock Has One Thing Left To Prove",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-one-thing-left-202707492.html",
                 "score": 0
             }
         ]
