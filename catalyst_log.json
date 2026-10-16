@@ -1,18 +1,18 @@
 {
-    "timestamp": "2026-10-16T08:26:01.448032+00:00",
+    "timestamp": "2026-10-16T13:44:00.836762+00:00",
     "catalysts": [
         {
-            "symbol": "NKE",
-            "headline": "KOSPI Rebounds 3%, but Fed Rate Hike Fears Could Cap the Recovery",
-            "publisher": "BeInCrypto",
-            "link": "https://finance.yahoo.com/markets/world-indices/articles/kospi-rebounds-3-fed-rate-034516329.html",
-            "score": 3
+            "symbol": "CRM",
+            "headline": "Dow Jones Futures: Tesla Flies On Roadster As Investors Question Anthropic Valuation",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-tesla.html",
+            "score": 2
         },
         {
             "symbol": "AA",
-            "headline": "AA Stock Rises Overnight: Alcoa CEO Bets On Massena East For Cash Pump As Alumina Market Tightens",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/aa-stock-rises-overnight-alcoa-080349113.html",
+            "headline": "Alcoa Q3 Earnings Call Highlights AliGroup Deal and Cost Pressures",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/alcoa-q3-earnings-call-highlights-114300318.html",
             "score": 2
         },
         {
@@ -23,24 +23,17 @@
             "score": 2
         },
         {
-            "symbol": "UPST",
-            "headline": "Upstart Holdings (UPST) Adds Credit Union Partner, Is The 38% Undervaluation Case Convincing?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-upst-adds-credit-021436267.html",
-            "score": 2
-        },
-        {
             "symbol": "TSLA",
-            "headline": "Tesla unveils Roadster featuring compressed air thrusters for limited flight",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq mixed amid volatile week",
             "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/tesla-unveils-roadster-featuring-compressed-air-thrusters-for-limited-flight-015532745.html",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
             "score": 0
         },
         {
-            "symbol": "SPCX",
-            "headline": "Tesla unveils Roadster featuring compressed air thrusters for limited flight",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/tesla-unveils-roadster-featuring-compressed-air-thrusters-for-limited-flight-015532745.html",
+            "symbol": "NKE",
+            "headline": "Sector Update: Consumer Stocks Advance Premarket Friday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-premarket-130723158.html",
             "score": 0
         },
         {
@@ -51,31 +44,38 @@
             "score": 0
         },
         {
+            "symbol": "TFC",
+            "headline": "Sector Update: Financial Stocks Rise Premarket Friday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-premarket-131549199.html",
+            "score": 0
+        },
+        {
+            "symbol": "NOW",
+            "headline": "ServiceNow Stocks Surge 5.33% as AI Passport Adds a New Enterprise Control Layer",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-stocks-surge-5-33-123852886.html",
+            "score": 0
+        },
+        {
+            "symbol": "TRV",
+            "headline": "Sector Update: Financial Stocks Rise Premarket Friday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-premarket-131549199.html",
+            "score": 0
+        },
+        {
             "symbol": "FMC",
-            "headline": "FMC Stock Sinks as Q3 Guidance Disappoints",
-            "publisher": "Barchart",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-stock-sinks-q3-guidance-203141884.html",
+            "headline": "Workday downgraded, Fox Corp. upgraded: Wall Street's top analyst calls",
+            "publisher": "The Fly",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/workday-downgraded-fox-corp-upgraded-133833134.html",
             "score": 0
         },
         {
-            "symbol": "^JKSE",
-            "headline": "Indonesian Stocks Dive as MSCI Weighs Downgrade to Standalone Market",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/38e0c3b1-c60b-340b-aeee-c165060066be/indonesian-stocks-dive-as.html",
-            "score": 0
-        },
-        {
-            "symbol": "TSLL",
-            "headline": "ETF League Tables: Direxion Drops $95M",
-            "publisher": "etf.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-direxion-drops-210031040.html",
-            "score": 0
-        },
-        {
-            "symbol": "OPEN",
-            "headline": "Why Did CRWV, OPEN, SOFI Stocks Tumble To 52-Week Lows Today?",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-crwv-open-sofi-041528122.html",
+            "symbol": "ZETA",
+            "headline": "Goldman Sachs Upgrades Zeta Global to Buy From Neutral, Price Target is $45",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-upgrades-zeta-global-100300584.html",
             "score": 0
         },
         {
@@ -86,38 +86,59 @@
             "score": 0
         },
         {
-            "symbol": "QNT",
-            "headline": "Morgan Stanley Just Upgraded Quantinuum Stock. Here's Why.",
-            "publisher": "Barchart",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-quantinuum-210110251.html",
+            "symbol": "GUTS",
+            "headline": "Fractyl Health's Revita Meets Six-Month Co-Primary Endpoint in Ongoing REMAIN-1 Pivotal Study, With Highly Statistically Significant Reduction in Weight Regain After GLP-1 Discontinuation",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/fractyl-healths-revita-meets-six-110000677.html",
             "score": 0
         },
         {
-            "symbol": "IBKR",
-            "headline": "Interactive Brokers Group Inc (IBKR) Q3 2026 Earnings Call Highlights: Record Pretax Profit, ...",
+            "symbol": "OPEN",
+            "headline": "3 Volatile Stocks We Approach with Caution",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-volatile-stocks-approach-caution-094739515.html",
+            "score": 0
+        },
+        {
+            "symbol": "XLAB",
+            "headline": "Exascale Labs Holdings Inc. Reports 111% Revenue Growth for Full Fiscal Year 2026 and Provides Business Update Following Successful Nasdaq Listing",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/exascale-labs-holdings-inc-reports-203000645.html",
+            "score": 0
+        },
+        {
+            "symbol": "RF",
+            "headline": "Regions Financial (RF) Reports Q3 Earnings: What Key Metrics Have to Say",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/regions-financial-rf-reports-q3-123004779.html",
+            "score": 0
+        },
+        {
+            "symbol": "NFLX",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq mixed amid volatile week",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
+            "score": 0
+        },
+        {
+            "symbol": "TSLL",
+            "headline": "ETF League Tables: Direxion Drops $95M",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-direxion-drops-210031040.html",
+            "score": 0
+        },
+        {
+            "symbol": "PEP",
+            "headline": "PepsiCo Warns Popular Drink Could Vanish From Shelves",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-inc-ibkr-050110989.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-warns-popular-drink-could-131723978.html",
             "score": 0
         },
         {
-            "symbol": "RXRX",
-            "headline": "Recursion (RXRX) Enters New Growth Phase as Sanofi Kicks Off Drug Collab, Shares Soar",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/healthcare/articles/recursion-rxrx-enters-growth-phase-193615796.html",
-            "score": 0
-        },
-        {
-            "symbol": "NOW",
-            "headline": "CrowdStrike vs. ServiceNow: Comparing Revenue Trends Between These Growing Software Giants",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-servicenow-comparing-revenue-065307716.html",
-            "score": 0
-        },
-        {
-            "symbol": "TTD",
-            "headline": "AppLovin Stock Has One Thing Left To Prove",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-one-thing-left-202707492.html",
+            "symbol": "MSTR",
+            "headline": "Space Innovation Unit Voices Support for Montana Spaceport & Test Range Following President Trump's \"Super Range\" Announcement",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/space-innovation-unit-voices-support-131600730.html",
             "score": 0
         }
     ]
