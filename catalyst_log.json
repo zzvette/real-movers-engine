@@ -1,6 +1,13 @@
 {
-    "timestamp": "2026-10-16T17:42:43.879906+00:00",
+    "timestamp": "2026-10-16T17:43:58.278739+00:00",
     "catalysts": [
+        {
+            "symbol": "PLTR",
+            "headline": "Palantir's record breakout unravels as software stocks shed $260 billion",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/palantirs-record-breakout-unravels-as-software-stocks-shed-260-billion-174307974.html",
+            "score": 3
+        },
         {
             "symbol": "^IXIC",
             "headline": "Stock Market Today: Nasdaq Stung As ServiceNow Dives After Breakout; Tesla Comes Back To Earth (Live Coverage)",
@@ -41,13 +48,6 @@
             "headline": "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/a764bc3f-d121-374d-982b-6a1e478db235/sell-off-in-cybersecurity.html",
-            "score": 0
-        },
-        {
-            "symbol": "PLTR",
-            "headline": "Zeta Global Stock Rises as Goldman Lifts Target to $45",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-stock-rises-goldman-164807565.html",
             "score": 0
         },
         {
