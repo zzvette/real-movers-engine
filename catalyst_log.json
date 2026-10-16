@@ -1,40 +1,26 @@
 {
-    "timestamp": "2026-10-16T17:43:58.278739+00:00",
+    "timestamp": "2026-10-16T20:04:58.189634+00:00",
     "catalysts": [
         {
-            "symbol": "PLTR",
-            "headline": "Palantir's record breakout unravels as software stocks shed $260 billion",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/palantirs-record-breakout-unravels-as-software-stocks-shed-260-billion-174307974.html",
+            "symbol": "^VIX",
+            "headline": "Wall Street\u2019s Fear Gauge Flashes Red as Stocks Tumble, Oil Surges, and Tech Reels",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/dfedd9ee-a683-3b39-bb56-71b9086f7021/wall-street%E2%80%99s-fear-gauge.html",
             "score": 3
+        },
+        {
+            "symbol": "PLTR",
+            "headline": "Okta, Datadog, Palantir Technologies, Zscaler, and Elastic Shares Are Falling, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/okta-datadog-palantir-technologies-zscaler-195539415.html",
+            "score": 0
         },
         {
             "symbol": "^IXIC",
-            "headline": "Stock Market Today: Nasdaq Stung As ServiceNow Dives After Breakout; Tesla Comes Back To Earth (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/13e48d09-0976-3082-81ba-a828960757d8/stock-market-today%3A-nasdaq.html",
-            "score": 3
-        },
-        {
-            "symbol": "TSLA",
-            "headline": "SpaceX Earnings Due Amid AI Revenue Surge, Tesla Merger Buzz",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/cf765310-a5f1-33be-a2ed-39ba4441e750/spacex-earnings-due-amid-ai.html",
-            "score": 2
-        },
-        {
-            "symbol": "PANW",
-            "headline": "Cybersecurity Stocks Slide as AI Financing Jitters Spread: Palo Alto Falls 7%, SentinelOne Sinks 9%, Zscaler Drops 6%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-slide-ai-financing-165659411.html",
-            "score": 2
-        },
-        {
-            "symbol": "SLS",
-            "headline": "SLS, IBRX Rise Premarket: Funds Raise Their Bets As J&J Stays \u2018On The Lookout\u2019 For Deals",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sls-ibrx-rise-premarket-funds-082420800.html",
-            "score": 2
+            "headline": "Stock market today: Tech selloff weighs on stocks to end volatile week",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
+            "score": 0
         },
         {
             "symbol": "XLAB",
@@ -44,31 +30,59 @@
             "score": 0
         },
         {
+            "symbol": "QQQ",
+            "headline": "Trade Desk Is Now Down 67% This Year: Is TTD Stock Dead Money or Due for a Bounce?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-now-down-67-185728793.html",
+            "score": 0
+        },
+        {
+            "symbol": "TSLA",
+            "headline": "Nearly 12,000 California residents bought EVs using state rebate program",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/news/nearly-12-000-california-residents-191535725.html",
+            "score": 0
+        },
+        {
+            "symbol": "^GSPC",
+            "headline": "Stock market today: Tech selloff weighs on stocks to end volatile week",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
+            "score": 0
+        },
+        {
             "symbol": "CRWD",
-            "headline": "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/a764bc3f-d121-374d-982b-6a1e478db235/sell-off-in-cybersecurity.html",
+            "headline": "Qualys, DigitalOcean, Twilio, CrowdStrike, and MongoDB Shares Are Falling, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/qualys-digitalocean-twilio-crowdstrike-mongodb-193139491.html",
+            "score": 0
+        },
+        {
+            "symbol": "PANW",
+            "headline": "Snowflake, Atlassian, Bandwidth, Five9, and Palo Alto Networks Stocks Trade Down, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-atlassian-bandwidth-five9-palo-193939143.html",
+            "score": 0
+        },
+        {
+            "symbol": "TQQQ",
+            "headline": "Why Money Market Funds Are So Popular",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/options/articles/why-money-market-funds-popular-184000720.html",
             "score": 0
         },
         {
             "symbol": "MSTR",
-            "headline": "Strategy Pushes Back Against MSCI Index Exclusion Proposal, Calls Rules \u2018Discriminatory\u2019",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-pushes-back-against-msci-163256710.html",
+            "headline": "MSCI Gets Ready to Show Saylor\u2019s Strategy the Door",
+            "publisher": "Moby",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/msci-gets-ready-show-saylor-190331126.html",
             "score": 0
         },
         {
-            "symbol": "QQQ",
-            "headline": "Exchange-Traded Funds Drop as US Equities Fall After Midday",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-drop-us-171357763.html",
-            "score": 0
-        },
-        {
-            "symbol": "TWLO",
-            "headline": "Wall Street Bulls Look Optimistic About Twilio (TWLO): Should You Buy?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-123005816.html",
+            "symbol": "VOO",
+            "headline": "Beyond LLMs: Modern Machine Learning is Changing Investing",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/beyond-llms-modern-machine-learning-095744789.html",
             "score": 0
         },
         {
@@ -79,6 +93,27 @@
             "score": 0
         },
         {
+            "symbol": "TWLO",
+            "headline": "Qualys, DigitalOcean, Twilio, CrowdStrike, and MongoDB Shares Are Falling, What You Need To Know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/qualys-digitalocean-twilio-crowdstrike-mongodb-193139491.html",
+            "score": 0
+        },
+        {
+            "symbol": "APLD",
+            "headline": "Applied Digital Sinks 4% as Rotation Out of Debt-Funded AI Builders Extends; TeraWulf Dips 3%, Core Scientific Retreats 2%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-sinks-4-rotation-135346259.html",
+            "score": 0
+        },
+        {
+            "symbol": "UVIX",
+            "headline": "The stock market\u2019s calm is cracking. Here\u2019s how to prepare for an August shock.",
+            "publisher": "MarketWatch",
+            "link": "https://finance.yahoo.com/markets/options/articles/stock-market-calm-cracking-prepare-215300668.html",
+            "score": 0
+        },
+        {
             "symbol": "SMCI",
             "headline": "Has Buying HPE Stock's Dips Paid Off?",
             "publisher": "Trefis",
@@ -86,59 +121,10 @@
             "score": 0
         },
         {
-            "symbol": "AA",
-            "headline": "Alcoa plans to sell part of its Massena East site for $315M",
-            "publisher": "Manufacturing Dive",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/alcoa-plans-sell-part-massena-162700154.html",
-            "score": 0
-        },
-        {
-            "symbol": "CBRS",
-            "headline": "Harvard Now Has $68 Billion, and Its Largest Stock Holding Is SpaceX",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/harvard-now-68-billion-largest-144018670.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPY",
-            "headline": "Rocket Lab Drops 6% as Citizens Cuts Target Over Neutron Delay; Planet Labs Slides 5%, SpaceX Slips",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-drops-6-citizens-165146779.html",
-            "score": 0
-        },
-        {
-            "symbol": "BP",
-            "headline": "5 Stock Ideas for Your Short List",
+            "symbol": "SQQQ",
+            "headline": "AI Safety Concerns Surge: ETFs to Watch as Tech Faces New Risks",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/5-stock-ideas-short-list-145700049.html",
-            "score": 0
-        },
-        {
-            "symbol": "OKTA",
-            "headline": "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/a764bc3f-d121-374d-982b-6a1e478db235/sell-off-in-cybersecurity.html",
-            "score": 0
-        },
-        {
-            "symbol": "MDB",
-            "headline": "MongoDB (MDB) Laps the Stock Market: Here's Why",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-laps-stock-market-211505586.html",
-            "score": 0
-        },
-        {
-            "symbol": "COP",
-            "headline": "Will ConocoPhillips (COP) Gain on Rising Earnings Estimates?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-gain-rising-earnings-152001513.html",
-            "score": 0
-        },
-        {
-            "symbol": "MSTY",
-            "headline": "The YieldMax Fund That Doesn\u2019t Blow Up: A Target 12% From 50 Blue Chips",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-fund-doesn-t-blow-135110541.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ai-safety-concerns-surge-etfs-151500159.html",
             "score": 0
         }
     ]
