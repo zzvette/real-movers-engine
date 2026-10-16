@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-15T23:14:48.252247+00:00",
+    "timestamp": "2026-10-16T01:01:15.953266+00:00",
     "signals": {
         "catalysts": [
             {
@@ -8,6 +8,20 @@
                 "publisher": "Insider Monkey",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/opendoor-open-rebounds-record-low-212734145.html",
                 "score": 3
+            },
+            {
+                "symbol": "APPN",
+                "headline": "Dow Jones Futures: Techs Slide On Anthropic Valuation Report; Tesla Roadster On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-techs.html",
+                "score": 2
+            },
+            {
+                "symbol": "EBAY",
+                "headline": "Dow Jones Futures: Techs Slide On Anthropic Valuation Report; Tesla Roadster On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-techs.html",
+                "score": 2
             },
             {
                 "symbol": "NKE",
@@ -25,9 +39,9 @@
             },
             {
                 "symbol": "AA",
-                "headline": "What Alcoa (AA) Said on Its Q3 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alcoa-aa-said-q3-earnings-230242270.html",
+                "headline": "Alcoa (AA) Stock Looks Reasonable On Its 72% Three Year Run",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alcoa-aa-stock-looks-reasonable-232132682.html",
                 "score": 0
             },
             {
@@ -94,20 +108,6 @@
                 "score": 0
             },
             {
-                "symbol": "APPN",
-                "headline": "Dow Jones Futures: Disney, Salesforce Lead 12 Buys After Wild Session; Tesla Roadster On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "EBAY",
-                "headline": "Dow Jones Futures: Disney, Salesforce Lead 12 Buys After Wild Session; Tesla Roadster On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html",
-                "score": 0
-            },
-            {
                 "symbol": "JMKE",
                 "headline": "Cathie Wood-Backed Biotech IPO Pops in Debut",
                 "publisher": "Barrons.com",
@@ -123,16 +123,23 @@
             },
             {
                 "symbol": "NOW",
-                "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today\u2019s Market",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-international.html",
+                "headline": "Nvidia, Cisco Among Tech Firms Donating to Trump White House Ballroom",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/articles/nvidia-cisco-among-tech-firms-235948048.html",
                 "score": 0
             },
             {
                 "symbol": "JBHT",
-                "headline": "First look: J.B. Hunt\u2019s Q3 earnings",
-                "publisher": "FreightWaves",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/first-look-j-b-hunt-211754707.html",
+                "headline": "J.B. Hunt Turns to Price Increases as Costs Rise",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/304e76db-ab1d-3cdc-bbe6-c103f56b0afa/j.b.-hunt-turns-to-price.html",
+                "score": 0
+            },
+            {
+                "symbol": "WULF",
+                "headline": "WULF Stock Set For Biggest Weekly Loss Of 2026, Morgan Stanley Says Shares Are \u2018Mispriced\u2019",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wulf-stock-set-biggest-weekly-164509431.html",
                 "score": 0
             }
         ]
