@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-16T22:45:41.137330+00:00",
+    "timestamp": "2026-10-17T00:46:31.724058+00:00",
     "catalysts": [
         {
             "symbol": "PLTR",
@@ -7,6 +7,13 @@
             "publisher": "Motley Fool",
             "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-16-220948538.html",
             "score": 2
+        },
+        {
+            "symbol": "TSLA",
+            "headline": "Stocktwits Zero To Sixty \u2014 Tesla\u2019s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-zero-sixty-tesla-roadster-003321425.html",
+            "score": 0
         },
         {
             "symbol": "^VIX",
@@ -17,16 +24,9 @@
         },
         {
             "symbol": "^IXIC",
-            "headline": "Stock Market Today, Oct. 16: Opendoor Slides on Fresh 52-Week Lows Amid Higher Debt Costs",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-16-222129475.html",
-            "score": 0
-        },
-        {
-            "symbol": "TSLA",
-            "headline": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers \u2014 AAPL, MSTR, UBER, SOXX In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-records-worst-week-221534484.html",
+            "headline": "Review & Preview: AI Bloodbath",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/0640b2a5-eee6-3ee8-a573-0e02d9653649/review-%26-preview%3A-ai-bloodbath.html",
             "score": 0
         },
         {
@@ -34,20 +34,6 @@
             "headline": "Exascale Labs Holdings Inc. Reports 111% Revenue Growth for Full Fiscal Year 2026 and Provides Business Update Following Successful Nasdaq Listing",
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/exascale-labs-holdings-inc-reports-203000645.html",
-            "score": 0
-        },
-        {
-            "symbol": "QQQ",
-            "headline": "Billionaire Investor Flags a Troubling Twist in AI Boom",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-flags-troubling-twist-210206609.html",
-            "score": 0
-        },
-        {
-            "symbol": "^GSPC",
-            "headline": "Stock Market Today, Oct. 16: Opendoor Slides on Fresh 52-Week Lows Amid Higher Debt Costs",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-16-222129475.html",
             "score": 0
         },
         {
@@ -65,17 +51,10 @@
             "score": 0
         },
         {
-            "symbol": "TQQQ",
-            "headline": "Why Money Market Funds Are So Popular",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/options/articles/why-money-market-funds-popular-184000720.html",
-            "score": 0
-        },
-        {
-            "symbol": "CL=F",
-            "headline": "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
-            "publisher": "CryptoProwl",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-crypto-under-pressure-214400014.html",
+            "symbol": "^GSPC",
+            "headline": "Is Amgen Stock Increasing Your Market Risk?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-increasing-market-risk-001353632.html",
             "score": 0
         },
         {
@@ -86,17 +65,10 @@
             "score": 0
         },
         {
-            "symbol": "SU",
-            "headline": "Halfway Through October, Diesel Is Setting the Terms for the Entire Energy Market",
-            "publisher": "CNW Group",
-            "link": "https://finance.yahoo.com/energy/articles/halfway-october-diesel-setting-terms-113000824.html",
-            "score": 0
-        },
-        {
-            "symbol": "BZ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
+            "symbol": "PANW",
+            "headline": "CrowdStrike Stock Fell 7% on Friday. Here\u2019s What Could Drive Shares Through 2026",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-fell-7-friday-222439553.html",
             "score": 0
         },
         {
@@ -107,10 +79,10 @@
             "score": 0
         },
         {
-            "symbol": "PANW",
-            "headline": "CrowdStrike Stock Fell 7% on Friday. Here\u2019s What Could Drive Shares Through 2026",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-fell-7-friday-222439553.html",
+            "symbol": "BZ=F",
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
             "score": 0
         },
         {
@@ -121,17 +93,31 @@
             "score": 0
         },
         {
-            "symbol": "SQQQ",
-            "headline": "AI Safety Concerns Surge: ETFs to Watch as Tech Faces New Risks",
+            "symbol": "BP",
+            "headline": "Kinder Morgan to Report Q3 Earnings: What's in Store for the Stock?",
             "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/ai/articles/ai-safety-concerns-surge-etfs-151500159.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-report-q3-earnings-170500934.html",
             "score": 0
         },
         {
-            "symbol": "CVX",
-            "headline": "Coca-Cola, Visa and Mastercard Hit Records as Investors Rotate Out of Chip Stocks",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/f547526c-55f6-33da-9b20-bad443c7f965/coca-cola%2C-visa-and.html",
+            "symbol": "KMI",
+            "headline": "Kinder Morgan to Report Q3 Earnings: What's in Store for the Stock?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-report-q3-earnings-170500934.html",
+            "score": 0
+        },
+        {
+            "symbol": "CL=F",
+            "headline": "3 Canadian Growth Stocks With Earnings Growth Up To 67%",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-001558491.html",
+            "score": 0
+        },
+        {
+            "symbol": "XOM",
+            "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-200054695.html",
             "score": 0
         }
     ]
