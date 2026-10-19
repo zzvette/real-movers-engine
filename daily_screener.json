@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-10-19T16:10:07.953123+00:00",
+    "timestamp": "2026-10-19T19:32:27.778265+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "SLN",
-                "headline": "Silence Therapeutics jumps 59% on Merck takeover",
-                "publisher": "Proactive",
-                "link": "https://finance.yahoo.com/healthcare/articles/silence-therapeutics-jumps-59-merck-152000555.html",
+                "symbol": "IRON",
+                "headline": "Top Midday Gainers",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-181947451.html",
                 "score": 3
             },
             {
-                "symbol": "APLD",
-                "headline": "AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6%",
+                "symbol": "DJT",
+                "headline": "Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market",
                 "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stocks-rally-selloff-130219230.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-drops-7-while-175651287.html",
                 "score": 3
             },
             {
@@ -24,38 +24,73 @@
                 "score": 2
             },
             {
-                "symbol": "CLF",
-                "headline": "Top Midday Stories: Musk Vows to Give SpaceX Shares to Every US Child; Cleveland-Cliffs Swings to Q3 Profit",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-musk-vows-160214051.html",
-                "score": 0
+                "symbol": "CELH",
+                "headline": "Celsius Holdings, Inc. (CELH) Has Three Energy Brands. Can Earnings Catch Up With Its Valuation?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-holdings-inc-celh-three-153143325.html",
+                "score": 2
             },
             {
                 "symbol": "AMZN",
-                "headline": "Amazon stock pops after Morgan Stanley details 5 catalysts, lifts price target",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-pops-after-morgan-stanley-details-5-catalysts-lifts-price-target-140841569.html",
+                "headline": "Amazon (AMZN) Stock Costs $250 a Share. Here's Why I'd Still Buy It.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-costs-250-192500154.html",
                 "score": 0
             },
             {
-                "symbol": "IRON",
-                "headline": "Disc Medicine\u2019s Bitopertin Nails Phase III Endpoints, Eyes FDA Resubmission",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/healthcare/articles/disc-medicine-bitopertin-nails-phase-160224831.html",
+                "symbol": "CLF",
+                "headline": "Stocks to Watch: Amazon, CoreWeave, French Banks",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/c5b53f62-e189-3600-9c7a-c0702ac39349/stocks-to-watch%3A-amazon%2C.html",
                 "score": 0
             },
             {
-                "symbol": "RIVN",
-                "headline": "Buy, Hold or Sell TSLA Stock? Key Tips Ahead of Q3 Earnings",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-tsla-stock-114800195.html",
+                "symbol": "SLN",
+                "headline": "Merck KgaA Is Paying More Than Double for This Gene-Silencing Biotech, Which Is Soaring 125%",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/2a6ec847-4d7c-3d62-889b-1dc6d73b77bb/merck-kgaa-is-paying-more.html",
                 "score": 0
             },
             {
                 "symbol": "EYPT",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017355.html",
+                "headline": "Top Midday Decliners",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-184751907.html",
+                "score": 0
+            },
+            {
+                "symbol": "QXO",
+                "headline": "QXO (QXO) Has an $18 Billion Revenue Base. Can Earnings Grow in a Housing Slump?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/real-estate/articles/qxo-qxo-18-billion-revenue-180508218.html",
+                "score": 0
+            },
+            {
+                "symbol": "PR",
+                "headline": "Zacks.com featured highlights include Halozyme Therapeutics, GigaCloud Technology, Lindblad Expeditions, Permian Resources and Chevron",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-halozyme-120000048.html",
+                "score": 0
+            },
+            {
+                "symbol": "STWD",
+                "headline": "Retire on Dividends Alone: The Super-High-Yield Stocks Boomers Are Buying and Never Selling",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/retire-dividends-alone-super-high-121926206.html",
+                "score": 0
+            },
+            {
+                "symbol": "NAUT",
+                "headline": "Nautilus Biotechnology to Announce Third Quarter 2026 Financial Results on October 27, 2026",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/nautilus-biotechnology-announce-third-quarter-120000573.html",
+                "score": 0
+            },
+            {
+                "symbol": "FUFU",
+                "headline": "BitFuFu September Bitcoin Output Slips to 167 BTC, Holdings Edge Up to 1,388",
+                "publisher": "CryptoProwl",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitfufu-september-bitcoin-output-slips-220100820.html",
                 "score": 0
             },
             {
@@ -66,24 +101,24 @@
                 "score": 0
             },
             {
-                "symbol": "IBRX",
-                "headline": "ImmunityBio Reports Phase 3 Data Showing 84% Cystectomy Avoidance at Three Years and Complete Responses Beyond 53 Months with ANKTIVA\u00ae Plus BCG in BCG-Unresponsive NMIBC With CIS, With or Without Papillary Tumors",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-reports-phase-3-data-154900100.html",
+                "symbol": "ALM",
+                "headline": "Oppenheimer Adjusts Almonty Industries PT to $19 From $25, Maintains Outperform Rating",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-almonty-industries-pt-124057130.html",
                 "score": 0
             },
             {
-                "symbol": "META",
-                "headline": "Meta Stock Extends Slide As Big Earnings Test Approaches",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/c48341ec-b155-3cee-9458-5db9f5d5549c/meta-stock-extends-slide-as.html",
+                "symbol": "ARQT",
+                "headline": "Arcutis Soars 12% as Guggenheim Lifts Target to $44 on \u201cGrowing Conviction\u201d in 2027",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/arcutis-soars-12-guggenheim-lifts-171326281.html",
                 "score": 0
             },
             {
-                "symbol": "FUFU",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017355.html",
+                "symbol": "AGNC",
+                "headline": "Here's What $10,000 in Each of These 5 High-Yield Dividend Stocks Could Pay You in a Year",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-10-000-5-high-145000008.html",
                 "score": 0
             },
             {
@@ -94,52 +129,17 @@
                 "score": 0
             },
             {
-                "symbol": "GLAS",
-                "headline": "Glass House Brands Reports Preliminary Unaudited Third Quarter Financial Results and Resignation of John Nichols Jr. from Board of Directors",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/glass-house-brands-reports-preliminary-113000852.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Investor: \u2018I Turned AMD Into $16 Million and Sold Everything, Did I Quit Too Soon?\u2019",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/investor-turned-amd-16-million-155948015.html",
-                "score": 0
-            },
-            {
-                "symbol": "MOS",
-                "headline": "Earnings Preview: What to Expect From Mosaic\u2019s Report",
-                "publisher": "Barchart",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-mosaic-report-184625575.html",
-                "score": 0
-            },
-            {
-                "symbol": "DX",
-                "headline": "Dynex Capital Q3 Earnings Call Highlights",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dynex-capital-q3-earnings-call-160223944.html",
-                "score": 0
-            },
-            {
-                "symbol": "SAFX",
-                "headline": "BC-Most Active Stocks",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017355.html",
-                "score": 0
-            },
-            {
-                "symbol": "OKLO",
-                "headline": "Should You Sell Your NuScale Power Stock Now?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sell-nuscale-power-stock-now-015925000.html",
-                "score": 0
-            },
-            {
                 "symbol": "AIBZ",
                 "headline": "Google's $13 Billion Nordic Bet Points to a New Global Front in the AI Power Race",
                 "publisher": "MarketBeat",
                 "link": "https://finance.yahoo.com/technology/ai/articles/googles-13-billion-nordic-bet-131000630.html",
+                "score": 0
+            },
+            {
+                "symbol": "^BKX",
+                "headline": "US bank stocks' longest losing streak since 2008 clashes with earnings picture",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/us-bank-stocks-longest-losing-streak-since-2008-clashes-with-earnings-picture-165407807.html",
                 "score": 0
             }
         ]
