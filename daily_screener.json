@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-19T03:29:14.328879+00:00",
+    "timestamp": "2026-10-19T09:15:33.349618+00:00",
     "signals": {
         "catalysts": [
             {
@@ -10,6 +10,20 @@
                 "score": 3
             },
             {
+                "symbol": "BE",
+                "headline": "BE Stock Jumps Premarket Into Earnings Week: Retail Bets On 40% Pop As Wall Street Eyes Strong Q3 Growth",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-jumps-premarket-earnings-week-082106823.html",
+                "score": 3
+            },
+            {
+                "symbol": "CL=F",
+                "headline": "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
+                "publisher": "Bloomberg",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-82-000-041512162.html",
+                "score": 3
+            },
+            {
                 "symbol": "ES=F",
                 "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
                 "publisher": "Yahoo Finance",
@@ -17,25 +31,11 @@
                 "score": 3
             },
             {
-                "symbol": "BE",
-                "headline": "Fuel Cell Deal Could Be A Game Changer For American Electric Power Company (AEP)",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/fuel-cell-deal-could-game-020758767.html",
-                "score": 2
-            },
-            {
-                "symbol": "IREN",
-                "headline": "CRWV, NBIS, IREN Bounce Overnight After Brutal Week \u2014 But Industry Execs Reportedly See Only A Few Neocloud Survivors",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-iren-bounce-overnight-023124992.html",
-                "score": 0
-            },
-            {
-                "symbol": "^VIX",
-                "headline": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
-                "publisher": "Bloomberg",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ahead-220725997.html",
-                "score": 0
+                "symbol": "YM=F",
+                "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+                "score": 3
             },
             {
                 "symbol": "AVGO",
@@ -45,10 +45,17 @@
                 "score": 0
             },
             {
-                "symbol": "CL=F",
-                "headline": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html",
+                "symbol": "INTC",
+                "headline": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-sndk-us-045442852.html",
+                "score": 0
+            },
+            {
+                "symbol": "IREN",
+                "headline": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/technology/ai/articles/could-only-own-1-artificial-052000576.html",
                 "score": 0
             },
             {
@@ -59,10 +66,66 @@
                 "score": 0
             },
             {
+                "symbol": "^VIX",
+                "headline": "Tom Lee Says Last Week's Stock Selloff Sets Up a Buy in Crypto, Semis",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-last-weeks-055500464.html",
+                "score": 0
+            },
+            {
+                "symbol": "XLAB",
+                "headline": "Exascale Labs Holdings Inc. Reports 111% Revenue Growth for Full Fiscal Year 2026 and Provides Business Update Following Successful Nasdaq Listing",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/exascale-labs-holdings-inc-reports-203000645.html",
+                "score": 0
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "LITE, CRWV, NBIS, AMAT, SMCI Were Among Last Week\u2019s Biggest AI-Linked Losers: Which Stocks Are Flashing Oversold Signals?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/lite-crwv-nbis-amat-smci-090111887.html",
+                "score": 0
+            },
+            {
+                "symbol": "SAFX",
+                "headline": "XCF Global CEO Updates Shareholders Following Recent Market Volatility",
+                "publisher": "ACCESS Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/xcf-global-ceo-updates-shareholders-224500281.html",
+                "score": 0
+            },
+            {
+                "symbol": "SMCI",
+                "headline": "LITE, CRWV, NBIS, AMAT, SMCI Were Among Last Week\u2019s Biggest AI-Linked Losers: Which Stocks Are Flashing Oversold Signals?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/lite-crwv-nbis-amat-smci-090111887.html",
+                "score": 0
+            },
+            {
+                "symbol": "^NSEI",
+                "headline": "India stocks dip after RBI hikes rates for first time in nearly 4 yrs",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/economy/policy/articles/india-stocks-dip-rbi-hikes-061508837.html",
+                "score": 0
+            },
+            {
+                "symbol": "QQQ",
+                "headline": "QQQ Pulled In $1.66 Billion. The Same Index Trades Under a Cheaper Ticker.",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/qqq-pulled-1-66-billion-084556478.html",
+                "score": 0
+            },
+            {
                 "symbol": "^JKSE",
-                "headline": "Indonesia\u2019s Danantara pledges $5 billion to homegrown companies amid market uncertainty",
-                "publisher": "Fortune",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/indonesia-danantara-pledges-5-billion-120000990.html",
+                "headline": "Strategy MSCI Delisting Could Trigger Another Market Shock After Indonesia",
+                "publisher": "Cryptonews",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-msci-delisting-could-trigger-082400323.html",
+                "score": 0
+            },
+            {
+                "symbol": "SNDK",
+                "headline": "Chip Investors, Watch Out: China\u2019s CXMT Plunges Despite Record Forecast After Samsung\u2019s Post-Outlook Slide",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/chip-investors-watch-china-cxmt-075218932.html",
                 "score": 0
             },
             {
@@ -70,62 +133,6 @@
                 "headline": "Why Money Market Funds Are So Popular",
                 "publisher": "Zacks",
                 "link": "https://finance.yahoo.com/markets/options/articles/why-money-market-funds-popular-184000720.html",
-                "score": 0
-            },
-            {
-                "symbol": "QQQ",
-                "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/stocktwits-pharma-pulse-moderna-merck-031513023.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "If I Could Only Own 1 Artificial Intelligence (AI) Memory Stock for the Next 5 Years, It Wouldn't Be Micron.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/could-only-own-1-artificial-002000490.html",
-                "score": 0
-            },
-            {
-                "symbol": "PLTR",
-                "headline": "3 AI Stocks With Earnings Growth Over 33% To Watch",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html",
-                "score": 0
-            },
-            {
-                "symbol": "INTC",
-                "headline": "Intel vs. AMD: The CPU Comeback Has Become a 2-Stock Fight, But 1 Is the Better Buy",
-                "publisher": "Barchart",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-cpu-comeback-204626033.html",
-                "score": 0
-            },
-            {
-                "symbol": "SPY",
-                "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/stocktwits-pharma-pulse-moderna-merck-031513023.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRVL",
-                "headline": "What Do the 8% of Analysts Who Will Not Buy Marvell (MRVL) See?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/8-analysts-not-buy-marvell-143318310.html",
-                "score": 0
-            },
-            {
-                "symbol": "SMCI",
-                "headline": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/smuggling-nvidia-chips-china-become-122027261.html",
-                "score": 0
-            },
-            {
-                "symbol": "SNDK",
-                "headline": "Sandisk\u2019s next chip could save cloud giants billions, but not us",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/technology/articles/sandisk-next-chip-could-save-174700286.html",
                 "score": 0
             }
         ]
