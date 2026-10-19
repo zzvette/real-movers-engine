@@ -1,123 +1,130 @@
 {
-    "timestamp": "2026-10-17T00:46:31.724058+00:00",
+    "timestamp": "2026-10-19T03:29:14.328879+00:00",
     "catalysts": [
         {
-            "symbol": "PLTR",
-            "headline": "Stock Market Today, Oct. 16: Tech Stocks Plunge as AI Software Valuations Reverse",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-16-220948538.html",
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+            "score": 3
+        },
+        {
+            "symbol": "ES=F",
+            "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+            "score": 3
+        },
+        {
+            "symbol": "BE",
+            "headline": "Fuel Cell Deal Could Be A Game Changer For American Electric Power Company (AEP)",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/energy/articles/fuel-cell-deal-could-game-020758767.html",
             "score": 2
         },
         {
-            "symbol": "TSLA",
-            "headline": "Stocktwits Zero To Sixty \u2014 Tesla\u2019s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France",
+            "symbol": "IREN",
+            "headline": "CRWV, NBIS, IREN Bounce Overnight After Brutal Week \u2014 But Industry Execs Reportedly See Only A Few Neocloud Survivors",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-zero-sixty-tesla-roadster-003321425.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-iren-bounce-overnight-023124992.html",
             "score": 0
         },
         {
             "symbol": "^VIX",
-            "headline": "Nasdaq Suffers Worst Week Since June. AI Fears Are Shaking Markets.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/b02b5386-7105-3fa7-98c4-4b9a5802ac58/nasdaq-suffers-worst-week.html",
+            "headline": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
+            "publisher": "Bloomberg",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ahead-220725997.html",
             "score": 0
         },
         {
-            "symbol": "^IXIC",
-            "headline": "Review & Preview: AI Bloodbath",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/0640b2a5-eee6-3ee8-a573-0e02d9653649/review-%26-preview%3A-ai-bloodbath.html",
-            "score": 0
-        },
-        {
-            "symbol": "XLAB",
-            "headline": "Exascale Labs Holdings Inc. Reports 111% Revenue Growth for Full Fiscal Year 2026 and Provides Business Update Following Successful Nasdaq Listing",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/exascale-labs-holdings-inc-reports-203000645.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRGY",
-            "headline": "Crescent Energy Schedules Third Quarter 2026 Earnings Release and Conference Call",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/energy/articles/crescent-energy-schedules-third-quarter-203000447.html",
-            "score": 0
-        },
-        {
-            "symbol": "PAYP",
-            "headline": "These 7 major S&P 500 stocks need to rally at least 200% to reclaim their peaks",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/these-7-major-sp-500-stocks-need-to-rally-at-least-200-to-reclaim-their-peaks-161550241.html",
-            "score": 0
-        },
-        {
-            "symbol": "^GSPC",
-            "headline": "Is Amgen Stock Increasing Your Market Risk?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-increasing-market-risk-001353632.html",
-            "score": 0
-        },
-        {
-            "symbol": "TWLO",
-            "headline": "Twilio Stock Gains as BTIG Sees AI Agents Opening New Uses",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-stock-gains-btig-sees-204646838.html",
-            "score": 0
-        },
-        {
-            "symbol": "PANW",
-            "headline": "CrowdStrike Stock Fell 7% on Friday. Here\u2019s What Could Drive Shares Through 2026",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-fell-7-friday-222439553.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRWD",
-            "headline": "CrowdStrike Stock Fell 7% on Friday. Here\u2019s What Could Drive Shares Through 2026",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-fell-7-friday-222439553.html",
-            "score": 0
-        },
-        {
-            "symbol": "BZ=F",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
-            "score": 0
-        },
-        {
-            "symbol": "CBRS",
-            "headline": "What Can\u2019t Be Denied About the AI Trade. CoreWeave and Anthropic Are Clues.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/f6d20db8-219a-38b5-9e34-cbbd5e8c0a52/what-can%E2%80%99t-be-denied-about.html",
-            "score": 0
-        },
-        {
-            "symbol": "BP",
-            "headline": "Kinder Morgan to Report Q3 Earnings: What's in Store for the Stock?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-report-q3-earnings-170500934.html",
-            "score": 0
-        },
-        {
-            "symbol": "KMI",
-            "headline": "Kinder Morgan to Report Q3 Earnings: What's in Store for the Stock?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-report-q3-earnings-170500934.html",
+            "symbol": "AVGO",
+            "headline": "Intel vs. AMD: The CPU Comeback Has Become a 2-Stock Fight, But 1 Is the Better Buy",
+            "publisher": "Barchart",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-cpu-comeback-204626033.html",
             "score": 0
         },
         {
             "symbol": "CL=F",
-            "headline": "3 Canadian Growth Stocks With Earnings Growth Up To 67%",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-001558491.html",
+            "headline": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html",
             "score": 0
         },
         {
-            "symbol": "XOM",
-            "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-200054695.html",
+            "symbol": "SOXL",
+            "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html",
+            "score": 0
+        },
+        {
+            "symbol": "^JKSE",
+            "headline": "Indonesia\u2019s Danantara pledges $5 billion to homegrown companies amid market uncertainty",
+            "publisher": "Fortune",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/indonesia-danantara-pledges-5-billion-120000990.html",
+            "score": 0
+        },
+        {
+            "symbol": "TQQQ",
+            "headline": "Why Money Market Funds Are So Popular",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/options/articles/why-money-market-funds-popular-184000720.html",
+            "score": 0
+        },
+        {
+            "symbol": "QQQ",
+            "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/stocktwits-pharma-pulse-moderna-merck-031513023.html",
+            "score": 0
+        },
+        {
+            "symbol": "MU",
+            "headline": "If I Could Only Own 1 Artificial Intelligence (AI) Memory Stock for the Next 5 Years, It Wouldn't Be Micron.",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/technology/ai/articles/could-only-own-1-artificial-002000490.html",
+            "score": 0
+        },
+        {
+            "symbol": "PLTR",
+            "headline": "3 AI Stocks With Earnings Growth Over 33% To Watch",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html",
+            "score": 0
+        },
+        {
+            "symbol": "INTC",
+            "headline": "Intel vs. AMD: The CPU Comeback Has Become a 2-Stock Fight, But 1 Is the Better Buy",
+            "publisher": "Barchart",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-cpu-comeback-204626033.html",
+            "score": 0
+        },
+        {
+            "symbol": "SPY",
+            "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/healthcare/articles/stocktwits-pharma-pulse-moderna-merck-031513023.html",
+            "score": 0
+        },
+        {
+            "symbol": "MRVL",
+            "headline": "What Do the 8% of Analysts Who Will Not Buy Marvell (MRVL) See?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/8-analysts-not-buy-marvell-143318310.html",
+            "score": 0
+        },
+        {
+            "symbol": "SMCI",
+            "headline": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/smuggling-nvidia-chips-china-become-122027261.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Sandisk\u2019s next chip could save cloud giants billions, but not us",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/articles/sandisk-next-chip-could-save-174700286.html",
             "score": 0
         }
     ]
