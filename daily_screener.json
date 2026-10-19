@@ -1,138 +1,145 @@
 {
-    "timestamp": "2026-10-19T09:15:33.349618+00:00",
+    "timestamp": "2026-10-19T16:10:07.953123+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "NQ=F",
-                "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+                "symbol": "SLN",
+                "headline": "Silence Therapeutics jumps 59% on Merck takeover",
+                "publisher": "Proactive",
+                "link": "https://finance.yahoo.com/healthcare/articles/silence-therapeutics-jumps-59-merck-152000555.html",
+                "score": 3
+            },
+            {
+                "symbol": "APLD",
+                "headline": "AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stocks-rally-selloff-130219230.html",
+                "score": 3
+            },
+            {
+                "symbol": "MPT",
+                "headline": "Medical Properties Trust (MPT) Stock May Be Below Fair Value On Cash Flow",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/real-estate/articles/medical-properties-trust-mpt-stock-221503667.html",
+                "score": 2
+            },
+            {
+                "symbol": "CLF",
+                "headline": "Top Midday Stories: Musk Vows to Give SpaceX Shares to Every US Child; Cleveland-Cliffs Swings to Q3 Profit",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-musk-vows-160214051.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMZN",
+                "headline": "Amazon stock pops after Morgan Stanley details 5 catalysts, lifts price target",
                 "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-                "score": 3
+                "link": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-pops-after-morgan-stanley-details-5-catalysts-lifts-price-target-140841569.html",
+                "score": 0
             },
             {
-                "symbol": "BE",
-                "headline": "BE Stock Jumps Premarket Into Earnings Week: Retail Bets On 40% Pop As Wall Street Eyes Strong Q3 Growth",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-jumps-premarket-earnings-week-082106823.html",
-                "score": 3
+                "symbol": "IRON",
+                "headline": "Disc Medicine\u2019s Bitopertin Nails Phase III Endpoints, Eyes FDA Resubmission",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/healthcare/articles/disc-medicine-bitopertin-nails-phase-160224831.html",
+                "score": 0
             },
             {
-                "symbol": "CL=F",
-                "headline": "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
-                "publisher": "Bloomberg",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-82-000-041512162.html",
-                "score": 3
+                "symbol": "RIVN",
+                "headline": "Buy, Hold or Sell TSLA Stock? Key Tips Ahead of Q3 Earnings",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-tsla-stock-114800195.html",
+                "score": 0
             },
             {
-                "symbol": "ES=F",
-                "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-                "score": 3
+                "symbol": "EYPT",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017355.html",
+                "score": 0
             },
             {
-                "symbol": "YM=F",
-                "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-                "score": 3
+                "symbol": "SE",
+                "headline": "1 Magnificent Stock I Plan to Buy on the Dip if the Stock Market Crashes",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-stock-plan-buy-124100243.html",
+                "score": 0
             },
             {
-                "symbol": "AVGO",
-                "headline": "Intel vs. AMD: The CPU Comeback Has Become a 2-Stock Fight, But 1 Is the Better Buy",
-                "publisher": "Barchart",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-cpu-comeback-204626033.html",
+                "symbol": "IBRX",
+                "headline": "ImmunityBio Reports Phase 3 Data Showing 84% Cystectomy Avoidance at Three Years and Complete Responses Beyond 53 Months with ANKTIVA\u00ae Plus BCG in BCG-Unresponsive NMIBC With CIS, With or Without Papillary Tumors",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-reports-phase-3-data-154900100.html",
+                "score": 0
+            },
+            {
+                "symbol": "META",
+                "headline": "Meta Stock Extends Slide As Big Earnings Test Approaches",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/c48341ec-b155-3cee-9458-5db9f5d5549c/meta-stock-extends-slide-as.html",
+                "score": 0
+            },
+            {
+                "symbol": "FUFU",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017355.html",
+                "score": 0
+            },
+            {
+                "symbol": "AAME",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017355.html",
+                "score": 0
+            },
+            {
+                "symbol": "GLAS",
+                "headline": "Glass House Brands Reports Preliminary Unaudited Third Quarter Financial Results and Resignation of John Nichols Jr. from Board of Directors",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/glass-house-brands-reports-preliminary-113000852.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-sndk-us-045442852.html",
+                "headline": "Investor: \u2018I Turned AMD Into $16 Million and Sold Everything, Did I Quit Too Soon?\u2019",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/investor-turned-amd-16-million-155948015.html",
                 "score": 0
             },
             {
-                "symbol": "IREN",
-                "headline": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/could-only-own-1-artificial-052000576.html",
+                "symbol": "MOS",
+                "headline": "Earnings Preview: What to Expect From Mosaic\u2019s Report",
+                "publisher": "Barchart",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-mosaic-report-184625575.html",
                 "score": 0
             },
             {
-                "symbol": "SOXL",
-                "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html",
-                "score": 0
-            },
-            {
-                "symbol": "^VIX",
-                "headline": "Tom Lee Says Last Week's Stock Selloff Sets Up a Buy in Crypto, Semis",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-last-weeks-055500464.html",
-                "score": 0
-            },
-            {
-                "symbol": "XLAB",
-                "headline": "Exascale Labs Holdings Inc. Reports 111% Revenue Growth for Full Fiscal Year 2026 and Provides Business Update Following Successful Nasdaq Listing",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/exascale-labs-holdings-inc-reports-203000645.html",
-                "score": 0
-            },
-            {
-                "symbol": "NBIS",
-                "headline": "LITE, CRWV, NBIS, AMAT, SMCI Were Among Last Week\u2019s Biggest AI-Linked Losers: Which Stocks Are Flashing Oversold Signals?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lite-crwv-nbis-amat-smci-090111887.html",
+                "symbol": "DX",
+                "headline": "Dynex Capital Q3 Earnings Call Highlights",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/dynex-capital-q3-earnings-call-160223944.html",
                 "score": 0
             },
             {
                 "symbol": "SAFX",
-                "headline": "XCF Global CEO Updates Shareholders Following Recent Market Volatility",
-                "publisher": "ACCESS Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/xcf-global-ceo-updates-shareholders-224500281.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017355.html",
                 "score": 0
             },
             {
-                "symbol": "SMCI",
-                "headline": "LITE, CRWV, NBIS, AMAT, SMCI Were Among Last Week\u2019s Biggest AI-Linked Losers: Which Stocks Are Flashing Oversold Signals?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lite-crwv-nbis-amat-smci-090111887.html",
+                "symbol": "OKLO",
+                "headline": "Should You Sell Your NuScale Power Stock Now?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sell-nuscale-power-stock-now-015925000.html",
                 "score": 0
             },
             {
-                "symbol": "^NSEI",
-                "headline": "India stocks dip after RBI hikes rates for first time in nearly 4 yrs",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/economy/policy/articles/india-stocks-dip-rbi-hikes-061508837.html",
-                "score": 0
-            },
-            {
-                "symbol": "QQQ",
-                "headline": "QQQ Pulled In $1.66 Billion. The Same Index Trades Under a Cheaper Ticker.",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/qqq-pulled-1-66-billion-084556478.html",
-                "score": 0
-            },
-            {
-                "symbol": "^JKSE",
-                "headline": "Strategy MSCI Delisting Could Trigger Another Market Shock After Indonesia",
-                "publisher": "Cryptonews",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-msci-delisting-could-trigger-082400323.html",
-                "score": 0
-            },
-            {
-                "symbol": "SNDK",
-                "headline": "Chip Investors, Watch Out: China\u2019s CXMT Plunges Despite Record Forecast After Samsung\u2019s Post-Outlook Slide",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chip-investors-watch-china-cxmt-075218932.html",
-                "score": 0
-            },
-            {
-                "symbol": "TQQQ",
-                "headline": "Why Money Market Funds Are So Popular",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/options/articles/why-money-market-funds-popular-184000720.html",
+                "symbol": "AIBZ",
+                "headline": "Google's $13 Billion Nordic Bet Points to a New Global Front in the AI Power Race",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/technology/ai/articles/googles-13-billion-nordic-bet-131000630.html",
                 "score": 0
             }
         ]
