@@ -1,7 +1,28 @@
 {
-    "timestamp": "2026-10-19T23:20:34.049366+00:00",
+    "timestamp": "2026-10-20T01:56:48.943531+00:00",
     "signals": {
         "catalysts": [
+            {
+                "symbol": "AMZN",
+                "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mmm-stock-jumps-overnight-amazon-014707477.html",
+                "score": 3
+            },
+            {
+                "symbol": "IRON",
+                "headline": "Disc Medicine Stock Jumps After Phase 3 Trial Success And FDA Refiling Plan",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/disc-medicine-stock-jumps-phase-012058564.html",
+                "score": 3
+            },
+            {
+                "symbol": "MMM",
+                "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mmm-stock-jumps-overnight-amazon-014707477.html",
+                "score": 3
+            },
             {
                 "symbol": "DJT",
                 "headline": "Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market",
@@ -10,17 +31,10 @@
                 "score": 3
             },
             {
-                "symbol": "BTDR",
-                "headline": "Bitdeer stock jumps on $2.9B AI Cloud revenue backlog",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/bitdeer-stock-jumps-2-9b-213250169.html",
-                "score": 3
-            },
-            {
-                "symbol": "IRON",
-                "headline": "Disc Medicine Launches $350 Million Securities Offering",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/disc-medicine-launches-350-million-203531076.html",
+                "symbol": "SLN",
+                "headline": "Is Silence Therapeutics (NasdaqGM:SLN) Reasonable Near Its $20 Deal Price?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/silence-therapeutics-nasdaqgm-sln-reasonable-010958603.html",
                 "score": 2
             },
             {
@@ -38,17 +52,10 @@
                 "score": 2
             },
             {
-                "symbol": "AMZN",
-                "headline": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools \u2014 AMZN, BE, CRWV, AAPL, PLTR In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-sees-best-day-230023865.html",
-                "score": 0
-            },
-            {
                 "symbol": "CLF",
-                "headline": "Cleveland-Cliffs: 3 Key Takeaways for Long-Term Investors",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-3-key-takeaways-215001138.html",
+                "headline": "Cleveland-Cliffs reports strongest third quarter in 3 years",
+                "publisher": "Journal-News, Hamilton, Ohio",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-reports-strongest-third-010300354.html",
                 "score": 0
             },
             {
@@ -56,13 +63,6 @@
                 "headline": "AGNC Investment Q3 Non-GAAP Earnings Rise",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/agnc-investment-q3-non-gaap-202336055.html",
-                "score": 0
-            },
-            {
-                "symbol": "SLN",
-                "headline": "Silence Therapeutics Lands a 130% Takeover Premium",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/healthcare/articles/silence-therapeutics-lands-130-takeover-194904044.html",
                 "score": 0
             },
             {
@@ -87,38 +87,10 @@
                 "score": 0
             },
             {
-                "symbol": "CYDY",
-                "headline": "CytoDyn Highlights Early CLOVER Data, Names Robert Hoffman CEO",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/healthcare/articles/cytodyn-highlights-early-clover-data-230214245.html",
-                "score": 0
-            },
-            {
-                "symbol": "MMM",
-                "headline": "3M Company to Take 4.7% Stake in Taiwan's Genius Electronic Optical",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3m-company-4-7-stake-215134563.html",
-                "score": 0
-            },
-            {
-                "symbol": "RIG",
-                "headline": "Why Is Transocean (RIG) Stock Rocketing Higher Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-transocean-rig-stock-rocketing-221655546.html",
-                "score": 0
-            },
-            {
-                "symbol": "NAUT",
-                "headline": "Nautilus Biotechnology to Announce Third Quarter 2026 Financial Results on October 27, 2026",
+                "symbol": "SAIQ",
+                "headline": "WISeSat.Space Advances Post-Quantum-Ready Satellite Communications to Support U.S. Quantum-Security Objectives",
                 "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/nautilus-biotechnology-announce-third-quarter-120000573.html",
-                "score": 0
-            },
-            {
-                "symbol": "QXO",
-                "headline": "QXO (QXO) Grew Sales to $3.25B, but Can It Grow Profit?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/qxo-qxo-grew-sales-3-194142049.html",
+                "link": "https://finance.yahoo.com/technology/articles/wisesat-space-advances-post-quantum-164700940.html",
                 "score": 0
             },
             {
@@ -129,10 +101,31 @@
                 "score": 0
             },
             {
-                "symbol": "SMMT",
-                "headline": "Akeso Announces Opening of Global Phase II Study of Ivonescimab in First-Line Clear Cell Renal Cell Carcinoma, Including Combination with Cadonilimab",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/akeso-announces-opening-global-phase-115900681.html",
+                "symbol": "NAUT",
+                "headline": "Nautilus Biotechnology to Announce Third Quarter 2026 Financial Results on October 27, 2026",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/nautilus-biotechnology-announce-third-quarter-120000573.html",
+                "score": 0
+            },
+            {
+                "symbol": "DDOG",
+                "headline": "Datadog Stock Gains Attention After Analyst Upgrade On AI Demand",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-stock-gains-attention-analyst-002430917.html",
+                "score": 0
+            },
+            {
+                "symbol": "RIG",
+                "headline": "Why Is Transocean (RIG) Stock Rocketing Higher Today",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-transocean-rig-stock-rocketing-221655546.html",
+                "score": 0
+            },
+            {
+                "symbol": "UAL",
+                "headline": "American Airlines Is Now Down 23% This Year: Is AAL Stock Dead Money or Due for a Bounce?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-now-down-23-185109361.html",
                 "score": 0
             }
         ]
