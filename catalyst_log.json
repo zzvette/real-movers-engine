@@ -1,81 +1,88 @@
 {
-    "timestamp": "2026-10-20T18:08:55.394407+00:00",
+    "timestamp": "2026-10-20T21:33:38.083802+00:00",
     "catalysts": [
         {
-            "symbol": "UNH",
-            "headline": "Stock Market Today: Dow Jumps, Oil Falls On U.S.-Iran Hopes; These Healthcare Stocks Clear Entries (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow.html",
-            "score": 3
-        },
-        {
-            "symbol": "PFE",
-            "headline": "Moderna Jumps 7% While Melanoma Vaccine Data Looms; Bristol Myers Squibb Rises 5%, Pfizer Advances 2%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/moderna-jumps-7-while-melanoma-175326781.html",
-            "score": 3
-        },
-        {
-            "symbol": "GE",
-            "headline": "GE Aerospace Stocks Fall 3.31% Although Higher Guidance Sets a $2.4 Billion Cash Hurdle",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stocks-fall-3-174807639.html",
-            "score": 2
-        },
-        {
-            "symbol": "NFLX",
-            "headline": "Skydance Rises 5% as Steep Post-Merger Slide Pauses; Disney Gains 2%, Netflix Slips",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/skydance-rises-5-steep-post-180340100.html",
-            "score": 2
-        },
-        {
-            "symbol": "RTX",
-            "headline": "RTX Stocks Move Lower Ahead of Earnings and a $4.3 Billion Cash Hurdle",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stocks-move-lower-ahead-171033429.html",
-            "score": 2
-        },
-        {
-            "symbol": "BRZE",
-            "headline": "Salesforce Bets $5.66 Billion on Braze to Boost Marketing Cloud",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/media-advertising/articles/salesforce-bets-5-66-billion-174704354.html",
-            "score": 0
-        },
-        {
             "symbol": "GM",
-            "headline": "General Motors Stocks Fall 7.55% Although Board Approves $20 Billion Buyback",
+            "headline": "General Motors Co (GM) (Q3 2026) Earnings Call Highlights: Record $50 Billion Revenue, Raised ...",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-stocks-fall-7-175340323.html",
-            "score": 0
-        },
-        {
-            "symbol": "LLY",
-            "headline": "Is Pediatric Ulcerative Colitis Data Altering The Investment Case For Lilly (LLY)?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/pediatric-ulcerative-colitis-data-altering-171615950.html",
-            "score": 0
+            "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-co-gm-q3-210121338.html",
+            "score": 3
         },
         {
             "symbol": "MMM",
-            "headline": "3M (MMM) Q3 2026 Earnings Call Transcript",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3m-mmm-q3-2026-earnings-174455143.html",
+            "headline": "Stock Market Today: Dow Jumps On U.S.-Iran Hopes; This Warren Buffett Stock Offers Entry (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow-jumps.html",
+            "score": 3
+        },
+        {
+            "symbol": "SPCX",
+            "headline": "SpaceX earnings Live: SpaceX beats on earnings, capex comes in less than expected",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/live/spacex-earnings-live-updates-133218212.html",
             "score": 0
         },
         {
-            "symbol": "WST",
-            "headline": "West Declares Quarterly Dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/west-declares-quarterly-dividend-220400115.html",
+            "symbol": "NFLX",
+            "headline": "Dow Jones Futures: Indexes At Key Levels; SpaceX Earnings Strong With Tesla, Meta Due",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-indexes-at.html",
+            "score": 0
+        },
+        {
+            "symbol": "ISRG",
+            "headline": "Dow Jones Futures: Indexes At Key Levels; SpaceX Earnings Strong With Tesla, Meta Due",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-indexes-at.html",
             "score": 0
         },
         {
             "symbol": "META",
-            "headline": "Amazon's AWS Launches TorchNeuron to Run PyTorch Code on Trainium AI Chips",
+            "headline": "Dow Jones Futures: Indexes At Key Levels; SpaceX Earnings Strong With Tesla, Meta Due",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-indexes-at.html",
+            "score": 0
+        },
+        {
+            "symbol": "BRZE",
+            "headline": "Stock Market Today, Oct. 20: Salesforce Agrees to Acquire Braze for $5.66 Billion: BRZE Stock Soars 52%",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-20-210942173.html",
+            "score": 0
+        },
+        {
+            "symbol": "UAL",
+            "headline": "Update: United Airlines Q3 Adjusted Earnings Fall, Revenue Rises; Issues Q4 Guidance",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/amazon-apos-aws-launches-torchneuron-174705999.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-q3-adjusted-earnings-211331663.html",
+            "score": 0
+        },
+        {
+            "symbol": "COF",
+            "headline": "Capital One's new Venture X Business offer: Up to 300,000 miles",
+            "publisher": "Yahoo Personal Finance",
+            "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-x-business-300k-mile-offer-203803483.html",
+            "score": 0
+        },
+        {
+            "symbol": "SMCI",
+            "headline": "Dow Jones Futures: Indexes At Key Levels; SpaceX Earnings Strong With Tesla, Meta Due",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-indexes-at.html",
+            "score": 0
+        },
+        {
+            "symbol": "CB",
+            "headline": "Chubb beats Q3 profit estimates on strong underwriting income",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/chubb-beats-q3-profit-estimates-205832737.html",
+            "score": 0
+        },
+        {
+            "symbol": "NLY",
+            "headline": "Stock Market Today, Oct. 20: AGNC Investment Rises on Stronger Sector Tone Despite Book-Value Decline",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-20-211901821.html",
             "score": 0
         },
         {
@@ -86,59 +93,38 @@
             "score": 0
         },
         {
-            "symbol": "EFX",
-            "headline": "Equifax Stocks Rise 7.21% Although Mortgage Weakness Forces Revenue Reset",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/equifax-stocks-rise-7-21-175103952.html",
-            "score": 0
-        },
-        {
-            "symbol": "MLI",
-            "headline": "Mueller Industries Fiscal Q3 Earnings, Sales Rise",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mueller-industries-fiscal-q3-earnings-112020990.html",
-            "score": 0
-        },
-        {
-            "symbol": "NOC",
-            "headline": "Northrop Grumman (NOC) Q3 2026 Earnings Call Transcript",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-q3-2026-171352546.html",
+            "symbol": "LLY",
+            "headline": "Dow Jones Futures: Indexes At Key Levels; SpaceX Earnings Strong With Tesla, Meta Due",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-indexes-at.html",
             "score": 0
         },
         {
             "symbol": "LION",
-            "headline": "Lionsgate shares spike as Legendary Entertainment revives takeover talks",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/lionsgate-shares-spike-legendary-entertainment-171814342.html",
+            "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194829440.html",
             "score": 0
         },
         {
-            "symbol": "HWM",
-            "headline": "Indxx Aerospace & Defense (MISL) Buys $29 Million More Honeywell Aerospace on Friday",
+            "symbol": "HAS",
+            "headline": "Hasbro Inc (HAS) Q3 2026 Earnings Call Highlights: Magic: The Gathering Tops $600 Million as ...",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/indxx-aerospace-defense-misl-buys-110546539.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/hasbro-inc-q3-2026-earnings-210142130.html",
             "score": 0
         },
         {
-            "symbol": "WAT",
-            "headline": "Waters Launches AI Link to Advance AI-Enabled LC-MS Workflows",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/technology/ai/articles/waters-launches-ai-advance-ai-132000029.html",
-            "score": 0
-        },
-        {
-            "symbol": "TSEM",
-            "headline": "Semtech (SMTC) Stock Looks Expensive After Its 8x Run",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/semtech-smtc-stock-looks-expensive-121301413.html",
-            "score": 0
-        },
-        {
-            "symbol": "HTZ",
-            "headline": "Hertz shares jump 5% as subsidiary Oro Mobility secures $80M strategic investment",
+            "symbol": "PEGA",
+            "headline": "Pegasystems falls as third quarter misses estimates",
             "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/hertz-shares-jump-5-subsidiary-115250193.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pegasystems-falls-third-quarter-misses-205151078.html",
+            "score": 0
+        },
+        {
+            "symbol": "TSLA",
+            "headline": "SpaceX Pops After Q3 Beat, Posts First Profit (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/3009a5a9-684d-3ea5-8387-735d1fe2c8d0/spacex-pops-after-q3-beat%2C.html",
             "score": 0
         }
     ]
