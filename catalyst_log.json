@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-20T09:11:03.596931+00:00",
+    "timestamp": "2026-10-20T14:04:52.946977+00:00",
     "catalysts": [
         {
             "symbol": "DJT",
@@ -9,87 +9,136 @@
             "score": 3
         },
         {
-            "symbol": "IRON",
-            "headline": "Disc Medicine Stock Jumps After Phase 3 Trial Success And FDA Refiling Plan",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/disc-medicine-stock-jumps-phase-012058564.html",
-            "score": 3
-        },
-        {
             "symbol": "MMM",
-            "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mmm-stock-jumps-overnight-amazon-014707477.html",
-            "score": 3
-        },
-        {
-            "symbol": "ACN",
-            "headline": "Accenture spent years building in China; now it may cash out",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-spent-years-building-china-010300429.html",
+            "headline": "Dow Giant 3M Reports Mixed Earnings, Expanded Amazon Data Center Deal",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/9f746d33-c17c-38dd-9fb5-a7b8bead6c9c/dow-giant-3m-reports-mixed.html",
             "score": 2
         },
         {
+            "symbol": "GM",
+            "headline": "Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/chips-lead-nasdaq-lower-oil-tops-5-month-high-alphacheck-134325052.html",
+            "score": 0
+        },
+        {
+            "symbol": "GE",
+            "headline": "Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/chips-lead-nasdaq-lower-oil-tops-5-month-high-alphacheck-134325052.html",
+            "score": 0
+        },
+        {
+            "symbol": "RTX",
+            "headline": "Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/chips-lead-nasdaq-lower-oil-tops-5-month-high-alphacheck-134325052.html",
+            "score": 0
+        },
+        {
             "symbol": "AMZN",
-            "headline": "3 Undervalued Stocks Trading Up To 45% Below Fair Value",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-45-081357531.html",
-            "score": 0
-        },
-        {
-            "symbol": "CLF",
-            "headline": "Cleveland-Cliffs Inc (CLF) Q3 2026 Earnings Call Highlights: Adjusted EBITDA More Than Doubles ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-inc-clf-q3-090025022.html",
-            "score": 0
-        },
-        {
-            "symbol": "^HSI",
-            "headline": "Asian Stocks Fall, Bucking U.S. Tech Rebound",
+            "headline": "Amazon to Hire More Than 300,000 U.S. Workers for Holiday Season",
             "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/e12c86a0-945b-3d91-b0df-2884023716c9/asian-stocks-fall%2C-bucking.html",
+            "link": "https://finance.yahoo.com/m/f8c737d1-cbea-32ba-8ee6-672b182cf11c/amazon-to-hire-more-than.html",
             "score": 0
         },
         {
-            "symbol": "SE",
-            "headline": "Market Chatter: Sea Plans AI Cloud Business, Potential Monee IPO",
+            "symbol": "BRZE",
+            "headline": "Salesforce to Buy Braze for $5.66B, Expanding Real-Time AI Marketing",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-buy-braze-5-66b-140217976.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRM",
+            "headline": "Klaviyo shares jump 8% as Salesforce moves to acquire rival Braze for $5.7 billion",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/klaviyo-shares-jump-8-salesforce-134516165.html",
+            "score": 0
+        },
+        {
+            "symbol": "HAL",
+            "headline": "Sector Update: Energy Stocks Edge Higher Premarket Tuesday",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-sea-plans-ai-090007602.html",
+            "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-132507446.html",
+            "score": 0
+        },
+        {
+            "symbol": "RAPP",
+            "headline": "Sector Update: Healthcare Stocks Flat to Higher Premarket Tuesday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-flat-higher-132011047.html",
+            "score": 0
+        },
+        {
+            "symbol": "HTZ",
+            "headline": "Hertz shares jump 5% as subsidiary Oro Mobility secures $80M strategic investment",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/hertz-shares-jump-5-subsidiary-115250193.html",
+            "score": 0
+        },
+        {
+            "symbol": "WMT",
+            "headline": "Costco (COST): Can Its Membership Model Travel Further Overseas?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-membership-model-travel-135135530.html",
             "score": 0
         },
         {
             "symbol": "SAIQ",
-            "headline": "WISeSat.Space Advances Post-Quantum-Ready Satellite Communications to Support U.S. Quantum-Security Objectives",
+            "headline": "WISeSat.Space and SEALSQ Advance Satellite Cybersecurity Hardening as FOSSA Launches New 6U Satellite Aboard SpaceX Falcon 9",
             "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/articles/wisesat-space-advances-post-quantum-164700940.html",
+            "link": "https://finance.yahoo.com/technology/articles/wisesat-space-sealsq-advance-satellite-120000468.html",
             "score": 0
         },
         {
-            "symbol": "EYPT",
-            "headline": "Why Did EYPT, CRWV, EOSE Stocks Tumble To 52-Week Lows Today?",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-eypt-crwv-eose-023948648.html",
+            "symbol": "F",
+            "headline": "1 Volatile Stock to Target This Week and 2 That Underwhelm",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/1-volatile-stock-target-week-132550052.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSCI",
+            "headline": "Sector Update: Financial",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-130116089.html",
             "score": 0
         },
         {
             "symbol": "NFLX",
-            "headline": "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-futures-falling-premarket-085201550.html",
+            "headline": "Stock Market Today: Dow Rises As Oil Prices Surge; Netflix, SpaceX Mixed Ahead Of Earnings (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow-rises.html",
             "score": 0
         },
         {
-            "symbol": "XPEV",
-            "headline": "Jefferies Eyes Mid-Teens Returns as Investment Banking Scale Drives Growth",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-eyes-mid-teens-returns-210203824.html",
+            "symbol": "KEY",
+            "headline": "KeyCorp (KEY) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/keycorp-key-q3-earnings-key-123003955.html",
             "score": 0
         },
         {
-            "symbol": "DDOG",
-            "headline": "US Stock Market Today: S&P 500 Futures Climb On Strong Factory And Earnings Hopes",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080913569.html",
+            "symbol": "NOC",
+            "headline": "Compared to Estimates, Northrop Grumman (NOC) Q3 Earnings: A Look at Key Metrics",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-northrop-grumman-noc-123004830.html",
+            "score": 0
+        },
+        {
+            "symbol": "VICR",
+            "headline": "Sector Update: Tech Stocks Decline Premarket Tuesday",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-premarket-131424501.html",
+            "score": 0
+        },
+        {
+            "symbol": "HAS",
+            "headline": "Hasbro (HAS) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/hasbro-q3-earnings-taking-look-123004824.html",
             "score": 0
         }
     ]
