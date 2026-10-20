@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-10-20T01:56:48.943531+00:00",
+    "timestamp": "2026-10-20T03:37:52.137705+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "AMZN",
-                "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mmm-stock-jumps-overnight-amazon-014707477.html",
+                "symbol": "DJT",
+                "headline": "Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-drops-7-while-175651287.html",
                 "score": 3
             },
             {
@@ -21,13 +21,6 @@
                 "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/mmm-stock-jumps-overnight-amazon-014707477.html",
-                "score": 3
-            },
-            {
-                "symbol": "DJT",
-                "headline": "Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-drops-7-while-175651287.html",
                 "score": 3
             },
             {
@@ -52,10 +45,24 @@
                 "score": 2
             },
             {
+                "symbol": "ACN",
+                "headline": "Accenture spent years building in China; now it may cash out",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-spent-years-building-china-010300429.html",
+                "score": 2
+            },
+            {
+                "symbol": "AMZN",
+                "headline": "AWS Margin Expansion and Retail Execution Power Amazon (AMZN) in Q3",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/aws-margin-expansion-retail-execution-160812419.html",
+                "score": 0
+            },
+            {
                 "symbol": "CLF",
-                "headline": "Cleveland-Cliffs reports strongest third quarter in 3 years",
-                "publisher": "Journal-News, Hamilton, Ohio",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-reports-strongest-third-010300354.html",
+                "headline": "Cleveland-Cliffs Stock Soars on Strongest Quarter in Three Years and $4 Billion 2027 Outlook",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-stock-soars-strongest-032454955.html",
                 "score": 0
             },
             {
@@ -66,31 +73,10 @@
                 "score": 0
             },
             {
-                "symbol": "STLD",
-                "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "EYPT",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-184751907.html",
-                "score": 0
-            },
-            {
-                "symbol": "SE",
-                "headline": "1 Magnificent Stock I Plan to Buy on the Dip if the Stock Market Crashes",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-stock-plan-buy-124100243.html",
-                "score": 0
-            },
-            {
-                "symbol": "SAIQ",
-                "headline": "WISeSat.Space Advances Post-Quantum-Ready Satellite Communications to Support U.S. Quantum-Security Objectives",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/wisesat-space-advances-post-quantum-164700940.html",
+                "symbol": "DDOG",
+                "headline": "Datadog Stock Gains Attention After Analyst Upgrade On AI Demand",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-stock-gains-attention-analyst-002430917.html",
                 "score": 0
             },
             {
@@ -101,31 +87,31 @@
                 "score": 0
             },
             {
-                "symbol": "NAUT",
-                "headline": "Nautilus Biotechnology to Announce Third Quarter 2026 Financial Results on October 27, 2026",
+                "symbol": "ISRG",
+                "headline": "3 Wall Street Analysts See Intuitive Surgical Hitting $500. Here's the Bull Case.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-analysts-see-135000103.html",
+                "score": 0
+            },
+            {
+                "symbol": "RTX",
+                "headline": "RTX Stock Is Waiting On One Answer",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-waiting-one-answer-210407367.html",
+                "score": 0
+            },
+            {
+                "symbol": "^IXIC",
+                "headline": "Goldman Sachs sends a stern warning to stock market investors",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sends-stern-warning-014700361.html",
+                "score": 0
+            },
+            {
+                "symbol": "test",
+                "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
                 "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/nautilus-biotechnology-announce-third-quarter-120000573.html",
-                "score": 0
-            },
-            {
-                "symbol": "DDOG",
-                "headline": "Datadog Stock Gains Attention After Analyst Upgrade On AI Demand",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-stock-gains-attention-analyst-002430917.html",
-                "score": 0
-            },
-            {
-                "symbol": "RIG",
-                "headline": "Why Is Transocean (RIG) Stock Rocketing Higher Today",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-transocean-rig-stock-rocketing-221655546.html",
-                "score": 0
-            },
-            {
-                "symbol": "UAL",
-                "headline": "American Airlines Is Now Down 23% This Year: Is AAL Stock Dead Money or Due for a Bounce?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-now-down-23-185109361.html",
+                "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-105500535.html",
                 "score": 0
             }
         ]
