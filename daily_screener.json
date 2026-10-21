@@ -1,33 +1,40 @@
 {
-    "timestamp": "2026-10-21T21:46:02.514885+00:00",
+    "timestamp": "2026-10-21T23:02:40.196136+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "TSLA",
-                "headline": "Tesla reports Q3 earnings beat, positive free cash flow, and better-than-expected capex",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/tesla-reports-q3-earnings-beat-positive-free-cash-flow-and-better-than-expected-capex-202153389.html",
-                "score": 2
+                "symbol": "KMI",
+                "headline": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/energy/articles/kinder-morgan-invest-4-7-225045108.html",
+                "score": 3
             },
             {
-                "symbol": "GOOG",
-                "headline": "Google Strikes Surprise Deal With Major AI Rival",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/google-strikes-surprise-deal-major-214351959.html",
-                "score": 2
+                "symbol": "SKYD",
+                "headline": "Lionsgate Studios Stock Jumps on Report of Takeover Bid by Legendary Entertainment",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/478465b4-14b0-3095-8f90-90e61c83aeb7/lionsgate-studios-stock-jumps.html",
+                "score": 3
             },
             {
                 "symbol": "META",
-                "headline": "Meta earnings live: Meta beats Q3 revenue expectations, announces 2-for-1 stock split",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/live/meta-earnings-live-meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-173000302.html",
+                "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "TSLA",
+                "headline": "Tesla Earnings Beat, FSD Revenue Strong, But TSLA Falls After Call",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0e6f45c4-f583-3080-9285-aee877fe5b99/tesla-earnings-beat%2C-fsd.html",
                 "score": 0
             },
             {
                 "symbol": "IBM",
-                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
                 "score": 0
             },
             {
@@ -39,37 +46,30 @@
             },
             {
                 "symbol": "TXN",
-                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "CMG",
-                "headline": "As Chipotle Fights Soft Sales, Can Higher Prices Revive the Stock?",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/d046bd93-75c4-3bd9-a709-7ceb5cff87b7/as-chipotle-fights-soft.html",
-                "score": 0
-            },
-            {
-                "symbol": "T",
-                "headline": "Stock Market Today, Oct. 21: AT&T Beats Earnings on Strong Fiber Growth, Raises 2026 Profit Outlook",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-21-211204603.html",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
                 "score": 0
             },
             {
                 "symbol": "QS",
-                "headline": "QuantumScape Reports Third Quarter 2026 Business and Financial Results",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/quantumscape-reports-third-quarter-2026-201500409.html",
+                "headline": "QuantumScape Q3 Loss Widens; Shares Rise After-Hours",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-q3-loss-widens-shares-220031534.html",
                 "score": 0
             },
             {
-                "symbol": "LUV",
-                "headline": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/c5306261-e593-3560-9ba1-4a6ca1b481cb/southwest-cuts-earnings.html",
+                "symbol": "CMG",
+                "headline": "El Pollo Loco and Papa John's shares plummet, what you need to know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/el-pollo-loco-papa-johns-225439148.html",
+                "score": 0
+            },
+            {
+                "symbol": "T",
+                "headline": "AT&T Stocks Sink 5.9% as Subscriber Growth Trails Earnings Beat",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/t-stocks-sink-5-9-215753316.html",
                 "score": 0
             },
             {
@@ -80,6 +80,34 @@
                 "score": 0
             },
             {
+                "symbol": "URI",
+                "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "LUV",
+                "headline": "Southwest Airlines Beats Expectations But Slashes Profit Outlook on Rising Fuel Costs",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/87a35ea1-be02-36fa-91e5-1cd7a0d8c503/southwest-airlines-beats.html",
+                "score": 0
+            },
+            {
+                "symbol": "GOOG",
+                "headline": "The Magnificent 7 Are Splitting Apart. Here's Who's Winning",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-splitting-apart-heres-221315263.html",
+                "score": 0
+            },
+            {
+                "symbol": "LVS",
+                "headline": "Las Vegas Sands Disappoints on China, Destination Gaming Weakness",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/5f06d855-5ef9-3a8f-a4bc-1a01c7251c72/las-vegas-sands-disappoints.html",
+                "score": 0
+            },
+            {
                 "symbol": "AMAT",
                 "headline": "Two Reasons To Rethink Applied Materials Stock Now",
                 "publisher": "Trefis",
@@ -87,52 +115,10 @@
                 "score": 0
             },
             {
-                "symbol": "URI",
-                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "BE",
-                "headline": "Bloom Energy Gains 8% as Elon Musk Says AI\u2019s Real Limit Is \u201cPower and Cooling,\u201d Not Chips",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-gains-8-elon-191934121.html",
-                "score": 0
-            },
-            {
-                "symbol": "LVS",
-                "headline": "Las Vegas Sands Q3 Adjusted Earnings, Revenue Fall",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/las-vegas-sands-q3-adjusted-201707588.html",
-                "score": 0
-            },
-            {
-                "symbol": "PLTR",
-                "headline": "Palantir Accelerates Delivery of Sovereign AI to New Wave of Customers",
-                "publisher": "Business Wire",
-                "link": "https://finance.yahoo.com/technology/ai/articles/palantir-accelerates-delivery-sovereign-ai-200100948.html",
-                "score": 0
-            },
-            {
-                "symbol": "APLD",
-                "headline": "Applied Digital Has Lost 46% in a Year: Roth MKM Sees 81% Upside",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-lost-46-roth-193245089.html",
-                "score": 0
-            },
-            {
                 "symbol": "CSX",
-                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSLL",
-                "headline": "ETF League Tables: Direxion Drops $95M",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-direxion-drops-210031040.html",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
                 "score": 0
             },
             {
@@ -140,6 +126,13 @@
                 "headline": "Zscaler and Tenable shares are soaring, what you need to know",
                 "publisher": "StockStory",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-tenable-shares-soaring-know-204639252.html",
+                "score": 0
+            },
+            {
+                "symbol": "MOH",
+                "headline": "Molina (MOH) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/molina-moh-q3-earnings-taking-213002766.html",
                 "score": 0
             }
         ]
