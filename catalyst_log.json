@@ -1,144 +1,137 @@
 {
-    "timestamp": "2026-10-21T14:20:24.078787+00:00",
+    "timestamp": "2026-10-21T18:17:41.449479+00:00",
     "catalysts": [
         {
+            "symbol": "APLD",
+            "headline": "TeraWulf Jumps 8% as CEO Says Power Demand Remains \u2018Extremely Strong\u2019; Applied Digital Surges 9%, IREN Climbs 6%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/terawulf-jumps-8-ceo-says-180915154.html",
+            "score": 9
+        },
+        {
+            "symbol": "CRWD",
+            "headline": "Top Midday Gainers",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-175643259.html",
+            "score": 3
+        },
+        {
             "symbol": "SPCX",
-            "headline": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html",
-            "score": 4
-        },
-        {
-            "symbol": "TSLA",
-            "headline": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html",
-            "score": 4
-        },
-        {
-            "symbol": "GOOG",
-            "headline": "Alphabet (GOOGL): Does Its Valuation Account for Waymo\u2019s Potential?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-does-valuation-account-134949535.html",
+            "headline": "Update: Equities Rise Intraday as Markets Parse SpaceX Earnings, Potential Merger With Tesla",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-markets-parse-181151669.html",
             "score": 2
         },
         {
-            "symbol": "GOOGL",
-            "headline": "Alphabet (GOOGL): Does Its Valuation Account for Waymo\u2019s Potential?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-does-valuation-account-134949535.html",
+            "symbol": "TSLA",
+            "headline": "Update: Equities Rise Intraday as Markets Parse SpaceX Earnings, Potential Merger With Tesla",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-markets-parse-181151669.html",
             "score": 2
         },
         {
             "symbol": "AMOD",
-            "headline": "Alpha Modus Signs ARIA Beta Agreement with Greer\u2019s Markets",
+            "headline": "Alpha Modus Announces $7.25 Million Registered Direct Offering of Common Stock",
             "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/alpha-modus-signs-aria-beta-122200046.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/alpha-modus-announces-7-25-175800537.html",
             "score": 2
         },
         {
-            "symbol": "NFLX",
-            "headline": "Buy the dip in Netflix stock as Q3 results show \u201cno new negatives\u201d: DB",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-netflix-stock-q3-135451866.html",
+            "symbol": "T",
+            "headline": "Top Midday Decliners",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180026430.html",
             "score": 0
         },
         {
             "symbol": "SMCI",
-            "headline": "Stocks to Watch: SpaceX, Super Micro, Netflix, AT&T",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/5380612d-0374-33f7-b1d6-8217a5912cfa/stocks-to-watch%3A-spacex%2C.html",
+            "headline": "Super Micro Just Sent Dell Stock Soaring",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-just-sent-dell-181103729.html",
             "score": 0
         },
         {
-            "symbol": "T",
-            "headline": "AT&T Lifts Profit Outlook on Continued Postpaid Phone, Internet Growth",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/33a007d1-1aad-34fb-a6e7-40f7346d510a/at%26t-lifts-profit-outlook-on.html",
+            "symbol": "GOOG",
+            "headline": "Amazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-could-only-own-175000849.html",
             "score": 0
         },
         {
-            "symbol": "ISRG",
-            "headline": "Netflix downgraded, Zoom upgraded: Wall Street's top analyst calls",
-            "publisher": "The Fly",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-zoom-upgraded-wall-134311140.html",
+            "symbol": "NFLX",
+            "headline": "Top Midday Decliners",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180026430.html",
             "score": 0
         },
         {
-            "symbol": "ABT",
-            "headline": "Abbott Yo-Yoes On 'Choppy' Third Quarter As A Key Spinoff Looms",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/714be687-d7fc-31aa-a8fb-44b14a168696/abbott-yo-yoes-on-%27choppy%27.html",
+            "symbol": "NET",
+            "headline": "PHP patches critical flaw hitting 70% of websites; Cloudflare, others surge",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/technology/articles/php-patches-critical-flaw-hitting-151052535.html",
             "score": 0
         },
         {
-            "symbol": "DELL",
-            "headline": "Tech stocks lead market higher as SpaceX shares surge: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/tech-stocks-lead-market-higher-as-spacex-shares-surge-alphacheck-134723268.html",
+            "symbol": "ASST",
+            "headline": "Before the Next Payout: The High-Yield Dividend Bundle to Buy Before November",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/next-payout-high-yield-dividend-131757662.html",
             "score": 0
         },
         {
-            "symbol": "PM",
-            "headline": "Wounded Veterans Relief Fund Launches \"Salute to Smiles\" Event to Deliver Free Dental Care for Florida Veterans",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/wounded-veterans-relief-fund-launches-140000023.html",
+            "symbol": "GOOGL",
+            "headline": "Amazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-could-only-own-175000849.html",
             "score": 0
         },
         {
             "symbol": "NVDA",
-            "headline": "CoreWeave Stock Is Getting Crushed. Here's What Investors Should Watch.",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-getting-crushed-heres-140500165.html",
+            "headline": "Super Micro Just Sent Dell Stock Soaring",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-just-sent-dell-181103729.html",
             "score": 0
         },
         {
-            "symbol": "VZ",
-            "headline": "SpaceX\u2019s Wireless Ambitions Batter Telecom Stocks",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/1e1da067-1f23-3bbb-a06c-4fe680a49547/spacex%E2%80%99s-wireless-ambitions.html",
+            "symbol": "PLTR",
+            "headline": "Palantir Rises 4% as Software Stocks Rally; ServiceNow Gains 3%, Salesforce Holds Flat",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-rises-4-software-stocks-165508613.html",
             "score": 0
         },
         {
-            "symbol": "AVEX",
-            "headline": "Aevex stock drops 5% as US Navy halts $130M drone boat program",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-stock-drops-5-us-114150834.html",
-            "score": 0
-        },
-        {
-            "symbol": "TMO",
-            "headline": "Thermo Fisher Scientific Q3 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/healthcare/articles/thermo-fisher-scientific-q3-earnings-140220746.html",
-            "score": 0
-        },
-        {
-            "symbol": "DHR",
-            "headline": "Sector Update: Healthcare Stocks Mixed Premarket Wednesday",
+            "symbol": "BE",
+            "headline": "Bloom Energy Could Benefit From Project Jupiter Emissions Strategy, Oppenheimer Says",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-mixed-premarket-131743451.html",
+            "link": "https://finance.yahoo.com/energy/articles/bloom-energy-could-benefit-project-163428734.html",
+            "score": 0
+        },
+        {
+            "symbol": "WING",
+            "headline": "Analysts Estimate Wingstop (WING) to Report a Decline in Earnings: What to Look Out for",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-wingstop-wing-report-130026810.html",
+            "score": 0
+        },
+        {
+            "symbol": "DDOG",
+            "headline": "Arista Networks vs. Datadog: Which Technology Stock Is a Better Buy in 2026?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-datadog-technology-144044912.html",
+            "score": 0
+        },
+        {
+            "symbol": "FTAI",
+            "headline": "Is FTAI Aviation Ltd. (FTAI) One of the Best Aerospace Dividend Stocks to Buy After Its 27% Decline?",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ltd-ftai-one-175127121.html",
             "score": 0
         },
         {
             "symbol": "CMG",
-            "headline": "Netflix downgraded, Zoom upgraded: Wall Street's top analyst calls",
-            "publisher": "The Fly",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-zoom-upgraded-wall-134311140.html",
-            "score": 0
-        },
-        {
-            "symbol": "ELV",
-            "headline": "Elevance Health Shares Rise as Third-Quarter Earnings Beat Estimates and 2026 Guidance Increases",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/healthcare/articles/elevance-health-shares-rise-third-135355030.html",
-            "score": 0
-        },
-        {
-            "symbol": "COF",
-            "headline": "Capital One Launches Limited Time Venture X Business Offer for New Cardholders",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/small-business/articles/capital-one-launches-limited-time-140000264.html",
+            "headline": "Chipotle Sinks 4.1% on TD Cowen Downgrade: \u201cLackluster Start to Q4\u201d",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-sinks-4-1-td-154258814.html",
             "score": 0
         }
     ]
