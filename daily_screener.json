@@ -1,138 +1,145 @@
 {
-    "timestamp": "2026-10-21T18:17:41.449479+00:00",
+    "timestamp": "2026-10-21T21:46:02.514885+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "APLD",
-                "headline": "TeraWulf Jumps 8% as CEO Says Power Demand Remains \u2018Extremely Strong\u2019; Applied Digital Surges 9%, IREN Climbs 6%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/terawulf-jumps-8-ceo-says-180915154.html",
-                "score": 9
-            },
-            {
-                "symbol": "CRWD",
-                "headline": "Top Midday Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-175643259.html",
-                "score": 3
-            },
-            {
-                "symbol": "SPCX",
-                "headline": "Update: Equities Rise Intraday as Markets Parse SpaceX Earnings, Potential Merger With Tesla",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-markets-parse-181151669.html",
-                "score": 2
-            },
-            {
                 "symbol": "TSLA",
-                "headline": "Update: Equities Rise Intraday as Markets Parse SpaceX Earnings, Potential Merger With Tesla",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-markets-parse-181151669.html",
+                "headline": "Tesla reports Q3 earnings beat, positive free cash flow, and better-than-expected capex",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/tesla-reports-q3-earnings-beat-positive-free-cash-flow-and-better-than-expected-capex-202153389.html",
                 "score": 2
-            },
-            {
-                "symbol": "AMOD",
-                "headline": "Alpha Modus Announces $7.25 Million Registered Direct Offering of Common Stock",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alpha-modus-announces-7-25-175800537.html",
-                "score": 2
-            },
-            {
-                "symbol": "T",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180026430.html",
-                "score": 0
-            },
-            {
-                "symbol": "SMCI",
-                "headline": "Super Micro Just Sent Dell Stock Soaring",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-just-sent-dell-181103729.html",
-                "score": 0
             },
             {
                 "symbol": "GOOG",
-                "headline": "Amazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-could-only-own-175000849.html",
-                "score": 0
-            },
-            {
-                "symbol": "NFLX",
-                "headline": "Top Midday Decliners",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180026430.html",
-                "score": 0
-            },
-            {
-                "symbol": "NET",
-                "headline": "PHP patches critical flaw hitting 70% of websites; Cloudflare, others surge",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/technology/articles/php-patches-critical-flaw-hitting-151052535.html",
-                "score": 0
-            },
-            {
-                "symbol": "ASST",
-                "headline": "Before the Next Payout: The High-Yield Dividend Bundle to Buy Before November",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/next-payout-high-yield-dividend-131757662.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOGL",
-                "headline": "Amazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-could-only-own-175000849.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVDA",
-                "headline": "Super Micro Just Sent Dell Stock Soaring",
+                "headline": "Google Strikes Surprise Deal With Major AI Rival",
                 "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-just-sent-dell-181103729.html",
+                "link": "https://finance.yahoo.com/technology/ai/articles/google-strikes-surprise-deal-major-214351959.html",
+                "score": 2
+            },
+            {
+                "symbol": "META",
+                "headline": "Meta earnings live: Meta beats Q3 revenue expectations, announces 2-for-1 stock split",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/live/meta-earnings-live-meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-173000302.html",
                 "score": 0
             },
             {
-                "symbol": "PLTR",
-                "headline": "Palantir Rises 4% as Software Stocks Rally; ServiceNow Gains 3%, Salesforce Holds Flat",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-rises-4-software-stocks-165508613.html",
+                "symbol": "IBM",
+                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
                 "score": 0
             },
             {
-                "symbol": "BE",
-                "headline": "Bloom Energy Could Benefit From Project Jupiter Emissions Strategy, Oppenheimer Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/energy/articles/bloom-energy-could-benefit-project-163428734.html",
+                "symbol": "LRCX",
+                "headline": "Lam Research Stocks Gain Before AI-Fab Demand Faces Earnings",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stocks-gain-ai-213635006.html",
                 "score": 0
             },
             {
-                "symbol": "WING",
-                "headline": "Analysts Estimate Wingstop (WING) to Report a Decline in Earnings: What to Look Out for",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-wingstop-wing-report-130026810.html",
-                "score": 0
-            },
-            {
-                "symbol": "DDOG",
-                "headline": "Arista Networks vs. Datadog: Which Technology Stock Is a Better Buy in 2026?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-datadog-technology-144044912.html",
-                "score": 0
-            },
-            {
-                "symbol": "FTAI",
-                "headline": "Is FTAI Aviation Ltd. (FTAI) One of the Best Aerospace Dividend Stocks to Buy After Its 27% Decline?",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ltd-ftai-one-175127121.html",
+                "symbol": "TXN",
+                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
                 "score": 0
             },
             {
                 "symbol": "CMG",
-                "headline": "Chipotle Sinks 4.1% on TD Cowen Downgrade: \u201cLackluster Start to Q4\u201d",
+                "headline": "As Chipotle Fights Soft Sales, Can Higher Prices Revive the Stock?",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/d046bd93-75c4-3bd9-a709-7ceb5cff87b7/as-chipotle-fights-soft.html",
+                "score": 0
+            },
+            {
+                "symbol": "T",
+                "headline": "Stock Market Today, Oct. 21: AT&T Beats Earnings on Strong Fiber Growth, Raises 2026 Profit Outlook",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-21-211204603.html",
+                "score": 0
+            },
+            {
+                "symbol": "QS",
+                "headline": "QuantumScape Reports Third Quarter 2026 Business and Financial Results",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/quantumscape-reports-third-quarter-2026-201500409.html",
+                "score": 0
+            },
+            {
+                "symbol": "LUV",
+                "headline": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/c5306261-e593-3560-9ba1-4a6ca1b481cb/southwest-cuts-earnings.html",
+                "score": 0
+            },
+            {
+                "symbol": "SAP",
+                "headline": "Kingfluencers and naoo Present New Perspectives on Influencer Marketing at the Swiss Omnichannel Forum 2026",
+                "publisher": "NewMediaWire",
+                "link": "https://finance.yahoo.com/media-advertising/articles/kingfluencers-naoo-present-perspectives-influencer-211834230.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMAT",
+                "headline": "Two Reasons To Rethink Applied Materials Stock Now",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/two-reasons-rethink-applied-materials-205832699.html",
+                "score": 0
+            },
+            {
+                "symbol": "URI",
+                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "BE",
+                "headline": "Bloom Energy Gains 8% as Elon Musk Says AI\u2019s Real Limit Is \u201cPower and Cooling,\u201d Not Chips",
                 "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-sinks-4-1-td-154258814.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-gains-8-elon-191934121.html",
+                "score": 0
+            },
+            {
+                "symbol": "LVS",
+                "headline": "Las Vegas Sands Q3 Adjusted Earnings, Revenue Fall",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/las-vegas-sands-q3-adjusted-201707588.html",
+                "score": 0
+            },
+            {
+                "symbol": "PLTR",
+                "headline": "Palantir Accelerates Delivery of Sovereign AI to New Wave of Customers",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/technology/ai/articles/palantir-accelerates-delivery-sovereign-ai-200100948.html",
+                "score": 0
+            },
+            {
+                "symbol": "APLD",
+                "headline": "Applied Digital Has Lost 46% in a Year: Roth MKM Sees 81% Upside",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-lost-46-roth-193245089.html",
+                "score": 0
+            },
+            {
+                "symbol": "CSX",
+                "headline": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "TSLL",
+                "headline": "ETF League Tables: Direxion Drops $95M",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-direxion-drops-210031040.html",
+                "score": 0
+            },
+            {
+                "symbol": "ZS",
+                "headline": "Zscaler and Tenable shares are soaring, what you need to know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-tenable-shares-soaring-know-204639252.html",
                 "score": 0
             }
         ]
