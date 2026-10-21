@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-21T01:24:38.724523+00:00",
+    "timestamp": "2026-10-21T03:30:47.447195+00:00",
     "signals": {
         "catalysts": [
             {
@@ -7,6 +7,13 @@
                 "headline": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.",
                 "publisher": "Barrons.com",
                 "link": "https://finance.yahoo.com/m/43b6b732-d0a2-3c03-bfb2-181d681ee337/super-micro-stock-surges-on.html",
+                "score": 3
+            },
+            {
+                "symbol": "RKLB",
+                "headline": "RKLB Stock Jumps Overnight: Rocket Lab Is About To Attempt A Mars Maneuver That\u2019s Never Worked Before",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-overnight-rocket-031413023.html",
                 "score": 3
             },
             {
@@ -32,9 +39,9 @@
             },
             {
                 "symbol": "TSLA",
-                "headline": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html",
+                "headline": "Tesla supplier CATL shares plunge after disappointing Q3 results",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-supplier-catl-shares-plunge-031847905.html",
                 "score": 0
             },
             {
@@ -46,9 +53,9 @@
             },
             {
                 "symbol": "NVDA",
-                "headline": "Oracle Calls Force Majeure Already?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/oracle-calls-force-majeure-already-005134772.html",
+                "headline": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute \u2018Several Times Over,\u2019 Analyst Dismisses Glut Fears",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-nvda-jump-overnight-023720804.html",
                 "score": 0
             },
             {
@@ -60,16 +67,16 @@
             },
             {
                 "symbol": "BRZE",
-                "headline": "Stock Market Today, Oct. 20: Salesforce Agrees to Acquire Braze for $5.66 Billion: BRZE Stock Soars 52%",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-20-210942173.html",
+                "headline": "Why Did BRZE, HLT, HAS Stocks Hit 52-Week Highs Today?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-brze-hlt-stocks-031159874.html",
                 "score": 0
             },
             {
                 "symbol": "CRDO",
-                "headline": "Is Credo Technology Group (CRDO) Outperforming Other Computer and Technology Stocks This Year?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-crdo-outperforming-124004148.html",
+                "headline": "Credo (CRDO) Stock Looks Fairly Priced After A Very Large 3 Year Run",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/credo-crdo-stock-looks-fairly-021322148.html",
                 "score": 0
             },
             {
@@ -80,24 +87,31 @@
                 "score": 0
             },
             {
-                "symbol": "GM",
-                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
-                "score": 0
-            },
-            {
-                "symbol": "BE",
-                "headline": "META Earnings & 2 Other AI-Related Reports to Watch This Week",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/meta-earnings-2-other-ai-192300043.html",
-                "score": 0
-            },
-            {
                 "symbol": "AMD",
                 "headline": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?",
                 "publisher": "Motley Fool",
                 "link": "https://finance.yahoo.com/technology/ai/articles/openai-reportedly-raising-30-billion-231312958.html",
+                "score": 0
+            },
+            {
+                "symbol": "BE",
+                "headline": "Bloom Energy vs. Oracle: Which AI Infrastructure Stock Is the Better Buy After the Jupiter Setback?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-vs-oracle-ai-023500753.html",
+                "score": 0
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute \u2018Several Times Over,\u2019 Analyst Dismisses Glut Fears",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-nvda-jump-overnight-023720804.html",
+                "score": 0
+            },
+            {
+                "symbol": "IREN",
+                "headline": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-20-220001509.html",
                 "score": 0
             },
             {
@@ -108,17 +122,10 @@
                 "score": 0
             },
             {
-                "symbol": "TSLL",
-                "headline": "ETF League Tables: Direxion Drops $95M",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-direxion-drops-210031040.html",
-                "score": 0
-            },
-            {
-                "symbol": "NBIS",
-                "headline": "Retail Investors Oversubscribed This AI IPO 400 Times. It Fell 32% Anyway",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-oversubscribed-ai-ipo-161542897.html",
+                "symbol": "GM",
+                "headline": "Review & Preview: The Broadening Continues",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f0d25254-e1f8-36d8-b8e9-75da97d28da8/review-%26-preview%3A-the.html",
                 "score": 0
             },
             {
@@ -126,13 +133,6 @@
                 "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
                 "publisher": "MT Newswires",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194829440.html",
-                "score": 0
-            },
-            {
-                "symbol": "GE",
-                "headline": "General Electric (GE) Stock Drops As Q3 Results Spotlight Margin Strength",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-stock-drops-221544337.html",
                 "score": 0
             }
         ]
