@@ -1,75 +1,103 @@
 {
-    "timestamp": "2026-10-21T03:30:47.447195+00:00",
+    "timestamp": "2026-10-21T08:51:04.444292+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "DELL",
-                "headline": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/43b6b732-d0a2-3c03-bfb2-181d681ee337/super-micro-stock-surges-on.html",
-                "score": 3
-            },
-            {
-                "symbol": "RKLB",
-                "headline": "RKLB Stock Jumps Overnight: Rocket Lab Is About To Attempt A Mars Maneuver That\u2019s Never Worked Before",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-overnight-rocket-031413023.html",
-                "score": 3
-            },
-            {
                 "symbol": "SPCX",
-                "headline": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html",
-                "score": 0
-            },
-            {
-                "symbol": "NFLX",
-                "headline": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html",
-                "score": 0
-            },
-            {
-                "symbol": "SMCI",
-                "headline": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html",
-                "score": 0
+                "headline": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html",
+                "score": 4
             },
             {
                 "symbol": "TSLA",
-                "headline": "Tesla supplier CATL shares plunge after disappointing Q3 results",
+                "headline": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html",
+                "score": 4
+            },
+            {
+                "symbol": "SMCI",
+                "headline": "Supermicro stock surges 12% after raising revenue outlook on AI demand",
                 "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-supplier-catl-shares-plunge-031847905.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-surges-12-raising-210904986.html",
+                "score": 3
             },
             {
                 "symbol": "ISRG",
-                "headline": "What Intuitive Surgical (ISRG) Said on Its Q3 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/healthcare/articles/intuitive-surgical-isrg-said-q3-000258365.html",
+                "headline": "Intuitive Surgical Inc (ISRG) (Q3 2026) Earnings Call Highlights: Revenue Jumps 22% to $3 ...",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-inc-isrg-q3-070116562.html",
+                "score": 3
+            },
+            {
+                "symbol": "DELL",
+                "headline": "Super Micro Computer Surges On Blowout Preliminary Revenue; Dell, HPE Jump",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/65105cf9-3f6e-373a-89e7-00b311f8a8ea/super-micro-computer-surges.html",
+                "score": 3
+            },
+            {
+                "symbol": "HPE",
+                "headline": "Super Micro Computer Surges On Blowout Preliminary Revenue; Dell, HPE Jump",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/65105cf9-3f6e-373a-89e7-00b311f8a8ea/super-micro-computer-surges.html",
+                "score": 3
+            },
+            {
+                "symbol": "BRZE",
+                "headline": "CRM Stock In Focus: Jefferies Says Salesforce\u2019s Braze Deal Could Spark More Software Takeovers",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crm-stock-focus-jefferies-says-072115477.html",
+                "score": 2
+            },
+            {
+                "symbol": "NFLX",
+                "headline": "Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/netflix-stock-sinks-after-announcing-q3-earnings-q4-revenue-forecast-falls-short-of-estimates-204545261.html",
                 "score": 0
             },
             {
-                "symbol": "NVDA",
-                "headline": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute \u2018Several Times Over,\u2019 Analyst Dismisses Glut Fears",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-nvda-jump-overnight-023720804.html",
+                "symbol": "^NSEI",
+                "headline": "India stocks dip after RBI hikes rates for first time in nearly 4 yrs",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/economy/policy/articles/india-stocks-dip-rbi-hikes-061508837.html",
                 "score": 0
             },
             {
                 "symbol": "META",
-                "headline": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
+                "headline": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html",
+                "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html",
                 "score": 0
             },
             {
-                "symbol": "BRZE",
-                "headline": "Why Did BRZE, HLT, HAS Stocks Hit 52-Week Highs Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-brze-hlt-stocks-031159874.html",
+                "symbol": "BE",
+                "headline": "Bloom Energy Is Down 36% From Its June Record. Should You Buy Before Thursday's Report?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-down-36-june-072602734.html",
+                "score": 0
+            },
+            {
+                "symbol": "GM",
+                "headline": "Review & Preview: The Broadening Continues",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/f0d25254-e1f8-36d8-b8e9-75da97d28da8/review-%26-preview%3A-the.html",
+                "score": 0
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "Comcast Trades at 6 Times Earnings and Yields 6%. Does It Deserve to Be One of the Cheapest S&P 500 Dividend Stocks, or Is This a No-Brainer Buying Opportunity?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-trades-6-times-earnings-084000620.html",
+                "score": 0
+            },
+            {
+                "symbol": "^BSESN",
+                "headline": "India\u2019s Finance Minister Flags a Major 2027 Risk as Indian Stocks Slide Over 12%",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/india-finance-minister-flags-major-054843106.html",
                 "score": 0
             },
             {
@@ -87,52 +115,17 @@
                 "score": 0
             },
             {
-                "symbol": "AMD",
-                "headline": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/technology/ai/articles/openai-reportedly-raising-30-billion-231312958.html",
+                "symbol": "TSEM",
+                "headline": "Semtech (SMTC) Stock Looks Expensive After Its 8x Run",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/semtech-smtc-stock-looks-expensive-121301413.html",
                 "score": 0
             },
             {
-                "symbol": "BE",
-                "headline": "Bloom Energy vs. Oracle: Which AI Infrastructure Stock Is the Better Buy After the Jupiter Setback?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-vs-oracle-ai-023500753.html",
-                "score": 0
-            },
-            {
-                "symbol": "NBIS",
-                "headline": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute \u2018Several Times Over,\u2019 Analyst Dismisses Glut Fears",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-nbis-nvda-jump-overnight-023720804.html",
-                "score": 0
-            },
-            {
-                "symbol": "IREN",
-                "headline": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-20-220001509.html",
-                "score": 0
-            },
-            {
-                "symbol": "VRT",
-                "headline": "Vertiv Holdings Co. (VRT) Stock Sinks As Market Gains: What You Should Know",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-stock-204504027.html",
-                "score": 0
-            },
-            {
-                "symbol": "GM",
-                "headline": "Review & Preview: The Broadening Continues",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/f0d25254-e1f8-36d8-b8e9-75da97d28da8/review-%26-preview%3A-the.html",
-                "score": 0
-            },
-            {
-                "symbol": "LION",
-                "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194829440.html",
+                "symbol": "NU",
+                "headline": "Leverage Shares Is Shutting Down 13 Single-Stock Leveraged ETFs. None Drew Enough Money to Survive",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/options/articles/leverage-shares-shutting-down-13-200325380.html",
                 "score": 0
             }
         ]
