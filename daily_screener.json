@@ -1,47 +1,68 @@
 {
-    "timestamp": "2026-10-22T08:53:48.053409+00:00",
+    "timestamp": "2026-10-22T14:43:25.312766+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "ES=F",
-                "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-                "score": 3
-            },
-            {
-                "symbol": "SDEV",
-                "headline": "Top Premarket Gainers",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110842388.html",
-                "score": 3
+                "symbol": "LRCX",
+                "headline": "Does Onto Innovation Stock's Valuation Make Sense?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/does-onto-innovation-stocks-valuation-141251669.html",
+                "score": 2
             },
             {
                 "symbol": "META",
-                "headline": "META Stock In Focus: Morningstar Sees 22% Upside As Meta Muse AI Adoption Boosts Confidence Along With Ad Growth",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-focus-morningstar-sees-083324857.html",
+                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+                "score": 0
+            },
+            {
+                "symbol": "LMT",
+                "headline": "Pentagon Plans 10 Years of F-35 Jet Orders",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/b7bdc6c0-aee7-381a-9954-dbfbe2168d36/pentagon-plans-10-years-of.html",
                 "score": 0
             },
             {
                 "symbol": "IBM",
-                "headline": "Big Blue's Wild Wednesday Ride: IBM Crushes Q3 Earnings, So Why Did the Stock Tank Mid-Call?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/big-blues-wild-wednesday-ride-065701343.html",
+                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
                 "score": 0
             },
             {
-                "symbol": "LRCX",
-                "headline": "Lam Research Stock Sinks 7% on a Guide That Beat: \u201cWould Have Been a Bit Higher\u201d",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-sinks-7-065348053.html",
+                "symbol": "PG",
+                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPOT",
+                "headline": "SPOT Stock Hits 10-Month High Despite Q3 Earnings Miss: Co-CEO Says Spotify \u2018Is Now An Agent,\u2019 Brushes Off AI Churn Fears",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/spot-stock-hits-10-month-141557735.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOK",
+                "headline": "Sector Update: Tech Stocks Fall Premarket Thursday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-130734947.html",
                 "score": 0
             },
             {
                 "symbol": "TSLA",
-                "headline": "Update: Tesla Q3 Adjusted Earnings, Revenue Fall",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-q3-adjusted-earnings-revenue-083345998.html",
+                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+                "score": 0
+            },
+            {
+                "symbol": "BHVN",
+                "headline": "BHVN Stock Eyes Biggest Single-Day Gain In 4 Years After FDA Approval For Vyglxia",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/healthcare/articles/bhvn-stock-eyes-biggest-single-132709776.html",
                 "score": 0
             },
             {
@@ -52,80 +73,73 @@
                 "score": 0
             },
             {
-                "symbol": "NOK",
-                "headline": "Nokia Q3 Comparable Earnings, Sales Rise; Issues Q3 Sales Growth Outlook",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/articles/nokia-q3-comparable-earnings-sales-075312153.html",
+                "symbol": "QS",
+                "headline": "EV Next-Generation Solid-State Battery Market Forecasts Growth from $346.7 Million (2025) to $16.4 Billion by 2035, Profiling Toyota, CATL, QuantumScape, Samsung SDI & Other Key Players",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/ev-next-generation-solid-state-133500614.html",
                 "score": 0
             },
             {
-                "symbol": "TXN",
-                "headline": "TXN Q3 deep dive: industrial and data center growth drive outlook upgrade",
+                "symbol": "TTMI",
+                "headline": "TTM Technologies (NASDAQ:TTMI) reports upbeat Q3 2026 but stock drops",
                 "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/txn-q3-deep-dive-industrial-075827342.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-nasdaq-ttmi-reports-115107727.html",
+                "score": 0
+            },
+            {
+                "symbol": "^IXIC",
+                "headline": "Nasdaq leads Wall Street lower on AI spending jitters; oil prices rebound",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html",
+                "score": 0
+            },
+            {
+                "symbol": "FPS",
+                "headline": "Forgent stock falls 11% on CFO transition announcement",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-stock-falls-11-cfo-125617756.html",
+                "score": 0
+            },
+            {
+                "symbol": "STAK",
+                "headline": "STAK Inc. Announces Financial Results for Fiscal Year 2026",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stak-inc-announces-financial-results-202000996.html",
+                "score": 0
+            },
+            {
+                "symbol": "BX",
+                "headline": "Blackstone\u2019s Core Businesses Hit by Rising Rates",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/c5be270a-4224-3227-828a-50f25a04d1eb/blackstone%E2%80%99s-core-businesses.html",
+                "score": 0
+            },
+            {
+                "symbol": "CMCSA",
+                "headline": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/12b5726f-e0c7-38da-b773-0ddd25060802/comcast-plans-restructuring.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOXL",
+                "headline": "Chip Stocks Are Sliding\u2014Why Is Smart Money Buying?",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-sliding-why-smart-153000241.html",
+                "score": 0
+            },
+            {
+                "symbol": "TSCO",
+                "headline": "Compared to Estimates, Tractor Supply (TSCO) Q3 Earnings: A Look at Key Metrics",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-tractor-supply-tsco-123006149.html",
                 "score": 0
             },
             {
                 "symbol": "QQQ",
-                "headline": "Questcorp Mining to Exercise Option to Acquire 100% of North Island Copper Project",
-                "publisher": "TMX Newsfile",
-                "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-mining-exercise-option-acquire-073300181.html",
-                "score": 0
-            },
-            {
-                "symbol": "T",
-                "headline": "AT&T (T) Looks Fully Valued Following Earnings And 2026 Guidance",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/t-t-looks-fully-valued-071237655.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOGL",
-                "headline": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That\u2019s Strikingly Clear.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-soar-oct-28-081502427.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOG",
-                "headline": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That\u2019s Strikingly Clear.",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-soar-oct-28-081502427.html",
-                "score": 0
-            },
-            {
-                "symbol": "BABA",
-                "headline": "China\u2019s CSI 300 slips into bear-market territory as AI rout deepens",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/china-csi-300-slips-bear-061233202.html",
-                "score": 0
-            },
-            {
-                "symbol": "SPY",
-                "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-                "publisher": "Benzinga Prediction Markets",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-060859514.html",
-                "score": 0
-            },
-            {
-                "symbol": "POM",
-                "headline": "POMDOCTOR LIMITED Announces the Termination of Its ADR Program and Trade Class A Ordinary Shares on Nasdaq",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/pomdoctor-limited-announces-termination-adr-123000796.html",
-                "score": 0
-            },
-            {
-                "symbol": "QS",
-                "headline": "Why Is QS Stock Surging Over 8% Overnight?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-qs-stock-surging-over-072359647.html",
-                "score": 0
-            },
-            {
-                "symbol": "^N225",
-                "headline": "Nikkei Falls to Nearly 3-Month Low Amid Strong Risk-Off Sentiment",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/09387ae4-431c-3fbb-811e-e9a430a3109f/nikkei-falls-to-nearly.html",
+                "headline": "Webull Launching Extended-Hours Options Trading",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/options/articles/webull-launching-extended-hours-options-135117064.html",
                 "score": 0
             }
         ]
