@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-22T21:31:26.785019+00:00",
+    "timestamp": "2026-10-22T22:59:13.472336+00:00",
     "catalysts": [
         {
             "symbol": "GEV",
@@ -17,9 +17,9 @@
         },
         {
             "symbol": "WDC",
-            "headline": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html",
+            "headline": "Western Digital Profit Grows on Data Storage Demand, Higher Pricing",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/cdf50009-c73e-3368-9733-052e885278ec/western-digital-profit-grows.html",
             "score": 0
         },
         {
@@ -31,30 +31,44 @@
         },
         {
             "symbol": "BE",
-            "headline": "Bloom Energy Stock Drops Despite Strong Earnings That Cleared a High Bar",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/e3868b47-6056-3c47-b4a4-43815c5ef1d2/bloom-energy-stock-drops.html",
+            "headline": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html",
             "score": 0
         },
         {
             "symbol": "^IXIC",
-            "headline": "Banzai Announces Name Change to Parabolic Technologies, Inc. And Announces Reverse Stock Split",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/banzai-announces-name-change-parabolic-212000844.html",
+            "headline": "Why Micron Stock Dropped on Thursday",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dropped-thursday-224901051.html",
             "score": 0
         },
         {
             "symbol": "AMZN",
-            "headline": "Alphabet (GOOGL) vs. MSFT and AMZN: Can AI Investments and Google Cloud Growth Unlock a 26% Upside?",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-vs-msft-amzn-202624782.html",
+            "headline": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
+            "publisher": "Bloomberg",
+            "link": "https://finance.yahoo.com/technology/articles/spacex-talks-access-80-000-213142634.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Up 3,700%, Should You Buy Sandisk Right Now?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-700-buy-sandisk-now-215000385.html",
             "score": 0
         },
         {
             "symbol": "DECK",
-            "headline": "Deckers Outdoor Cuts Outlook on Shoe Revenue. Why Investors See a Bad Fit.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/44927822-fc58-32ab-b6b3-a84b9678349d/deckers-outdoor-cuts-outlook.html",
+            "headline": "Deckers Cuts Sales Outlook as Shoppers Seek Out Discounted Shoes",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/7c90e045-aca2-3af8-be00-8f5d134a53c1/deckers-cuts-sales-outlook-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "MU",
+            "headline": "Why Micron Stock Dropped on Thursday",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dropped-thursday-224901051.html",
             "score": 0
         },
         {
@@ -65,20 +79,6 @@
             "score": 0
         },
         {
-            "symbol": "PG",
-            "headline": "P&G\u2019s Boosts Q1 Beauty Sales, but Says It Can Do Better",
-            "publisher": "WWD",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/p-g-boosts-q1-beauty-204159193.html",
-            "score": 0
-        },
-        {
-            "symbol": "NEM",
-            "headline": "Newmont Logs Higher Profit, Revenue on Higher Gold Sales",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/cc4a2f58-5d13-3b79-a744-ac88a2769981/newmont-logs-higher-profit%2C.html",
-            "score": 0
-        },
-        {
             "symbol": "SOXL",
             "headline": "SOXL Sinks To 6-Month Low As Nasdaq Slides Amid Oil Surge: Trump Blames Iran, But Wells Fargo Says Huang\u2019s Comments Spooked Markets",
             "publisher": "Stocktwits",
@@ -86,31 +86,24 @@
             "score": 0
         },
         {
-            "symbol": "SNDK",
-            "headline": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html",
-            "score": 0
-        },
-        {
-            "symbol": "MXL",
-            "headline": "MaxLinear beats estimates but stock dips after-hours",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-beats-estimates-stock-dips-211318968.html",
-            "score": 0
-        },
-        {
-            "symbol": "MU",
-            "headline": "Chip Stocks Tumble Despite Solid Earnings Reports",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/590849aa-2dbe-3494-8c1f-3805dca35f0b/chip-stocks-tumble-despite.html",
+            "symbol": "PG",
+            "headline": "Procter & Gamble Q1 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-q1-earnings-call-220417929.html",
             "score": 0
         },
         {
             "symbol": "FIX",
-            "headline": "Comfort Systems beats estimates but falls on CFO change, no guidance",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-beats-estimates-falls-210519908.html",
+            "headline": "Update: Comfort Systems USA Q3 Earnings, Revenue Rise; CFO to Retire; Shares Fall",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-q3-earnings-212908292.html",
+            "score": 0
+        },
+        {
+            "symbol": "STX",
+            "headline": "Western Digital Reports Quarterly Earnings Beat",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/7eb2546c-2f18-3691-beff-56a3f7012073/western-digital-reports.html",
             "score": 0
         },
         {
@@ -121,6 +114,20 @@
             "score": 0
         },
         {
+            "symbol": "NEM",
+            "headline": "Newmont Logs Higher Profit, Revenue on Higher Gold Sales",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/cc4a2f58-5d13-3b79-a744-ac88a2769981/newmont-logs-higher-profit%2C.html",
+            "score": 0
+        },
+        {
+            "symbol": "MXL",
+            "headline": "MaxLinear beats estimates but stock dips after-hours",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-beats-estimates-stock-dips-211318968.html",
+            "score": 0
+        },
+        {
             "symbol": "LULU",
             "headline": "lululemon Announces Appointment of Tara Poseley to Board of Directors",
             "publisher": "Business Wire",
@@ -128,17 +135,10 @@
             "score": 0
         },
         {
-            "symbol": "NOK",
-            "headline": "Nokia Q3 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/technology/articles/nokia-q3-earnings-call-highlights-210434382.html",
-            "score": 0
-        },
-        {
             "symbol": "LMT",
-            "headline": "Lockheed Martin Corp (LMT) (Q3 2026) Earnings Call Highlights: Record $292 Billion Backlog and ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corp-lmt-q3-210539583.html",
+            "headline": "Pentagon Plans 10 Years of F-35 Jet Orders",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/b7bdc6c0-aee7-381a-9954-dbfbe2168d36/pentagon-plans-10-years-of.html",
             "score": 0
         }
     ]
