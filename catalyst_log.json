@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-10-22T01:28:38.356748+00:00",
+    "timestamp": "2026-10-22T03:30:25.164150+00:00",
     "catalysts": [
         {
-            "symbol": "T",
-            "headline": "AT&T Inc (T) (Q3 2026) Earnings Call Highlights: Record Subscriber Growth and Raised EPS Outlook",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/t-inc-t-q3-2026-010149563.html",
-            "score": 3
-        },
-        {
-            "symbol": "SKYD",
-            "headline": "Lionsgate Studios Stock Jumps on Report of Takeover Bid by Legendary Entertainment",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/478465b4-14b0-3095-8f90-90e61c83aeb7/lionsgate-studios-stock-jumps.html",
+            "symbol": "ES=F",
+            "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
             "score": 3
         },
         {
@@ -23,31 +16,38 @@
             "score": 3
         },
         {
+            "symbol": "T",
+            "headline": "Why Does Charter Stock's High Cash Yield Get So Little Credit?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-does-charter-stocks-high-030354242.html",
+            "score": 2
+        },
+        {
             "symbol": "META",
-            "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
+            "headline": "Meta Platforms (META) Hit With $25 Billion New Mexico Privacy Verdict",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/technology/articles/meta-platforms-meta-hit-25-031250104.html",
             "score": 0
         },
         {
             "symbol": "IBM",
-            "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
+            "headline": "IBM Stock Heads For Best Week Since June: CEO Says \u2018Q2 Softness Was Timing Rather Than Demand\u2019 After Q3 Beat, Sees Infrastructure Momentum",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-heads-best-week-031619973.html",
             "score": 0
         },
         {
             "symbol": "TSLA",
-            "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
+            "headline": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031110870.html",
             "score": 0
         },
         {
             "symbol": "LRCX",
-            "headline": "Lam Research (LRCX) Q1 2027 Earnings Call Transcript",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-q1-2027-005815415.html",
+            "headline": "LRCX Stock Tumbles Overnight Despite Record Profits: Supply Snags Put Sales On Hold As China Slowdown Looms",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/lrcx-stock-tumbles-overnight-despite-031105937.html",
             "score": 0
         },
         {
@@ -58,31 +58,38 @@
             "score": 0
         },
         {
+            "symbol": "BABA",
+            "headline": "Better Retail Stock for 2026: Alibaba vs. Walmart",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/better-retail-stock-2026-alibaba-233321778.html",
+            "score": 0
+        },
+        {
             "symbol": "QS",
-            "headline": "What QuantumScape (QS) Said on Its Q3 Earnings Call",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-qs-said-q3-earnings-230317779.html",
+            "headline": "QuantumScape: 3 Key Takeaways for Long-Term Investors",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-3-key-takeaways-long-031719746.html",
+            "score": 0
+        },
+        {
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow slips, S&P 500, Nasdaq rise as tech stocks rebound",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112734828.html",
             "score": 0
         },
         {
             "symbol": "CMG",
-            "headline": "SPHQ, QUAL, and MOAT Define Quality Differently. Those Rules Decide What You Own",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sphq-qual-moat-define-quality-010304141.html",
-            "score": 0
-        },
-        {
-            "symbol": "GOOG",
-            "headline": "How Did Strategy Stock Leave Its Industry Behind?",
+            "headline": "Is McDonald's Stock A Real Bargain?",
             "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/did-strategy-stock-leave-industry-005945661.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-real-bargain-031042940.html",
             "score": 0
         },
         {
-            "symbol": "SAP",
-            "headline": "What SAP (SAP) Said on Its Q3 Earnings Call",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sap-sap-said-q3-earnings-010300971.html",
+            "symbol": "SKYD",
+            "headline": "Skydance (SKYD) Soars on Potential Billion-Dollar Investment \u2014 The Next Key Event to Watch",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/skydance-skyd-soars-potential-billion-020046442.html",
             "score": 0
         },
         {
@@ -93,24 +100,17 @@
             "score": 0
         },
         {
-            "symbol": "KMI",
-            "headline": "Kinder Morgan (KMI) Q3 2026 Earnings Call Transcript",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-q3-2026-011407065.html",
-            "score": 0
-        },
-        {
-            "symbol": "ZS",
-            "headline": "Zscaler and Tenable shares are soaring, what you need to know",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-tenable-shares-soaring-know-204639252.html",
-            "score": 0
-        },
-        {
-            "symbol": "GOOGL",
-            "headline": "How Did Strategy Stock Leave Its Industry Behind?",
+            "symbol": "GOOG",
+            "headline": "Was There Any Sign Snap Stock Would Run?",
             "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/did-strategy-stock-leave-industry-005945661.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sign-snap-stock-run-022256263.html",
+            "score": 0
+        },
+        {
+            "symbol": "SAP",
+            "headline": "What SAP (SAP) Said on Its Q3 Earnings Call",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sap-sap-said-q3-earnings-010300971.html",
             "score": 0
         },
         {
@@ -118,20 +118,6 @@
             "headline": "AVEX Stock Crashes To Fresh 52-Week Lows After Navy Reportedly Halts Drone Boat Orders \u2014 Company Says No Orders Were Stopped",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/markets/stocks/articles/avex-stock-crashes-fresh-52-232827291.html",
-            "score": 0
-        },
-        {
-            "symbol": "LUV",
-            "headline": "Southwest (LUV) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/southwest-luv-q3-earnings-key-220003077.html",
-            "score": 0
-        },
-        {
-            "symbol": "URI",
-            "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
             "score": 0
         }
     ]
