@@ -1,145 +1,145 @@
 {
-    "timestamp": "2026-10-22T14:43:25.312766+00:00",
+    "timestamp": "2026-10-22T18:12:06.692037+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "LRCX",
-                "headline": "Does Onto Innovation Stock's Valuation Make Sense?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/does-onto-innovation-stocks-valuation-141251669.html",
-                "score": 2
-            },
-            {
                 "symbol": "META",
-                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as oil climbs, investors weigh Meta, Tesla earnings",
                 "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+                "score": 3
+            },
+            {
+                "symbol": "^IXIC",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq tumble as oil climbs, investors weigh Meta, Tesla earnings",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+                "score": 3
+            },
+            {
+                "symbol": "TTMI",
+                "headline": "Why TTM Technologies Stock Jumped Plunged 30% Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-ttm-technologies-stock-jumped-174901954.html",
+                "score": 3
+            },
+            {
+                "symbol": "^VIX",
+                "headline": "Update: US Equity Indexes Drop as AI Trade Loses Shine After Meta's Results While Crude Oil Jumps as Iran Warns of Invasion",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-ai-174130917.html",
+                "score": 3
+            },
+            {
+                "symbol": "KSS",
+                "headline": "Ulta Beauty's website traffic just surged a whopping 48%",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ulta-beautys-website-traffic-just-173300543.html",
+                "score": 3
+            },
+            {
+                "symbol": "MRNA",
+                "headline": "Moderna shares plunge on apparent cancer vaccine data leak",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-plunge-apparent-cancer-175020619.html",
                 "score": 0
             },
             {
-                "symbol": "LMT",
-                "headline": "Pentagon Plans 10 Years of F-35 Jet Orders",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/b7bdc6c0-aee7-381a-9954-dbfbe2168d36/pentagon-plans-10-years-of.html",
-                "score": 0
-            },
-            {
-                "symbol": "IBM",
-                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+                "symbol": "AMD",
+                "headline": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/5712d994-c082-3a96-901a-7cb056f412a7/chip-stock-rebound-comes.html",
                 "score": 0
             },
             {
                 "symbol": "PG",
-                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+                "headline": "The Procter & Gamble Company Q1 2027 Earnings Call Summary",
+                "publisher": "Moby",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-company-q1-2027-174407309.html",
+                "score": 0
+            },
+            {
+                "symbol": "FMCC",
+                "headline": "Mortgage rates dropped for the first time in months",
                 "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+                "link": "https://finance.yahoo.com/economy/article/mortgage-rates-dropped-for-the-first-time-in-months-160810388.html",
                 "score": 0
             },
             {
-                "symbol": "SPOT",
-                "headline": "SPOT Stock Hits 10-Month High Despite Q3 Earnings Miss: Co-CEO Says Spotify \u2018Is Now An Agent,\u2019 Brushes Off AI Churn Fears",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/spot-stock-hits-10-month-141557735.html",
+                "symbol": "LMT",
+                "headline": "Lockheed Martin (LMT) Q3 2026 Earnings Call Transcript",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-q3-2026-174335725.html",
                 "score": 0
             },
             {
-                "symbol": "NOK",
-                "headline": "Sector Update: Tech Stocks Fall Premarket Thursday",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-130734947.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSLA",
-                "headline": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+                "symbol": "^TNX",
+                "headline": "Bond traders are backing off Fed rate hike bets \u2014 here's what it means for mortgage rates",
                 "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+                "link": "https://finance.yahoo.com/markets/article/bond-traders-are-backing-off-fed-rate-hike-bets--heres-what-it-means-for-mortgage-rates-180507914.html",
                 "score": 0
             },
             {
-                "symbol": "BHVN",
-                "headline": "BHVN Stock Eyes Biggest Single-Day Gain In 4 Years After FDA Approval For Vyglxia",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/bhvn-stock-eyes-biggest-single-132709776.html",
-                "score": 0
-            },
-            {
-                "symbol": "NQ=F",
-                "headline": "Stock market today: Dow slips, S&P 500, Nasdaq rise as tech stocks rebound",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112734828.html",
-                "score": 0
-            },
-            {
-                "symbol": "QS",
-                "headline": "EV Next-Generation Solid-State Battery Market Forecasts Growth from $346.7 Million (2025) to $16.4 Billion by 2035, Profiling Toyota, CATL, QuantumScape, Samsung SDI & Other Key Players",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/technology/articles/ev-next-generation-solid-state-133500614.html",
-                "score": 0
-            },
-            {
-                "symbol": "TTMI",
-                "headline": "TTM Technologies (NASDAQ:TTMI) reports upbeat Q3 2026 but stock drops",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-nasdaq-ttmi-reports-115107727.html",
-                "score": 0
-            },
-            {
-                "symbol": "^IXIC",
-                "headline": "Nasdaq leads Wall Street lower on AI spending jitters; oil prices rebound",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html",
-                "score": 0
-            },
-            {
-                "symbol": "FPS",
-                "headline": "Forgent stock falls 11% on CFO transition announcement",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-stock-falls-11-cfo-125617756.html",
-                "score": 0
-            },
-            {
-                "symbol": "STAK",
-                "headline": "STAK Inc. Announces Financial Results for Fiscal Year 2026",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stak-inc-announces-financial-results-202000996.html",
-                "score": 0
-            },
-            {
-                "symbol": "BX",
-                "headline": "Blackstone\u2019s Core Businesses Hit by Rising Rates",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/c5be270a-4224-3227-828a-50f25a04d1eb/blackstone%E2%80%99s-core-businesses.html",
-                "score": 0
-            },
-            {
-                "symbol": "CMCSA",
-                "headline": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/12b5726f-e0c7-38da-b773-0ddd25060802/comcast-plans-restructuring.html",
+                "symbol": "GEV",
+                "headline": "GE Vernova Stock Is Down 10%. Blame Meta.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/e4c2f7ec-18d9-36a7-aeb7-f9dba40251f8/ge-vernova-stock-is-down-10%25..html",
                 "score": 0
             },
             {
                 "symbol": "SOXL",
-                "headline": "Chip Stocks Are Sliding\u2014Why Is Smart Money Buying?",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-sliding-why-smart-153000241.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSCO",
-                "headline": "Compared to Estimates, Tractor Supply (TSCO) Q3 Earnings: A Look at Key Metrics",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-tractor-supply-tsco-123006149.html",
+                "headline": "SOXL Sinks To 6-Month Low As Nasdaq Slides Amid Oil Surge: Trump Blames Iran, But Wells Fargo Says Huang\u2019s Comments Spooked Markets",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/soxl-sinks-6-month-low-170113972.html",
                 "score": 0
             },
             {
                 "symbol": "QQQ",
-                "headline": "Webull Launching Extended-Hours Options Trading",
+                "headline": "Exchange-Traded Funds, US Equities Lower After Midday",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/options/articles/webull-launching-extended-hours-options-135117064.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-171320665.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPOT",
+                "headline": "Spotify (SPOT) Q3 2026 Earnings Call Transcript",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/spotify-spot-q3-2026-earnings-174335993.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOK",
+                "headline": "ICEYE and Nokia partner with the Ministry of Defence of Ukraine to develop sovereign satcom capability",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/technology/articles/iceye-nokia-partner-ministry-defence-175200841.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRWV",
+                "headline": "Oracle Stock Was Caught In the AI Debt Selloff. That Could Be a Mistake.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/57d62f10-73d3-3e0e-b9d1-621f9afabbd1/oracle-stock-was-caught-in.html",
+                "score": 0
+            },
+            {
+                "symbol": "BHVN",
+                "headline": "Biohaven Stock Heads for Best Day in 3 Years as FDA Agrees to Review Drug Again",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b55999f1-07b3-34d0-aa86-0b7040b288b1/biohaven-stock-heads-for-best.html",
+                "score": 0
+            },
+            {
+                "symbol": "FPS",
+                "headline": "Kaiser Aluminum Sinks 23% on Q3 Earnings Miss as \u201cOperational Challenges\u201d Squeeze Margins",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kaiser-aluminum-sinks-23-q3-172919082.html",
+                "score": 0
+            },
+            {
+                "symbol": "FNMA",
+                "headline": "Mortgage Rates Are \u2018Eating Up All the Good News\u2019 on Housing, Says NAHB CEO \u2014 Peter Schiff Warns of \u2018Worst Housing Market in US History\u2019",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-eating-good-news-193006019.html",
                 "score": 0
             }
         ]
