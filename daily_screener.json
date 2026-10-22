@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-22T03:30:25.164150+00:00",
+    "timestamp": "2026-10-22T08:53:48.053409+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,59 +17,31 @@
                 "score": 3
             },
             {
-                "symbol": "T",
-                "headline": "Why Does Charter Stock's High Cash Yield Get So Little Credit?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-does-charter-stocks-high-030354242.html",
-                "score": 2
-            },
-            {
                 "symbol": "META",
-                "headline": "Meta Platforms (META) Hit With $25 Billion New Mexico Privacy Verdict",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/technology/articles/meta-platforms-meta-hit-25-031250104.html",
+                "headline": "META Stock In Focus: Morningstar Sees 22% Upside As Meta Muse AI Adoption Boosts Confidence Along With Ad Growth",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-focus-morningstar-sees-083324857.html",
                 "score": 0
             },
             {
                 "symbol": "IBM",
-                "headline": "IBM Stock Heads For Best Week Since June: CEO Says \u2018Q2 Softness Was Timing Rather Than Demand\u2019 After Q3 Beat, Sees Infrastructure Momentum",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-heads-best-week-031619973.html",
-                "score": 0
-            },
-            {
-                "symbol": "TSLA",
-                "headline": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031110870.html",
+                "headline": "Big Blue's Wild Wednesday Ride: IBM Crushes Q3 Earnings, So Why Did the Stock Tank Mid-Call?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/big-blues-wild-wednesday-ride-065701343.html",
                 "score": 0
             },
             {
                 "symbol": "LRCX",
-                "headline": "LRCX Stock Tumbles Overnight Despite Record Profits: Supply Snags Put Sales On Hold As China Slowdown Looms",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/lrcx-stock-tumbles-overnight-despite-031105937.html",
+                "headline": "Lam Research Stock Sinks 7% on a Guide That Beat: \u201cWould Have Been a Bit Higher\u201d",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-sinks-7-065348053.html",
                 "score": 0
             },
             {
-                "symbol": "TXN",
-                "headline": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "BABA",
-                "headline": "Better Retail Stock for 2026: Alibaba vs. Walmart",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/better-retail-stock-2026-alibaba-233321778.html",
-                "score": 0
-            },
-            {
-                "symbol": "QS",
-                "headline": "QuantumScape: 3 Key Takeaways for Long-Term Investors",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-3-key-takeaways-long-031719746.html",
+                "symbol": "TSLA",
+                "headline": "Update: Tesla Q3 Adjusted Earnings, Revenue Fall",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-q3-adjusted-earnings-revenue-083345998.html",
                 "score": 0
             },
             {
@@ -80,17 +52,59 @@
                 "score": 0
             },
             {
-                "symbol": "CMG",
-                "headline": "Is McDonald's Stock A Real Bargain?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-real-bargain-031042940.html",
+                "symbol": "NOK",
+                "headline": "Nokia Q3 Comparable Earnings, Sales Rise; Issues Q3 Sales Growth Outlook",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/technology/articles/nokia-q3-comparable-earnings-sales-075312153.html",
                 "score": 0
             },
             {
-                "symbol": "SKYD",
-                "headline": "Skydance (SKYD) Soars on Potential Billion-Dollar Investment \u2014 The Next Key Event to Watch",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/skydance-skyd-soars-potential-billion-020046442.html",
+                "symbol": "TXN",
+                "headline": "TXN Q3 deep dive: industrial and data center growth drive outlook upgrade",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/txn-q3-deep-dive-industrial-075827342.html",
+                "score": 0
+            },
+            {
+                "symbol": "QQQ",
+                "headline": "Questcorp Mining to Exercise Option to Acquire 100% of North Island Copper Project",
+                "publisher": "TMX Newsfile",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-mining-exercise-option-acquire-073300181.html",
+                "score": 0
+            },
+            {
+                "symbol": "T",
+                "headline": "AT&T (T) Looks Fully Valued Following Earnings And 2026 Guidance",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/t-t-looks-fully-valued-071237655.html",
+                "score": 0
+            },
+            {
+                "symbol": "GOOGL",
+                "headline": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That\u2019s Strikingly Clear.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-soar-oct-28-081502427.html",
+                "score": 0
+            },
+            {
+                "symbol": "GOOG",
+                "headline": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That\u2019s Strikingly Clear.",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-soar-oct-28-081502427.html",
+                "score": 0
+            },
+            {
+                "symbol": "BABA",
+                "headline": "China\u2019s CSI 300 slips into bear-market territory as AI rout deepens",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/china-csi-300-slips-bear-061233202.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPY",
+                "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+                "publisher": "Benzinga Prediction Markets",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-060859514.html",
                 "score": 0
             },
             {
@@ -101,24 +115,17 @@
                 "score": 0
             },
             {
-                "symbol": "GOOG",
-                "headline": "Was There Any Sign Snap Stock Would Run?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sign-snap-stock-run-022256263.html",
-                "score": 0
-            },
-            {
-                "symbol": "SAP",
-                "headline": "What SAP (SAP) Said on Its Q3 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sap-sap-said-q3-earnings-010300971.html",
-                "score": 0
-            },
-            {
-                "symbol": "AVEX",
-                "headline": "AVEX Stock Crashes To Fresh 52-Week Lows After Navy Reportedly Halts Drone Boat Orders \u2014 Company Says No Orders Were Stopped",
+                "symbol": "QS",
+                "headline": "Why Is QS Stock Surging Over 8% Overnight?",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/avex-stock-crashes-fresh-52-232827291.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-qs-stock-surging-over-072359647.html",
+                "score": 0
+            },
+            {
+                "symbol": "^N225",
+                "headline": "Nikkei Falls to Nearly 3-Month Low Amid Strong Risk-Off Sentiment",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/09387ae4-431c-3fbb-811e-e9a430a3109f/nikkei-falls-to-nearly.html",
                 "score": 0
             }
         ]
