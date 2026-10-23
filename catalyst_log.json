@@ -1,29 +1,15 @@
 {
-    "timestamp": "2026-10-22T22:59:13.472336+00:00",
+    "timestamp": "2026-10-23T01:40:35.855895+00:00",
     "catalysts": [
         {
-            "symbol": "GEV",
-            "headline": "BofA stays ahead of the curve on GE Vernova as AI power demand surges",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-stays-ahead-curve-ge-211700915.html",
+            "symbol": "^VIX",
+            "headline": "Update: US Equity Indexes Mixed as Investors Rotate From AI Trade to Government Bonds; Crude Oil Surges",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-211833642.html",
             "score": 3
         },
         {
-            "symbol": "CRWV",
-            "headline": "Stock Market Today, Oct. 22: CoreWeave Slides on Bernstein Downgrade and Financing Worries",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-22-210931016.html",
-            "score": 2
-        },
-        {
             "symbol": "WDC",
-            "headline": "Western Digital Profit Grows on Data Storage Demand, Higher Pricing",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/cdf50009-c73e-3368-9733-052e885278ec/western-digital-profit-grows.html",
-            "score": 0
-        },
-        {
-            "symbol": "MRNA",
             "headline": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html",
@@ -37,45 +23,17 @@
             "score": 0
         },
         {
-            "symbol": "^IXIC",
-            "headline": "Why Micron Stock Dropped on Thursday",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dropped-thursday-224901051.html",
+            "symbol": "MRNA",
+            "headline": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html",
             "score": 0
         },
         {
             "symbol": "AMZN",
-            "headline": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
-            "publisher": "Bloomberg",
-            "link": "https://finance.yahoo.com/technology/articles/spacex-talks-access-80-000-213142634.html",
-            "score": 0
-        },
-        {
-            "symbol": "SNDK",
-            "headline": "Up 3,700%, Should You Buy Sandisk Right Now?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3-700-buy-sandisk-now-215000385.html",
-            "score": 0
-        },
-        {
-            "symbol": "DECK",
-            "headline": "Deckers Cuts Sales Outlook as Shoppers Seek Out Discounted Shoes",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/7c90e045-aca2-3af8-be00-8f5d134a53c1/deckers-cuts-sales-outlook-as.html",
-            "score": 0
-        },
-        {
-            "symbol": "MU",
-            "headline": "Why Micron Stock Dropped on Thursday",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dropped-thursday-224901051.html",
-            "score": 0
-        },
-        {
-            "symbol": "QQQ",
-            "headline": "Oil Above $110 Sends Fresh Warning to Stock Market",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/economy/articles/oil-above-110-sends-fresh-194729360.html",
+            "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-least-33-011311785.html",
             "score": 0
         },
         {
@@ -86,45 +44,94 @@
             "score": 0
         },
         {
-            "symbol": "PG",
-            "headline": "Procter & Gamble Q1 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-q1-earnings-call-220417929.html",
-            "score": 0
-        },
-        {
-            "symbol": "FIX",
-            "headline": "Update: Comfort Systems USA Q3 Earnings, Revenue Rise; CFO to Retire; Shares Fall",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-q3-earnings-212908292.html",
-            "score": 0
-        },
-        {
-            "symbol": "STX",
-            "headline": "Western Digital Reports Quarterly Earnings Beat",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/7eb2546c-2f18-3691-beff-56a3f7012073/western-digital-reports.html",
-            "score": 0
-        },
-        {
-            "symbol": "INTC",
-            "headline": "Intel vs. Qualcomm: A Widening Gap in Revenue",
+            "symbol": "MU",
+            "headline": "Why Micron Stock Dropped on Thursday",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-qualcomm-widening-gap-204516337.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dropped-thursday-224901051.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Up 3,700%, Should You Buy Sandisk Right Now?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-700-buy-sandisk-now-215000385.html",
+            "score": 0
+        },
+        {
+            "symbol": "GEV",
+            "headline": "Why Is GE Vernova (GEV) Tied To 16 Off Grid Power Units?",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/energy/articles/why-ge-vernova-gev-tied-011035580.html",
+            "score": 0
+        },
+        {
+            "symbol": "^KS11",
+            "headline": "Tech, Geopolitcal Jitters Rattle Asian Stock Markets",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-geopolitcal-jitters-rattle-asian-104347616.html",
+            "score": 0
+        },
+        {
+            "symbol": "^IXIC",
+            "headline": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html",
+            "score": 0
+        },
+        {
+            "symbol": "DECK",
+            "headline": "What Deckers Outdoor (DECK) Said on Its Q2 Earnings Call",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/deckers-outdoor-deck-said-q2-000418752.html",
+            "score": 0
+        },
+        {
+            "symbol": "TTMI",
+            "headline": "Earnings Beat Might Change The Case For TTM Technologies Stock",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-might-change-case-231319334.html",
             "score": 0
         },
         {
             "symbol": "NEM",
-            "headline": "Newmont Logs Higher Profit, Revenue on Higher Gold Sales",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/cc4a2f58-5d13-3b79-a744-ac88a2769981/newmont-logs-higher-profit%2C.html",
+            "headline": "Newmont Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-q3-earnings-call-highlights-010419614.html",
             "score": 0
         },
         {
-            "symbol": "MXL",
-            "headline": "MaxLinear beats estimates but stock dips after-hours",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-beats-estimates-stock-dips-211318968.html",
+            "symbol": "VZ",
+            "headline": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/60b84efe-efdb-325f-b128-26b71dc0392f/spacex-cell-site-report-hits.html",
+            "score": 0
+        },
+        {
+            "symbol": "NOK",
+            "headline": "Nokia Oyj (NOK) (Q3 2026) Earnings Call Highlights: AI and Cloud Sales Surge 123% as Operating ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/technology/articles/nokia-oyj-nok-q3-2026-010311293.html",
+            "score": 0
+        },
+        {
+            "symbol": "SPOT",
+            "headline": "Spotify Technology Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-q3-earnings-call-010423680.html",
+            "score": 0
+        },
+        {
+            "symbol": "LMT",
+            "headline": "Why Lockheed Martin Stock Soared Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-stock-soared-002044802.html",
+            "score": 0
+        },
+        {
+            "symbol": "GC=F",
+            "headline": "Newmont Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-q3-earnings-call-highlights-010419614.html",
             "score": 0
         },
         {
@@ -132,13 +139,6 @@
             "headline": "lululemon Announces Appointment of Tara Poseley to Board of Directors",
             "publisher": "Business Wire",
             "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-announces-appointment-tara-poseley-200500235.html",
-            "score": 0
-        },
-        {
-            "symbol": "LMT",
-            "headline": "Pentagon Plans 10 Years of F-35 Jet Orders",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/b7bdc6c0-aee7-381a-9954-dbfbe2168d36/pentagon-plans-10-years-of.html",
             "score": 0
         }
     ]
