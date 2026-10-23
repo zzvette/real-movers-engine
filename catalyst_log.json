@@ -1,27 +1,6 @@
 {
-    "timestamp": "2026-10-23T20:57:26.541083+00:00",
+    "timestamp": "2026-10-23T23:01:44.385902+00:00",
     "catalysts": [
-        {
-            "symbol": "AXP",
-            "headline": "Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-nasdaq.html",
-            "score": 6
-        },
-        {
-            "symbol": "CVX",
-            "headline": "Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-nasdaq.html",
-            "score": 6
-        },
-        {
-            "symbol": "UBER",
-            "headline": "Instacart jumps 10% on report of potential sale to Uber or DoorDash",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/instacart-jumps-10-report-potential-203634200.html",
-            "score": 3
-        },
         {
             "symbol": "ZS",
             "headline": "Palo Alto and Crowdstrike Jumped 6%, and Okta Up 5% as Evercore Survey Flags Stronger Cyber Demand",
@@ -30,45 +9,17 @@
             "score": 3
         },
         {
-            "symbol": "CORT",
-            "headline": "Genmab stock surges 9% following positive phase 3 ovarian cancer trial results",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/genmab-stock-surges-9-following-164434357.html",
-            "score": 3
-        },
-        {
-            "symbol": "CCI",
-            "headline": "SpaceX wants to be America's fourth phone carrier \u2014 tower owners are cashing in",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/spacex-wants-to-be-americas-fourth-phone-carrier--tower-owners-are-cashing-in-162059593.html",
-            "score": 2
-        },
-        {
-            "symbol": "AMT",
-            "headline": "SpaceX wants to be America's fourth phone carrier \u2014 tower owners are cashing in",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/spacex-wants-to-be-americas-fourth-phone-carrier--tower-owners-are-cashing-in-162059593.html",
-            "score": 2
-        },
-        {
             "symbol": "TMUS",
-            "headline": "SpaceX wants to be America's fourth phone carrier \u2014 tower owners are cashing in",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/spacex-wants-to-be-americas-fourth-phone-carrier--tower-owners-are-cashing-in-162059593.html",
+            "headline": "Musk Sees \u201cSeveral Hundred Billion Dollars a Year\u201d in Starlink Connectivity Revenue. Last Quarter It Was $5.2 Billion.",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/musk-sees-several-hundred-billion-213747142.html",
             "score": 2
         },
         {
             "symbol": "T",
-            "headline": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/60b84efe-efdb-325f-b128-26b71dc0392f/spacex-cell-site-report-hits.html",
-            "score": 0
-        },
-        {
-            "symbol": "BE",
-            "headline": "The AI sell-off is crushing stocks of companies leading the data center build-out",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/the-ai-sell-off-is-crushing-stocks-of-companies-leading-the-data-center-build-out-175206076.html",
+            "headline": "Stocks to Watch Recap: SK Hynix, Chip Stocks, Kering, SpaceX",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/c1f127e8-03cd-35ad-a474-0ccb36f2a07d/stocks-to-watch-recap%3A-sk.html",
             "score": 0
         },
         {
@@ -79,6 +30,20 @@
             "score": 0
         },
         {
+            "symbol": "^DJI",
+            "headline": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week \u2014 AAPL, AXP, CART, UBER In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-drop-elevated-223557989.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMT",
+            "headline": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/60b84efe-efdb-325f-b128-26b71dc0392f/spacex-cell-site-report-hits.html",
+            "score": 0
+        },
+        {
             "symbol": "CRWD",
             "headline": "Our Pick Of The Best Cybersecurity Stocks In October 2026",
             "publisher": "Simply Wall St.",
@@ -86,17 +51,24 @@
             "score": 0
         },
         {
-            "symbol": "^DJI",
-            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+            "symbol": "CCI",
+            "headline": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/60b84efe-efdb-325f-b128-26b71dc0392f/spacex-cell-site-report-hits.html",
+            "score": 0
+        },
+        {
+            "symbol": "CART",
+            "headline": "Instacart Is Pursuing a Sale, Report Says. Here\u2019s What Makes It Enticing.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/3014df77-d483-34c0-b6e1-83486b93bde7/instacart-is-pursuing-a-sale%2C.html",
             "score": 0
         },
         {
             "symbol": "CL=F",
-            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+            "headline": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week \u2014 AAPL, AXP, CART, UBER In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-drop-elevated-223557989.html",
             "score": 0
         },
         {
@@ -107,6 +79,13 @@
             "score": 0
         },
         {
+            "symbol": "XOM",
+            "headline": "3 Energy Stocks to Buy and Hold for the Next Decade, Starting With ExxonMobil",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-buy-hold-213500990.html",
+            "score": 0
+        },
+        {
             "symbol": "CRDO",
             "headline": "The AI sell-off is crushing stocks of companies leading the data center build-out",
             "publisher": "Yahoo Finance",
@@ -114,17 +93,17 @@
             "score": 0
         },
         {
-            "symbol": "RHI",
-            "headline": "A Slow Job Market Isn\u2019t Holding This Staffing Firm Back as Its Stock Soars",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/ee4ca58b-33f5-323a-adb5-755a3dae5072/a-slow-job-market-isn%E2%80%99t.html",
+            "symbol": "CVX",
+            "headline": "Chevron (CVX) Ascends While Market Falls: Some Facts to Note",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-ascends-while-market-204503008.html",
             "score": 0
         },
         {
-            "symbol": "XOM",
-            "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/forget-chasing-7-yields-5-174535191.html",
+            "symbol": "AXP",
+            "headline": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week \u2014 AAPL, AXP, CART, UBER In Focus",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-drop-elevated-223557989.html",
             "score": 0
         },
         {
@@ -135,10 +114,31 @@
             "score": 0
         },
         {
-            "symbol": "VZ",
-            "headline": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/60b84efe-efdb-325f-b128-26b71dc0392f/spacex-cell-site-report-hits.html",
+            "symbol": "FICO",
+            "headline": "FICO Holds $10 Pricing for Mortgage Lenders Amid New Competition",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/01ca8fcb-f5f9-37ce-89fd-13ddc02dd250/fico-holds-%2410-pricing-for.html",
+            "score": 0
+        },
+        {
+            "symbol": "NET",
+            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+            "score": 0
+        },
+        {
+            "symbol": "SLB",
+            "headline": "SLB (SLB) Q3 2026 Earnings Call Transcript",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-q3-2026-earnings-181315358.html",
+            "score": 0
+        },
+        {
+            "symbol": "UWMC",
+            "headline": "UWM Soars 19% on $1.8 Billion Debt-Paydown Plan and Preliminary Q3 Profit",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/uwm-soars-19-1-8-184940822.html",
             "score": 0
         }
     ]
