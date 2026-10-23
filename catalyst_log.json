@@ -1,67 +1,74 @@
 {
-    "timestamp": "2026-10-23T17:59:42.874567+00:00",
+    "timestamp": "2026-10-23T20:57:26.541083+00:00",
     "catalysts": [
         {
-            "symbol": "BE",
-            "headline": "Bloom Energy Revenue Jumps 138% but Cash Flow Turns Negative",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-revenue-jumps-138-175212663.html",
-            "score": 5
+            "symbol": "AXP",
+            "headline": "Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-nasdaq.html",
+            "score": 6
+        },
+        {
+            "symbol": "CVX",
+            "headline": "Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-nasdaq.html",
+            "score": 6
+        },
+        {
+            "symbol": "UBER",
+            "headline": "Instacart jumps 10% on report of potential sale to Uber or DoorDash",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/instacart-jumps-10-report-potential-203634200.html",
+            "score": 3
+        },
+        {
+            "symbol": "ZS",
+            "headline": "Palo Alto and Crowdstrike Jumped 6%, and Okta Up 5% as Evercore Survey Flags Stronger Cyber Demand",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-crowdstrike-jumped-6-181629462.html",
+            "score": 3
+        },
+        {
+            "symbol": "CORT",
+            "headline": "Genmab stock surges 9% following positive phase 3 ovarian cancer trial results",
+            "publisher": "Investing.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/genmab-stock-surges-9-following-164434357.html",
+            "score": 3
         },
         {
             "symbol": "CCI",
-            "headline": "Stock Market Midday, Oct. 23: Energy Surges on Oil Price Spike, Cybersecurity Stocks Gain",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-23-163938103.html",
-            "score": 3
-        },
-        {
-            "symbol": "RHI",
-            "headline": "Why Robert Half Stock Jumped More Than 20% Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-robert-half-stock-jumped-173302934.html",
-            "score": 3
-        },
-        {
-            "symbol": "SLB",
-            "headline": "SLB Earnings Beat Forecasts as Middle East Drilling Rebounds",
-            "publisher": "Oilprice.com",
-            "link": "https://finance.yahoo.com/energy/articles/slb-earnings-beat-forecasts-middle-174534477.html",
-            "score": 3
-        },
-        {
-            "symbol": "T",
-            "headline": "KDC Pursues $3.5B In Financing For AT&T's Huge HQ Campus In Plano",
-            "publisher": "Bisnow",
-            "link": "https://finance.yahoo.com/real-estate/articles/kdc-pursues-3-5b-financing-172722927.html",
+            "headline": "SpaceX wants to be America's fourth phone carrier \u2014 tower owners are cashing in",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/spacex-wants-to-be-americas-fourth-phone-carrier--tower-owners-are-cashing-in-162059593.html",
             "score": 2
         },
         {
             "symbol": "AMT",
-            "headline": "VZ, TMUS, T Stocks Face Valuation Pressure From SpaceX Wireless Push But Tower Operators Stand To Gain, Says Citi",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/vz-tmus-t-stocks-face-162900138.html",
-            "score": 2
-        },
-        {
-            "symbol": "GPUS",
-            "headline": "Hyperscale Data Announces Suspension of Its At-the-Market Offering",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/hyperscale-data-announces-suspension-market-201500623.html",
+            "headline": "SpaceX wants to be America's fourth phone carrier \u2014 tower owners are cashing in",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/spacex-wants-to-be-americas-fourth-phone-carrier--tower-owners-are-cashing-in-162059593.html",
             "score": 2
         },
         {
             "symbol": "TMUS",
-            "headline": "VZ, TMUS, T Stocks Face Valuation Pressure From SpaceX Wireless Push But Tower Operators Stand To Gain, Says Citi",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/vz-tmus-t-stocks-face-162900138.html",
+            "headline": "SpaceX wants to be America's fourth phone carrier \u2014 tower owners are cashing in",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/spacex-wants-to-be-americas-fourth-phone-carrier--tower-owners-are-cashing-in-162059593.html",
             "score": 2
         },
         {
-            "symbol": "AXP",
-            "headline": "American Express Beats Earnings and Lifts 2026 Forecast(EDIT1)",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/american-express-beats-earnings-lifts-174537712.html",
+            "symbol": "T",
+            "headline": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/60b84efe-efdb-325f-b128-26b71dc0392f/spacex-cell-site-report-hits.html",
+            "score": 0
+        },
+        {
+            "symbol": "BE",
+            "headline": "The AI sell-off is crushing stocks of companies leading the data center build-out",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/the-ai-sell-off-is-crushing-stocks-of-companies-leading-the-data-center-build-out-175206076.html",
             "score": 0
         },
         {
@@ -72,52 +79,31 @@
             "score": 0
         },
         {
-            "symbol": "CL=F",
-            "headline": "Stock market today: Dow, S&P 500 drop, Nasdaq rises after sharp tech sell-off",
+            "symbol": "CRWD",
+            "headline": "Our Pick Of The Best Cybersecurity Stocks In October 2026",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pick-best-cybersecurity-stocks-october-190909721.html",
+            "score": 0
+        },
+        {
+            "symbol": "^DJI",
+            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
             "publisher": "Yahoo Finance",
             "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
             "score": 0
         },
         {
-            "symbol": "DVN",
-            "headline": "Oil Stocks Rally as WTI Crude Price Tops $103: Devon Energy and Diamondback Energy Gain 5%, Occidental Petroleum Rises 3%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/energy/articles/oil-stocks-rally-wti-crude-170532843.html",
+            "symbol": "CL=F",
+            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
             "score": 0
         },
         {
-            "symbol": "AAPL",
-            "headline": "Apple Stock Looks Ripe For A High-Risk, Short-Term Options Trade",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/8701731b-ff0c-31b4-ba4c-ab9695d1e831/apple-stock-looks-ripe-for-a.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRWD",
-            "headline": "SailPoint Soars 11%, Palo Alto Up 6%, CrowdStrike Up 6% as Cybersecurity Stocks Rally",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sailpoint-soars-11-palo-alto-170741321.html",
-            "score": 0
-        },
-        {
-            "symbol": "LKQ",
-            "headline": "Barrington Research Downgrades LKQ to Market Perform From Outperform",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/barrington-research-downgrades-lkq-market-153827188.html",
-            "score": 0
-        },
-        {
-            "symbol": "CVX",
-            "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/forget-chasing-7-yields-5-174535191.html",
-            "score": 0
-        },
-        {
-            "symbol": "XOM",
-            "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/forget-chasing-7-yields-5-174535191.html",
+            "symbol": "PANW",
+            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
             "score": 0
         },
         {
@@ -128,17 +114,31 @@
             "score": 0
         },
         {
-            "symbol": "PANW",
-            "headline": "SailPoint Soars 11%, Palo Alto Up 6%, CrowdStrike Up 6% as Cybersecurity Stocks Rally",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sailpoint-soars-11-palo-alto-170741321.html",
+            "symbol": "RHI",
+            "headline": "A Slow Job Market Isn\u2019t Holding This Staffing Firm Back as Its Stock Soars",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/ee4ca58b-33f5-323a-adb5-755a3dae5072/a-slow-job-market-isn%E2%80%99t.html",
             "score": 0
         },
         {
-            "symbol": "^DJI",
-            "headline": "Stock market today: Dow, S&P 500 drop, Nasdaq rises after sharp tech sell-off",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+            "symbol": "XOM",
+            "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/forget-chasing-7-yields-5-174535191.html",
+            "score": 0
+        },
+        {
+            "symbol": "LKQ",
+            "headline": "Barrington Research Downgrades LKQ to Market Perform From Outperform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/barrington-research-downgrades-lkq-market-153827188.html",
+            "score": 0
+        },
+        {
+            "symbol": "VZ",
+            "headline": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/60b84efe-efdb-325f-b128-26b71dc0392f/spacex-cell-site-report-hits.html",
             "score": 0
         }
     ]
