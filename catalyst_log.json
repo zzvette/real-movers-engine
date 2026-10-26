@@ -1,130 +1,137 @@
 {
-    "timestamp": "2026-10-24T01:23:06.511864+00:00",
+    "timestamp": "2026-10-26T03:27:44.220142+00:00",
     "catalysts": [
         {
-            "symbol": "ZS",
-            "headline": "Palo Alto and Crowdstrike Jumped 6%, and Okta Up 5% as Evercore Survey Flags Stronger Cyber Demand",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-crowdstrike-jumped-6-181629462.html",
-            "score": 3
+            "symbol": "EWZ",
+            "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "NU",
+            "headline": "How Investors Are Reacting To Nu (NU) Brazil Election Uncertainty",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-nu-nu-brazil-030836457.html",
+            "score": 0
+        },
+        {
+            "symbol": "MELI",
+            "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "PBR",
+            "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "MU",
+            "headline": "AI Stocks Surge, Then Plunge: Which of 4 Sectors Is Worth Buying?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-surge-then-plunge-004245035.html",
+            "score": 0
+        },
+        {
+            "symbol": "NBIS",
+            "headline": "CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-iren-nbis-extend-slide-015706998.html",
+            "score": 0
+        },
+        {
+            "symbol": "IREN",
+            "headline": "CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-iren-nbis-extend-slide-015706998.html",
+            "score": 0
+        },
+        {
+            "symbol": "CRWV",
+            "headline": "CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-iren-nbis-extend-slide-015706998.html",
+            "score": 0
+        },
+        {
+            "symbol": "VALE",
+            "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSTR",
+            "headline": "Strategy Booked an $8.3 Billion Bitcoin Loss Last Quarter. Could Q3 Show a Gain?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-booked-8-3-billion-162916836.html",
+            "score": 0
+        },
+        {
+            "symbol": "GGAL",
+            "headline": "Why Grupo Financiero Galicia Bears Were Right Before The Drop",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-grupo-financiero-galicia-bears-221047194.html",
+            "score": 0
+        },
+        {
+            "symbol": "ITUB",
+            "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "BRL=X",
+            "headline": "BC-US-Foreign Exchange",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/currencies/articles/bc-us-foreign-exchange-140029375.html",
+            "score": 0
         },
         {
             "symbol": "CRWD",
-            "headline": "Our Pick Of The Best Cybersecurity Stocks In October 2026",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/pick-best-cybersecurity-stocks-october-190909721.html",
-            "score": 0
-        },
-        {
-            "symbol": "^DJI",
-            "headline": "Review & Preview: The Dow\u2019s Turn",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/e0fe5a77-6816-38a8-b2cb-9878c9cd341d/review-%26-preview%3A-the-dow%E2%80%99s.html",
-            "score": 0
-        },
-        {
-            "symbol": "^GSPC",
-            "headline": "3 Reasons we\u2019re fans of SM Energy (SM)",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fans-sm-energy-004839171.html",
-            "score": 0
-        },
-        {
-            "symbol": "T",
-            "headline": "Why AT&T Stock Plunged on Friday",
+            "headline": "Up Over 100% in 2026, Is CrowdStrike Still a Buy?",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-t-stock-plunged-friday-005332245.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/over-100-2026-crowdstrike-still-190200086.html",
             "score": 0
         },
         {
-            "symbol": "CART",
-            "headline": "Uber Technologies (UBER) Stock Dropped, What Is Driving Attention Now?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-stock-dropped-230942810.html",
-            "score": 0
-        },
-        {
-            "symbol": "AMT",
-            "headline": "SpaceX\u2019s 80,000 Cell Site Push A Win For AST SpaceMobile, Ericsson, Nokia, NextNav, Among Others, Says Roth Capital",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-80-000-cell-push-233355910.html",
-            "score": 0
-        },
-        {
-            "symbol": "PANW",
-            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
-            "score": 0
-        },
-        {
-            "symbol": "^IXIC",
-            "headline": "Review & Preview: The Dow\u2019s Turn",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/e0fe5a77-6816-38a8-b2cb-9878c9cd341d/review-%26-preview%3A-the-dow%E2%80%99s.html",
-            "score": 0
-        },
-        {
-            "symbol": "NXH",
-            "headline": "She Built a $100 Million Business in 7 Years. Here\u2019s How She Scaled From Scrappy Startup to Costco and Whole Foods.",
-            "publisher": "Entrepreneur",
-            "link": "https://finance.yahoo.com/small-business/articles/she-built-100-million-business-193429200.html",
-            "score": 0
-        },
-        {
-            "symbol": "XOM",
-            "headline": "3 Energy Stocks to Buy and Hold for the Next Decade, Starting With ExxonMobil",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-buy-hold-213500990.html",
-            "score": 0
-        },
-        {
-            "symbol": "CVX",
-            "headline": "Chevron (CVX) Ascends While Market Falls: Some Facts to Note",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-ascends-while-market-204503008.html",
-            "score": 0
-        },
-        {
-            "symbol": "CL=F",
-            "headline": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-investing-behind-ai-165149716.html",
-            "score": 0
-        },
-        {
-            "symbol": "UWMC",
-            "headline": "UWM Soars 19% on $1.8 Billion Debt-Paydown Plan and Preliminary Q3 Profit",
+            "symbol": "^BVSP",
+            "headline": "MercadoLibre Stock Rose 9% in October on Brazil\u2019s Election. Time to Sell or Load Up?",
             "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/uwm-soars-19-1-8-184940822.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-stock-rose-9-october-171917877.html",
             "score": 0
         },
         {
-            "symbol": "LKQ",
-            "headline": "Barrington Research Downgrades LKQ to Market Perform From Outperform",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/barrington-research-downgrades-lkq-market-153827188.html",
+            "symbol": "AIOK",
+            "headline": "AI OKTO Corp. Declares Special Dividend of $3.50 Per Share",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ai-okto-corp-declares-special-132400228.html",
             "score": 0
         },
         {
-            "symbol": "NET",
-            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+            "symbol": "STNE",
+            "headline": "StoneCo (STNE) Stock Looks Cheap Based On Its Earnings",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stoneco-stne-stock-looks-cheap-061132896.html",
             "score": 0
         },
         {
-            "symbol": "SLB",
-            "headline": "SLB Ltd (SLB) Q3 2026 Earnings Call Highlights: Broad-Based Growth, Margin Expansion and a $10 ...",
+            "symbol": "APLD",
+            "headline": "MarketBeat Week in Review \u2013 10/19 - 10/23",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-10-19-110000479.html",
+            "score": 0
+        },
+        {
+            "symbol": "BBD",
+            "headline": "Bank Bradesco SA (BBD) (Q3 2026) Earnings Call Highlights: Resilient Profit Growth, 11. ...",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/slb-ltd-slb-q3-2026-010503245.html",
-            "score": 0
-        },
-        {
-            "symbol": "CRDO",
-            "headline": "The AI sell-off is crushing stocks of companies leading the data center build-out",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/the-ai-sell-off-is-crushing-stocks-of-companies-leading-the-data-center-build-out-175206076.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-bradesco-sa-bbd-q3-110229896.html",
             "score": 0
         }
     ]
