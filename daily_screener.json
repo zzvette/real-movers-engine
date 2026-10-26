@@ -1,138 +1,138 @@
 {
-    "timestamp": "2026-10-26T19:37:33.087654+00:00",
+    "timestamp": "2026-10-26T23:18:34.980163+00:00",
     "signals": {
         "catalysts": [
             {
+                "symbol": "AVGO",
+                "headline": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic\u2019s AI Hardware",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-partners-wall-street-bigwigs-225016666.html",
+                "score": 2
+            },
+            {
+                "symbol": "NBIS",
+                "headline": "Musk predicts \u2018guppy-level death\u2019 as SpaceX closes $40B GPU deal",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/musk-predicts-guppy-level-death-210300271.html",
+                "score": 2
+            },
+            {
+                "symbol": "DASH",
+                "headline": "DoorDash Circles Deal to Buy Instacart",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/cef63aed-32b8-3a56-bccd-250960fc2aae/doordash-circles-deal-to-buy.html",
+                "score": 2
+            },
+            {
                 "symbol": "TSLA",
-                "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; Lingerie Play Flirts With Buy Point (Live Coverage)",
+                "headline": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html",
+                "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html",
+                "score": 0
+            },
+            {
+                "symbol": "CLS",
+                "headline": "Celestica (CLS) Q3 Earnings and Revenues Top Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-cls-q3-earnings-revenues-204502176.html",
                 "score": 0
             },
             {
                 "symbol": "XP",
-                "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; Lingerie Play Flirts With Buy Point (Live Coverage)",
+                "headline": "Stock Market Today: Dow Up, These Stocks Gain On Musk Talk; DoorDash Dives (Live Coverage)",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "EWZ",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "NFLX",
-                "headline": "Market Chatter: Netflix Customers Opening App Less, Spending Less Time Watching",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-netflix-customers-opening-183627585.html",
+                "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up%2C.html",
                 "score": 0
             },
             {
                 "symbol": "NU",
-                "headline": "Warren Buffett's former fintech investment plunges 20%",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-former-fintech-investment-184231841.html",
+                "headline": "Why Nu Holdings Stock Got Crushed on Monday",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-nu-holdings-stock-got-223413109.html",
+                "score": 0
+            },
+            {
+                "symbol": "EWZ",
+                "headline": "A Rout in Brazilian Financial Markets",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/b20a41c2-4140-392c-ac41-e69c599f4801/a-rout-in-brazilian-financial.html",
                 "score": 0
             },
             {
                 "symbol": "MSFT",
-                "headline": "OpenAI Devalues Itself (Again)",
-                "publisher": "Moby",
-                "link": "https://finance.yahoo.com/technology/ai/articles/openai-devalues-itself-again-192926104.html",
-                "score": 0
-            },
-            {
-                "symbol": "MELI",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "SGRY",
-                "headline": "Sector Update: Healthcare Stocks Softer Monday Afternoon",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-monday-181118347.html",
-                "score": 0
-            },
-            {
-                "symbol": "PBR",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "FICO",
-                "headline": "Update: Fair Isaac Shares Fall After Holding FICO Score Mortgage Pricing Stable",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-shares-fall-holding-182729181.html",
-                "score": 0
-            },
-            {
-                "symbol": "^BVSP",
-                "headline": "Brazilian Stocks Sink After Surprising Presidential Election Result",
-                "publisher": "Investopedia",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/brazilian-stocks-sink-surprising-presidential-180258978.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOG",
-                "headline": "Nvidia Is Sold Out: Jensen \u201cCan\u2019t Give You Chips for 2028,\u201d Says Palo Alto CEO",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sold-jensen-t-chips-181659200.html",
+                "headline": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm \u2014 MSFT, AAPL, CART, VZ In Focus",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-begin-223516076.html",
                 "score": 0
             },
             {
                 "symbol": "WHR",
-                "headline": "Fed Meeting, More Tech Earnings: What to Watch This Week",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/c1de6ef9-66de-311b-a357-5c439f32702c/fed-meeting%2C-more-tech.html",
+                "headline": "Whirlpool\u2019s Struggles Continue. The Pace of Recovery Is Slower Than Expected.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/a8d80e61-6ac5-3a3a-8c2e-31004310af7c/whirlpool%E2%80%99s-struggles.html",
                 "score": 0
             },
             {
-                "symbol": "RRC",
-                "headline": "Range Resources Soars 11% on EQT\u2019s All-Stock Takeover Creating \u201cA Must-Own Energy Company\u201d",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/energy/articles/range-resources-soars-11-eqt-185309442.html",
-                "score": 0
-            },
-            {
-                "symbol": "RDDT",
-                "headline": "RDDT Rides on Strong Demand in Ad Business: Can It Beat META and SNAP?",
+                "symbol": "AMKR",
+                "headline": "Amkor Technology (AMKR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/media-advertising/articles/rddt-rides-strong-demand-ad-171300915.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-q3-earnings-213001294.html",
                 "score": 0
             },
             {
-                "symbol": "BBD",
-                "headline": "Bradesco: 3 Key Takeaways for Long-Term Investors",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bradesco-3-key-takeaways-long-192002859.html",
-                "score": 0
-            },
-            {
-                "symbol": "NN",
-                "headline": "NextNav (NN) Stock May Be Fully Priced Given Its Book Value",
+                "symbol": "MELI",
+                "headline": "Is MercadoLibre (MELI) Undervalued On Brazil Election Risk Or Still Too Pricey?",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nextnav-nn-stock-may-fully-051650741.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-undervalued-brazil-election-221106855.html",
                 "score": 0
             },
             {
-                "symbol": "PYPL",
-                "headline": "Visa, Mastercard May Top Views as Major Fintech Firms Release Results This Week, RBC Says",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/visa-mastercard-may-top-views-171324472.html",
+                "symbol": "GOOG",
+                "headline": "Will Alphabet Stock Surge After Oct. 28?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-surge-oct-28-222500307.html",
                 "score": 0
             },
             {
-                "symbol": "ITUB",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+                "symbol": "BB",
+                "headline": "Is BlackBerry (TSX:BB) Still Undervalued As QNX Backlog Grows And Insider Selling Continues?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-tsx-bb-still-undervalued-080826284.html",
+                "score": 0
+            },
+            {
+                "symbol": "CDNS",
+                "headline": "Cadence Design Systems Raises Guidance on Agentic AI Opportunities",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/1d6bb5c4-ddcd-34c0-9eec-8b059137919a/cadence-design-systems-raises.html",
+                "score": 0
+            },
+            {
+                "symbol": "JBLU",
+                "headline": "JetBlue Brings Some Relief to Investors With Third-Quarter Performance",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/e1eb66d0-f662-33dc-8241-9ff1fcd2b243/jetblue-brings-some-relief-to.html",
+                "score": 0
+            },
+            {
+                "symbol": "PBR",
+                "headline": "Is MercadoLibre (MELI) Undervalued On Brazil Election Risk Or Still Too Pricey?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-undervalued-brazil-election-221106855.html",
+                "score": 0
+            },
+            {
+                "symbol": "SGRY",
+                "headline": "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html",
+                "score": 0
+            },
+            {
+                "symbol": "^BVSP",
+                "headline": "Lula win rattles Brazil markets over spending spree fears",
+                "publisher": "AFP",
+                "link": "https://finance.yahoo.com/economy/policy/articles/lula-win-rattles-brazil-markets-220000603.html",
                 "score": 0
             }
         ]
