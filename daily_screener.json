@@ -1,86 +1,86 @@
 {
-    "timestamp": "2026-10-26T03:27:44.220142+00:00",
+    "timestamp": "2026-10-26T10:14:54.363620+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "EWZ",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+                "headline": "U.S.-listed Brazilian shares slump after shock Lula election win",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/u-listed-brazilian-shares-slump-093816698.html",
                 "score": 0
             },
             {
                 "symbol": "NU",
-                "headline": "How Investors Are Reacting To Nu (NU) Brazil Election Uncertainty",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-nu-nu-brazil-030836457.html",
+                "headline": "Nu Holdings Sinks 22% on Lula\u2019s Win: \u201cThe Market Was Completely Unprepared\u201d",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-sinks-22-lula-094530412.html",
                 "score": 0
             },
             {
                 "symbol": "MELI",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+                "headline": "U.S.-listed Brazilian shares slump after shock Lula election win",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/u-listed-brazilian-shares-slump-093816698.html",
                 "score": 0
             },
             {
                 "symbol": "PBR",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "AI Stocks Surge, Then Plunge: Which of 4 Sectors Is Worth Buying?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-surge-then-plunge-004245035.html",
+                "headline": "U.S.-listed Brazilian shares slump after shock Lula election win",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/u-listed-brazilian-shares-slump-093816698.html",
                 "score": 0
             },
             {
                 "symbol": "NBIS",
-                "headline": "CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-iren-nbis-extend-slide-015706998.html",
-                "score": 0
-            },
-            {
-                "symbol": "IREN",
-                "headline": "CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-iren-nbis-extend-slide-015706998.html",
+                "headline": "Musk Predicts \u201cGuppy-Level Death\u201d For Neocloud Companies As CoreWeave Stock Falls 38% In October",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/musk-predicts-guppy-level-death-094654631.html",
                 "score": 0
             },
             {
                 "symbol": "CRWV",
-                "headline": "CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-iren-nbis-extend-slide-015706998.html",
+                "headline": "Musk Predicts \u201cGuppy-Level Death\u201d For Neocloud Companies As CoreWeave Stock Falls 38% In October",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/musk-predicts-guppy-level-death-094654631.html",
+                "score": 0
+            },
+            {
+                "symbol": "IREN",
+                "headline": "Musk Predicts \u201cGuppy-Level Death\u201d For Neocloud Companies As CoreWeave Stock Falls 38% In October",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/musk-predicts-guppy-level-death-094654631.html",
                 "score": 0
             },
             {
                 "symbol": "VALE",
-                "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+                "headline": "U.S.-listed Brazilian shares slump after shock Lula election win",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/u-listed-brazilian-shares-slump-093816698.html",
                 "score": 0
             },
             {
-                "symbol": "MSTR",
-                "headline": "Strategy Booked an $8.3 Billion Bitcoin Loss Last Quarter. Could Q3 Show a Gain?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-booked-8-3-billion-162916836.html",
-                "score": 0
-            },
-            {
-                "symbol": "GGAL",
-                "headline": "Why Grupo Financiero Galicia Bears Were Right Before The Drop",
+                "symbol": "^BVSP",
+                "headline": "Brazil Export Stocks Investors Are Watching As The Real Weakens",
                 "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-grupo-financiero-galicia-bears-221047194.html",
+                "link": "https://finance.yahoo.com/markets/currencies/articles/brazil-export-stocks-investors-watching-060841311.html",
                 "score": 0
             },
             {
-                "symbol": "ITUB",
+                "symbol": "STNE",
+                "headline": "StoneCo (STNE) Stock Looks Cheap Based On Its Earnings",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stoneco-stne-stock-looks-cheap-061132896.html",
+                "score": 0
+            },
+            {
+                "symbol": "AAPL",
+                "headline": "Jefferies Raises Apple Price Target to $270.62 From $263.66",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-raises-apple-price-target-091309468.html",
+                "score": 0
+            },
+            {
+                "symbol": "XP",
                 "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
@@ -94,17 +94,10 @@
                 "score": 0
             },
             {
-                "symbol": "CRWD",
-                "headline": "Up Over 100% in 2026, Is CrowdStrike Still a Buy?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/over-100-2026-crowdstrike-still-190200086.html",
-                "score": 0
-            },
-            {
-                "symbol": "^BVSP",
-                "headline": "MercadoLibre Stock Rose 9% in October on Brazil\u2019s Election. Time to Sell or Load Up?",
+                "symbol": "ITUB",
+                "headline": "Nu Holdings Sinks 22% on Lula\u2019s Win: \u201cThe Market Was Completely Unprepared\u201d",
                 "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-stock-rose-9-october-171917877.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-sinks-22-lula-094530412.html",
                 "score": 0
             },
             {
@@ -115,24 +108,24 @@
                 "score": 0
             },
             {
-                "symbol": "STNE",
-                "headline": "StoneCo (STNE) Stock Looks Cheap Based On Its Earnings",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stoneco-stne-stock-looks-cheap-061132896.html",
+                "symbol": "CRWD",
+                "headline": "Wall Street's Blockbuster Stock Split Was Just Announced, and It's Anything but Conventional",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-blockbuster-stock-split-092602493.html",
                 "score": 0
             },
             {
-                "symbol": "APLD",
-                "headline": "MarketBeat Week in Review \u2013 10/19 - 10/23",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-10-19-110000479.html",
+                "symbol": "RENT",
+                "headline": "How Resale and Rental Marketplaces Are Winning the GLP-1 Revolution",
+                "publisher": "Sourcing Journal",
+                "link": "https://finance.yahoo.com/small-business/articles/resale-rental-marketplaces-winning-glp-183000773.html",
                 "score": 0
             },
             {
-                "symbol": "BBD",
-                "headline": "Bank Bradesco SA (BBD) (Q3 2026) Earnings Call Highlights: Resilient Profit Growth, 11. ...",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/bank-bradesco-sa-bbd-q3-110229896.html",
+                "symbol": "TSLA",
+                "headline": "US stock futures edge up as oil falls heading into earnings barrage",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-oil-100215774.html",
                 "score": 0
             }
         ]
