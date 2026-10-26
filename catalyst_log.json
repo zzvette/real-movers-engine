@@ -1,32 +1,18 @@
 {
-    "timestamp": "2026-10-26T15:49:34.119323+00:00",
+    "timestamp": "2026-10-26T19:37:33.087654+00:00",
     "catalysts": [
         {
-            "symbol": "RRC",
-            "headline": "EQT Is Building a $50 Billion Natural Gas Giant as AI Power Demand Surges",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/energy/articles/eqt-building-50-billion-natural-150502672.html",
-            "score": 3
-        },
-        {
-            "symbol": "XNCR",
-            "headline": "Xencor stock surges on positive cancer drug trial data",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/xencor-stock-surges-positive-cancer-152152207.html",
-            "score": 3
-        },
-        {
-            "symbol": "SGRY",
-            "headline": "SGRY Stock Heads For Best Day In More Than 6 Years After HealthSpan Partners\u2019 Acquisition Offer \u2013 Here\u2019s What Investors Need To Know",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sgry-stock-heads-best-day-145908821.html",
-            "score": 2
-        },
-        {
             "symbol": "TSLA",
-            "headline": "Tesla's AI Momentum Gives Hikaru Nakamura's Portfolio a Lift",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-ai-momentum-gives-hikaru-154525196.html",
+            "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; Lingerie Play Flirts With Buy Point (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html",
+            "score": 0
+        },
+        {
+            "symbol": "XP",
+            "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; Lingerie Play Flirts With Buy Point (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html",
             "score": 0
         },
         {
@@ -37,10 +23,24 @@
             "score": 0
         },
         {
+            "symbol": "NFLX",
+            "headline": "Market Chatter: Netflix Customers Opening App Less, Spending Less Time Watching",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-netflix-customers-opening-183627585.html",
+            "score": 0
+        },
+        {
             "symbol": "NU",
-            "headline": "Tech stocks rise after Anthropic IPO filing: AlphaCheck",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/tech-rise-after-anthropic-ipo-filing-alphacheck-140040601.html",
+            "headline": "Warren Buffett's former fintech investment plunges 20%",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-former-fintech-investment-184231841.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSFT",
+            "headline": "OpenAI Devalues Itself (Again)",
+            "publisher": "Moby",
+            "link": "https://finance.yahoo.com/technology/ai/articles/openai-devalues-itself-again-192926104.html",
             "score": 0
         },
         {
@@ -51,10 +51,10 @@
             "score": 0
         },
         {
-            "symbol": "XP",
-            "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
+            "symbol": "SGRY",
+            "headline": "Sector Update: Healthcare Stocks Softer Monday Afternoon",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-monday-181118347.html",
             "score": 0
         },
         {
@@ -65,52 +65,66 @@
             "score": 0
         },
         {
+            "symbol": "FICO",
+            "headline": "Update: Fair Isaac Shares Fall After Holding FICO Score Mortgage Pricing Stable",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-shares-fall-holding-182729181.html",
+            "score": 0
+        },
+        {
             "symbol": "^BVSP",
-            "headline": "Brazil stocks, real tumble as Lula win ends bullish run",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html",
+            "headline": "Brazilian Stocks Sink After Surprising Presidential Election Result",
+            "publisher": "Investopedia",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/brazilian-stocks-sink-surprising-presidential-180258978.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOG",
+            "headline": "Nvidia Is Sold Out: Jensen \u201cCan\u2019t Give You Chips for 2028,\u201d Says Palo Alto CEO",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sold-jensen-t-chips-181659200.html",
+            "score": 0
+        },
+        {
+            "symbol": "WHR",
+            "headline": "Fed Meeting, More Tech Earnings: What to Watch This Week",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/c1de6ef9-66de-311b-a357-5c439f32702c/fed-meeting%2C-more-tech.html",
+            "score": 0
+        },
+        {
+            "symbol": "RRC",
+            "headline": "Range Resources Soars 11% on EQT\u2019s All-Stock Takeover Creating \u201cA Must-Own Energy Company\u201d",
+            "publisher": "TIKR",
+            "link": "https://finance.yahoo.com/energy/articles/range-resources-soars-11-eqt-185309442.html",
             "score": 0
         },
         {
             "symbol": "RDDT",
-            "headline": "He Sat On 745,575 Chase Points For Years, Waiting For The Perfect Trip. When His Second Kid Was Born He Decided To Do Something Totally Different",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/currencies/articles/sat-745-575-chase-points-140649662.html",
+            "headline": "RDDT Rides on Strong Demand in Ad Business: Can It Beat META and SNAP?",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/media-advertising/articles/rddt-rides-strong-demand-ad-171300915.html",
             "score": 0
         },
         {
-            "symbol": "BRL=X",
-            "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
-            "score": 0
-        },
-        {
-            "symbol": "NBIS",
-            "headline": "CoreWeave, Iren Slip as Musk Predicts Neocloud Shakeout",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-iren-slip-musk-predicts-154005702.html",
-            "score": 0
-        },
-        {
-            "symbol": "STNE",
-            "headline": "Why StoneCo Stock Crashed Today",
+            "symbol": "BBD",
+            "headline": "Bradesco: 3 Key Takeaways for Long-Term Investors",
             "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-stoneco-stock-crashed-today-144619356.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bradesco-3-key-takeaways-long-192002859.html",
             "score": 0
         },
         {
-            "symbol": "CRWV",
-            "headline": "CoreWeave, Iren Slip as Musk Predicts Neocloud Shakeout",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-iren-slip-musk-predicts-154005702.html",
+            "symbol": "NN",
+            "headline": "NextNav (NN) Stock May Be Fully Priced Given Its Book Value",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nextnav-nn-stock-may-fully-051650741.html",
             "score": 0
         },
         {
-            "symbol": "JBLU",
-            "headline": "JetBlue Airways Tumbles 16% as Creditors Hire Restructuring Advisers; United Airlines Rises 3%, Delta Edges Higher",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/jetblue-airways-tumbles-16-creditors-145222014.html",
+            "symbol": "PYPL",
+            "headline": "Visa, Mastercard May Top Views as Major Fintech Firms Release Results This Week, RBC Says",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/visa-mastercard-may-top-views-171324472.html",
             "score": 0
         },
         {
@@ -118,20 +132,6 @@
             "headline": "Brazil Stocks Dive As President Lula Wins Re-Election",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/2f33ef3d-54cb-3ec0-ba02-4ecf45840f4b/brazil-stocks-dive-as.html",
-            "score": 0
-        },
-        {
-            "symbol": "BBD",
-            "headline": "XP Sinks 52%, StoneCo Down 39% on Lula\u2019s Upset Win as Bolsonaro Calls Result \u201cImpossible to Recognize\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/xp-sinks-52-stoneco-down-131857688.html",
-            "score": 0
-        },
-        {
-            "symbol": "DOW",
-            "headline": "Bank Of America (BAC) Adds Two Directors To Its Board",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-adds-two-120708258.html",
             "score": 0
         }
     ]
