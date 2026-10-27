@@ -1,25 +1,81 @@
 {
-    "timestamp": "2026-10-27T19:02:17.009613+00:00",
+    "timestamp": "2026-10-27T22:53:42.079532+00:00",
     "catalysts": [
         {
-            "symbol": "CLS",
-            "headline": "Celestica Stocks Surge 14.6% With $40 Billion Outlook and a Cash-Flow Cut",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-stocks-surge-14-6-152431779.html",
-            "score": 2
+            "symbol": "HOOD",
+            "headline": "HOOD Stock Drops 5% After-Hours: Robinhood\u2019s Q3 Revenue Climbs On Prediction Markets, But Misses Wall Street Targets",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-drops-5-hours-224232429.html",
+            "score": 3
+        },
+        {
+            "symbol": "CRML",
+            "headline": "Critical Minerals Stocks Rally as Sector Bid Broadens: United States Antimony and USA Rare Earth Jump 11%, Critical Metals Climbs 8%",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/critical-minerals-stocks-rally-sector-154933314.html",
+            "score": 3
+        },
+        {
+            "symbol": "STX",
+            "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
+            "score": 0
         },
         {
             "symbol": "BA",
-            "headline": "Boeing (BA) Q3 2026 Earnings Call Transcript",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-q3-2026-earnings-184328805.html",
+            "headline": "Boeing (BA) stock trades down, here is why",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-trades-down-215047865.html",
+            "score": 0
+        },
+        {
+            "symbol": "V",
+            "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
             "score": 0
         },
         {
             "symbol": "SOFI",
-            "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as semiconductor stocks lead tech sector higher",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html",
+            "headline": "Stock Market Today, Oct. 27: SoFi Soars 13% After Beating Estimates and Raising Guidance",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-210821792.html",
+            "score": 0
+        },
+        {
+            "symbol": "SKHY",
+            "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
+            "score": 0
+        },
+        {
+            "symbol": "ENPH",
+            "headline": "Enphase Energy Extends Weakness on Slumping Residential Demand",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/8cbb8b85-2f75-3ee9-8ff6-c13c4f76685f/enphase-energy-extends.html",
+            "score": 0
+        },
+        {
+            "symbol": "BBAI",
+            "headline": "BigBear.ai Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/bigbear-ai-q3-earnings-call-220431550.html",
+            "score": 0
+        },
+        {
+            "symbol": "TER",
+            "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html",
+            "score": 0
+        },
+        {
+            "symbol": "UPS",
+            "headline": "Auto & Transport Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/e7c554cb-3c4d-3c84-8abf-9c6cbd30f148/auto-%26-transport-roundup%3A.html",
             "score": 0
         },
         {
@@ -30,115 +86,59 @@
             "score": 0
         },
         {
-            "symbol": "UPS",
-            "headline": "Amid the Anthropic IPO excitement, don't forget about earnings season",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/amid-the-anthropic-ipo-excitement-dont-forget-about-earnings-season-181333611.html",
+            "symbol": "NXPI",
+            "headline": "NXP (NXPI) Reports Q3 Earnings: What Key Metrics Have to Say",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/nxp-nxpi-reports-q3-earnings-210001072.html",
+            "score": 0
+        },
+        {
+            "symbol": "CAKE",
+            "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
+            "score": 0
+        },
+        {
+            "symbol": "WDC",
+            "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html",
+            "score": 0
+        },
+        {
+            "symbol": "WM",
+            "headline": "Waste Management (WM) Lags Q3 Earnings Estimates",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-lags-q3-212011562.html",
             "score": 0
         },
         {
             "symbol": "RKLB",
-            "headline": "Rocket Lab Just Dropped 29% in a Month. Is It Time to Sell, or Load Up?",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-dropped-29-172150887.html",
+            "headline": "Why Rocket Lab Stock Took Flight on Tuesday",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-took-191611618.html",
             "score": 0
         },
         {
-            "symbol": "ACHR",
-            "headline": "Archer Aviation Is Still Down 43% in 2026: Did ACHR Stock Just Find a Bottom?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-still-down-43-183611799.html",
+            "symbol": "IBM",
+            "headline": "Artificial Intelligence (AI)-Driven Drug Safety and Pharmacovigilance Platforms Market Report 2026 | Capitalize on 20.2% CAGR with Microsoft, IBM, Oracle, IQVIA, and Veeva",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/artificial-intelligence-ai-driven-drug-210800065.html",
             "score": 0
         },
         {
-            "symbol": "CBRS",
-            "headline": "Oracle Adds Nvidia Vera CPU, Intel Diamond Rapids, Cerebras AI Inference to Cloud Infrastructure",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/ai/articles/oracle-adds-nvidia-vera-cpu-174356197.html",
-            "score": 0
-        },
-        {
-            "symbol": "META",
-            "headline": "Instagram quietly makes major change for Apple TV users",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/media-advertising/articles/instagram-quietly-makes-major-change-184700261.html",
-            "score": 0
-        },
-        {
-            "symbol": "GLW",
-            "headline": "Corning Earnings Show It\u2019s Deeply Dependent on AI Demand. Why That Could Be Bad.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/31d6aad7-95c8-3e21-acdf-e24457bb38e3/corning-earnings-show-it%E2%80%99s.html",
+            "symbol": "FFIV",
+            "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
             "score": 0
         },
         {
             "symbol": "XYL",
-            "headline": "Xylem (XYL) Q3 2026 Earnings Call Transcript",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/xylem-xyl-q3-2026-earnings-181432026.html",
-            "score": 0
-        },
-        {
-            "symbol": "DVLT",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143016210.html",
-            "score": 0
-        },
-        {
-            "symbol": "VLO",
-            "headline": "The Events That Matter Most For Chevron Stock",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/events-matter-most-chevron-stock-173308948.html",
-            "score": 0
-        },
-        {
-            "symbol": "TE",
-            "headline": "T1 Energy Announces Third Quarter 2026 Earnings Release and Conference Call Schedule",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/energy/articles/t1-energy-announces-third-quarter-100000651.html",
-            "score": 0
-        },
-        {
-            "symbol": "AVGO",
-            "headline": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-            "publisher": "decrypt",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/intel-oracle-ibm-join-objections-184602727.html",
-            "score": 0
-        },
-        {
-            "symbol": "BBAI",
-            "headline": "Gorilla Is Still Down 16% in 2026: Did GRRR Stock Just Find a Bottom?",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/gorilla-still-down-16-2026-183828935.html",
-            "score": 0
-        },
-        {
-            "symbol": "ENVX",
-            "headline": "Alps Alpine Co Ltd. - Unsponsored ADR (APELY) Moves 5.4% Higher: Will This Strength Last?",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/alps-alpine-co-ltd-unsponsored-060800055.html",
-            "score": 0
-        },
-        {
-            "symbol": "KNSA",
-            "headline": "Kiniksa Pharmaceuticals: 3 Key Takeaways for Long-Term Investors",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/healthcare/articles/kiniksa-pharmaceuticals-3-key-takeaways-181115998.html",
-            "score": 0
-        },
-        {
-            "symbol": "RCL",
-            "headline": "Whirlpool Is Struggling, JetBlue Is Soaring. What That Says About the Economy.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/5e45eb9b-43d1-3fd3-915e-1cff5e080e9a/whirlpool-is-struggling%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "ORCL",
-            "headline": "Crusoe CEO defends CoreWeave amid selloff",
-            "publisher": "Investing.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-ceo-defends-coreweave-amid-185254030.html",
+            "headline": "Why Xylem (XYL) stock is nosediving",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-xylem-xyl-stock-nosediving-211847634.html",
             "score": 0
         }
     ]
