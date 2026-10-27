@@ -1,26 +1,33 @@
 {
-    "timestamp": "2026-10-27T03:54:26.174621+00:00",
+    "timestamp": "2026-10-27T09:39:02.184206+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "GOOG",
-                "headline": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-filing-lifts-chips-032113441.html",
+                "symbol": "DASH",
+                "headline": "DoorDash (DASH) Held Early Acquisition Talks With A Delivery Rival",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-held-early-acquisition-081040939.html",
+                "score": 2
+            },
+            {
+                "symbol": "SGRY",
+                "headline": "Surgery Partners (SGRY) Nears A Take Private Deal, Is The Offer Above Fair Value?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/surgery-partners-sgry-nears-private-090738981.html",
                 "score": 2
             },
             {
                 "symbol": "CLS",
-                "headline": "Celestica (CLS) Q3 Earnings and Revenues Top Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-cls-q3-earnings-revenues-204502176.html",
+                "headline": "Celestica Q3 Adjusted Earnings, Revenue Rise; Shares Rise Pre-Bell",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-q3-adjusted-earnings-revenue-091344528.html",
                 "score": 0
             },
             {
-                "symbol": "TSLA",
-                "headline": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-nearing-sellout-megapack-031850274.html",
+                "symbol": "WHR",
+                "headline": "WHR Stock Tumbles Overnight After Q3 Miss, Outlook Cut: Wells Fargo Sees Few Bright Spots",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/whr-stock-tumbles-overnight-q3-044134147.html",
                 "score": 0
             },
             {
@@ -31,94 +38,59 @@
                 "score": 0
             },
             {
-                "symbol": "^DJI",
+                "symbol": "SOFI",
                 "headline": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
                 "publisher": "Stocktwits",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-024554043.html",
                 "score": 0
             },
             {
-                "symbol": "WHR",
-                "headline": "Whirlpool\u2019s Struggles Continue. The Pace of Recovery Is Slower Than Expected.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/a8d80e61-6ac5-3a3a-8c2e-31004310af7c/whirlpool%E2%80%99s-struggles.html",
+                "symbol": "GOOG",
+                "headline": "Why Google might avoid an earnings 'reckoning' this week",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/why-google-might-avoid-an-earnings-reckoning-this-week-210350868.html",
                 "score": 0
             },
             {
-                "symbol": "MSFT",
-                "headline": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-024554043.html",
+                "symbol": "DVLT",
+                "headline": "Meta Platforms (META) Tops Q3 Earnings and Revenue Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-tops-q3-205006462.html",
                 "score": 0
             },
             {
-                "symbol": "CDNS",
-                "headline": "Cadence (CDNS) Q3 2026 Earnings Call Transcript",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-cdns-q3-2026-earnings-031334007.html",
-                "score": 0
-            },
-            {
-                "symbol": "DASH",
-                "headline": "Why Did CART, RBRK, RRC Stocks Surge To 52-Week Highs Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-cart-rbrk-rrc-030736953.html",
-                "score": 0
-            },
-            {
-                "symbol": "^GDAXI",
-                "headline": "European Stocks Close Higher in Monday Trading as Oil Prices Ease, Bond Yields Stabilize",
+                "symbol": "BRAI",
+                "headline": "Braiin Expands Radius Contact Center Platform With Force AI; Shares Rise",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/news/european-stocks-close-higher-monday-160729191.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMKR",
-                "headline": "Amkor (AMKR) Q3 2026 Earnings Call Transcript",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-amkr-q3-2026-earnings-031334370.html",
-                "score": 0
-            },
-            {
-                "symbol": "SGRY",
-                "headline": "Surgery Partners (SGRY) Skyrockets Nearly 50%: What to Expect Next",
-                "publisher": "Insider Monkey",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/surgery-partners-sgry-skyrockets-nearly-020854815.html",
+                "link": "https://finance.yahoo.com/technology/ai/articles/braiin-expands-radius-contact-center-140525806.html",
                 "score": 0
             },
             {
                 "symbol": "PYPL",
-                "headline": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-024554043.html",
+                "headline": "Peter Thiel's Apple verdict raises a $5 trillion question",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/technology/articles/peter-thiels-apple-verdict-raises-050700804.html",
                 "score": 0
             },
             {
-                "symbol": "JBLU",
-                "headline": "JetBlue Brings Some Relief to Investors With Third-Quarter Performance",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/e1eb66d0-f662-33dc-8241-9ff1fcd2b243/jetblue-brings-some-relief-to.html",
+                "symbol": "CDNS",
+                "headline": "Cadence Design Systems Raises Guidance on Agentic AI Opportunities",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/1d6bb5c4-ddcd-34c0-9eec-8b059137919a/cadence-design-systems-raises.html",
                 "score": 0
             },
             {
-                "symbol": "RMBS",
-                "headline": "Rambus (RMBS) Q3 2026 Earnings Call Transcript",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rambus-rmbs-q3-2026-earnings-031334638.html",
+                "symbol": "AMKR",
+                "headline": "Is Amkor Technology (AMKR) Undervalued Following Mixed Q3 Results And Weak Guidance?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-undervalued-following-060847896.html",
                 "score": 0
             },
             {
-                "symbol": "CART",
-                "headline": "Why Did CART, RBRK, RRC Stocks Surge To 52-Week Highs Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-cart-rbrk-rrc-030736953.html",
-                "score": 0
-            },
-            {
-                "symbol": "RRC",
-                "headline": "Why Did CART, RBRK, RRC Stocks Surge To 52-Week Highs Today?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-cart-rbrk-rrc-030736953.html",
+                "symbol": "UPS",
+                "headline": "Stock market today: Dow, S&P 500, Nasdaq drift lower as tech slides",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
                 "score": 0
             },
             {
@@ -129,10 +101,24 @@
                 "score": 0
             },
             {
-                "symbol": "DVLT",
-                "headline": "Meta Platforms (META) Tops Q3 Earnings and Revenue Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-tops-q3-205006462.html",
+                "symbol": "HSBC",
+                "headline": "HSBC Announces $1 Billion Buyback After Profit Growth Misses",
+                "publisher": "Bloomberg",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-announces-1-billion-buyback-040804549.html",
+                "score": 0
+            },
+            {
+                "symbol": "JBLU",
+                "headline": "JetBlue\u2019s Loss Widens Despite Higher Revenue. Blame Rising Fuel Costs.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/67cacb67-0f42-38ff-8e77-8b52c055dd8d/jetblue%E2%80%99s-loss-widens-despite.html",
+                "score": 0
+            },
+            {
+                "symbol": "TSLA",
+                "headline": "China Renaissance Adjusts Price Target on Tesla to $336 From $326",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/china-renaissance-adjusts-price-target-092520036.html",
                 "score": 0
             }
         ]
