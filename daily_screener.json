@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-27T22:53:42.079532+00:00",
+    "timestamp": "2026-10-27T23:31:04.493385+00:00",
     "signals": {
         "catalysts": [
             {
@@ -17,13 +17,6 @@
                 "score": 3
             },
             {
-                "symbol": "STX",
-                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
-                "score": 0
-            },
-            {
                 "symbol": "BA",
                 "headline": "Boeing (BA) stock trades down, here is why",
                 "publisher": "StockStory",
@@ -31,17 +24,17 @@
                 "score": 0
             },
             {
-                "symbol": "V",
-                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
-                "score": 0
-            },
-            {
                 "symbol": "SOFI",
                 "headline": "Stock Market Today, Oct. 27: SoFi Soars 13% After Beating Estimates and Raising Guidance",
                 "publisher": "Motley Fool",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-210821792.html",
+                "score": 0
+            },
+            {
+                "symbol": "V",
+                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
                 "score": 0
             },
             {
@@ -73,10 +66,10 @@
                 "score": 0
             },
             {
-                "symbol": "UPS",
-                "headline": "Auto & Transport Roundup: Market Talk",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/e7c554cb-3c4d-3c84-8abf-9c6cbd30f148/auto-%26-transport-roundup%3A.html",
+                "symbol": "DOV",
+                "headline": "ITW Q3 Earnings Beat Estimates on Electronics Strength",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/itw-q3-earnings-beat-estimates-164100716.html",
                 "score": 0
             },
             {
@@ -88,9 +81,16 @@
             },
             {
                 "symbol": "NXPI",
-                "headline": "NXP (NXPI) Reports Q3 Earnings: What Key Metrics Have to Say",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/nxp-nxpi-reports-q3-earnings-210001072.html",
+                "headline": "What NXP Semiconductors (NXPI) Said on Its Q3 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/technology/articles/nxp-semiconductors-nxpi-said-q3-230415868.html",
+                "score": 0
+            },
+            {
+                "symbol": "UPS",
+                "headline": "Auto & Transport Roundup: Market Talk",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/e7c554cb-3c4d-3c84-8abf-9c6cbd30f148/auto-%26-transport-roundup%3A.html",
                 "score": 0
             },
             {
@@ -101,13 +101,6 @@
                 "score": 0
             },
             {
-                "symbol": "WDC",
-                "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html",
-                "score": 0
-            },
-            {
                 "symbol": "WM",
                 "headline": "Waste Management (WM) Lags Q3 Earnings Estimates",
                 "publisher": "Zacks",
@@ -115,24 +108,10 @@
                 "score": 0
             },
             {
-                "symbol": "RKLB",
-                "headline": "Why Rocket Lab Stock Took Flight on Tuesday",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-took-191611618.html",
-                "score": 0
-            },
-            {
-                "symbol": "IBM",
-                "headline": "Artificial Intelligence (AI)-Driven Drug Safety and Pharmacovigilance Platforms Market Report 2026 | Capitalize on 20.2% CAGR with Microsoft, IBM, Oracle, IQVIA, and Veeva",
-                "publisher": "GlobeNewswire",
-                "link": "https://finance.yahoo.com/healthcare/articles/artificial-intelligence-ai-driven-drug-210800065.html",
-                "score": 0
-            },
-            {
-                "symbol": "FFIV",
-                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
+                "symbol": "WDC",
+                "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html",
                 "score": 0
             },
             {
@@ -140,6 +119,20 @@
                 "headline": "Why Xylem (XYL) stock is nosediving",
                 "publisher": "StockStory",
                 "link": "https://finance.yahoo.com/markets/stocks/articles/why-xylem-xyl-stock-nosediving-211847634.html",
+                "score": 0
+            },
+            {
+                "symbol": "CSGP",
+                "headline": "Update: CoStar Group Q3 Adjusted Earnings, Revenue Rise; Issues Q4 Guidance; Lifts 2026 Guidance",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/costar-group-q3-adjusted-earnings-214512835.html",
+                "score": 0
+            },
+            {
+                "symbol": "RKLB",
+                "headline": "Why Rocket Lab Stock Took Flight on Tuesday",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-took-191611618.html",
                 "score": 0
             }
         ]
