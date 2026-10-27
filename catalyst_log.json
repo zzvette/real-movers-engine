@@ -1,18 +1,11 @@
 {
-    "timestamp": "2026-10-26T23:36:13.339039+00:00",
+    "timestamp": "2026-10-27T02:25:27.467523+00:00",
     "catalysts": [
         {
-            "symbol": "AVGO",
-            "headline": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic\u2019s AI Hardware",
+            "symbol": "TSLA",
+            "headline": "Cathie Wood Says Tesla, SpaceX Could Drive Up To 9% GDP Growth: ARK Sees Merger As Win For Both Shareholder Bases",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-partners-wall-street-bigwigs-225016666.html",
-            "score": 2
-        },
-        {
-            "symbol": "NBIS",
-            "headline": "Musk predicts \u2018guppy-level death\u2019 as SpaceX closes $40B GPU deal",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/musk-predicts-guppy-level-death-210300271.html",
+            "link": "https://finance.yahoo.com/economy/articles/cathie-wood-says-tesla-spacex-014951274.html",
             "score": 2
         },
         {
@@ -23,11 +16,11 @@
             "score": 2
         },
         {
-            "symbol": "TSLA",
-            "headline": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html",
-            "score": 0
+            "symbol": "CART",
+            "headline": "DoorDash Circles Deal to Buy Instacart",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/cef63aed-32b8-3a56-bccd-250960fc2aae/doordash-circles-deal-to-buy.html",
+            "score": 2
         },
         {
             "symbol": "CLS",
@@ -38,30 +31,16 @@
         },
         {
             "symbol": "XP",
-            "headline": "Stock Market Today: Dow Up, These Stocks Gain On Musk Talk; DoorDash Dives (Live Coverage)",
+            "headline": "XP (XP) Stock Still Appears Undervalued After the 48% Slide",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/xp-xp-stock-still-appears-020844400.html",
+            "score": 0
+        },
+        {
+            "symbol": "^DJI",
+            "headline": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "NU",
-            "headline": "Why Nu Holdings Stock Got Crushed on Monday",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-nu-holdings-stock-got-223413109.html",
-            "score": 0
-        },
-        {
-            "symbol": "EWZ",
-            "headline": "A Rout in Brazilian Financial Markets",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/b20a41c2-4140-392c-ac41-e69c599f4801/a-rout-in-brazilian-financial.html",
-            "score": 0
-        },
-        {
-            "symbol": "MSFT",
-            "headline": "CORRECTING and REPLACING Waymo, Google and Microsoft Alums Raise $30M to Build the Data Layer for Physical AI",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/waymo-google-microsoft-alums-raise-160000050.html",
+            "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html",
             "score": 0
         },
         {
@@ -72,38 +51,52 @@
             "score": 0
         },
         {
-            "symbol": "AMKR",
-            "headline": "Amkor Technology (AMKR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-q3-earnings-213001294.html",
-            "score": 0
-        },
-        {
-            "symbol": "MELI",
-            "headline": "Is MercadoLibre (MELI) Undervalued On Brazil Election Risk Or Still Too Pricey?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-undervalued-brazil-election-221106855.html",
-            "score": 0
-        },
-        {
             "symbol": "GOOG",
-            "headline": "CORRECTING and REPLACING Waymo, Google and Microsoft Alums Raise $30M to Build the Data Layer for Physical AI",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/technology/ai/articles/waymo-google-microsoft-alums-raise-160000050.html",
-            "score": 0
-        },
-        {
-            "symbol": "BB",
-            "headline": "Is BlackBerry (TSX:BB) Still Undervalued As QNX Backlog Grows And Insider Selling Continues?",
-            "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-tsx-bb-still-undervalued-080826284.html",
+            "headline": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dxp-graham-corporation-msc-industrial-020647802.html",
             "score": 0
         },
         {
             "symbol": "CDNS",
-            "headline": "Cadence Design Systems Raises Guidance on Agentic AI Opportunities",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/1d6bb5c4-ddcd-34c0-9eec-8b059137919a/cadence-design-systems-raises.html",
+            "headline": "What Cadence Design Systems (CDNS) Said on Its Q3 Earnings Call",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-said-000415491.html",
+            "score": 0
+        },
+        {
+            "symbol": "AMKR",
+            "headline": "Amkor Technology Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-q3-earnings-call-000414262.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSFT",
+            "headline": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/dxp-graham-corporation-msc-industrial-020647802.html",
+            "score": 0
+        },
+        {
+            "symbol": "^GDAXI",
+            "headline": "European Stocks Close Higher in Monday Trading as Oil Prices Ease, Bond Yields Stabilize",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/news/european-stocks-close-higher-monday-160729191.html",
+            "score": 0
+        },
+        {
+            "symbol": "SGRY",
+            "headline": "Surgery Partners (SGRY) Skyrockets Nearly 50%: What to Expect Next",
+            "publisher": "Insider Monkey",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/surgery-partners-sgry-skyrockets-nearly-020854815.html",
+            "score": 0
+        },
+        {
+            "symbol": "RMBS",
+            "headline": "Rambus Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/technology/ai/articles/rambus-q3-earnings-call-highlights-000415574.html",
             "score": 0
         },
         {
@@ -114,24 +107,31 @@
             "score": 0
         },
         {
-            "symbol": "PBR",
-            "headline": "Is MercadoLibre (MELI) Undervalued On Brazil Election Risk Or Still Too Pricey?",
+            "symbol": "RRC",
+            "headline": "Range Resources (RRC) shares skyrocket, what you need to know",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-shares-skyrocket-004647695.html",
+            "score": 0
+        },
+        {
+            "symbol": "PYPL",
+            "headline": "SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 Earnings?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-vs-pypl-fintech-stock-011216713.html",
+            "score": 0
+        },
+        {
+            "symbol": "RPD",
+            "headline": "AI Security Push Might Change The Case For Rapid7 Stock",
             "publisher": "Simply Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-undervalued-brazil-election-221106855.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ai-security-push-might-change-221618782.html",
             "score": 0
         },
         {
-            "symbol": "SGRY",
-            "headline": "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html",
-            "score": 0
-        },
-        {
-            "symbol": "^BVSP",
-            "headline": "Lula win rattles Brazil markets over spending spree fears",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/economy/policy/articles/lula-win-rattles-brazil-markets-220000603.html",
+            "symbol": "BRAI",
+            "headline": "Braiin Expands Radius Contact Center Platform With Force AI; Shares Rise",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/braiin-expands-radius-contact-center-140525806.html",
             "score": 0
         }
     ]
