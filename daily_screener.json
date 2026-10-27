@@ -1,124 +1,145 @@
 {
-    "timestamp": "2026-10-27T09:39:02.184206+00:00",
+    "timestamp": "2026-10-27T15:06:49.723325+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "DASH",
-                "headline": "DoorDash (DASH) Held Early Acquisition Talks With A Delivery Rival",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-held-early-acquisition-081040939.html",
+                "symbol": "GM",
+                "headline": "General Motors Moving Stock Listing to Nasdaq From NYSE",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/ef10522d-d5cf-332d-9f07-4d9e1cd54b7a/general-motors-moving-stock.html",
+                "score": 3
+            },
+            {
+                "symbol": "JOBY",
+                "headline": "Cathie Wood Cashes Out AI Chip Stocks, Adds These Aviation Plays",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/f8b522d9-6997-32f6-ad32-2f16f7a640f8/cathie-wood-cashes-out-ai.html",
                 "score": 2
             },
             {
-                "symbol": "SGRY",
-                "headline": "Surgery Partners (SGRY) Nears A Take Private Deal, Is The Offer Above Fair Value?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/healthcare/articles/surgery-partners-sgry-nears-private-090738981.html",
+                "symbol": "VLO",
+                "headline": "Will Martinez Refinery Restart Strengthen PBF Energy's Cash Flow?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/energy/articles/martinez-refinery-restart-strengthen-pbf-124400930.html",
                 "score": 2
-            },
-            {
-                "symbol": "CLS",
-                "headline": "Celestica Q3 Adjusted Earnings, Revenue Rise; Shares Rise Pre-Bell",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-q3-adjusted-earnings-revenue-091344528.html",
-                "score": 0
-            },
-            {
-                "symbol": "WHR",
-                "headline": "WHR Stock Tumbles Overnight After Q3 Miss, Outlook Cut: Wells Fargo Sees Few Bright Spots",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/whr-stock-tumbles-overnight-q3-044134147.html",
-                "score": 0
-            },
-            {
-                "symbol": "XP",
-                "headline": "XP (XP) Stock Still Appears Undervalued After the 48% Slide",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/xp-xp-stock-still-appears-020844400.html",
-                "score": 0
             },
             {
                 "symbol": "SOFI",
-                "headline": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-024554043.html",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143016210.html",
                 "score": 0
             },
             {
-                "symbol": "GOOG",
-                "headline": "Why Google might avoid an earnings 'reckoning' this week",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/why-google-might-avoid-an-earnings-reckoning-this-week-210350868.html",
-                "score": 0
-            },
-            {
-                "symbol": "DVLT",
-                "headline": "Meta Platforms (META) Tops Q3 Earnings and Revenue Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-tops-q3-205006462.html",
-                "score": 0
-            },
-            {
-                "symbol": "BRAI",
-                "headline": "Braiin Expands Radius Contact Center Platform With Force AI; Shares Rise",
+                "symbol": "BA",
+                "headline": "Boeing Third-Quarter Loss Narrows Less Than Expected as Commercial Airplane Revenue Disappoints",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/technology/ai/articles/braiin-expands-radius-contact-center-140525806.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-third-quarter-loss-narrows-144511848.html",
                 "score": 0
             },
             {
-                "symbol": "PYPL",
-                "headline": "Peter Thiel's Apple verdict raises a $5 trillion question",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/technology/articles/peter-thiels-apple-verdict-raises-050700804.html",
-                "score": 0
-            },
-            {
-                "symbol": "CDNS",
-                "headline": "Cadence Design Systems Raises Guidance on Agentic AI Opportunities",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/1d6bb5c4-ddcd-34c0-9eec-8b059137919a/cadence-design-systems-raises.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMKR",
-                "headline": "Is Amkor Technology (AMKR) Undervalued Following Mixed Q3 Results And Weak Guidance?",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-undervalued-following-060847896.html",
+                "symbol": "GLW",
+                "headline": "Tech rises for second day in a row as chip stocks gain: AlphaCheck",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/tech-rises-for-2nd-day-in-a-row-as-chip-stocks-gain-alphacheck-134531476.html",
                 "score": 0
             },
             {
                 "symbol": "UPS",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq drift lower as tech slides",
+                "headline": "Stock Market Today: Nasdaq Up As Fed Meet Starts; Mining, Chip Funds Make A Move Higher (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-nasdaq-up.html",
+                "score": 0
+            },
+            {
+                "symbol": "AVGO",
+                "headline": "Broadcom\u2019s Growth Vs. Risk Tug-of-War Continues to Confound",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-growth-vs-risk-tug-144530642.html",
+                "score": 0
+            },
+            {
+                "symbol": "CLS",
+                "headline": "S&P/TSX Composite Index Higher as Shares in Base Metals Advance",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-higher-142512049.html",
+                "score": 0
+            },
+            {
+                "symbol": "INOD",
+                "headline": "Will Innodata Inc (INOD) Beat Estimates Again in Its Next Earnings Report?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inc-inod-beat-estimates-151003260.html",
+                "score": 0
+            },
+            {
+                "symbol": "NFLX",
+                "headline": "Why Netflix stock just can't catch a break after earnings",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/why-netflix-stock-just-cant-catch-a-break-after-earnings-121109057.html",
+                "score": 0
+            },
+            {
+                "symbol": "KO",
+                "headline": "Stock market today: Dow slips, S&P 500 and Nasdaq rise as tech bounces back",
                 "publisher": "Yahoo Finance",
                 "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
                 "score": 0
             },
             {
-                "symbol": "^TWII",
-                "headline": "Korea and Taiwan Built Economies on AI. One Failed IPO Shows Their Fragility.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/0f72b178-5a29-307e-a608-bccdaace9757/korea-and-taiwan-built.html",
+                "symbol": "XYL",
+                "headline": "Here's What Key Metrics Tell Us About Xylem (XYL) Q3 Earnings",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-123004997.html",
                 "score": 0
             },
             {
-                "symbol": "HSBC",
-                "headline": "HSBC Announces $1 Billion Buyback After Profit Growth Misses",
-                "publisher": "Bloomberg",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-announces-1-billion-buyback-040804549.html",
+                "symbol": "DVLT",
+                "headline": "BC-Most Active Stocks",
+                "publisher": "Associated Press",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143016210.html",
                 "score": 0
             },
             {
-                "symbol": "JBLU",
-                "headline": "JetBlue\u2019s Loss Widens Despite Higher Revenue. Blame Rising Fuel Costs.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/67cacb67-0f42-38ff-8e77-8b52c055dd8d/jetblue%E2%80%99s-loss-widens-despite.html",
+                "symbol": "RCL",
+                "headline": "Royal Caribbean Shares Rise 6.3% as Q3 Earnings Beat Estimates and 2026 Profit Guidance Increases",
+                "publisher": "InvestorsHub",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-shares-rise-6-142904290.html",
                 "score": 0
             },
             {
-                "symbol": "TSLA",
-                "headline": "China Renaissance Adjusts Price Target on Tesla to $336 From $326",
+                "symbol": "KNSA",
+                "headline": "Wedbush Adjusts PT on Kiniksa Pharmaceuticals International to $102 From $99, Maintains Outperform Rating",
                 "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/china-renaissance-adjusts-price-target-092520036.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wedbush-adjusts-pt-kiniksa-pharmaceuticals-145444237.html",
+                "score": 0
+            },
+            {
+                "symbol": "WDC",
+                "headline": "Seagate\u2019s Most Important\u00a0Opportunity May Be\u00a0Sitting in Your\u00a0Data Center",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-most-important-opportunity-may-124515167.html",
+                "score": 0
+            },
+            {
+                "symbol": "DELL",
+                "headline": "Apple (AAPL) vs. MSFT and GOOGL: Is the Post-Earnings Selloff Creating a Long-Term Buying Opportunity?",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-vs-msft-googl-145956028.html",
+                "score": 0
+            },
+            {
+                "symbol": "CTAS",
+                "headline": "Is Rollins Stock About To Rebound?",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rollins-stock-rebound-222033545.html",
+                "score": 0
+            },
+            {
+                "symbol": "HCA",
+                "headline": "Sector Update: Healthcare Stocks Lean Lower Premarket Tuesday",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-lean-lower-131337745.html",
                 "score": 0
             }
         ]
