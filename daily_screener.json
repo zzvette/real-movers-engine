@@ -1,82 +1,96 @@
 {
-    "timestamp": "2026-10-28T04:15:24.042917+00:00",
+    "timestamp": "2026-10-28T10:44:55.358860+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "CRML",
-                "headline": "Critical Minerals Stocks Rally as Sector Bid Broadens: United States Antimony and USA Rare Earth Jump 11%, Critical Metals Climbs 8%",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/critical-minerals-stocks-rally-sector-154933314.html",
+                "symbol": "GEV",
+                "headline": "GE Vernova Q3 Earnings, Revenue Rise; 2026 Revenue Outlook Raised",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-q3-earnings-revenue-103930413.html",
                 "score": 3
             },
             {
-                "symbol": "MU",
-                "headline": "Netlist (NLST) Stock Looks Fully Valued Despite Fresh IP Deal News",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/netlist-nlst-stock-looks-fully-021350227.html",
-                "score": 2
-            },
-            {
-                "symbol": "AMD",
-                "headline": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-held-more-cash-nvidia-003958106.html",
+                "symbol": "DAVI",
+                "headline": "Davion Healthcare Announces US$25 Million Acquisition of Humaskan Medical Technology IP",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/healthcare/articles/davion-healthcare-announces-us-25-113000070.html",
                 "score": 2
             },
             {
                 "symbol": "SKHY",
-                "headline": "Asian stocks rise after a rally on Wall Street, while oil prices edge higher",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-rally-wall-035813504.html",
+                "headline": "Morning Bid: Information overload",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/news/morning-bid-information-overload-103658484.html",
                 "score": 0
             },
             {
                 "symbol": "HOOD",
-                "headline": "Robinhood Stock And the Rate Trade Behind Short Term Bond ETF Demand",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-rate-trade-behind-021109315.html",
+                "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Wednesday; Micron Technology to Advance, Robinhood Markets to Decline",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-104001118.html",
                 "score": 0
             },
             {
-                "symbol": "BA",
-                "headline": "Boeing: 3 Key Takeaways for Long-Term Investors",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-3-key-takeaways-long-034251315.html",
+                "symbol": "MU",
+                "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Wednesday; Micron Technology to Advance, Robinhood Markets to Decline",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-104001118.html",
                 "score": 0
             },
             {
                 "symbol": "STX",
-                "headline": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html",
+                "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Wednesday; Micron Technology to Advance, Robinhood Markets to Decline",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-104001118.html",
                 "score": 0
             },
             {
-                "symbol": "SOFI",
-                "headline": "Why SoFi Stock Popped Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-sofi-stock-popped-today-023013531.html",
+                "symbol": "BA",
+                "headline": "Jefferies Adjusts Price Target on Boeing to $230 From $265",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-boeing-095758677.html",
+                "score": 0
+            },
+            {
+                "symbol": "ENPH",
+                "headline": "Enphase Energy Extends Weakness on Slumping Residential Demand",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/8cbb8b85-2f75-3ee9-8ff6-c13c4f76685f/enphase-energy-extends.html",
                 "score": 0
             },
             {
                 "symbol": "SNDK",
-                "headline": "Pre-Q1 Earnings: Is Sandisk Stock a Portfolio Must-Have?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/pre-q1-earnings-sandisk-stock-180100168.html",
+                "headline": "Is Sandisk (SNDK) Cheap Following AI Infrastructure Optimism And SK Hynix Results?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-cheap-following-ai-101452752.html",
                 "score": 0
             },
             {
-                "symbol": "AVGO",
-                "headline": "Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Key Tech Results, Fed Rate Decision: SKHY, HOOD, BA, ENPH In Focus",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-022520144.html",
+                "symbol": "VRT",
+                "headline": "Vertiv Holdings Q3 Adjusted Earnings, Revenue Rise",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-q3-adjusted-earnings-102756783.html",
                 "score": 0
             },
             {
-                "symbol": "DRAM",
-                "headline": "Review & Preview: The AI Rollercoaster",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/cee70c38-e5d4-3fcb-8eaa-3809ec791d41/review-%26-preview%3A-the-ai.html",
+                "symbol": "INOD",
+                "headline": "Innodata Stock After India Layoffs Has The Bull Case Changed",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-stock-india-layoffs-bull-091115594.html",
+                "score": 0
+            },
+            {
+                "symbol": "USAR",
+                "headline": "Micron Technology And 2 High Growth Stocks To Watch",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-2-high-growth-044453302.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "Meta Lost 11% in a Week. Canaccord Sees 53% Upside From Here",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/meta-lost-11-week-canaccord-101859870.html",
                 "score": 0
             },
             {
@@ -87,52 +101,31 @@
                 "score": 0
             },
             {
-                "symbol": "INOD",
-                "headline": "Innodata Sinks 28% on Reported Abrupt Layoffs of 550 in India: \u201cOfficial IDs Deactivated\u201d",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-sinks-28-reported-abrupt-184816605.html",
-                "score": 0
-            },
-            {
-                "symbol": "ENPH",
-                "headline": "ENPH Stock Drops After-Hours As Interest Rates And Tax Credit Expiry Hit US Solar Demand",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/enph-stock-drops-hours-interest-234040752.html",
-                "score": 0
-            },
-            {
-                "symbol": "ORCL",
-                "headline": "Samsung's AI boom comes with a $100 billion warning",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/technology/ai/articles/samsungs-ai-boom-comes-100-024700540.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOGL",
-                "headline": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html",
+                "symbol": "CRML",
+                "headline": "Critical Metals (CRML) Stock Looks Fully Priced After Mining Approval",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-crml-stock-looks-092052050.html",
                 "score": 0
             },
             {
                 "symbol": "TER",
-                "headline": "Teradyne (TER) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-q3-earnings-taking-223003761.html",
+                "headline": "The Case For Lam Research Stock Rests On One Thing",
+                "publisher": "Trefis",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/case-lam-research-stock-rests-092626347.html",
                 "score": 0
             },
             {
-                "symbol": "GOOG",
-                "headline": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html",
+                "symbol": "DRAM",
+                "headline": "Review & Preview: The AI Rollercoaster",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cee70c38-e5d4-3fcb-8eaa-3809ec791d41/review-%26-preview%3A-the-ai.html",
                 "score": 0
             },
             {
-                "symbol": "WDC",
-                "headline": "STX Stock Slips Despite Q1 Beat, Dividend Hike \u2014 Analyst Flags Slowing Margin Growth",
+                "symbol": "BBAI",
+                "headline": "BBAI Stock Drops Overnight: Retail Shrugs Off BigBear's Profit Concerns, Focused On 'Growth'",
                 "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stx-stock-slips-despite-q1-021827882.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bbai-stock-drops-overnight-retail-075802401.html",
                 "score": 0
             }
         ]
