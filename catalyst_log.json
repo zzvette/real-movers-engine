@@ -1,144 +1,144 @@
 {
-    "timestamp": "2026-10-28T15:43:02.506832+00:00",
+    "timestamp": "2026-10-28T19:12:06.239542+00:00",
     "catalysts": [
         {
-            "symbol": "STLA",
-            "headline": "Jeep, Ram parent Stellantis surges on reaffirmed outlook, cost cuts",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/jeep-ram-parent-stellantis-surges-on-reaffirmed-outlook-cost-cuts-152840107.html",
-            "score": 3
-        },
-        {
-            "symbol": "GEHC",
-            "headline": "GEHC Q3 Earnings Beat Estimates on Strong Growth, '26 View Raised",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/healthcare/articles/gehc-q3-earnings-beat-estimates-140500257.html",
-            "score": 3
-        },
-        {
-            "symbol": "VRT",
-            "headline": "Neocloud Stocks Like CoreWeave Rebound Despite Elon Musk Predicting 'Guppy-Level Death'",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6151cb22-1b1a-391b-a195-a7411fe60f0d/neocloud-stocks-like.html",
+            "symbol": "ORCL",
+            "headline": "Oracle Shares Rise As it Reaffirms FY27 Outlook, Sets FY30 Revenue Target",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-shares-rise-reaffirms-fy27-190433676.html",
             "score": 0
         },
         {
             "symbol": "SKHY",
-            "headline": "Neocloud Stocks Like CoreWeave Rebound Despite Elon Musk Predicting 'Guppy-Level Death'",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6151cb22-1b1a-391b-a195-a7411fe60f0d/neocloud-stocks-like.html",
+            "headline": "Why Micron Stock Is Up Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-today-185102721.html",
+            "score": 0
+        },
+        {
+            "symbol": "VRT",
+            "headline": "From Cooling to Backup Power, Data Center Demand Is Showing Up in Quarterly Results",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/technology/articles/cooling-backup-power-data-center-183700039.html",
             "score": 0
         },
         {
             "symbol": "WEN",
-            "headline": "Wendy\u2019s Shares Rise 15% Following $1.4 Billion Takeover Proposal From Trian Fund Management",
-            "publisher": "InvestorsHub",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/wendy-shares-rise-15-following-150727168.html",
+            "headline": "The Wendy's Company Confirms Receipt of Unsolicited Proposal from Trian Partners",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/wendys-company-confirms-receipt-unsolicited-184400876.html",
             "score": 0
         },
         {
-            "symbol": "GEV",
-            "headline": "Top 5 AI Stocks in Billionaires Ray Dalio and Philippe Laffont\u2019s Portfolios",
-            "publisher": "Insider Monkey",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-ai-stocks-billionaires-151838459.html",
-            "score": 0
-        },
-        {
-            "symbol": "HOOD",
-            "headline": "Robinhood Stock Tumbles as Crypto Revenue Crashes 55%",
+            "symbol": "STLA",
+            "headline": "Stellantis NV (STLA) Q3 2026 Earnings Call Highlights: Margin Expansion, Cost Cuts and the Road ...",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-tumbles-crypto-revenue-152252356.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-nv-stla-q3-2026-190546798.html",
             "score": 0
         },
         {
-            "symbol": "SPCX",
-            "headline": "Neocloud Stocks Like CoreWeave Rebound Despite Elon Musk Predicting 'Guppy-Level Death'",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/6151cb22-1b1a-391b-a195-a7411fe60f0d/neocloud-stocks-like.html",
+            "symbol": "^TNX",
+            "headline": "Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html",
             "score": 0
         },
         {
-            "symbol": "BSX",
-            "headline": "Boston Scientific Lowers Full-Year Outlook Amid Cyberattack Impact",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-lowers-full-outlook-145511372.html",
+            "symbol": "^IXIC",
+            "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
             "score": 0
         },
         {
             "symbol": "MU",
-            "headline": "Stock market today:  Nasdaq wavers, S&P 500 and Dow climb ahead of Fed decision, Big Tech earnings",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html",
+            "headline": "Sandisk Is Still Down 23% in the Past Month. Did Today Just Mark the Bottom for SNDK Stock?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-still-down-23-past-185752768.html",
             "score": 0
         },
         {
-            "symbol": "ENPH",
-            "headline": "Enphase Energy Facing Soft US Demand, Challenges in Other Markets, Morgan Stanley Says",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/energy/articles/enphase-energy-facing-soft-us-153814458.html",
-            "score": 0
-        },
-        {
-            "symbol": "SLS",
-            "headline": "Sellas Sinks 18% as Phase 3 Leukemia Trial Reaches \u201cCritical Milestone\u201d Ahead of Final Data",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/healthcare/articles/sellas-sinks-18-phase-3-151510800.html",
-            "score": 0
-        },
-        {
-            "symbol": "FFIV",
-            "headline": "F5, Oracle to Collaborate on Web Application, API Security for OCI",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/technology/articles/f5-oracle-collaborate-application-api-143038806.html",
-            "score": 0
-        },
-        {
-            "symbol": "AXGN",
-            "headline": "Axogen Q3 Adjusted Net Income, Revenue Increase; 2026 Revenue Guidance Lifted; Shares Rise",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/axogen-q3-adjusted-net-income-133355953.html",
+            "symbol": "GEV",
+            "headline": "GE Vernova: Q3 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-q3-earnings-snapshot-183633673.html",
             "score": 0
         },
         {
             "symbol": "GMAB",
-            "headline": "Genmab Says Phase 3 Trial of Petosemtamab Combination Meets Both Primary Endpoints; Shares Rise",
+            "headline": "Genmab Stock Hits 52-Week High - Here's Why",
+            "publisher": "Benzinga",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/genmab-stock-hits-52-week-174448037.html",
+            "score": 0
+        },
+        {
+            "symbol": "FFIV",
+            "headline": "3 unpopular stocks with warning signs",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-warning-signs-183834499.html",
+            "score": 0
+        },
+        {
+            "symbol": "^GSPC",
+            "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+            "score": 0
+        },
+        {
+            "symbol": "NOW",
+            "headline": "Sector Update: Tech Stocks Mixed in Afternoon Trading",
             "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/healthcare/articles/genmab-says-phase-3-trial-143721511.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-181312262.html",
             "score": 0
         },
         {
-            "symbol": "STX",
-            "headline": "Seagate Stocks Decline Over 3% With Guidance Requiring Faster Earnings Growth",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stocks-decline-over-3-153948728.html",
-            "score": 0
-        },
-        {
-            "symbol": "LPLA",
-            "headline": "LPL Financial Holdings Inc (LPLA) (Q3 2026) Earnings Call Highlights: Record EPS of $5. ...",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-holdings-inc-lpla-070406391.html",
-            "score": 0
-        },
-        {
-            "symbol": "UBER",
-            "headline": "Instacart Sinks 6% as Uber Reportedly Walks Away From Talks to Buy the \u201cPrized Asset\u201d",
-            "publisher": "TIKR",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/instacart-sinks-6-uber-reportedly-150839259.html",
-            "score": 0
-        },
-        {
-            "symbol": "GERN",
-            "headline": "BC-Most Active Stocks",
-            "publisher": "Associated Press",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017600.html",
-            "score": 0
-        },
-        {
-            "symbol": "DJT",
-            "headline": "Trump Media Falls 5% Toward $6 With Earnings Ahead; Rumble Ticks Up",
+            "symbol": "SPY",
+            "headline": "If You Invested $1,000 in NRG Energy 10 Years Ago, Even This Year\u2019s Sell-Off Wouldn\u2019t Erase Your Gains",
             "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-falls-5-toward-150713765.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/invested-1-000-nrg-energy-184715804.html",
+            "score": 0
+        },
+        {
+            "symbol": "ENPH",
+            "headline": "Enphase Energy: Q3 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/energy/articles/enphase-energy-q3-earnings-snapshot-183423421.html",
+            "score": 0
+        },
+        {
+            "symbol": "GOOG",
+            "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+            "score": 0
+        },
+        {
+            "symbol": "SPCX",
+            "headline": "Elon Musk once backed Buffett\u2019s 5-minute fix for national debt: \u2018This is the way\u2019",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-once-backed-buffett-184517477.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Sandisk Is Still Down 23% in the Past Month. Did Today Just Mark the Bottom for SNDK Stock?",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-still-down-23-past-185752768.html",
+            "score": 0
+        },
+        {
+            "symbol": "MSFT",
+            "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+            "score": 0
+        },
+        {
+            "symbol": "AXGN",
+            "headline": "AxoGen: Q3 Earnings Snapshot",
+            "publisher": "Associated Press",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/axogen-q3-earnings-snapshot-183633107.html",
             "score": 0
         }
     ]
