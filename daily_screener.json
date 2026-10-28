@@ -1,14 +1,7 @@
 {
-    "timestamp": "2026-10-27T23:31:04.493385+00:00",
+    "timestamp": "2026-10-28T02:34:44.596942+00:00",
     "signals": {
         "catalysts": [
-            {
-                "symbol": "HOOD",
-                "headline": "HOOD Stock Drops 5% After-Hours: Robinhood\u2019s Q3 Revenue Climbs On Prediction Markets, But Misses Wall Street Targets",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-drops-5-hours-224232429.html",
-                "score": 3
-            },
             {
                 "symbol": "CRML",
                 "headline": "Critical Minerals Stocks Rally as Sector Bid Broadens: United States Antimony and USA Rare Earth Jump 11%, Critical Metals Climbs 8%",
@@ -18,16 +11,44 @@
             },
             {
                 "symbol": "BA",
-                "headline": "Boeing (BA) stock trades down, here is why",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-trades-down-215047865.html",
+                "headline": "Boeing (BA) Stock Sinks As Q3 Results Stoke Cash Flow Doubts",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-sinks-q3-021046757.html",
+                "score": 2
+            },
+            {
+                "symbol": "MU",
+                "headline": "Netlist (NLST) Stock Looks Fully Valued Despite Fresh IP Deal News",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/netlist-nlst-stock-looks-fully-021350227.html",
+                "score": 2
+            },
+            {
+                "symbol": "SKHY",
+                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
+                "score": 0
+            },
+            {
+                "symbol": "HOOD",
+                "headline": "Robinhood Stock And the Rate Trade Behind Short Term Bond ETF Demand",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-rate-trade-behind-021109315.html",
+                "score": 0
+            },
+            {
+                "symbol": "STX",
+                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
                 "score": 0
             },
             {
                 "symbol": "SOFI",
-                "headline": "Stock Market Today, Oct. 27: SoFi Soars 13% After Beating Estimates and Raising Guidance",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-210821792.html",
+                "headline": "SoFi Keeps About a Penny of Every Dollar of Crypto Revenue",
+                "publisher": "Unchained",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/sofi-keeps-penny-every-dollar-002800143.html",
                 "score": 0
             },
             {
@@ -38,17 +59,17 @@
                 "score": 0
             },
             {
-                "symbol": "SKHY",
-                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
+                "symbol": "ENPH",
+                "headline": "ENPH Stock Drops After-Hours As Interest Rates And Tax Credit Expiry Hit US Solar Demand",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/enph-stock-drops-hours-interest-234040752.html",
                 "score": 0
             },
             {
-                "symbol": "ENPH",
-                "headline": "Enphase Energy Extends Weakness on Slumping Residential Demand",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/8cbb8b85-2f75-3ee9-8ff6-c13c4f76685f/enphase-energy-extends.html",
+                "symbol": "INOD",
+                "headline": "Innodata Sinks 28% on Reported Abrupt Layoffs of 550 in India: \u201cOfficial IDs Deactivated\u201d",
+                "publisher": "TIKR",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-sinks-28-reported-abrupt-184816605.html",
                 "score": 0
             },
             {
@@ -60,37 +81,23 @@
             },
             {
                 "symbol": "TER",
-                "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html",
-                "score": 0
-            },
-            {
-                "symbol": "DOV",
-                "headline": "ITW Q3 Earnings Beat Estimates on Electronics Strength",
+                "headline": "Teradyne (TER) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/itw-q3-earnings-beat-estimates-164100716.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-q3-earnings-taking-223003761.html",
                 "score": 0
             },
             {
-                "symbol": "INOD",
-                "headline": "Innodata Sinks 28% on Reported Abrupt Layoffs of 550 in India: \u201cOfficial IDs Deactivated\u201d",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-sinks-28-reported-abrupt-184816605.html",
+                "symbol": "SNDK",
+                "headline": "Pre-Q1 Earnings: Is Sandisk Stock a Portfolio Must-Have?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pre-q1-earnings-sandisk-stock-180100168.html",
                 "score": 0
             },
             {
-                "symbol": "NXPI",
-                "headline": "What NXP Semiconductors (NXPI) Said on Its Q3 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/technology/articles/nxp-semiconductors-nxpi-said-q3-230415868.html",
-                "score": 0
-            },
-            {
-                "symbol": "UPS",
-                "headline": "Auto & Transport Roundup: Market Talk",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/e7c554cb-3c4d-3c84-8abf-9c6cbd30f148/auto-%26-transport-roundup%3A.html",
+                "symbol": "GOOGL",
+                "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html",
                 "score": 0
             },
             {
@@ -101,38 +108,31 @@
                 "score": 0
             },
             {
-                "symbol": "WM",
-                "headline": "Waste Management (WM) Lags Q3 Earnings Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-lags-q3-212011562.html",
+                "symbol": "DRAM",
+                "headline": "Review & Preview: The AI Rollercoaster",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/cee70c38-e5d4-3fcb-8eaa-3809ec791d41/review-%26-preview%3A-the-ai.html",
                 "score": 0
             },
             {
-                "symbol": "WDC",
-                "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html",
-                "score": 0
-            },
-            {
-                "symbol": "XYL",
-                "headline": "Why Xylem (XYL) stock is nosediving",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-xylem-xyl-stock-nosediving-211847634.html",
-                "score": 0
-            },
-            {
-                "symbol": "CSGP",
-                "headline": "Update: CoStar Group Q3 Adjusted Earnings, Revenue Rise; Issues Q4 Guidance; Lifts 2026 Guidance",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/costar-group-q3-adjusted-earnings-214512835.html",
-                "score": 0
-            },
-            {
-                "symbol": "RKLB",
-                "headline": "Why Rocket Lab Stock Took Flight on Tuesday",
+                "symbol": "USAR",
+                "headline": "USA Rare Earth Just Broke Ground on a $1.2 Billion Magnet Complex. Here's Why It Matters.",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-took-191611618.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-just-broke-231400578.html",
+                "score": 0
+            },
+            {
+                "symbol": "UPS",
+                "headline": "Columbus McKinnon, Bloom Energy, Ameresco, FuelCell Energy, and WillScot Mobile Mini stocks trade up, what you need to know",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/columbus-mckinnon-bloom-energy-ameresco-235047018.html",
+                "score": 0
+            },
+            {
+                "symbol": "NXPI",
+                "headline": "What NXP Semiconductors (NXPI) Said on Its Q3 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/technology/articles/nxp-semiconductors-nxpi-said-q3-230415868.html",
                 "score": 0
             }
         ]
