@@ -1,34 +1,6 @@
 {
-    "timestamp": "2026-10-28T23:09:33.000392+00:00",
+    "timestamp": "2026-10-28T23:54:28.683982+00:00",
     "catalysts": [
-        {
-            "symbol": "LITE",
-            "headline": "Lumentum Jumps On Marvell Buyout Report",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/4dcc41b1-1cb8-395f-b86f-c08b38260525/lumentum-jumps-on-marvell.html",
-            "score": 5
-        },
-        {
-            "symbol": "MRVL",
-            "headline": "Lumentum Jumps On Marvell Buyout Report",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/4dcc41b1-1cb8-395f-b86f-c08b38260525/lumentum-jumps-on-marvell.html",
-            "score": 5
-        },
-        {
-            "symbol": "COHR",
-            "headline": "Lumentum Jumps On Marvell Buyout Report",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/4dcc41b1-1cb8-395f-b86f-c08b38260525/lumentum-jumps-on-marvell.html",
-            "score": 5
-        },
-        {
-            "symbol": "VRT",
-            "headline": "Vertiv stock surges as orders double amid AI build-out: 'Evolving faster than ever'",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/stocks/article/vertiv-stock-surges-as-orders-double-amid-ai-build-out-evolving-faster-than-ever-122018206.html",
-            "score": 3
-        },
         {
             "symbol": "GOOG",
             "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
@@ -65,6 +37,20 @@
             "score": 0
         },
         {
+            "symbol": "LITE",
+            "headline": "Marvell Wants Lumentum. Here\u2019s Why Coherent Could Win.",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/marvell-wants-lumentum-why-coherent-234427778.html",
+            "score": 0
+        },
+        {
+            "symbol": "MRVL",
+            "headline": "Marvell Wants Lumentum. Here\u2019s Why Coherent Could Win.",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/marvell-wants-lumentum-why-coherent-234427778.html",
+            "score": 0
+        },
+        {
             "symbol": "FTNT",
             "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
             "publisher": "Investor's Business Daily",
@@ -97,6 +83,13 @@
             "headline": "Palo Alto Networks Stocks Move Lower With More PHP2Shell Fixes Released",
             "publisher": "GuruFocus.com",
             "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stocks-move-194106360.html",
+            "score": 0
+        },
+        {
+            "symbol": "VRT",
+            "headline": "Vertiv Holdings Co (VRT) (Q3 2026) Earnings Call Highlights: 61% Sales Surge, 100%+ Organic ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-q3-230817499.html",
             "score": 0
         },
         {
@@ -136,9 +129,16 @@
         },
         {
             "symbol": "SFM",
-            "headline": "Sprouts Farmers Market Q3 Earnings Fall, Revenue Rises; Shares Slump After Hours",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sprouts-farmers-market-q3-earnings-214706936.html",
+            "headline": "Sprouts Stock Plunges After Earnings Miss. Consumers Are Visiting the Grocer Less Often.",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/b92b5882-97f7-3d47-9c89-06889dfdd3af/sprouts-stock-plunges-after.html",
+            "score": 0
+        },
+        {
+            "symbol": "COHR",
+            "headline": "Marvell Wants Lumentum. Here\u2019s Why Coherent Could Win.",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/marvell-wants-lumentum-why-coherent-234427778.html",
             "score": 0
         }
     ]
