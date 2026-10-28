@@ -1,145 +1,145 @@
 {
-    "timestamp": "2026-10-28T19:12:06.239542+00:00",
+    "timestamp": "2026-10-28T23:09:33.000392+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "ORCL",
-                "headline": "Oracle Shares Rise As it Reaffirms FY27 Outlook, Sets FY30 Revenue Target",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-shares-rise-reaffirms-fy27-190433676.html",
-                "score": 0
+                "symbol": "LITE",
+                "headline": "Lumentum Jumps On Marvell Buyout Report",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/4dcc41b1-1cb8-395f-b86f-c08b38260525/lumentum-jumps-on-marvell.html",
+                "score": 5
             },
             {
-                "symbol": "SKHY",
-                "headline": "Why Micron Stock Is Up Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-today-185102721.html",
-                "score": 0
+                "symbol": "MRVL",
+                "headline": "Lumentum Jumps On Marvell Buyout Report",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/4dcc41b1-1cb8-395f-b86f-c08b38260525/lumentum-jumps-on-marvell.html",
+                "score": 5
+            },
+            {
+                "symbol": "COHR",
+                "headline": "Lumentum Jumps On Marvell Buyout Report",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/4dcc41b1-1cb8-395f-b86f-c08b38260525/lumentum-jumps-on-marvell.html",
+                "score": 5
             },
             {
                 "symbol": "VRT",
-                "headline": "From Cooling to Backup Power, Data Center Demand Is Showing Up in Quarterly Results",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/technology/articles/cooling-backup-power-data-center-183700039.html",
-                "score": 0
-            },
-            {
-                "symbol": "WEN",
-                "headline": "The Wendy's Company Confirms Receipt of Unsolicited Proposal from Trian Partners",
-                "publisher": "PR Newswire",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/wendys-company-confirms-receipt-unsolicited-184400876.html",
-                "score": 0
-            },
-            {
-                "symbol": "STLA",
-                "headline": "Stellantis NV (STLA) Q3 2026 Earnings Call Highlights: Margin Expansion, Cost Cuts and the Road ...",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-nv-stla-q3-2026-190546798.html",
-                "score": 0
-            },
-            {
-                "symbol": "^TNX",
-                "headline": "Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week",
+                "headline": "Vertiv stock surges as orders double amid AI build-out: 'Evolving faster than ever'",
                 "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html",
-                "score": 0
-            },
-            {
-                "symbol": "^IXIC",
-                "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
-                "score": 0
-            },
-            {
-                "symbol": "MU",
-                "headline": "Sandisk Is Still Down 23% in the Past Month. Did Today Just Mark the Bottom for SNDK Stock?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-still-down-23-past-185752768.html",
-                "score": 0
-            },
-            {
-                "symbol": "GEV",
-                "headline": "GE Vernova: Q3 Earnings Snapshot",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-q3-earnings-snapshot-183633673.html",
-                "score": 0
-            },
-            {
-                "symbol": "GMAB",
-                "headline": "Genmab Stock Hits 52-Week High - Here's Why",
-                "publisher": "Benzinga",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/genmab-stock-hits-52-week-174448037.html",
-                "score": 0
-            },
-            {
-                "symbol": "FFIV",
-                "headline": "3 unpopular stocks with warning signs",
-                "publisher": "StockStory",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-warning-signs-183834499.html",
-                "score": 0
-            },
-            {
-                "symbol": "^GSPC",
-                "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
-                "score": 0
-            },
-            {
-                "symbol": "NOW",
-                "headline": "Sector Update: Tech Stocks Mixed in Afternoon Trading",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-181312262.html",
-                "score": 0
-            },
-            {
-                "symbol": "SPY",
-                "headline": "If You Invested $1,000 in NRG Energy 10 Years Ago, Even This Year\u2019s Sell-Off Wouldn\u2019t Erase Your Gains",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/invested-1-000-nrg-energy-184715804.html",
-                "score": 0
-            },
-            {
-                "symbol": "ENPH",
-                "headline": "Enphase Energy: Q3 Earnings Snapshot",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/energy/articles/enphase-energy-q3-earnings-snapshot-183423421.html",
-                "score": 0
+                "link": "https://finance.yahoo.com/markets/stocks/article/vertiv-stock-surges-as-orders-double-amid-ai-build-out-evolving-faster-than-ever-122018206.html",
+                "score": 3
             },
             {
                 "symbol": "GOOG",
-                "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
-                "score": 0
-            },
-            {
-                "symbol": "SPCX",
-                "headline": "Elon Musk once backed Buffett\u2019s 5-minute fix for national debt: \u2018This is the way\u2019",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-once-backed-buffett-184517477.html",
-                "score": 0
-            },
-            {
-                "symbol": "SNDK",
-                "headline": "Sandisk Is Still Down 23% in the Past Month. Did Today Just Mark the Bottom for SNDK Stock?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-still-down-23-past-185752768.html",
+                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
                 "score": 0
             },
             {
                 "symbol": "MSFT",
-                "headline": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
                 "score": 0
             },
             {
-                "symbol": "AXGN",
-                "headline": "AxoGen: Q3 Earnings Snapshot",
-                "publisher": "Associated Press",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/axogen-q3-earnings-snapshot-183633107.html",
+                "symbol": "GOOGL",
+                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOW",
+                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
+                "score": 0
+            },
+            {
+                "symbol": "ORCL",
+                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
+                "score": 0
+            },
+            {
+                "symbol": "FTNT",
+                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
+                "score": 0
+            },
+            {
+                "symbol": "CMG",
+                "headline": "Chipotle stock pops on sustained sales momentum in Q3",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/stocks/article/chipotle-stock-pops-on-sustained-sales-momentum-in-q3-203209272.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRM",
+                "headline": "Can UiPath's Rising ARR Drive Sustained Growth for PATH Stock?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/technology/ai/articles/uipaths-rising-arr-drive-sustained-163000226.html",
+                "score": 0
+            },
+            {
+                "symbol": "CRWD",
+                "headline": "CrowdStrike Stocks Rise With New Legal-Sector Threat Findings",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stocks-rise-legal-sector-193853034.html",
+                "score": 0
+            },
+            {
+                "symbol": "PANW",
+                "headline": "Palo Alto Networks Stocks Move Lower With More PHP2Shell Fixes Released",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stocks-move-194106360.html",
+                "score": 0
+            },
+            {
+                "symbol": "CVNA",
+                "headline": "Carvana Profit Soars as Vehicle Sales Climb Nearly 40%",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/eb69b832-c81c-39a2-8c77-f2cc2ad1e358/carvana-profit-soars-as.html",
+                "score": 0
+            },
+            {
+                "symbol": "EBAY",
+                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMZN",
+                "headline": "How Microsoft, Coca-Cola And Amazon Are Adapting Their Offices For AI Age",
+                "publisher": "Bisnow",
+                "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-coca-cola-amazon-adapting-225816351.html",
+                "score": 0
+            },
+            {
+                "symbol": "KLAC",
+                "headline": "KLA shares jump 3% on Q1 earnings beat and upgraded guidance",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/kla-shares-jump-3-q1-204907614.html",
+                "score": 0
+            },
+            {
+                "symbol": "F",
+                "headline": "Ford CEO Sees Upsell Opportunity With $30,000 EV Truck\u2019s Hands-Free Driving Tech",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/8a456c87-df15-321f-9929-7a68c394df23/ford-ceo-sees-upsell.html",
+                "score": 0
+            },
+            {
+                "symbol": "SFM",
+                "headline": "Sprouts Farmers Market Q3 Earnings Fall, Revenue Rises; Shares Slump After Hours",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sprouts-farmers-market-q3-earnings-214706936.html",
                 "score": 0
             }
         ]
