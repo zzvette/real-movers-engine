@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-29T23:20:26.701489+00:00",
+    "timestamp": "2026-10-29T23:50:22.886412+00:00",
     "signals": {
         "catalysts": [
             {
@@ -39,9 +39,9 @@
             },
             {
                 "symbol": "RDDT",
-                "headline": "Reddit Earns More From Fewer U.S. Users: Rapid Earnings Reaction",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-earns-more-fewer-u-212303133.html",
+                "headline": "Reddit puts logged in experience first as Google AI hits traffic",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/news/reddit-posts-search-traffic-declines-200918659.html",
                 "score": 0
             },
             {
@@ -53,9 +53,9 @@
             },
             {
                 "symbol": "RIVN",
-                "headline": "Rivian Automotive (RIVN) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+                "headline": "Rivian Automotive (RIVN) Reports Q3 Loss, Beats Revenue Estimates",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-q3-earnings-213003769.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-reports-q3-220510271.html",
                 "score": 0
             },
             {
@@ -67,9 +67,9 @@
             },
             {
                 "symbol": "COIN",
-                "headline": "Ripple\u2019s RLUSD Grew 88% This Year While XRP Fell 29%. Is the Stablecoin Replacing XRP?",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/ripple-rlusd-grew-88-while-225953234.html",
+                "headline": "Galaxy\u2019s Alex Thorn Says Bitcoin Held Near $80,000 Because Hedge Funds Had Already Sold",
+                "publisher": "Unchained",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/galaxy-alex-thorn-says-bitcoin-234000703.html",
                 "score": 0
             },
             {
@@ -81,9 +81,9 @@
             },
             {
                 "symbol": "RBLX",
-                "headline": "Roblox (RBLX) Reports Q3 Earnings: What Key Metrics Have to Say",
+                "headline": "Roblox (RBLX) Reports Q3 Loss, Tops Revenue Estimates",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-reports-q3-earnings-220003129.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-reports-q3-loss-220510707.html",
                 "score": 0
             },
             {
@@ -102,9 +102,9 @@
             },
             {
                 "symbol": "MSTR",
-                "headline": "MicroStrategy Posts Record $21B Operating Income on Bitcoin Gain, but BTC-Per-Share Falls",
-                "publisher": "BeInCrypto",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-posts-record-21b-operating-215727327.html",
+                "headline": "LIVE: MicroStrategy Q3 2026 earnings call",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/live-microstrategy-q3-2026-earnings-232225227.html",
                 "score": 0
             },
             {
@@ -116,9 +116,9 @@
             },
             {
                 "symbol": "PINS",
-                "headline": "Here's What Key Metrics Tell Us About Pinterest (PINS) Q3 Earnings",
+                "headline": "Pinterest (PINS) Misses Q3 Earnings and Revenue Estimates",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-220003020.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-misses-q3-earnings-220510622.html",
                 "score": 0
             },
             {
