@@ -1,68 +1,96 @@
 {
-    "timestamp": "2026-10-29T19:19:21.696131+00:00",
+    "timestamp": "2026-10-29T23:20:26.701489+00:00",
     "signals": {
         "catalysts": [
             {
                 "symbol": "ADT",
-                "headline": "ADT stock surges to 5-year high after Thrive Holdings agrees to $7.6 billion buyout deal",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/adt-stock-surges-to-5-year-high-after-thrive-holdings-agrees-to-76-billion-buyout-deal-190630046.html",
-                "score": 7
+                "headline": "ADT agrees to $7.6 billion buyout; more offers possible",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/adt-agrees-7-6-billion-212946818.html",
+                "score": 2
             },
             {
-                "symbol": "GKOS",
-                "headline": "Glaukos Shares Rise After Q3 Beat, Guidance Raised",
-                "publisher": "MT Newswires",
-                "link": "https://finance.yahoo.com/healthcare/articles/glaukos-shares-rise-q3-beat-190341171.html",
-                "score": 3
-            },
-            {
-                "symbol": "TDOC",
-                "headline": "Teladoc Soars 11% on Q3 Beat and Raised Outlook as \u201cInsurance Revenue Exceeded Our Expectations\u201d",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/healthcare/articles/teladoc-soars-11-q3-beat-190059015.html",
-                "score": 3
-            },
-            {
-                "symbol": "GOOG",
-                "headline": "Alphabet's Cloud Business Just Doubled. The Stock Fell 12%. Is it a Buy?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabets-cloud-business-just-doubled-190902996.html",
-                "score": 0
-            },
-            {
-                "symbol": "NOW",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as Alphabet stock sell-off drags on tech, AI jitters return",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
-                "score": 0
-            },
-            {
-                "symbol": "GOOGL",
-                "headline": "Alphabet's Cloud Business Just Doubled. The Stock Fell 12%. Is it a Buy?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/alphabets-cloud-business-just-doubled-190902996.html",
-                "score": 0
+                "symbol": "DELL",
+                "headline": "The Dealmaking 3: Texas Bevo Lab AI, Elastic & Audi F1, JOOLA in Pickleball Ratings",
+                "publisher": "CorpGov.com",
+                "link": "https://finance.yahoo.com/technology/ai/articles/dealmaking-3-texas-bevo-lab-221200371.html",
+                "score": 2
             },
             {
                 "symbol": "AMZN",
-                "headline": "Amazon earnings live: AI growth takes center stage",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/live/amazon-earnings-live-ai-growth-takes-center-stage-173000277.html",
+                "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
                 "score": 0
             },
             {
-                "symbol": "MRVL",
-                "headline": "Why Marvell Stock Is Down Today",
+                "symbol": "INTC",
+                "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "SNDK",
+                "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "RDDT",
+                "headline": "Reddit Earns More From Fewer U.S. Users: Rapid Earnings Reaction",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-down-today-190602606.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-earns-more-fewer-u-212303133.html",
                 "score": 0
             },
             {
-                "symbol": "LLY",
-                "headline": "What Is Behind Liquidia's Lead Over Its Industry?",
-                "publisher": "Trefis",
-                "link": "https://finance.yahoo.com/healthcare/articles/behind-liquidias-lead-over-industry-184248115.html",
+                "symbol": "CAT",
+                "headline": "Caterpillar Inc. Q3 2026 Earnings Call Summary",
+                "publisher": "Moby",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-inc-q3-2026-earnings-214136588.html",
+                "score": 0
+            },
+            {
+                "symbol": "RIVN",
+                "headline": "Rivian Automotive (RIVN) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-q3-earnings-213003769.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "First Google Search, Now Amazon Retail. Tech\u2019s Moneymakers Are Stumbling.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/bb88d801-1531-35c7-b240-1916a90d4301/first-google-search%2C-now.html",
+                "score": 0
+            },
+            {
+                "symbol": "COIN",
+                "headline": "Ripple\u2019s RLUSD Grew 88% This Year While XRP Fell 29%. Is the Stablecoin Replacing XRP?",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/ripple-rlusd-grew-88-while-225953234.html",
+                "score": 0
+            },
+            {
+                "symbol": "SBUX",
+                "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "RBLX",
+                "headline": "Roblox (RBLX) Reports Q3 Earnings: What Key Metrics Have to Say",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-reports-q3-earnings-220003129.html",
+                "score": 0
+            },
+            {
+                "symbol": "TWLO",
+                "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
                 "score": 0
             },
             {
@@ -73,45 +101,38 @@
                 "score": 0
             },
             {
-                "symbol": "IOVA",
-                "headline": "These 2 Stocks Have Skyrocketed in 2026. Here\u2019s Why I\u2019d Stay Away",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-skyrocketed-2026-why-175401297.html",
+                "symbol": "MSTR",
+                "headline": "MicroStrategy Posts Record $21B Operating Income on Bitcoin Gain, but BTC-Per-Share Falls",
+                "publisher": "BeInCrypto",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-posts-record-21b-operating-215727327.html",
                 "score": 0
             },
             {
-                "symbol": "ALNY",
-                "headline": "ALNY Stock Hits Fresh 52-Week Low On Medicare Access Worries And Pipeline Delays",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/healthcare/articles/alny-stock-hits-fresh-52-182626210.html",
+                "symbol": "CROX",
+                "headline": "Crocs Inc (CROX) (Q3 2026) Earnings Call Highlights: Record Q3 Revenue, HEYDUDE's Return to ...",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-inc-crox-q3-2026-211006752.html",
                 "score": 0
             },
             {
                 "symbol": "PINS",
-                "headline": "35% Upside for Pinterest? KeyBanc Thinks So, and Here\u2019s How",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/35-upside-pinterest-keybanc-thinks-173308230.html",
+                "headline": "Here's What Key Metrics Tell Us About Pinterest (PINS) Q3 Earnings",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-220003020.html",
                 "score": 0
             },
             {
-                "symbol": "MPT",
-                "headline": "Medical Properties Trust Sinks 13% as FFO Misses and Tenant Troubles \u201cPrecluded Payment of September Rent\u201d",
-                "publisher": "TIKR",
-                "link": "https://finance.yahoo.com/healthcare/articles/medical-properties-trust-sinks-13-184835714.html",
+                "symbol": "LLY",
+                "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
                 "score": 0
             },
             {
-                "symbol": "RDDT",
-                "headline": "Wife Earns $40K, Gets \u2018Really Upset\u2019 When Asked To Pay 30% Of Family Bills After Her Spouse Covered 100% For 11 Years",
-                "publisher": "Benzinga",
-                "link": "https://finance.yahoo.com/small-business/articles/wife-earns-40k-gets-really-154520630.html",
-                "score": 0
-            },
-            {
-                "symbol": "MSFT",
-                "headline": "Stock market today: Dow, S&P 500, Nasdaq fall as Alphabet stock sell-off drags on tech, AI jitters return",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+                "symbol": "IOVA",
+                "headline": "Illumina (ILMN) Q3 Earnings Beat Estimates",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/healthcare/articles/illumina-ilmn-q3-earnings-beat-203504737.html",
                 "score": 0
             }
         ]
