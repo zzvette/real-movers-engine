@@ -1,145 +1,145 @@
 {
-    "timestamp": "2026-10-28T23:54:28.683982+00:00",
+    "timestamp": "2026-10-29T04:36:47.637151+00:00",
     "signals": {
         "catalysts": [
             {
+                "symbol": "LITE",
+                "headline": "Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-reportedly-advanced-011050785.html",
+                "score": 2
+            },
+            {
+                "symbol": "MRVL",
+                "headline": "Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-reportedly-advanced-011050785.html",
+                "score": 2
+            },
+            {
                 "symbol": "GOOG",
-                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
+                "headline": "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loom",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-fall-alphabet-samsung-043113035.html",
                 "score": 0
             },
             {
                 "symbol": "MSFT",
-                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "headline": "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loom",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-fall-alphabet-samsung-043113035.html",
+                "score": 0
+            },
+            {
+                "symbol": "NOW",
+                "headline": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
                 "score": 0
             },
             {
                 "symbol": "GOOGL",
-                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
-                "score": 0
-            },
-            {
-                "symbol": "NOW",
-                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
+                "headline": "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loom",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-fall-alphabet-samsung-043113035.html",
                 "score": 0
             },
             {
                 "symbol": "ORCL",
-                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "headline": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
                 "score": 0
             },
             {
-                "symbol": "LITE",
-                "headline": "Marvell Wants Lumentum. Here\u2019s Why Coherent Could Win.",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/marvell-wants-lumentum-why-coherent-234427778.html",
-                "score": 0
-            },
-            {
-                "symbol": "MRVL",
-                "headline": "Marvell Wants Lumentum. Here\u2019s Why Coherent Could Win.",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/marvell-wants-lumentum-why-coherent-234427778.html",
+                "symbol": "NQ=F",
+                "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
                 "score": 0
             },
             {
                 "symbol": "FTNT",
-                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "headline": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
                 "score": 0
             },
             {
                 "symbol": "CMG",
-                "headline": "Chipotle stock pops on sustained sales momentum in Q3",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/stocks/article/chipotle-stock-pops-on-sustained-sales-momentum-in-q3-203209272.html",
+                "headline": "CMG Stock Rises Overnight: CEO Calls Chipotle A 'Category Leader' After Strong Q3 Revenue, Retail Agrees",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/cmg-stock-rises-overnight-ceo-041942850.html",
                 "score": 0
             },
             {
-                "symbol": "CRM",
-                "headline": "Can UiPath's Rising ARR Drive Sustained Growth for PATH Stock?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/technology/ai/articles/uipaths-rising-arr-drive-sustained-163000226.html",
-                "score": 0
-            },
-            {
-                "symbol": "CRWD",
-                "headline": "CrowdStrike Stocks Rise With New Legal-Sector Threat Findings",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stocks-rise-legal-sector-193853034.html",
+                "symbol": "IOVA",
+                "headline": "Why Did IOVA Stock Jump Over 10% After-Hours Today?",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-iova-stock-jump-005722220.html",
                 "score": 0
             },
             {
                 "symbol": "PANW",
-                "headline": "Palo Alto Networks Stocks Move Lower With More PHP2Shell Fixes Released",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stocks-move-194106360.html",
+                "headline": "Palo Alto Networks (PANW) Stock May Be Fully Priced After Its 379% Run",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-stock-021353779.html",
                 "score": 0
             },
             {
-                "symbol": "VRT",
-                "headline": "Vertiv Holdings Co (VRT) (Q3 2026) Earnings Call Highlights: 61% Sales Surge, 100%+ Organic ...",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-q3-230817499.html",
+                "symbol": "CRM",
+                "headline": "MITTI LABS & SALESFORCE PARTNER TO SCALE WATER-SAVING RICE FARMING PRACTICES THAT REDUCE METHANE EMISSIONS",
+                "publisher": "PR Newswire",
+                "link": "https://finance.yahoo.com/energy/articles/mitti-labs-salesforce-partner-scale-033000347.html",
                 "score": 0
             },
             {
-                "symbol": "CVNA",
-                "headline": "Carvana Profit Soars as Vehicle Sales Climb Nearly 40%",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/eb69b832-c81c-39a2-8c77-f2cc2ad1e358/carvana-profit-soars-as.html",
-                "score": 0
-            },
-            {
-                "symbol": "EBAY",
-                "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMZN",
-                "headline": "How Microsoft, Coca-Cola And Amazon Are Adapting Their Offices For AI Age",
-                "publisher": "Bisnow",
-                "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-coca-cola-amazon-adapting-225816351.html",
-                "score": 0
-            },
-            {
-                "symbol": "KLAC",
-                "headline": "KLA shares jump 3% on Q1 earnings beat and upgraded guidance",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/kla-shares-jump-3-q1-204907614.html",
-                "score": 0
-            },
-            {
-                "symbol": "F",
-                "headline": "Ford CEO Sees Upsell Opportunity With $30,000 EV Truck\u2019s Hands-Free Driving Tech",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/8a456c87-df15-321f-9929-7a68c394df23/ford-ceo-sees-upsell.html",
+                "symbol": "CRWD",
+                "headline": "CrowdStrike (CRWD) Stock Looks Overvalued On Its 5x Three Year Run",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-looks-overvalued-001653356.html",
                 "score": 0
             },
             {
                 "symbol": "SFM",
-                "headline": "Sprouts Stock Plunges After Earnings Miss. Consumers Are Visiting the Grocer Less Often.",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/b92b5882-97f7-3d47-9c89-06889dfdd3af/sprouts-stock-plunges-after.html",
+                "headline": "Sprouts plans nationwide grocery price changes, adds 1,400 products",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/small-business/articles/sprouts-plans-nationwide-grocery-price-035132766.html",
                 "score": 0
             },
             {
-                "symbol": "COHR",
-                "headline": "Marvell Wants Lumentum. Here\u2019s Why Coherent Could Win.",
-                "publisher": "24/7 Wall St.",
-                "link": "https://finance.yahoo.com/technology/ai/articles/marvell-wants-lumentum-why-coherent-234427778.html",
+                "symbol": "WEN",
+                "headline": "WEN Stock Heads For Best Week Since June: Wendy's To Assess Peltz's $1.4B Bid, Retail Expects 'More Offers To Come'",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/wen-stock-heads-best-week-015623216.html",
+                "score": 0
+            },
+            {
+                "symbol": "QQQ",
+                "headline": "Fed Just Paused, But Prediction Markets Aren't Buying It\u2014Polymarket Sees 82% December Hike Odds",
+                "publisher": "Benzinga Prediction Markets",
+                "link": "https://finance.yahoo.com/news/fed-holds-rates-two-officials-183144303.html",
+                "score": 0
+            },
+            {
+                "symbol": "CVNA",
+                "headline": "What Carvana (CVNA) Said on Its Q3 Earnings Call",
+                "publisher": "MarketBeat",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/carvana-cvna-said-q3-earnings-020404452.html",
+                "score": 0
+            },
+            {
+                "symbol": "VRT",
+                "headline": "Why Vertiv Stock Soared Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-stock-soared-today-022751857.html",
+                "score": 0
+            },
+            {
+                "symbol": "LLY",
+                "headline": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html",
                 "score": 0
             }
         ]
