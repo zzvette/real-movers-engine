@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-30T03:01:26.126336+00:00",
+    "timestamp": "2026-10-30T04:36:31.411567+00:00",
     "signals": {
         "catalysts": [
             {
@@ -18,23 +18,16 @@
             },
             {
                 "symbol": "AMZN",
-                "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
+                "headline": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
+                "publisher": "Investing.com",
+                "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-tumble-ai-spending-040615318.html",
                 "score": 0
             },
             {
                 "symbol": "INTC",
-                "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "SNDK",
-                "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
+                "headline": "Intel stock plunges 20% as chipmaker warns of tough year ahead",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-plunges-20-chipmaker-041551406.html",
                 "score": 0
             },
             {
@@ -45,10 +38,10 @@
                 "score": 0
             },
             {
-                "symbol": "NQ=F",
-                "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+                "symbol": "SNDK",
+                "headline": "SNDK Tumbles Amid Tech Selloff Despite Upbeat Q1 Report; Retail Turns Bullish",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/sndk-tumbles-amid-tech-selloff-030548881.html",
                 "score": 0
             },
             {
@@ -59,27 +52,6 @@
                 "score": 0
             },
             {
-                "symbol": "QQQ",
-                "headline": "ETF League Tables: Invesco Inflows Surge",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-invesco-inflows-214051032.html",
-                "score": 0
-            },
-            {
-                "symbol": "NVDA",
-                "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-broadcom-recommends-024700890.html",
-                "score": 0
-            },
-            {
-                "symbol": "AMD",
-                "headline": "3 Growth Stocks To Own In October 2026",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-october-001818281.html",
-                "score": 0
-            },
-            {
                 "symbol": "RIVN",
                 "headline": "What Rivian Automotive (RIVN) Said on Its Q3 Earnings Call",
                 "publisher": "MarketBeat",
@@ -87,24 +59,10 @@
                 "score": 0
             },
             {
-                "symbol": "COIN",
-                "headline": "Binance's possible hack triggers $3 billion freeze in crypto assets",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
-                "score": 0
-            },
-            {
-                "symbol": "MSTR",
-                "headline": "Why Is MSTR Stock Falling More Than 6% Overnight?",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-mstr-stock-falling-more-012025317.html",
-                "score": 0
-            },
-            {
-                "symbol": "AAPL",
-                "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-broadcom-recommends-024700890.html",
+                "symbol": "CROX",
+                "headline": "Why Crocs Stock Skyrocketed Today",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-crocs-stock-skyrocketed-today-030544726.html",
                 "score": 0
             },
             {
@@ -115,6 +73,20 @@
                 "score": 0
             },
             {
+                "symbol": "QQQ",
+                "headline": "ETF League Tables: Invesco Inflows Surge",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-invesco-inflows-214051032.html",
+                "score": 0
+            },
+            {
+                "symbol": "COIN",
+                "headline": "Galaxy\u2019s Alex Thorn Says Bitcoin Held Near $80,000 Because Hedge Funds Had Already Sold",
+                "publisher": "Unchained",
+                "link": "https://finance.yahoo.com/markets/crypto/articles/galaxy-alex-thorn-says-bitcoin-234000703.html",
+                "score": 0
+            },
+            {
                 "symbol": "SBUX",
                 "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
                 "publisher": "Investor's Business Daily",
@@ -122,10 +94,10 @@
                 "score": 0
             },
             {
-                "symbol": "CROX",
-                "headline": "Crocs Inc (CROX) (Q3 2026) Earnings Call Highlights: Record Q3 Revenue, HEYDUDE's Return to ...",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-inc-crox-q3-2026-211006752.html",
+                "symbol": "NQ=F",
+                "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
                 "score": 0
             },
             {
@@ -133,6 +105,34 @@
                 "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
                 "publisher": "Investor's Business Daily",
                 "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMD",
+                "headline": "3 Growth Stocks To Own In October 2026",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-october-001818281.html",
+                "score": 0
+            },
+            {
+                "symbol": "NVDA",
+                "headline": "If a Stock Market Crash Is Coming, History Says Following These 6 Words From Warren Buffett Is the Smartest Move You Can Make",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-042000196.html",
+                "score": 0
+            },
+            {
+                "symbol": "DELL",
+                "headline": "HPQ, DELL Stocks Plunge After Intel Flags Prolonged PC Market Weakness",
+                "publisher": "Stocktwits",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/hpq-dell-stocks-plunge-intel-014055235.html",
+                "score": 0
+            },
+            {
+                "symbol": "AAPL",
+                "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-broadcom-recommends-024700890.html",
                 "score": 0
             }
         ]
