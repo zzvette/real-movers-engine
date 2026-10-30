@@ -1,137 +1,123 @@
 {
-    "timestamp": "2026-10-30T15:30:28.719018+00:00",
+    "timestamp": "2026-10-30T18:56:35.645636+00:00",
     "catalysts": [
         {
-            "symbol": "REGN",
-            "headline": "Regeneron Surges 13.55%: Here\u2019s What It Means for Your Health Care ETFs",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/healthcare/articles/regeneron-surges-13-55-means-151815888.html",
-            "score": 3
-        },
-        {
             "symbol": "INTC",
-            "headline": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html",
-            "score": 0
-        },
-        {
-            "symbol": "RDDT",
-            "headline": "Stock Market Today: Nasdaq Slammed As Bitcoin Crumbles On Massive Hack (Live Coverage)",
+            "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
             "publisher": "Investor's Business Daily",
             "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html",
             "score": 0
         },
         {
-            "symbol": "AMZN",
-            "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
-            "score": 0
-        },
-        {
-            "symbol": "SNDK",
-            "headline": "Why Sandisk Stock Plunged Today",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-plunged-today-151937243.html",
-            "score": 0
-        },
-        {
-            "symbol": "AMD",
-            "headline": "Trump\u2019s Commerce Department\u2019s Intel Stake Fell By More Than $10 Billion In A Day As Stock Craters",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/trump-commerce-department-intel-stake-145522434.html",
-            "score": 0
-        },
-        {
-            "symbol": "SPCX",
-            "headline": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk\u2019s High Bar.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/b5aeecce-1d32-3744-aa96-e36fea749124/tech-earnings-sink-spacex.html",
+            "symbol": "NVDA",
+            "headline": "BofA Spots Rare Opportunity Hidden in Stock Market Selloff",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-spots-rare-opportunity-hidden-182843814.html",
             "score": 0
         },
         {
             "symbol": "^IXIC",
-            "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
+            "headline": "Tech stocks crushed as Nasdaq tumbles nearly 1,000 points",
+            "publisher": "CBS News",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
             "score": 0
         },
         {
-            "symbol": "NVDA",
-            "headline": "Is Bankwell Financial Group a Buy After Its Latest Earnings Report?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bankwell-financial-group-buy-latest-152401684.html",
+            "symbol": "AMD",
+            "headline": "AMD Stocks Drop 11% With a $13 Billion Revenue Test Approaching",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-drop-11-13-181919459.html",
+            "score": 0
+        },
+        {
+            "symbol": "RDDT",
+            "headline": "Googling for Reddit answers is about to get harder",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/articles/googling-reddit-answers-harder-184700145.html",
+            "score": 0
+        },
+        {
+            "symbol": "SNDK",
+            "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html",
             "score": 0
         },
         {
             "symbol": "^GSPC",
-            "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
+            "headline": "Tech stocks crushed as Nasdaq tumbles nearly 1,000 points",
+            "publisher": "CBS News",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
             "score": 0
         },
         {
-            "symbol": "COIN",
-            "headline": "US Tiger Securities Adjusts Price Target on Coinbase Global to $230 From $250",
-            "publisher": "MT Newswires",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/us-tiger-securities-adjusts-price-151911693.html",
-            "score": 0
-        },
-        {
-            "symbol": "GC=F",
-            "headline": "Silver Slumps as Rate Fears and Demand Concerns Mount",
+            "symbol": "SPCX",
+            "headline": "SpaceX Relies on Anthropic for a Third of Its Revenue",
             "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/silver-slumps-rate-fears-demand-144157751.html",
+            "link": "https://finance.yahoo.com/technology/ai/articles/spacex-relies-anthropic-third-revenue-184410766.html",
             "score": 0
         },
         {
-            "symbol": "QQQ",
-            "headline": "This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/little-known-etf-owns-qqq-151446394.html",
-            "score": 0
-        },
-        {
-            "symbol": "RBLX",
-            "headline": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-plunges-19-daily-users-145304635.html",
-            "score": 0
-        },
-        {
-            "symbol": "QCOM",
-            "headline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-5-despite-da-145649063.html",
-            "score": 0
-        },
-        {
-            "symbol": "XOM",
-            "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOXL",
-            "headline": "Daily ETF Flows: Hefty Outflows for SOXL",
-            "publisher": "etf.com",
-            "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-hefty-outflows-214050020.html",
-            "score": 0
-        },
-        {
-            "symbol": "CVX",
-            "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
+            "symbol": "^VIX",
+            "headline": "Gold Is Not Acting Like a Safe Haven Asset\u2014These Stocks Are",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/a08bee86-3503-3a1c-84ff-13a8be12adbc/gold-is-not-acting-like-a.html",
             "score": 0
         },
         {
             "symbol": "VOO",
-            "headline": "Half of \u2018Big Money\u2019 Managers Say the AI Boom Has Years Left to Run",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/ed866a6d-9ab0-3639-93f4-3a5dadd447c3/half-of-%E2%80%98big-money%E2%80%99-managers.html",
+            "headline": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-became-one-10-biggest-170101207.html",
+            "score": 0
+        },
+        {
+            "symbol": "GC=F",
+            "headline": "Buenaventura Mining Q3 Earnings Call Highlights",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/buenaventura-mining-q3-earnings-call-181531996.html",
+            "score": 0
+        },
+        {
+            "symbol": "TSM",
+            "headline": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-slows-2027-semiconductor-175803858.html",
+            "score": 0
+        },
+        {
+            "symbol": "SMH",
+            "headline": "Intel\u2019s Earnings Fallout Is Hitting Your Index Funds Too",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-earnings-fallout-hitting-index-162111051.html",
+            "score": 0
+        },
+        {
+            "symbol": "SOXX",
+            "headline": "Tech Sector Showdown: The Trade-Off Between Tactical Concentration and Low-Cost Breadth",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-sector-showdown-trade-off-133501310.html",
+            "score": 0
+        },
+        {
+            "symbol": "VGT",
+            "headline": "Tech Sector Showdown: The Trade-Off Between Tactical Concentration and Low-Cost Breadth",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-sector-showdown-trade-off-133501310.html",
+            "score": 0
+        },
+        {
+            "symbol": "COIN",
+            "headline": "Binance hacked for record $6.3B, withdrawals suspended after \"complex attack\"",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html",
+            "score": 0
+        },
+        {
+            "symbol": "TQQQ",
+            "headline": "SOXL, TQQQ Attract Record Inflows Amid Leveraged Bets: Retail Is Bullish On One ETF's AI Future",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/soxl-tqqq-attract-record-inflows-055403876.html",
             "score": 0
         }
     ]
