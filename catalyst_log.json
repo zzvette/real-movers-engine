@@ -1,39 +1,39 @@
 {
-    "timestamp": "2026-10-30T22:43:27.927834+00:00",
+    "timestamp": "2026-10-30T23:28:49.986676+00:00",
     "catalysts": [
         {
             "symbol": "^IXIC",
-            "headline": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-30-213502210.html",
+            "headline": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/cb045e66-4bc5-37ac-a9c9-6aa145bb0e21/u.s.-stocks-slide-as-amazon%2C.html",
             "score": 0
         },
         {
             "symbol": "SPCX",
-            "headline": "Nvidia has a stake in SpaceX that came from an unexpected place",
+            "headline": "SpaceX accuses T-Mobile, other carriers of trying to harm it",
             "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stake-spacex-came-unexpected-223300497.html",
-            "score": 0
-        },
-        {
-            "symbol": "^GSPC",
-            "headline": "Was There Any Sign ADT Stock Would Run?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/sign-adt-stock-run-222559743.html",
-            "score": 0
-        },
-        {
-            "symbol": "^DJI",
-            "headline": "RH (RH) Falls More Steeply Than Broader Market: What Investors Need to Know",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rh-rh-falls-more-steeply-211502206.html",
+            "link": "https://finance.yahoo.com/technology/articles/spacex-accuses-t-mobile-other-230400511.html",
             "score": 0
         },
         {
             "symbol": "INO",
-            "headline": "INOVIO Announces FDA Accelerated Approval of VOCERYQ\u2122, an Immunotherapy to Reduce the Frequency of Surgery in Adults with Recurrent Respiratory Papillomatosis (RRP)",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/inovio-announces-fda-accelerated-approval-220100126.html",
+            "headline": "Inovio Pharmaceuticals Gets FDA Accelerated Approval for VOCERYQ",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/healthcare/articles/inovio-pharmaceuticals-gets-fda-accelerated-225300307.html",
+            "score": 0
+        },
+        {
+            "symbol": "^GSPC",
+            "headline": "What Sent FTAI Aviation Stock Higher?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sent-ftai-aviation-stock-higher-224254437.html",
+            "score": 0
+        },
+        {
+            "symbol": "^DJI",
+            "headline": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/cb045e66-4bc5-37ac-a9c9-6aa145bb0e21/u.s.-stocks-slide-as-amazon%2C.html",
             "score": 0
         },
         {
@@ -44,10 +44,10 @@
             "score": 0
         },
         {
-            "symbol": "NVDA",
-            "headline": "Nvidia has a stake in SpaceX that came from an unexpected place",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stake-spacex-came-unexpected-223300497.html",
+            "symbol": "REGN",
+            "headline": "Regeneron Bolts 13% Higher, Breaking Out To A Two-Year High On Dupixent Dominance",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/10130d32-3ffe-3110-8ce7-984fc87d885a/regeneron-bolts-13%25-higher%2C.html",
             "score": 0
         },
         {
@@ -58,13 +58,6 @@
             "score": 0
         },
         {
-            "symbol": "REGN",
-            "headline": "Regeneron Bolts 13% Higher, Breaking Out To A Two-Year High On Dupixent Dominance",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/10130d32-3ffe-3110-8ce7-984fc87d885a/regeneron-bolts-13%25-higher%2C.html",
-            "score": 0
-        },
-        {
             "symbol": "XOM",
             "headline": "Stocks to Watch Recap: Amazon, Intel, Exxon, Reddit",
             "publisher": "The Wall Street Journal",
@@ -72,10 +65,24 @@
             "score": 0
         },
         {
+            "symbol": "KMB",
+            "headline": "Okta Stock Can Find More Buyers as It Joins the S&P 500",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/9caa5bbe-db77-33ed-aec8-9298712adc25/okta-stock-can-find-more.html",
+            "score": 0
+        },
+        {
             "symbol": "SI=F",
             "headline": "Basic Materials Roundup: Market Talk",
             "publisher": "The Wall Street Journal",
             "link": "https://finance.yahoo.com/m/8280952b-4c59-37a5-8d70-e9ca7d6f969f/basic-materials-roundup%3A.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVDA",
+            "headline": "Why Bright Horizons Family Solutions Stock Swooned on Friday",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-bright-horizons-family-solutions-224024585.html",
             "score": 0
         },
         {
@@ -93,13 +100,6 @@
             "score": 0
         },
         {
-            "symbol": "XYZ",
-            "headline": "4 Software Stocks Likely to Deliver an Earnings Beat This Season",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/4-software-stocks-likely-deliver-102300253.html",
-            "score": 0
-        },
-        {
             "symbol": "PGEN",
             "headline": "PGEN Stock Craters 27% After-Hours After Rival Inovio's Rare Disease Drug Receives FDA Approval",
             "publisher": "Stocktwits",
@@ -107,24 +107,17 @@
             "score": 0
         },
         {
-            "symbol": "AZN",
-            "headline": "Health Care Roundup: Market Talk",
-            "publisher": "The Wall Street Journal",
-            "link": "https://finance.yahoo.com/m/ee46ee8b-cb85-3370-a87c-7c801e230571/health-care-roundup%3A-market.html",
+            "symbol": "NFE",
+            "headline": "New Fortress Energy Provides Business Update",
+            "publisher": "Business Wire",
+            "link": "https://finance.yahoo.com/energy/articles/fortress-energy-provides-business-203000391.html",
             "score": 0
         },
         {
-            "symbol": "GLD",
-            "headline": "Gold, Silver In Spotlight After GLD Hits 52-Week Low, SLV Sinks To 11-Month Low \u2013 Peter Brandt Sees Signs Of A Potential Bottom",
-            "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/gold-silver-spotlight-gld-hits-171058200.html",
-            "score": 0
-        },
-        {
-            "symbol": "APP",
-            "headline": "Did The Market Read AppLovin Stock Right?",
-            "publisher": "Trefis",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-applovin-stock-214117967.html",
+            "symbol": "VFIAX",
+            "headline": "5,500 ETFs and Counting: Where the Market Goes Next",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-500-etfs-counting-where-203901351.html",
             "score": 0
         },
         {
@@ -132,6 +125,20 @@
             "headline": "GPN Clocks Best Day In Over Eight Months On Reports Of CD&R-GTCR Take-Private Bid",
             "publisher": "Stocktwits",
             "link": "https://finance.yahoo.com/markets/stocks/articles/gpn-clocks-best-day-over-212822996.html",
+            "score": 0
+        },
+        {
+            "symbol": "STZ",
+            "headline": "What Just Happened To Altria Stock?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/just-happened-altria-stock-145646918.html",
+            "score": 0
+        },
+        {
+            "symbol": "APP",
+            "headline": "Did The Market Read AppLovin Stock Right?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-applovin-stock-214117967.html",
             "score": 0
         }
     ]
