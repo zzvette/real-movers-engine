@@ -1,60 +1,53 @@
 {
-    "timestamp": "2026-10-30T18:56:35.645636+00:00",
+    "timestamp": "2026-10-30T22:43:27.927834+00:00",
     "catalysts": [
         {
-            "symbol": "INTC",
-            "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html",
-            "score": 0
-        },
-        {
-            "symbol": "NVDA",
-            "headline": "BofA Spots Rare Opportunity Hidden in Stock Market Selloff",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-spots-rare-opportunity-hidden-182843814.html",
-            "score": 0
-        },
-        {
             "symbol": "^IXIC",
-            "headline": "Tech stocks crushed as Nasdaq tumbles nearly 1,000 points",
-            "publisher": "CBS News",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
-            "score": 0
-        },
-        {
-            "symbol": "AMD",
-            "headline": "AMD Stocks Drop 11% With a $13 Billion Revenue Test Approaching",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-drop-11-13-181919459.html",
-            "score": 0
-        },
-        {
-            "symbol": "RDDT",
-            "headline": "Googling for Reddit answers is about to get harder",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/technology/articles/googling-reddit-answers-harder-184700145.html",
-            "score": 0
-        },
-        {
-            "symbol": "SNDK",
-            "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html",
-            "score": 0
-        },
-        {
-            "symbol": "^GSPC",
-            "headline": "Tech stocks crushed as Nasdaq tumbles nearly 1,000 points",
-            "publisher": "CBS News",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
+            "headline": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-30-213502210.html",
             "score": 0
         },
         {
             "symbol": "SPCX",
-            "headline": "SpaceX Relies on Anthropic for a Third of Its Revenue",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/spacex-relies-anthropic-third-revenue-184410766.html",
+            "headline": "Nvidia has a stake in SpaceX that came from an unexpected place",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stake-spacex-came-unexpected-223300497.html",
+            "score": 0
+        },
+        {
+            "symbol": "^GSPC",
+            "headline": "Was There Any Sign ADT Stock Would Run?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/sign-adt-stock-run-222559743.html",
+            "score": 0
+        },
+        {
+            "symbol": "^DJI",
+            "headline": "RH (RH) Falls More Steeply Than Broader Market: What Investors Need to Know",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rh-rh-falls-more-steeply-211502206.html",
+            "score": 0
+        },
+        {
+            "symbol": "INO",
+            "headline": "INOVIO Announces FDA Accelerated Approval of VOCERYQ\u2122, an Immunotherapy to Reduce the Frequency of Surgery in Adults with Recurrent Respiratory Papillomatosis (RRP)",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/inovio-announces-fda-accelerated-approval-220100126.html",
+            "score": 0
+        },
+        {
+            "symbol": "GC=F",
+            "headline": "Basic Materials Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/8280952b-4c59-37a5-8d70-e9ca7d6f969f/basic-materials-roundup%3A.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVDA",
+            "headline": "Nvidia has a stake in SpaceX that came from an unexpected place",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stake-spacex-came-unexpected-223300497.html",
             "score": 0
         },
         {
@@ -65,59 +58,80 @@
             "score": 0
         },
         {
+            "symbol": "REGN",
+            "headline": "Regeneron Bolts 13% Higher, Breaking Out To A Two-Year High On Dupixent Dominance",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/10130d32-3ffe-3110-8ce7-984fc87d885a/regeneron-bolts-13%25-higher%2C.html",
+            "score": 0
+        },
+        {
+            "symbol": "XOM",
+            "headline": "Stocks to Watch Recap: Amazon, Intel, Exxon, Reddit",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/d33b98c2-6f58-3506-b779-e84c0c72e9a3/stocks-to-watch-recap%3A.html",
+            "score": 0
+        },
+        {
+            "symbol": "SI=F",
+            "headline": "Basic Materials Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/8280952b-4c59-37a5-8d70-e9ca7d6f969f/basic-materials-roundup%3A.html",
+            "score": 0
+        },
+        {
+            "symbol": "CVX",
+            "headline": "Chevron (CVX) Q3 2026 Earnings Call Transcript",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-q3-2026-earnings-215818053.html",
+            "score": 0
+        },
+        {
             "symbol": "VOO",
-            "headline": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/micron-became-one-10-biggest-170101207.html",
+            "headline": "5,500 ETFs and Counting: Where the Market Goes Next",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-500-etfs-counting-where-203901351.html",
             "score": 0
         },
         {
-            "symbol": "GC=F",
-            "headline": "Buenaventura Mining Q3 Earnings Call Highlights",
-            "publisher": "MarketBeat",
-            "link": "https://finance.yahoo.com/markets/commodities/articles/buenaventura-mining-q3-earnings-call-181531996.html",
+            "symbol": "XYZ",
+            "headline": "4 Software Stocks Likely to Deliver an Earnings Beat This Season",
+            "publisher": "Zacks",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/4-software-stocks-likely-deliver-102300253.html",
             "score": 0
         },
         {
-            "symbol": "TSM",
-            "headline": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-slows-2027-semiconductor-175803858.html",
-            "score": 0
-        },
-        {
-            "symbol": "SMH",
-            "headline": "Intel\u2019s Earnings Fallout Is Hitting Your Index Funds Too",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-earnings-fallout-hitting-index-162111051.html",
-            "score": 0
-        },
-        {
-            "symbol": "SOXX",
-            "headline": "Tech Sector Showdown: The Trade-Off Between Tactical Concentration and Low-Cost Breadth",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-sector-showdown-trade-off-133501310.html",
-            "score": 0
-        },
-        {
-            "symbol": "VGT",
-            "headline": "Tech Sector Showdown: The Trade-Off Between Tactical Concentration and Low-Cost Breadth",
-            "publisher": "Motley Fool",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/tech-sector-showdown-trade-off-133501310.html",
-            "score": 0
-        },
-        {
-            "symbol": "COIN",
-            "headline": "Binance hacked for record $6.3B, withdrawals suspended after \"complex attack\"",
-            "publisher": "Yahoo Finance",
-            "link": "https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html",
-            "score": 0
-        },
-        {
-            "symbol": "TQQQ",
-            "headline": "SOXL, TQQQ Attract Record Inflows Amid Leveraged Bets: Retail Is Bullish On One ETF's AI Future",
+            "symbol": "PGEN",
+            "headline": "PGEN Stock Craters 27% After-Hours After Rival Inovio's Rare Disease Drug Receives FDA Approval",
             "publisher": "Stocktwits",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/soxl-tqqq-attract-record-inflows-055403876.html",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/pgen-stock-craters-27-hours-222420610.html",
+            "score": 0
+        },
+        {
+            "symbol": "AZN",
+            "headline": "Health Care Roundup: Market Talk",
+            "publisher": "The Wall Street Journal",
+            "link": "https://finance.yahoo.com/m/ee46ee8b-cb85-3370-a87c-7c801e230571/health-care-roundup%3A-market.html",
+            "score": 0
+        },
+        {
+            "symbol": "GLD",
+            "headline": "Gold, Silver In Spotlight After GLD Hits 52-Week Low, SLV Sinks To 11-Month Low \u2013 Peter Brandt Sees Signs Of A Potential Bottom",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/commodities/articles/gold-silver-spotlight-gld-hits-171058200.html",
+            "score": 0
+        },
+        {
+            "symbol": "APP",
+            "headline": "Did The Market Read AppLovin Stock Right?",
+            "publisher": "Trefis",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-applovin-stock-214117967.html",
+            "score": 0
+        },
+        {
+            "symbol": "GPN",
+            "headline": "GPN Clocks Best Day In Over Eight Months On Reports Of CD&R-GTCR Take-Private Bid",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/gpn-clocks-best-day-over-212822996.html",
             "score": 0
         }
     ]
