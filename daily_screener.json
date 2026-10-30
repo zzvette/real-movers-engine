@@ -1,138 +1,138 @@
 {
-    "timestamp": "2026-10-30T04:36:31.411567+00:00",
+    "timestamp": "2026-10-30T15:30:28.719018+00:00",
     "signals": {
         "catalysts": [
             {
-                "symbol": "ES=F",
-                "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+                "symbol": "REGN",
+                "headline": "Regeneron Surges 13.55%: Here\u2019s What It Means for Your Health Care ETFs",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/healthcare/articles/regeneron-surges-13-55-means-151815888.html",
                 "score": 3
             },
             {
-                "symbol": "ADT",
-                "headline": "ADT agrees to $7.6 billion buyout; more offers possible",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/adt-agrees-7-6-billion-212946818.html",
-                "score": 2
-            },
-            {
-                "symbol": "AMZN",
-                "headline": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
-                "publisher": "Investing.com",
-                "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-tumble-ai-spending-040615318.html",
-                "score": 0
-            },
-            {
                 "symbol": "INTC",
-                "headline": "Intel stock plunges 20% as chipmaker warns of tough year ahead",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-plunges-20-chipmaker-041551406.html",
+                "headline": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html",
                 "score": 0
             },
             {
                 "symbol": "RDDT",
-                "headline": "Caught Out By Reddit's Slide? What Bears Saw",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/caught-reddits-slide-bears-saw-010907537.html",
+                "headline": "Stock Market Today: Nasdaq Slammed As Bitcoin Crumbles On Massive Hack (Live Coverage)",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html",
+                "score": 0
+            },
+            {
+                "symbol": "AMZN",
+                "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
                 "score": 0
             },
             {
                 "symbol": "SNDK",
-                "headline": "SNDK Tumbles Amid Tech Selloff Despite Upbeat Q1 Report; Retail Turns Bullish",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/sndk-tumbles-amid-tech-selloff-030548881.html",
-                "score": 0
-            },
-            {
-                "symbol": "CAT",
-                "headline": "Caterpillar Inc. Q3 2026 Earnings Call Summary",
-                "publisher": "Moby",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-inc-q3-2026-earnings-214136588.html",
-                "score": 0
-            },
-            {
-                "symbol": "RIVN",
-                "headline": "What Rivian Automotive (RIVN) Said on Its Q3 Earnings Call",
-                "publisher": "MarketBeat",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-said-q3-011406782.html",
-                "score": 0
-            },
-            {
-                "symbol": "CROX",
-                "headline": "Why Crocs Stock Skyrocketed Today",
+                "headline": "Why Sandisk Stock Plunged Today",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/why-crocs-stock-skyrocketed-today-030544726.html",
-                "score": 0
-            },
-            {
-                "symbol": "RBLX",
-                "headline": "Roblox (RBLX) Reports Q3 Loss, Tops Revenue Estimates",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-reports-q3-loss-220510707.html",
-                "score": 0
-            },
-            {
-                "symbol": "QQQ",
-                "headline": "ETF League Tables: Invesco Inflows Surge",
-                "publisher": "etf.com",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-invesco-inflows-214051032.html",
-                "score": 0
-            },
-            {
-                "symbol": "COIN",
-                "headline": "Galaxy\u2019s Alex Thorn Says Bitcoin Held Near $80,000 Because Hedge Funds Had Already Sold",
-                "publisher": "Unchained",
-                "link": "https://finance.yahoo.com/markets/crypto/articles/galaxy-alex-thorn-says-bitcoin-234000703.html",
-                "score": 0
-            },
-            {
-                "symbol": "SBUX",
-                "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
-                "score": 0
-            },
-            {
-                "symbol": "NQ=F",
-                "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
-                "score": 0
-            },
-            {
-                "symbol": "TWLO",
-                "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-plunged-today-151937243.html",
                 "score": 0
             },
             {
                 "symbol": "AMD",
-                "headline": "3 Growth Stocks To Own In October 2026",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-october-001818281.html",
+                "headline": "Trump\u2019s Commerce Department\u2019s Intel Stake Fell By More Than $10 Billion In A Day As Stock Craters",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/trump-commerce-department-intel-stake-145522434.html",
+                "score": 0
+            },
+            {
+                "symbol": "SPCX",
+                "headline": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk\u2019s High Bar.",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/b5aeecce-1d32-3744-aa96-e36fea749124/tech-earnings-sink-spacex.html",
+                "score": 0
+            },
+            {
+                "symbol": "^IXIC",
+                "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
                 "score": 0
             },
             {
                 "symbol": "NVDA",
-                "headline": "If a Stock Market Crash Is Coming, History Says Following These 6 Words From Warren Buffett Is the Smartest Move You Can Make",
+                "headline": "Is Bankwell Financial Group a Buy After Its Latest Earnings Report?",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-042000196.html",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/bankwell-financial-group-buy-latest-152401684.html",
                 "score": 0
             },
             {
-                "symbol": "DELL",
-                "headline": "HPQ, DELL Stocks Plunge After Intel Flags Prolonged PC Market Weakness",
-                "publisher": "Stocktwits",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/hpq-dell-stocks-plunge-intel-014055235.html",
+                "symbol": "^GSPC",
+                "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
                 "score": 0
             },
             {
-                "symbol": "AAPL",
-                "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
-                "publisher": "TheStreet",
-                "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-broadcom-recommends-024700890.html",
+                "symbol": "COIN",
+                "headline": "US Tiger Securities Adjusts Price Target on Coinbase Global to $230 From $250",
+                "publisher": "MT Newswires",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/us-tiger-securities-adjusts-price-151911693.html",
+                "score": 0
+            },
+            {
+                "symbol": "GC=F",
+                "headline": "Silver Slumps as Rate Fears and Demand Concerns Mount",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/markets/commodities/articles/silver-slumps-rate-fears-demand-144157751.html",
+                "score": 0
+            },
+            {
+                "symbol": "QQQ",
+                "headline": "This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/little-known-etf-owns-qqq-151446394.html",
+                "score": 0
+            },
+            {
+                "symbol": "RBLX",
+                "headline": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-plunges-19-daily-users-145304635.html",
+                "score": 0
+            },
+            {
+                "symbol": "QCOM",
+                "headline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
+                "publisher": "24/7 Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-5-despite-da-145649063.html",
+                "score": 0
+            },
+            {
+                "symbol": "XOM",
+                "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
+                "score": 0
+            },
+            {
+                "symbol": "SOXL",
+                "headline": "Daily ETF Flows: Hefty Outflows for SOXL",
+                "publisher": "etf.com",
+                "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-hefty-outflows-214050020.html",
+                "score": 0
+            },
+            {
+                "symbol": "CVX",
+                "headline": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
+                "score": 0
+            },
+            {
+                "symbol": "VOO",
+                "headline": "Half of \u2018Big Money\u2019 Managers Say the AI Boom Has Years Left to Run",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/ed866a6d-9ab0-3639-93f4-3a5dadd447c3/half-of-%E2%80%98big-money%E2%80%99-managers.html",
                 "score": 0
             }
         ]
