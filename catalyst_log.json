@@ -1,6 +1,13 @@
 {
-    "timestamp": "2026-10-29T23:50:22.886412+00:00",
+    "timestamp": "2026-10-30T03:01:26.126336+00:00",
     "catalysts": [
+        {
+            "symbol": "ES=F",
+            "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+            "score": 3
+        },
         {
             "symbol": "ADT",
             "headline": "ADT agrees to $7.6 billion buyout; more offers possible",
@@ -9,38 +16,38 @@
             "score": 2
         },
         {
-            "symbol": "DELL",
-            "headline": "The Dealmaking 3: Texas Bevo Lab AI, Elastic & Audi F1, JOOLA in Pickleball Ratings",
-            "publisher": "CorpGov.com",
-            "link": "https://finance.yahoo.com/technology/ai/articles/dealmaking-3-texas-bevo-lab-221200371.html",
-            "score": 2
-        },
-        {
             "symbol": "AMZN",
-            "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+            "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
             "score": 0
         },
         {
             "symbol": "INTC",
-            "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+            "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
             "score": 0
         },
         {
             "symbol": "SNDK",
-            "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+            "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
             "score": 0
         },
         {
             "symbol": "RDDT",
-            "headline": "Reddit puts logged in experience first as Google AI hits traffic",
-            "publisher": "Reuters",
-            "link": "https://finance.yahoo.com/news/reddit-posts-search-traffic-declines-200918659.html",
+            "headline": "Caught Out By Reddit's Slide? What Bears Saw",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/caught-reddits-slide-bears-saw-010907537.html",
+            "score": 0
+        },
+        {
+            "symbol": "NQ=F",
+            "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
             "score": 0
         },
         {
@@ -51,31 +58,52 @@
             "score": 0
         },
         {
-            "symbol": "RIVN",
-            "headline": "Rivian Automotive (RIVN) Reports Q3 Loss, Beats Revenue Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-reports-q3-220510271.html",
+            "symbol": "QQQ",
+            "headline": "ETF League Tables: Invesco Inflows Surge",
+            "publisher": "etf.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-invesco-inflows-214051032.html",
+            "score": 0
+        },
+        {
+            "symbol": "NVDA",
+            "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-broadcom-recommends-024700890.html",
             "score": 0
         },
         {
             "symbol": "AMD",
-            "headline": "First Google Search, Now Amazon Retail. Tech\u2019s Moneymakers Are Stumbling.",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/bb88d801-1531-35c7-b240-1916a90d4301/first-google-search%2C-now.html",
+            "headline": "3 Growth Stocks To Own In October 2026",
+            "publisher": "Simply Wall St.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-october-001818281.html",
+            "score": 0
+        },
+        {
+            "symbol": "RIVN",
+            "headline": "What Rivian Automotive (RIVN) Said on Its Q3 Earnings Call",
+            "publisher": "MarketBeat",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-said-q3-011406782.html",
             "score": 0
         },
         {
             "symbol": "COIN",
-            "headline": "Galaxy\u2019s Alex Thorn Says Bitcoin Held Near $80,000 Because Hedge Funds Had Already Sold",
-            "publisher": "Unchained",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/galaxy-alex-thorn-says-bitcoin-234000703.html",
+            "headline": "Binance's possible hack triggers $3 billion freeze in crypto assets",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
             "score": 0
         },
         {
-            "symbol": "SBUX",
-            "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
-            "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+            "symbol": "MSTR",
+            "headline": "Why Is MSTR Stock Falling More Than 6% Overnight?",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/why-mstr-stock-falling-more-012025317.html",
+            "score": 0
+        },
+        {
+            "symbol": "AAPL",
+            "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
+            "publisher": "TheStreet",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-broadcom-recommends-024700890.html",
             "score": 0
         },
         {
@@ -86,24 +114,10 @@
             "score": 0
         },
         {
-            "symbol": "TWLO",
-            "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+            "symbol": "SBUX",
+            "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "AAPL",
-            "headline": "Apple Stocks Rise 1.8% With a $900 MacBook Pricing Step",
-            "publisher": "GuruFocus.com",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-1-8-181300858.html",
-            "score": 0
-        },
-        {
-            "symbol": "MSTR",
-            "headline": "LIVE: MicroStrategy Q3 2026 earnings call",
-            "publisher": "TheStreet",
-            "link": "https://finance.yahoo.com/markets/crypto/articles/live-microstrategy-q3-2026-earnings-232225227.html",
+            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
             "score": 0
         },
         {
@@ -114,24 +128,10 @@
             "score": 0
         },
         {
-            "symbol": "PINS",
-            "headline": "Pinterest (PINS) Misses Q3 Earnings and Revenue Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-misses-q3-earnings-220510622.html",
-            "score": 0
-        },
-        {
-            "symbol": "LLY",
-            "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+            "symbol": "TWLO",
+            "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
             "publisher": "Investor's Business Daily",
-            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
-            "score": 0
-        },
-        {
-            "symbol": "IOVA",
-            "headline": "Illumina (ILMN) Q3 Earnings Beat Estimates",
-            "publisher": "Zacks",
-            "link": "https://finance.yahoo.com/healthcare/articles/illumina-ilmn-q3-earnings-beat-203504737.html",
+            "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html",
             "score": 0
         }
     ]
